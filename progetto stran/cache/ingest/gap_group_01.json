@@ -1,0 +1,96 @@
+{
+  "group": 1,
+  "of": "batches of 10",
+  "candidates": [
+    {
+      "n": "1",
+      "name": "CFTC COT",
+      "project": "pftui / OpenBB",
+      "url": "https://publicreporting.cftc.gov/resource/6dca-aqww.json",
+      "section": "API",
+      "note": "Commitment of Traders \u2014 NOT in live yet",
+      "missing": true
+    },
+    {
+      "n": "2",
+      "name": "Electricity Maps free",
+      "project": "electricitymaps",
+      "url": "https://api.electricitymap.org/v3/ (key) OR open carbon intensity proxies",
+      "section": "API",
+      "note": "Grid intensity by zone \u2014 adapter_off today",
+      "missing": false
+    },
+    {
+      "n": "3",
+      "name": "GridStatus ISO feeds",
+      "project": "gridstatus",
+      "url": "https://www.gridstatus.io/ / CAISO/ERCOT open endpoints via gridstatus lib",
+      "section": "PIPE",
+      "note": "US ISO prices/load \u2014 module adapter_off",
+      "missing": false
+    },
+    {
+      "n": "4",
+      "name": "Global Fishing Watch",
+      "project": "gfw",
+      "url": "https://gateway.api.globalfishingwatch.org/ (key)",
+      "section": "API",
+      "note": "Fishing vessel AIS \u2014 ref only, no harvest",
+      "missing": true
+    },
+    {
+      "n": "5",
+      "name": "Open-Meteo multi-city",
+      "project": "WM/energy",
+      "url": "https://api.open-meteo.com/v1/forecast (expand beyond London/Houston)",
+      "section": "API",
+      "note": "Only 2 cities live \u2014 expand hubs",
+      "missing": true
+    },
+    {
+      "n": "6",
+      "name": "NOAA Space Weather",
+      "project": "WM natural",
+      "url": "https://services.swpc.noaa.gov/json/",
+      "section": "API",
+      "note": "Kp/solar alerts \u2014 not in live_streams",
+      "missing": true
+    },
+    {
+      "n": "7",
+      "name": "OpenSanctions entities dump",
+      "project": "opensanctions",
+      "url": "https://data.opensanctions.org/datasets/latest/default/entities.ftm.json",
+      "section": "SER",
+      "note": "Only dataset index today \u2014 no entity pulse",
+      "missing": true
+    },
+    {
+      "n": "8",
+      "name": "Herbie / GFS weather",
+      "project": "herbie",
+      "url": "NOAA GFS via Herbie or nomads OpenDAP",
+      "section": "PIPE",
+      "note": "adapter_off \u2014 weather model grids",
+      "missing": false
+    },
+    {
+      "n": "9",
+      "name": "tar1090 / ADS-B local",
+      "project": "tar1090",
+      "url": "http://localhost/tar1090/data/aircraft.json OR adsb.lol",
+      "section": "API",
+      "note": "Military ADS-B density \u2014 no feed yet",
+      "missing": false
+    },
+    {
+      "n": "10",
+      "name": "JODI Oil world",
+      "project": "WM China/energy",
+      "url": "https://www.jodidata.org/ / API mirrors",
+      "section": "SER",
+      "note": "Oil monthly balances \u2014 not harvested",
+      "missing": true
+    }
+  ]
+}

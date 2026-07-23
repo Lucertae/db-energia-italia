@@ -1,0 +1,86 @@
+================================================================================
+METADATI — Our World in Data — estratti Italia
+================================================================================
+Aggiornato: 2026-07-23
+Path:       db/owid-italia/
+Volume:     21.1 MB   |   file dati catalogati: 382
+
+--------------------------------------------------------------------------------
+1. DESCRIZIONE
+--------------------------------------------------------------------------------
+Dataset OWID filtrati Italia: energia, CO₂, povertà, COVID, catalogo scansione.
+
+--------------------------------------------------------------------------------
+2. REFRESH
+--------------------------------------------------------------------------------
+python db/owid-italia/scripts/harvest_all.py
+
+--------------------------------------------------------------------------------
+3. DATASET (cosa / quanto / copertura)
+--------------------------------------------------------------------------------
+[energy_data]  status=ok
+  path:    sources/energy-data
+  cosa:    Energy data Italy
+  geo:     IT
+  tempo:   1990–2025   |  granularità: annuale
+  quanto:  126 righe (file campione), 4 file, 9.9 MB
+  unità:   mix energia
+  fonte:   OWID  |  licenza: CC-BY
+
+[co2_data]  status=ok
+  path:    sources/co2-data
+  cosa:    CO₂ Italy
+  geo:     IT
+  tempo:   1990–2024   |  granularità: annuale
+  quanto:  175 righe (file campione), 3 file, 766.4 KB
+  unità:   tCO2
+  fonte:   OWID  |  licenza: CC-BY
+
+[poverty_data]  status=ok
+  path:    sources/poverty-data
+  cosa:    Poverty/PIP Italy
+  geo:     IT
+  tempo:   1991–2018   |  granularità: annuale
+  quanto:  48 righe (file campione), 4 file, 7.9 MB
+  unità:   % / indici
+  fonte:   OWID/PIP  |  licenza: CC-BY
+
+[covid]  status=ok
+  path:    sources/covid-19-data
+  cosa:    COVID-19 Italy
+  geo:     IT
+  tempo:   2020–2024   |  granularità: giornaliero/annuale
+  quanto:  1677 righe (file campione), 2 file, 611.9 KB
+  unità:   —
+  fonte:   OWID  |  licenza: CC-BY
+
+[energy_use_products]  status=ok
+  path:    sources/energy-use-products
+  cosa:    Energy use by product
+  geo:     IT
+  tempo:   n/d   |  granularità: annuale
+  quanto:  4 file, 38.1 KB
+  unità:   —
+  fonte:   OWID  |  licenza: CC-BY
+
+[owid_datasets_scan]  status=ok
+  path:    sources/owid-datasets
+  cosa:    Scansione catalogo OWID + subset italy/
+  geo:     IT/world
+  tempo:   1990–2017   |  granularità: snapshot
+  quanto:  57 righe (file campione), 365 file, 1.9 MB
+  unità:   dataset
+  fonte:   OWID  |  licenza: CC-BY
+
+--------------------------------------------------------------------------------
+4. CATALOGO MACHINE-READABLE
+--------------------------------------------------------------------------------
+Vedi catalog.csv nello stesso folder (rigenerate con:
+  python db/scripts/build_metadata_catalogs.py
+
+--------------------------------------------------------------------------------
+5. LICENZE
+--------------------------------------------------------------------------------
+OWID CC-BY (verificare dataset singoli).
+
+================================================================================

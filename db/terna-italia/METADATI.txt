@@ -1,0 +1,169 @@
+================================================================================
+METADATI — Terna Italia (vista dedicata)
+================================================================================
+Aggiornato: 2026-07-23
+Path:       db/terna-italia/
+Volume:     75.4 MB   |   file dati catalogati: 11
+
+--------------------------------------------------------------------------------
+1. DESCRIZIONE
+--------------------------------------------------------------------------------
+Pacchetto dedicato alle serie Terna: load, IMCEI, settori, capacità. I path sotto sources/ puntano (symlink) ai dati in consumi-italia/sources/terna.
+
+INCOMPLETO rispetto allo scope pieno Terna: mancano ancora i PDF e i dati semantici su incidenti di rete, stato della rete e avanzamento / sviluppo della rete (piani, cantieri, opere). Da aggiungere in cartelle dedicate (es. sources/pdf/, sources/incidenti/, sources/stato_rete/, sources/avanzamento_rete/).
+
+--------------------------------------------------------------------------------
+2. REFRESH
+--------------------------------------------------------------------------------
+python db/terna-italia/scripts/harvest_terna_api.py
+
+--------------------------------------------------------------------------------
+3. DATASET (cosa / quanto / copertura)
+--------------------------------------------------------------------------------
+[bilanci]  status=ok
+  path:    sources/bilanci
+  cosa:    Bilanci consumi elettrici per settore
+  geo:     IT
+  tempo:   1990–2024   |  granularità: annuale
+  quanto:  18 righe (file campione), 2 file, 50.1 KB
+  unità:   GWh
+  fonte:   ISPRA/Terna  |  licenza: open
+
+[total_load]  status=ok
+  path:    sources/total_load
+  cosa:    Carico totale
+  geo:     IT
+  tempo:   2023–2026   |  granularità: orario
+  quanto:  993188 righe (file campione), 1 file, 65.6 MB
+  unità:   MW
+  fonte:   Terna API  |  licenza: Terna Developer
+
+[imcei]  status=ok
+  path:    sources/imcei
+  cosa:    IMCEI
+  geo:     IT
+  tempo:   2015–2026   |  granularità: mensile
+  quanto:  30429 righe (file campione), 1 file, 1.5 MB
+  unità:   indice
+  fonte:   Terna API  |  licenza: Terna Developer
+
+[industry_sector]  status=ok
+  path:    sources/industry_sector
+  cosa:    Industria provincia/ATECO
+  geo:     IT
+  tempo:   2015–2024   |  granularità: mensile
+  quanto:  32208 righe (file campione), 1 file, 2.9 MB
+  unità:   GWh
+  fonte:   Terna API  |  licenza: Terna Developer
+
+[services_sector]  status=ok
+  path:    sources/services_sector
+  cosa:    Servizi
+  geo:     IT
+  tempo:   2015–2024   |  granularità: mensile
+  quanto:  36648 righe (file campione), 1 file, 4.5 MB
+  unità:   GWh
+  fonte:   Terna API  |  licenza: Terna Developer
+
+[by_sector]  status=ok
+  path:    sources/electrical_energy_by_sector
+  cosa:    Per settore
+  geo:     IT
+  tempo:   2015–2024   |  granularità: mensile
+  quanto:  4304 righe (file campione), 1 file, 194.2 KB
+  unità:   GWh
+  fonte:   Terna API  |  licenza: Terna Developer
+
+[by_type]  status=ok
+  path:    sources/electrical_energy_by_type
+  cosa:    Per tipologia
+  geo:     IT
+  tempo:   2015–2024   |  granularità: mensile
+  quanto:  600 righe (file campione), 1 file, 28.1 KB
+  unità:   GWh
+  fonte:   Terna API  |  licenza: Terna Developer
+
+[in_italy]  status=ok
+  path:    sources/electrical_energy_in_italy
+  cosa:    Serie nazionali
+  geo:     IT
+  tempo:   2015–2023   |  granularità: mensile
+  quanto:  108 righe (file campione), 1 file, 1.8 KB
+  unità:   GWh
+  fonte:   Terna API  |  licenza: Terna Developer
+
+[installed_capacity]  status=ok
+  path:    sources/installed_capacity
+  cosa:    Capacità installata
+  geo:     IT
+  tempo:   2021–2022   |  granularità: mensile
+  quanto:  10 righe (file campione), 1 file, 243 B
+  unità:   MW
+  fonte:   Terna API  |  licenza: Terna Developer
+
+[res_capacity]  status=ok
+  path:    sources/renewable_source_capacity
+  cosa:    Capacità FER
+  geo:     IT
+  tempo:   2015–2024   |  granularità: mensile
+  quanto:  11044 righe (file campione), 1 file, 521.8 KB
+  unità:   MW
+  fonte:   Terna API  |  licenza: Terna Developer
+
+[pdf_documenti]  status=planned
+  path:    sources/pdf
+  cosa:    PDF Terna (report, piani, comunicati) — DA POPOLARE
+  geo:     IT
+  tempo:   n/d   |  granularità: documentale
+  quanto:  0 file, 0 B
+  unità:   PDF
+  fonte:   Terna  |  licenza: termini Terna
+
+[incidenti_rete]  status=planned
+  path:    sources/incidenti
+  cosa:    Incidenti / eventi di rete (dati semantici) — DA POPOLARE
+  geo:     IT
+  tempo:   n/d   |  granularità: evento
+  quanto:  0 file, 0 B
+  unità:   eventi, MW, durata
+  fonte:   Terna  |  licenza: termini Terna
+
+[stato_rete]  status=planned
+  path:    sources/stato_rete
+  cosa:    Stato della rete (asset, congestioni, indisponibilità) — DA POPOLARE
+  geo:     IT
+  tempo:   n/d   |  granularità: snapshot/serie
+  quanto:  0 file, 0 B
+  unità:   stato asset / MW
+  fonte:   Terna  |  licenza: termini Terna
+
+[avanzamento_rete]  status=planned
+  path:    sources/avanzamento_rete
+  cosa:    Avanzamento / sviluppo rete (piani, cantieri, opere) — DA POPOLARE
+  geo:     IT
+  tempo:   n/d   |  granularità: progetto/milestone
+  quanto:  0 file, 0 B
+  unità:   opere, stato avanzamento
+  fonte:   Terna  |  licenza: termini Terna
+
+--------------------------------------------------------------------------------
+4. CATALOGO MACHINE-READABLE
+--------------------------------------------------------------------------------
+Vedi catalog.csv nello stesso folder (rigenerate con:
+  python db/scripts/build_metadata_catalogs.py
+
+--------------------------------------------------------------------------------
+5. LICENZE
+--------------------------------------------------------------------------------
+Terna Developer Portal / open data collegati.
+
+--------------------------------------------------------------------------------
+6. BUCHI NOTI
+--------------------------------------------------------------------------------
+DA FARE — PDF e dati semantici Terna ancora assenti:
+  • incidenti di rete (report/eventi, cause, impatto)
+  • stato della rete (asset, congestioni, indisponibilità, manutenzioni)
+  • avanzamento / sviluppo rete (piani di sviluppo, cantieri, opere, milestone)
+Inoltre: total-load 2021–22 può fallire per Developer Over Rate (403).
+
+================================================================================

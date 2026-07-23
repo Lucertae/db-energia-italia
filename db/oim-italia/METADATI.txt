@@ -1,0 +1,60 @@
+================================================================================
+METADATI — Open Infrastructure Map Italia
+================================================================================
+Aggiornato: 2026-07-23
+Path:       db/oim-italia/
+Volume:     3.03 GB   |   file dati catalogati: 9
+
+--------------------------------------------------------------------------------
+1. DESCRIZIONE
+--------------------------------------------------------------------------------
+Geometrie infrastrutturali OSM classificate con legenda OpenInfraMap (elettrico, generazione, gas, …) in PostGIS + export offline.
+
+--------------------------------------------------------------------------------
+2. REFRESH
+--------------------------------------------------------------------------------
+docker compose -f db/oim-italia/docker-compose.yml up -d postgis
+python db/oim-italia/scripts/build_italia.py
+
+--------------------------------------------------------------------------------
+3. DATASET (cosa / quanto / copertura)
+--------------------------------------------------------------------------------
+[export_gpkg]  status=ok
+  path:    export
+  cosa:    Export offline: GPKG, CSV feature/node/edge, stats
+  geo:     IT
+  tempo:   n/d   |  granularità: snapshot
+  quanto:  74735 righe (file campione), 7 file, 818.9 MB
+  unità:   geometrie
+  fonte:   OSM via OIM  |  licenza: ODbL
+
+[pbf_data]  status=optional
+  path:    data
+  cosa:    Input/aree lavoro PBF (se presenti)
+  geo:     IT
+  tempo:   n/d   |  granularità: snapshot
+  quanto:  1 file, 2.21 GB
+  unità:   —
+  fonte:   Geofabrik OSM  |  licenza: ODbL
+
+[legend]  status=ok
+  path:    filtri-legenda-completa.json
+  cosa:    Legenda categorie/voci OIM
+  geo:     —
+  tempo:   n/d   |  granularità: statico
+  quanto:  1 file, 26.6 KB
+  unità:   10 cat / 75 voci
+  fonte:   OpenInfraMap  |  licenza: open
+
+--------------------------------------------------------------------------------
+4. CATALOGO MACHINE-READABLE
+--------------------------------------------------------------------------------
+Vedi catalog.csv nello stesso folder (rigenerate con:
+  python db/scripts/build_metadata_catalogs.py
+
+--------------------------------------------------------------------------------
+5. LICENZE
+--------------------------------------------------------------------------------
+OSM ODbL — attribuire OpenStreetMap contributors.
+
+================================================================================

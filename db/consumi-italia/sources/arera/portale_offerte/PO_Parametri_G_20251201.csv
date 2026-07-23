@@ -1,0 +1,97 @@
+nome_parametro,valore,descrizione
+cpr,0.000000,Cpr
+grad,0.000000,GRAD
+gs,0.003907,Bonus gas. Per consumi annui <= 200.000 Smc
+iva_f1,0.100000,IVA
+iva_f2,0.100000,IVA
+iva_f3,0.220000,IVA
+iva_f4,0.220000,IVA
+iva_ui,0.220000,IVA
+qt,0.090533,"Trasporto (QT) con PCS 0,03852 GJ/Smc"
+qvd_f_d,57.430000,Quota Vendita al Dettaglio (parte fissa) DOMESTICO
+qvd_f_nd,57.430000,Quota Vendita al Dettaglio (parte fissa) NON DOMESTICO
+qvd_v_d,0.007946,Quota Vendita al Dettaglio DOMESTICO (parte variabile)
+qvd_v_nd,0.007946,Quota Vendita al Dettaglio NON DOMESTICO (parte variabile)
+re,0.029417,Risparmio energetico (RE). Per consumi annui <= 200.000 Smc
+rs,0.001186,Qualità (RS)
+st_a1,-0.030000,"Affidamento distributori gas (ST, VR)"
+st_a2,-0.330000,"Affidamento distributori gas (ST, VR)"
+st_a3,0.000000,"Affidamento distributori gas (ST, VR)"
+st_a4,0.000000,"Affidamento distributori gas (ST, VR)"
+st_a5,-0.340000,"Affidamento distributori gas (ST, VR)"
+st_a6,0.000000,"Affidamento distributori gas (ST, VR)"
+tau1_cc1_a1,78.450000,Distribuzione (TAU1) contatore classe <G6 ambito NORD-OCCIDENTALE
+tau1_cc1_a2,67.290000,Distribuzione (TAU1) contatore classe <G6 ambito NORD-ORIENTALE
+tau1_cc1_a3,71.700000,Distribuzione (TAU1) contatore classe <G6 ambito CENTRALE
+tau1_cc1_a4,66.120000,Distribuzione (TAU1) contatore classe <G6 ambito SUD-ORIENTALE
+tau1_cc1_a5,85.090000,Distribuzione (TAU1) contatore classe <G6 ambito SUD-OCCIDENTALE
+tau1_cc1_a6,94.090000,Distribuzione (TAU1) contatore classe <G6 ambito MERIDIONALE
+tau1_cc2_a1,577.800000,Distribuzione (TAU1) contatore classe G10 - G40 ambito NORD-OCCIDENTALE
+tau1_cc2_a2,469.330000,Distribuzione (TAU1) contatore classe G10 - G40 ambito NORD-ORIENTALE
+tau1_cc2_a3,493.510000,Distribuzione (TAU1) contatore classe G10 - G40 ambito CENTRALE
+tau1_cc2_a4,467.060000,Distribuzione (TAU1) contatore classe G10 - G40 ambito SUD-ORIENTALE
+tau1_cc2_a5,641.130000,Distribuzione (TAU1) contatore classe G10 - G40 ambito SUD-OCCIDENTALE
+tau1_cc2_a6,655.080000,Distribuzione (TAU1) contatore classe G10 - G40 ambito MERIDIONALE
+tau1_cc3_a1,1126.570000,Distribuzione (TAU1) contatore classe >G6 ambito NORD-OCCIDENTALE
+tau1_cc3_a2,964.390000,Distribuzione (TAU1) contatore classe >G6 ambito NORD-ORIENTALE
+tau1_cc3_a3,1021.010000,Distribuzione (TAU1) contatore classe >G6 ambito CENTRALE
+tau1_cc3_a4,966.620000,Distribuzione (TAU1) contatore classe >G6 ambito SUD-ORIENTALE
+tau1_cc3_a5,1287.450000,Distribuzione (TAU1) contatore classe >G6 ambito SUD-OCCIDENTALE
+tau1_cc3_a6,1413.010000,Distribuzione (TAU1) contatore classe >G6 ambito MERIDIONALE
+tau3_f1_a1,0.000000,Misura (TAU3) Scaglione 1 ambito NORD-OCCIDENTALE
+tau3_f1_a2,0.000000,Misura (TAU3) Scaglione 1 ambito NORD-ORIENTALE
+tau3_f1_a3,0.000000,Misura (TAU3) Scaglione 1 ambito CENTRALE
+tau3_f1_a4,0.000000,Misura (TAU3) Scaglione 1 ambito SUD-ORIENTALE
+tau3_f1_a5,0.000000,Misura (TAU3) Scaglione 1 ambito SUD-OCCIDENTALE
+tau3_f1_a6,0.000000,Misura (TAU3) Scaglione 1 ambito MERIDIONALE
+tau3_f2_a1,0.097673,Misura (TAU3) Scaglione 2 ambito NORD-OCCIDENTALE
+tau3_f2_a2,0.072052,Misura (TAU3) Scaglione 2 ambito NORD-ORIENTALE
+tau3_f2_a3,0.099099,Misura (TAU3) Scaglione 2 ambito CENTRALE
+tau3_f2_a4,0.120203,Misura (TAU3) Scaglione 2 ambito SUD-ORIENTALE
+tau3_f2_a5,0.171530,Misura (TAU3) Scaglione 2 ambito SUD-OCCIDENTALE
+tau3_f2_a6,0.235317,Misura (TAU3) Scaglione 2 ambito MERIDIONALE
+tau3_f3_a1,0.089398,Misura (TAU3) Scaglione 3 ambito NORD-OCCIDENTALE
+tau3_f3_a2,0.065948,Misura (TAU3) Scaglione 3 ambito NORD-ORIENTALE
+tau3_f3_a3,0.090703,Misura (TAU3) Scaglione 3 ambito CENTRALE
+tau3_f3_a4,0.110019,Misura (TAU3) Scaglione 3 ambito SUD-ORIENTALE
+tau3_f3_a5,0.156998,Misura (TAU3) Scaglione 3 ambito SUD-OCCIDENTALE
+tau3_f3_a6,0.215380,Misura (TAU3) Scaglione 3 ambito MERIDIONALE
+tau3_f4_a1,0.089774,Misura (TAU3) Scaglione 4 ambito NORD-OCCIDENTALE
+tau3_f4_a2,0.066225,Misura (TAU3) Scaglione 4 ambito NORD-ORIENTALE
+tau3_f4_a3,0.091085,Misura (TAU3) Scaglione 4 ambito CENTRALE
+tau3_f4_a4,0.110482,Misura (TAU3) Scaglione 4 ambito SUD-ORIENTALE
+tau3_f4_a5,0.157658,Misura (TAU3) Scaglione 4 ambito SUD-OCCIDENTALE
+tau3_f4_a6,0.216286,Misura (TAU3) Scaglione 4 ambito MERIDIONALE
+tau3_f5_a1,0.067080,Misura (TAU3) Scaglione 5 ambito NORD-OCCIDENTALE
+tau3_f5_a2,0.049484,Misura (TAU3) Scaglione 5 ambito NORD-ORIENTALE
+tau3_f5_a3,0.068059,Misura (TAU3) Scaglione 5 ambito CENTRALE
+tau3_f5_a4,0.082553,Misura (TAU3) Scaglione 5 ambito SUD-ORIENTALE
+tau3_f5_a5,0.117803,Misura (TAU3) Scaglione 5 ambito SUD-OCCIDENTALE
+tau3_f5_a6,0.161610,Misura (TAU3) Scaglione 5 ambito MERIDIONALE
+tau3_f6_a1,0.033979,Misura (TAU3) Scaglione 6 ambito NORD-OCCIDENTALE
+tau3_f6_a2,0.025066,Misura (TAU3) Scaglione 6 ambito NORD-ORIENTALE
+tau3_f6_a3,0.034475,Misura (TAU3) Scaglione 6 ambito CENTRALE
+tau3_f6_a4,0.041816,Misura (TAU3) Scaglione 6 ambito SUD-ORIENTALE
+tau3_f6_a5,0.059672,Misura (TAU3) Scaglione 6 ambito SUD-OCCIDENTALE
+tau3_f6_a6,0.081862,Misura (TAU3) Scaglione 6 ambito MERIDIONALE
+ug1,0.034837,Perequazione (UG1)
+ug2p_d_f1,0.000000,Compensazione quota commercializzazione (UG2) UG2 Scaglione 1  DOMESTICO
+ug2p_d_f2,0.049600,Compensazione quota commercializzazione (UG2) UG2 Scaglione 2  DOMESTICO
+ug2p_d_f3,0.029300,Compensazione quota commercializzazione (UG2) UG2 Scaglione 3  DOMESTICO
+ug2p_d_f4,0.023700,Compensazione quota commercializzazione (UG2) UG2 Scaglione 4  DOMESTICO
+ug2p_d_f5,0.017000,Compensazione quota commercializzazione (UG2) UG2 Scaglione 5  DOMESTICO
+ug2p_d_f6,0.007100,Compensazione quota commercializzazione (UG2) UG2 Scaglione 6  DOMESTICO
+ug2p_nd_f1,0.000000,Compensazione quota commercializzazione (UG2) UG2 Scaglione 1 NON DOMESTICO
+ug2p_nd_f2,0.049600,Compensazione quota commercializzazione (UG2) UG2 Scaglione 2 NON DOMESTICO
+ug2p_nd_f3,0.029300,Compensazione quota commercializzazione (UG2) UG2 Scaglione 3 NON DOMESTICO
+ug2p_nd_f4,0.023700,Compensazione quota commercializzazione (UG2) UG2 Scaglione 4 NON DOMESTICO
+ug2p_nd_f5,0.017000,Compensazione quota commercializzazione (UG2) UG2 Scaglione 5 NON DOMESTICO
+ug2p_nd_f6,0.007100,Compensazione quota commercializzazione (UG2) UG2 Scaglione 6 NON DOMESTICO
+ug2s,-21.630000,UG2 (UG2'')
+ug3,0.007292,Recupero morosità (UG3)
+vr_a1,0.070000,"Affidamento distributori gas (ST, VR)"
+vr_a2,0.000000,"Affidamento distributori gas (ST, VR)"
+vr_a3,0.000000,"Affidamento distributori gas (ST, VR)"
+vr_a4,0.000000,"Affidamento distributori gas (ST, VR)"
+vr_a5,-0.480000,"Affidamento distributori gas (ST, VR)"
+vr_a6,0.000000,"Affidamento distributori gas (ST, VR)"

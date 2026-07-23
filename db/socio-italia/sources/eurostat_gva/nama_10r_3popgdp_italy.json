@@ -1,0 +1,14 @@
+{
+  "n": 25,
+  "cols": [
+    "time",
+    "time_label",
+    "geo",
+    "geo_label",
+    "unit",
+    "unit_label",
+    "freq",
+    "freq_label",
+    "OBS_VALUE"
+  ]
+}

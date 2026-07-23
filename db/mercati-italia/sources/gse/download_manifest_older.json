@@ -1,0 +1,982 @@
+[
+  {
+    "itemId": 704,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2021/conto-energia-2021-csv.zip",
+    "bytes": 8961667
+  },
+  {
+    "itemId": 704,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2021/conto-energia-2021-json.zip",
+    "bytes": 14397292
+  },
+  {
+    "itemId": 704,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2021/conto-energia-2021-xlsx-Parte1.zip",
+    "bytes": 10170341
+  },
+  {
+    "itemId": 704,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2021/conto-energia-2021-xlsx-Parte2.zip",
+    "bytes": 10703830
+  },
+  {
+    "itemId": 704,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2021/conto-energia-2021-xlsx-Parte3.zip",
+    "bytes": 6054945
+  },
+  {
+    "itemId": 704,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2021/conto-energia-2021-xml.zip",
+    "bytes": 13251766
+  },
+  {
+    "itemId": 711,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2021/cv-rilasciati-2021-csv.csv",
+    "bytes": 2542
+  },
+  {
+    "itemId": 711,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2021/cv-rilasciati-2021-json.json",
+    "bytes": 15064
+  },
+  {
+    "itemId": 711,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2021/cv-rilasciati-2021-xml.xml",
+    "bytes": 21700
+  },
+  {
+    "itemId": 711,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2021/cv-rilasciati-2021-xls.xls",
+    "bytes": 26624
+  },
+  {
+    "itemId": 716,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2021/cv-ritirari-2021-csv.csv",
+    "bytes": 795
+  },
+  {
+    "itemId": 716,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2021/cv-ritirari-2021-json.json",
+    "bytes": 15038
+  },
+  {
+    "itemId": 716,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2021/cv-ritirari-2021-xml.xml",
+    "bytes": 5634
+  },
+  {
+    "itemId": 716,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2021/cv-ritirari-2021-xls.xls",
+    "bytes": 17408
+  },
+  {
+    "itemId": 721,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2021/cb-rilasciati-2021-csv.csv",
+    "bytes": 118593
+  },
+  {
+    "itemId": 721,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2021/cb-rilasciati-2021-json.json",
+    "bytes": 15068
+  },
+  {
+    "itemId": 721,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2021/cb-rilasciati-2021-xml.xml",
+    "bytes": 1035327
+  },
+  {
+    "itemId": 721,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2021/cb-rilasciati-2021-xls.xls",
+    "bytes": 600576
+  },
+  {
+    "itemId": 726,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2021/cb-ritirari-2021-csv.csv",
+    "bytes": 37147
+  },
+  {
+    "itemId": 726,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2021/cb-ritirari-2021-json.json",
+    "bytes": 15079
+  },
+  {
+    "itemId": 726,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2021/cb-ritirari-2021-xml.xml",
+    "bytes": 316119
+  },
+  {
+    "itemId": 726,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2021/cb-ritirari-2021-xls.xls",
+    "bytes": 197120
+  },
+  {
+    "itemId": 731,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2021/tee-2021-csv.zip",
+    "bytes": 94618
+  },
+  {
+    "itemId": 731,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2021/tee-2021-json.zip",
+    "bytes": 358971
+  },
+  {
+    "itemId": 731,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2021/tee-2021-xlsx-Parte1.zip",
+    "bytes": 486165
+  },
+  {
+    "itemId": 731,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2021/tee-2021-xlsx-Parte2.zip",
+    "bytes": 277195
+  },
+  {
+    "itemId": 731,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2021/tee-2021-xlsx-Parte3.zip",
+    "bytes": 168559
+  },
+  {
+    "itemId": 731,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2021/tee-2021-xml.zip",
+    "bytes": 235381
+  },
+  {
+    "itemId": 738,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2021/conto-termico-2021-csv.zip",
+    "bytes": 1776945
+  },
+  {
+    "itemId": 738,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2021/conto-termico-2021-json.zip",
+    "bytes": 3236145
+  },
+  {
+    "itemId": 738,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2021/conto-termico-2021-xlsx-Parte1.zip",
+    "bytes": 2187204
+  },
+  {
+    "itemId": 738,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2021/conto-termico-2021-xlsx-Parte2.zip",
+    "bytes": 2370401
+  },
+  {
+    "itemId": 738,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2021/conto-termico-2021-xlsx-Parte3.zip",
+    "bytes": 1347731
+  },
+  {
+    "itemId": 738,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2021/conto-termico-2021-xml.zip",
+    "bytes": 2749911
+  },
+  {
+    "itemId": 745,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-incentivi-cip-6-92-anno-2021/cip-6-92-2021-csv.csv",
+    "bytes": 690
+  },
+  {
+    "itemId": 745,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-incentivi-cip-6-92-anno-2021/cip-6-92-2021-json.json",
+    "bytes": 15043
+  },
+  {
+    "itemId": 745,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-incentivi-cip-6-92-anno-2021/cip-6-92-2021-xml.xml",
+    "bytes": 5529
+  },
+  {
+    "itemId": 745,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-incentivi-cip-6-92-anno-2021/cip-6-92-2021-xls.xls",
+    "bytes": 17408
+  },
+  {
+    "itemId": 750,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2021/fer-elettriche-2021-csv.csv",
+    "bytes": 4453858
+  },
+  {
+    "itemId": 750,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2021/fer-elettriche-2021-json.json",
+    "bytes": 15048
+  },
+  {
+    "itemId": 750,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2021/fer-elettriche-2021-xml.xml",
+    "bytes": 39979039
+  },
+  {
+    "itemId": 755,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2021/tariffa-onnicomprensiva-2021-csv.csv",
+    "bytes": 2759479
+  },
+  {
+    "itemId": 755,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2021/tariffa-onnicomprensiva-2021-json.json",
+    "bytes": 15074
+  },
+  {
+    "itemId": 755,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2021/tariffa-onnicomprensiva-2021-xml.xml",
+    "bytes": 21801074
+  },
+  {
+    "itemId": 765,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2022/conto-energia-2022-csv.csv",
+    "bytes": 10
+  },
+  {
+    "itemId": 765,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2022/conto-energia-2022-csv.zip",
+    "bytes": 8840534
+  },
+  {
+    "itemId": 765,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2022/conto-energia-2022-json.json",
+    "bytes": 15044
+  },
+  {
+    "itemId": 765,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2022/conto-energia-2022-json.zip",
+    "bytes": 14218453
+  },
+  {
+    "itemId": 765,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2022/conto-energia-2022-xlsx-Parte1.zip",
+    "bytes": 10091716
+  },
+  {
+    "itemId": 765,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2022/conto-energia-2022-xlsx-Parte2.zip",
+    "bytes": 10638008
+  },
+  {
+    "itemId": 765,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2022/conto-energia-2022-xlsx-Parte3.zip",
+    "bytes": 6014985
+  },
+  {
+    "itemId": 765,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2022/conto-energia-2022-xml.xml",
+    "bytes": 10
+  },
+  {
+    "itemId": 765,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2022/conto-energia-2022-xml.zip",
+    "bytes": 13085757
+  },
+  {
+    "itemId": 772,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2022/cv-rilasciati-2022-csv.csv",
+    "bytes": 2554
+  },
+  {
+    "itemId": 772,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2022/cv-rilasciati-2022-json.json",
+    "bytes": 15065
+  },
+  {
+    "itemId": 772,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2022/cv-rilasciati-2022-xml.xml",
+    "bytes": 23218
+  },
+  {
+    "itemId": 772,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2022/cv-rilasciati-2022-xls.xls",
+    "bytes": 27136
+  },
+  {
+    "itemId": 777,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2022/cv-ritirari-2022-csv.csv",
+    "bytes": 1409
+  },
+  {
+    "itemId": 777,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2022/cv-ritirari-2022-json.json",
+    "bytes": 15036
+  },
+  {
+    "itemId": 777,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2022/cv-ritirari-2022-xml.xml",
+    "bytes": 11505
+  },
+  {
+    "itemId": 777,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2022/cv-ritirari-2022-xls.xls",
+    "bytes": 20992
+  },
+  {
+    "itemId": 782,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2022/cb-rilasciati-2022-csv.csv",
+    "bytes": 125994
+  },
+  {
+    "itemId": 782,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2022/cb-rilasciati-2022-json.json",
+    "bytes": 15069
+  },
+  {
+    "itemId": 782,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2022/cb-rilasciati-2022-xml.xml",
+    "bytes": 1096944
+  },
+  {
+    "itemId": 787,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2022/cb-ritirari-2022-csv.csv",
+    "bytes": 36976
+  },
+  {
+    "itemId": 787,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2022/cb-ritirari-2022-json.json",
+    "bytes": 15076
+  },
+  {
+    "itemId": 787,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2022/cb-ritirari-2022-xml.xml",
+    "bytes": 315960
+  },
+  {
+    "itemId": 787,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2022/cb-ritirari-2022-xls.xls",
+    "bytes": 198144
+  },
+  {
+    "itemId": 792,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2022/tee-2022-csv.zip",
+    "bytes": 38046
+  },
+  {
+    "itemId": 792,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2022/tee-2022-json.zip",
+    "bytes": 82854
+  },
+  {
+    "itemId": 792,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2022/tee-2022-xls.zip",
+    "bytes": 148348
+  },
+  {
+    "itemId": 792,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2022/tee-2022-xlsx-Parte1.zip",
+    "bytes": 125190
+  },
+  {
+    "itemId": 792,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2022/tee-2022-xlsx-Parte2.zip",
+    "bytes": 69903
+  },
+  {
+    "itemId": 792,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2022/tee-2022-xlsx-Parte3.zip",
+    "bytes": 49521
+  },
+  {
+    "itemId": 792,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2022/tee-2022-xml.zip",
+    "bytes": 67637
+  },
+  {
+    "itemId": 799,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2022/conto-termico-2022-csv.csv",
+    "bytes": 10
+  },
+  {
+    "itemId": 799,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2022/conto-termico-2022-csv.zip",
+    "bytes": 1294829
+  },
+  {
+    "itemId": 799,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2022/conto-termico-2022-json.json",
+    "bytes": 15046
+  },
+  {
+    "itemId": 799,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2022/conto-termico-2022-json.zip",
+    "bytes": 2370242
+  },
+  {
+    "itemId": 799,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2022/conto-termico-2022-xlsx-Parte1.zip",
+    "bytes": 1661648
+  },
+  {
+    "itemId": 799,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2022/conto-termico-2022-xlsx-Parte2.zip",
+    "bytes": 1718884
+  },
+  {
+    "itemId": 799,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2022/conto-termico-2022-xlsx-Parte3.zip",
+    "bytes": 991471
+  },
+  {
+    "itemId": 799,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2022/conto-termico-2022-xml.xml",
+    "bytes": 10
+  },
+  {
+    "itemId": 799,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2022/conto-termico-2022-xml.zip",
+    "bytes": 2016369
+  },
+  {
+    "itemId": 806,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-incentivi-cip-6-92-anno-2022/cip-6-92-2022-csv.csv",
+    "bytes": 296
+  },
+  {
+    "itemId": 806,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-incentivi-cip-6-92-anno-2022/cip-6-92-2022-json.json",
+    "bytes": 15043
+  },
+  {
+    "itemId": 806,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-incentivi-cip-6-92-anno-2022/cip-6-92-2022-xml.xml",
+    "bytes": 1380
+  },
+  {
+    "itemId": 806,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-incentivi-cip-6-92-anno-2022/cip-6-92-2022-xls.xls",
+    "bytes": 14848
+  },
+  {
+    "itemId": 811,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2022/fer-elettriche-2022-csv.csv",
+    "bytes": 4225420
+  },
+  {
+    "itemId": 811,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2022/fer-elettriche-2022-json.json",
+    "bytes": 15047
+  },
+  {
+    "itemId": 811,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2022/fer-elettriche-2022-xml.xml",
+    "bytes": 37827775
+  },
+  {
+    "itemId": 816,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2022/tariffa-onnicomprensiva-2022-csv.csv",
+    "bytes": 2505084
+  },
+  {
+    "itemId": 816,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2022/tariffa-onnicomprensiva-2022-json.json",
+    "bytes": 15074
+  },
+  {
+    "itemId": 816,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2022/tariffa-onnicomprensiva-2022-xml.xml",
+    "bytes": 19690382
+  },
+  {
+    "itemId": 826,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2022/grin-2022-csv.csv",
+    "bytes": 787487
+  },
+  {
+    "itemId": 826,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2022/grin-2022-json.json",
+    "bytes": 15008
+  },
+  {
+    "itemId": 826,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2022/grin-2022-xml.xml",
+    "bytes": 7754077
+  },
+  {
+    "itemId": 831,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2022/biocarburanti-2022-csv.csv",
+    "bytes": 2478
+  },
+  {
+    "itemId": 831,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2022/biocarburanti-2022-json.json",
+    "bytes": 15068
+  },
+  {
+    "itemId": 831,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2022/biocarburanti-2022-xml.xml",
+    "bytes": 20138
+  },
+  {
+    "itemId": 831,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2022/biocarburanti-2022-xls.xls",
+    "bytes": 26624
+  },
+  {
+    "itemId": 836,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2023/conto-energia-2023-csv.zip",
+    "bytes": 8929191
+  },
+  {
+    "itemId": 836,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2023/conto-energia-2023-json.zip",
+    "bytes": 14347988
+  },
+  {
+    "itemId": 836,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2023/conto-energia-2023-xlsx-Parte1.zip",
+    "bytes": 9873842
+  },
+  {
+    "itemId": 836,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2023/conto-energia-2023-xlsx-Parte2.zip",
+    "bytes": 10908774
+  },
+  {
+    "itemId": 836,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2023/conto-energia-2023-xlsx-Parte3.zip",
+    "bytes": 6033925
+  },
+  {
+    "itemId": 836,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2023/conto-energia-2023-xml.zip",
+    "bytes": 13205975
+  },
+  {
+    "itemId": 843,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2023/cv-rilasciati-2023-csv.csv",
+    "bytes": 1785
+  },
+  {
+    "itemId": 843,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2023/cv-rilasciati-2023-json.json",
+    "bytes": 15064
+  },
+  {
+    "itemId": 843,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2023/cv-rilasciati-2023-xml.xml",
+    "bytes": 15672
+  },
+  {
+    "itemId": 843,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2023/cv-rilasciati-2023-xls.xls",
+    "bytes": 23040
+  },
+  {
+    "itemId": 848,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2023/cv-ritirari-2023-csv.csv",
+    "bytes": 1421
+  },
+  {
+    "itemId": 848,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2023/cv-ritirari-2023-json.json",
+    "bytes": 15037
+  },
+  {
+    "itemId": 848,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2023/cv-ritirari-2023-xml.xml",
+    "bytes": 11517
+  },
+  {
+    "itemId": 848,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2023/cv-ritirari-2023-xls.xls",
+    "bytes": 20992
+  },
+  {
+    "itemId": 853,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2023/cb-rilasciati-2023-csv.csv",
+    "bytes": 145122
+  },
+  {
+    "itemId": 853,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2023/cb-rilasciati-2023-json.json",
+    "bytes": 15068
+  },
+  {
+    "itemId": 853,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2023/cb-rilasciati-2023-xml.xml",
+    "bytes": 1263660
+  },
+  {
+    "itemId": 858,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2023/cb-ritirari-2023-csv.csv",
+    "bytes": 50904
+  },
+  {
+    "itemId": 858,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2023/cb-ritirari-2023-json.json",
+    "bytes": 15078
+  },
+  {
+    "itemId": 858,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2023/cb-ritirari-2023-xml.xml",
+    "bytes": 431303
+  },
+  {
+    "itemId": 858,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2023/cb-ritirari-2023-xls.xls",
+    "bytes": 262144
+  },
+  {
+    "itemId": 863,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2023/tee-2023-csv.zip",
+    "bytes": 26816
+  },
+  {
+    "itemId": 863,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2023/tee-2023-json.zip",
+    "bytes": 52570
+  },
+  {
+    "itemId": 863,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2023/tee-2023-xlsx-Parte1.zip",
+    "bytes": 76989
+  },
+  {
+    "itemId": 863,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2023/tee-2023-xlsx-Parte2.zip",
+    "bytes": 54207
+  },
+  {
+    "itemId": 863,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2023/tee-2023-xlsx-Parte3.zip",
+    "bytes": 34699
+  },
+  {
+    "itemId": 863,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2023/tee-2023-xml.zip",
+    "bytes": 44927
+  },
+  {
+    "itemId": 870,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2023/conto-termico-2023-csv.zip",
+    "bytes": 1567014
+  },
+  {
+    "itemId": 870,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2023/conto-termico-2023-json.zip",
+    "bytes": 2892020
+  },
+  {
+    "itemId": 870,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2023/conto-termico-2023-xlsx-Parte1.zip",
+    "bytes": 1944622
+  },
+  {
+    "itemId": 870,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2023/conto-termico-2023-xlsx-Parte2.zip",
+    "bytes": 2123868
+  },
+  {
+    "itemId": 870,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2023/conto-termico-2023-xlsx-Parte3.zip",
+    "bytes": 1257578
+  },
+  {
+    "itemId": 870,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2023/conto-termico-2023-xml.zip",
+    "bytes": 2452737
+  },
+  {
+    "itemId": 882,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2023/fer-elettriche-2023-csv.csv",
+    "bytes": 4769859
+  },
+  {
+    "itemId": 882,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2023/fer-elettriche-2023-json.json",
+    "bytes": 15049
+  },
+  {
+    "itemId": 882,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2023/fer-elettriche-2023-xml.xml",
+    "bytes": 42528191
+  },
+  {
+    "itemId": 887,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2023/tariffa-onnicomprensiva-2023-csv.csv",
+    "bytes": 2522181
+  },
+  {
+    "itemId": 887,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2023/tariffa-onnicomprensiva-2023-json.json",
+    "bytes": 15074
+  },
+  {
+    "itemId": 887,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2023/tariffa-onnicomprensiva-2023-xml.xml",
+    "bytes": 19842152
+  },
+  {
+    "itemId": 897,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2023/grin-2023-csv.csv",
+    "bytes": 147705
+  },
+  {
+    "itemId": 897,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2023/grin-2023-json.json",
+    "bytes": 15008
+  },
+  {
+    "itemId": 897,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2023/grin-2023-xml.xml",
+    "bytes": 1451898
+  },
+  {
+    "itemId": 902,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2023/biocarburanti-2023-csv.csv",
+    "bytes": 1996
+  },
+  {
+    "itemId": 902,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2023/biocarburanti-2023-json.json",
+    "bytes": 15068
+  },
+  {
+    "itemId": 902,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2023/biocarburanti-2023-xml.xml",
+    "bytes": 15883
+  },
+  {
+    "itemId": 902,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2023/biocarburanti-2023-xls.xls",
+    "bytes": 24064
+  },
+  {
+    "itemId": 907,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2024/conto-energia-2024-csv.zip",
+    "bytes": 8956129
+  },
+  {
+    "itemId": 907,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2024/conto-energia-2024-json.zip",
+    "bytes": 14389972
+  },
+  {
+    "itemId": 907,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2024/conto-energia-2024-xlsx-Parte1.zip",
+    "bytes": 9871790
+  },
+  {
+    "itemId": 907,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2024/conto-energia-2024-xlsx-Parte2.zip",
+    "bytes": 10912339
+  },
+  {
+    "itemId": 907,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2024/conto-energia-2024-xlsx-Parte3.zip",
+    "bytes": 6040878
+  },
+  {
+    "itemId": 907,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2024/conto-energia-2024-xml.zip",
+    "bytes": 13245302
+  },
+  {
+    "itemId": 914,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2024/cv-rilasciati-2024-csv.csv",
+    "bytes": 674
+  },
+  {
+    "itemId": 914,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2024/cv-rilasciati-2024-json.json",
+    "bytes": 15065
+  },
+  {
+    "itemId": 914,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2024/cv-rilasciati-2024-xml.xml",
+    "bytes": 4772
+  },
+  {
+    "itemId": 914,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2024/cv-rilasciati-2024-xls.xls",
+    "bytes": 16896
+  },
+  {
+    "itemId": 919,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2024/cv-ritirari-2024-csv.csv",
+    "bytes": 495
+  },
+  {
+    "itemId": 919,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2024/cv-ritirari-2024-json.json",
+    "bytes": 15039
+  },
+  {
+    "itemId": 919,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2024/cv-ritirari-2024-xml.xml",
+    "bytes": 3085
+  },
+  {
+    "itemId": 919,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2024/cv-ritirari-2024-xls.xls",
+    "bytes": 15872
+  },
+  {
+    "itemId": 924,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2024/cb-rilasciati-2024-csv.csv",
+    "bytes": 130288
+  },
+  {
+    "itemId": 924,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2024/cb-rilasciati-2024-json.json",
+    "bytes": 15068
+  },
+  {
+    "itemId": 924,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2024/cb-rilasciati-2024-xml.xml",
+    "bytes": 1129852
+  },
+  {
+    "itemId": 929,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2024/cb-ritirari-2024-csv.csv",
+    "bytes": 51867
+  },
+  {
+    "itemId": 929,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2024/cb-ritirari-2024-json.json",
+    "bytes": 15079
+  },
+  {
+    "itemId": 929,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2024/cb-ritirari-2024-xml.xml",
+    "bytes": 439776
+  },
+  {
+    "itemId": 929,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2024/cb-ritirari-2024-xls.xls",
+    "bytes": 269312
+  },
+  {
+    "itemId": 934,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2024/tee-2024-csv.zip",
+    "bytes": 18249
+  },
+  {
+    "itemId": 934,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2024/tee-2024-json.zip",
+    "bytes": 32817
+  },
+  {
+    "itemId": 934,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2024/tee-2024-xlsx-Parte1.zip",
+    "bytes": 48832
+  },
+  {
+    "itemId": 934,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2024/tee-2024-xlsx-Parte2.zip",
+    "bytes": 34400
+  },
+  {
+    "itemId": 934,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2024/tee-2024-xlsx-Parte3.zip",
+    "bytes": 27167
+  },
+  {
+    "itemId": 934,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2024/tee-2024-xml.zip",
+    "bytes": 28837
+  },
+  {
+    "itemId": 941,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2024/conto-termico-2024-csv.zip",
+    "bytes": 1919163
+  },
+  {
+    "itemId": 941,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2024/conto-termico-2024-json.zip",
+    "bytes": 3544980
+  },
+  {
+    "itemId": 941,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2024/conto-termico-2024-xlsx-Parte1.zip",
+    "bytes": 2384060
+  },
+  {
+    "itemId": 941,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2024/conto-termico-2024-xlsx-Parte2.zip",
+    "bytes": 2601896
+  },
+  {
+    "itemId": 941,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2024/conto-termico-2024-xlsx-Parte3.zip",
+    "bytes": 1511460
+  },
+  {
+    "itemId": 941,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2024/conto-termico-2024-xml.zip",
+    "bytes": 2994730
+  },
+  {
+    "itemId": 953,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2024/fer-elettriche-2024-csv.csv",
+    "bytes": 5310290
+  },
+  {
+    "itemId": 953,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2024/fer-elettriche-2024-json.json",
+    "bytes": 15047
+  },
+  {
+    "itemId": 953,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2024/fer-elettriche-2024-xml.xml",
+    "bytes": 47275052
+  },
+  {
+    "itemId": 958,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2024/tariffa-onnicomprensiva-2024-csv.csv",
+    "bytes": 2361786
+  },
+  {
+    "itemId": 958,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2024/tariffa-onnicomprensiva-2024-json.json",
+    "bytes": 15076
+  },
+  {
+    "itemId": 958,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2024/tariffa-onnicomprensiva-2024-xml.xml",
+    "bytes": 18543476
+  },
+  {
+    "itemId": 968,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2024/grin-2024-csv.csv",
+    "bytes": 484644
+  },
+  {
+    "itemId": 968,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2024/grin-2024-json.json",
+    "bytes": 15008
+  },
+  {
+    "itemId": 968,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2024/grin-2024-xml.xml",
+    "bytes": 4793752
+  },
+  {
+    "itemId": 1213,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2018/biometano-2018-csv.csv",
+    "bytes": 466
+  },
+  {
+    "itemId": 1213,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2018/biometano-2018-json.json",
+    "bytes": 15018
+  },
+  {
+    "itemId": 1213,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2018/biometano-2018-xml.xml",
+    "bytes": 3052
+  },
+  {
+    "itemId": 1213,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2018/biometano-2018-xls.xls",
+    "bytes": 15872
+  },
+  {
+    "itemId": 1224,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2021/grin-2021-csv.csv",
+    "bytes": 811136
+  },
+  {
+    "itemId": 1224,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2021/grin-2021-json.json",
+    "bytes": 15008
+  },
+  {
+    "itemId": 1224,
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2021/grin-2021-xml.xml",
+    "bytes": 7965496
+  }
+]

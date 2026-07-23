@@ -1,0 +1,81 @@
+time,time_label,geo,geo_label,unit,unit_label,vehicle,vehicle_label,freq,freq_label,OBS_VALUE
+2008,2008,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,6.0
+2009,2009,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,5.6
+2010,2010,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,6.1
+2011,2011,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,6.6
+2012,2012,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,7.4
+2013,2013,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,7.0
+2014,2014,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,7.1
+2015,2015,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,7.1
+2016,2016,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,7.2
+2017,2017,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,7.4
+2018,2018,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,8.2
+2019,2019,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,8.5
+2020,2020,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,4.0
+2021,2021,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,4.9
+2022,2022,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,9.0
+2023,2023,IT,Italy,PC,Percentage,AC,Aircraft,A,Annual,9.7
+2008,2008,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,11.6
+2009,2009,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,11.0
+2010,2010,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,11.9
+2011,2011,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,12.3
+2012,2012,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,13.6
+2013,2013,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,13.0
+2014,2014,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,12.0
+2015,2015,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,11.4
+2016,2016,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,11.0
+2017,2017,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,10.5
+2018,2018,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,10.7
+2019,2019,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,10.6
+2020,2020,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,10.4
+2021,2021,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,10.7
+2022,2022,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,10.9
+2023,2023,IT,Italy,PC,Percentage,BUS_TOT,"Motor coaches, buses and trolley buses",A,Annual,9.0
+2008,2008,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,76.3
+2009,2009,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,77.7
+2010,2010,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,76.3
+2011,2011,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,75.4
+2012,2012,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,72.7
+2013,2013,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,73.8
+2014,2014,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,74.8
+2015,2015,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,75.3
+2016,2016,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,75.8
+2017,2017,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,76.2
+2018,2018,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,75.0
+2019,2019,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,74.7
+2020,2020,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,81.3
+2021,2021,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,80.2
+2022,2022,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,73.9
+2023,2023,IT,Italy,PC,Percentage,CAR,Passenger cars,A,Annual,74.7
+2008,2008,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.5
+2009,2009,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.6
+2010,2010,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.5
+2011,2011,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.4
+2012,2012,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.4
+2013,2013,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.4
+2014,2014,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.4
+2015,2015,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.4
+2016,2016,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.4
+2017,2017,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.4
+2018,2018,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.4
+2019,2019,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.4
+2020,2020,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.4
+2021,2021,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.4
+2022,2022,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.5
+2023,2023,IT,Italy,PC,Percentage,SEAV,Seagoing vessels,A,Annual,0.6
+2008,2008,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.6
+2009,2009,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.2
+2010,2010,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.2
+2011,2011,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.3
+2012,2012,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.9
+2013,2013,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.8
+2014,2014,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.8
+2015,2015,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.8
+2016,2016,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.6
+2017,2017,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.4
+2018,2018,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.8
+2019,2019,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.8
+2020,2020,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,3.9
+2021,2021,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,3.8
+2022,2022,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,5.7
+2023,2023,IT,Italy,PC,Percentage,TRN,Trains,A,Annual,6.1

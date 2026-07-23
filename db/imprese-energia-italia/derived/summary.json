@@ -1,0 +1,239 @@
+{
+  "arera_operatori_total_rows": 31984,
+  "arera_operatori_unique_piva": 31984,
+  "arera_energy_related_rows": 30751,
+  "arera_energy_related_unique_piva": 30751,
+  "arera_venditori_elettrico_rows": 734,
+  "arera_venditori_gas_rows": 634,
+  "top_settori_tags": [
+    [
+      "a) produzione dell'energia elettrica",
+      25695
+    ],
+    [
+      "Attività diverse - attività non riconducibili ai settori dell'energia elettrica",
+      9365
+    ],
+    [
+      "del gas",
+      9365
+    ],
+    [
+      "idrico",
+      9365
+    ],
+    [
+      "teleriscaldamento e rifiuti",
+      9364
+    ],
+    [
+      "Gestione tariffe e rapporto con gli utenti",
+      6874
+    ],
+    [
+      "Spazzamento e lavaggio delle strade",
+      2567
+    ],
+    [
+      "R",
+      2567
+    ],
+    [
+      "Attività diverse - Ente territorialmente competente: laddove l'Ente di governo dell'Ambito non sia costituito ed operativo",
+      2563
+    ],
+    [
+      "è la Regione o la Provincia autonoma o altri enti competenti",
+      2563
+    ],
+    [
+      "ai sensi dell'art. 1 del MTR - delib. ARERA 443",
+      2563
+    ],
+    [
+      "2019",
+      2563
+    ],
+    [
+      "RIF - (settore rifiuti)",
+      2563
+    ],
+    [
+      "Fognatura - Nera e mista",
+      1604
+    ],
+    [
+      "Acquedotto - Distribuzione",
+      1523
+    ],
+    [
+      "Acquedotto - Misura",
+      1372
+    ],
+    [
+      "Depurazione - Depurazione",
+      1256
+    ],
+    [
+      "Acquedotto - Captazione",
+      1255
+    ],
+    [
+      "Acquedotto - Adduzione",
+      1255
+    ],
+    [
+      "Acquedotto - Potabilizzazione",
+      1222
+    ],
+    [
+      "Raccolta e trasporto dei rifiuti urbani",
+      1157
+    ],
+    [
+      "Fognatura - Bianca",
+      1025
+    ],
+    [
+      "i) vendita ai clienti liberi dell'energia elettrica",
+      734
+    ],
+    [
+      "t) vendita di gas naturale ai clienti finali a condizioni di libero mercato",
+      632
+    ],
+    [
+      "f) acquisto e vendita all'ingrosso dell'energia elettrica",
+      588
+    ],
+    [
+      "Trattamento e recupero dei rifiuti urbani",
+      580
+    ],
+    [
+      "r) acquisto e vendita all'ingrosso del gas naturale",
+      523
+    ],
+    [
+      "Attività diverse - gestione",
+      431
+    ],
+    [
+      "Trattamento e smaltimento dei rifiuti urbani",
+      383
+    ],
+    [
+      "Altre attività idriche - Riscossione",
+      305
+    ],
+    [
+      "Produzione di energia termica",
+      226
+    ],
+    [
+      "manutenzione e sviluppo di infrastrutture semaforiche e di illuminazione pubblica",
+      223
+    ],
+    [
+      "esercizio",
+      208
+    ],
+    [
+      "Altre attività idriche - Attività idriche diverse",
+      202
+    ],
+    [
+      "manutenzione",
+      200
+    ],
+    [
+      "e sviluppo di impianti cimiteriali",
+      199
+    ],
+    [
+      "Distribuzione di energia termica",
+      198
+    ],
+    [
+      "q) misura del gas naturale",
+      193
+    ],
+    [
+      "Acquisto e vendita di energia termica",
+      191
+    ],
+    [
+      "p) distribuzione del gas naturale",
+      180
+    ],
+    [
+      "e) misura dell'energia elettrica",
+      173
+    ],
+    [
+      "Misura di energia termica",
+      171
+    ],
+    [
+      "Fognatura - Misura",
+      168
+    ],
+    [
+      "s) vendita di gas naturale ai clienti finali nel servizio di tutela della vulnerabilità e servizi di ultima istanza",
+      130
+    ],
+    [
+      "d) distribuzione dell'energia elettrica",
+      111
+    ],
+    [
+      "h) vendita di energia elettrica ai clienti finali in maggior tutela",
+      99
+    ],
+    [
+      "j) attività elettriche estere",
+      93
+    ],
+    [
+      "Attività diverse - servizi prestati ad altre imprese ed enti",
+      89
+    ],
+    [
+      "inclusi quelli prestati ad imprese rientranti nei settori del gas naturale e dell'energia elettrica (comma 26.2",
+      89
+    ],
+    [
+      "lettera b) TIU)",
+      89
+    ]
+  ],
+  "energy_by_regione_guess": {
+    "ND": 27641,
+    "BOLZANO": 1670,
+    "EMILIA": 441,
+    "VENETO": 312,
+    "SARDEGNA": 122,
+    "CALABRIA": 118,
+    "MARCHE": 82,
+    "LAZIO": 65,
+    "PIEMONTE": 61,
+    "FRIULI": 50,
+    "LOMBARDIA": 39,
+    "PUGLIA": 32,
+    "SICILIA": 28,
+    "ALTO ADIGE": 19,
+    "UMBRIA": 17,
+    "TOSCANA": 16,
+    "CAMPANIA": 10,
+    "ABRUZZO": 8,
+    "LIGURIA": 7,
+    "MOLISE": 6,
+    "BASILICATA": 5,
+    "VALLE D'AOSTA": 1,
+    "TRENTINO": 1
+  },
+  "sources": {
+    "arera_operatori": "operatori-export-22_07_2026_09_00_09.xlsx",
+    "note": "ARERA anagrafiche = operatori regolati energia/ambiente/acqua; non e Registro Imprese ATECO completo"
+  }
+}

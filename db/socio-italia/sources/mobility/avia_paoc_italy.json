@@ -1,0 +1,20 @@
+{
+  "n": 98747,
+  "cols": [
+    "time",
+    "time_label",
+    "geo",
+    "geo_label",
+    "schedule",
+    "schedule_label",
+    "tra_cov",
+    "tra_cov_label",
+    "tra_meas",
+    "tra_meas_label",
+    "unit",
+    "unit_label",
+    "freq",
+    "freq_label",
+    "OBS_VALUE"
+  ]
+}

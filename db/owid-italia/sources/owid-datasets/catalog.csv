@@ -1,0 +1,767 @@
+dataset,source_csv,has_italy,rows,country_col,status,out
+20th century deaths in US - CDC,20th century deaths in US - CDC.csv,False,0,Entity,ok,
+A Century of Work and Leisure - Ramey and Francis (2009),A Century of Work and Leisure - Ramey and Francis (2009).csv,False,0,Entity,ok,
+Absolute deaths from ambient PM2.5 air pollution- State of Global Air,Absolute deaths from ambient PM2.5 air pollution- State of Global Air.csv,True,6,Entity,ok,sources/owid-datasets/italy/Absolute_deaths_from_ambient_PM2_5_air_pollution-_State_of_Global_Air_6dd40b16.csv
+Absolute population change - OWID based on HYDE & UN,Absolute population change - OWID based on HYDE & UN.csv,False,0,Entity,ok,
+Access to financial account or services (%) - World Bank (2014),Access to financial account or services (%) - World Bank (2014).csv,False,0,,read_fail: No columns to parse from file,
+Adult literacy proficiency - World Bank EdStats and STEP Skills Measurement Program,Adult literacy proficiency - World Bank EdStats and STEP Skills Measurement Program.csv,True,1,Entity,ok,sources/owid-datasets/italy/Adult_literacy_proficiency_-_World_Bank_EdStats_and_STEP_Skills_Measurement_Program_b87d44cf.csv
+Adult obesity by region - FAO (2017),Adult obesity by region - FAO (2017).csv,False,0,Entity,ok,
+"Agricultural policy support - (Agrimonitor, 2017)","Agricultural policy support - (Agrimonitor, 2017).csv",False,0,Entity,ok,
+Agricultural total factor productivity (USDA),Agricultural total factor productivity (USDA).csv,True,59,Entity,ok,sources/owid-datasets/italy/Agricultural_total_factor_productivity_USDA_13d513ed.csv
+Air Pollutant Emissions - OECD,Air Pollutant Emissions - OECD.csv,True,26,Entity,ok,sources/owid-datasets/italy/Air_Pollutant_Emissions_-_OECD_f00a2fb7.csv
+Air pollution by city - Fouquet and DPCC (2011),Air pollution by city - Fouquet and DPCC (2011).csv,False,0,Entity,ok,
+"Air pollution emissions by fuel (CEDS, 2022)","Air pollution emissions by fuel (CEDS, 2022).csv",True,270,Entity,ok,sources/owid-datasets/italy/Air_pollution_emissions_by_fuel_CEDS_2022_c999eb07.csv
+"Air pollution emissions by fuel per capita (CEDS, 2022)","Air pollution emissions by fuel per capita (CEDS, 2022).csv",True,225,Entity,ok,sources/owid-datasets/italy/Air_pollution_emissions_by_fuel_per_capita_CEDS_2022_d41fb5f4.csv
+Air pollution sources in the UK - DEFRA,Air pollution sources in the UK - DEFRA.csv,False,0,Entity,ok,
+"Air travel trips per capita (Airbus, 2019)","Air travel trips per capita (Airbus, 2019).csv",True,2,Entity,ok,sources/owid-datasets/italy/Air_travel_trips_per_capita_Airbus_2019_594374a4.csv
+Airline hijacking - Aviation Safety Network,Airline hijacking - Aviation Safety Network.csv,False,0,Entity,ok,
+"Alcohol consumption by type since 1890 (Alexander & Holmes, 2017)","Alcohol consumption by type since 1890 (Alexander & Holmes, 2017).csv",True,5,Entity,ok,sources/owid-datasets/italy/Alcohol_consumption_by_type_since_1890_Alexander_Holmes_2017_755aefce.csv
+Alcohol consumption in USA since 1850 — NIAAA,Alcohol consumption in USA since 1850 — NIAAA.csv,False,0,Entity,ok,
+"Alcohol consumption since 1890 (Alexander & Holmes, 2017)","Alcohol consumption since 1890 (Alexander & Holmes, 2017).csv",True,8,Entity,ok,sources/owid-datasets/italy/Alcohol_consumption_since_1890_Alexander_Holmes_2017_ea6c4f1a.csv
+"Alcohol expenditure in the USA long-term (USDA, 2018)","Alcohol expenditure in the USA long-term (USDA, 2018).csv",False,0,Entity,ok,
+"Annual share of CO2 emissions (OWID based on GCP, 2017)","Annual share of CO2 emissions (OWID based on GCP, 2017).csv",True,266,Entity,ok,sources/owid-datasets/italy/Annual_share_of_CO2_emissions_OWID_based_on_GCP_2017_d384ce02.csv
+Annual world population growth rate - OWID,Annual world population growth rate - OWID.csv,False,0,Entity,ok,
+Antibiotic use in livestock - European Commission & Van Boeckel et al.,Antibiotic use in livestock - European Commission & Van Boeckel et al..csv,True,6,Entity,ok,sources/owid-datasets/italy/Antibiotic_use_in_livestock_-_European_Commission_Van_Boeckel_et_al_b5bb9f42.csv
+Antibiotic use in livestock 2030 - Boeckel et al. (2017),Antibiotic use in livestock 2030 - Boeckel et al. (2017).csv,False,0,Entity,ok,
+"Arable land per crop output (PIN) (FAO, 2019)","Arable land per crop output (PIN) (FAO, 2019).csv",True,54,Entity,ok,sources/owid-datasets/italy/Arable_land_per_crop_output_PIN_FAO_2019_ba4b8e98.csv
+Archaeological land use (Stephens et al. 2019),Archaeological land use (Stephens et al. 2019).csv,False,0,Entity,ok,
+Armed forces personnel as a share of the total population (OWID based on World Bank),Armed forces personnel as a share of the total population (OWID based on World Bank).csv,True,57,Entity,ok,sources/owid-datasets/italy/Armed_forces_personnel_as_a_share_of_the_total_population_OWID_based_on_World_Bank_42538f4e.csv
+Attainable yields (Mueller et al. 2012),Attainable yields (Mueller et al. 2012).csv,True,58,Entity,ok,sources/owid-datasets/italy/Attainable_yields_Mueller_et_al_2012_27bf17c7.csv
+Attitudes to Vaccines - Wellcome Trust (2019),Attitudes to Vaccines - Wellcome Trust (2019).csv,True,1,Entity,ok,sources/owid-datasets/italy/Attitudes_to_Vaccines_-_Wellcome_Trust_2019_e35f7c5b.csv
+"Average harmonised learning outcome score (2005-2015) - Altinok, Angrist, and Patrinos (2018)","Average harmonised learning outcome score (2005-2015) - Altinok, Angrist, and Patrinos (2018).csv",True,1,Entity,ok,sources/owid-datasets/italy/Average_harmonised_learning_outcome_score_2005-2015_-_Altinok_Angrist_and_Patrinos_2018_c017d50c.csv
+"Aviation accidents and fatalities by flight phase (ASN, 2019)","Aviation accidents and fatalities by flight phase (ASN, 2019).csv",False,0,Entity,ok,
+Aviation passenger kilometres and CO2 emissions (ICCT),Aviation passenger kilometres and CO2 emissions (ICCT).csv,True,1,Entity,ok,sources/owid-datasets/italy/Aviation_passenger_kilometres_and_CO2_emissions_ICCT_a1f67b69.csv
+Basic reading and maths skills - World Development Report (2018),Basic reading and maths skills - World Development Report (2018).csv,False,0,Entity,ok,
+Biodiversity habitat loss (Williams et al. 2021),Biodiversity habitat loss (Williams et al. 2021).csv,True,1,Entity,ok,sources/owid-datasets/italy/Biodiversity_habitat_loss_Williams_et_al_2021_d8167468.csv
+"Biological and chemical weapons proliferation – OWID based on Arms Control Association (2022), Nucle","Biological and chemical weapons proliferation – OWID based on Arms Control Association (2022), Nucle.csv",True,1,Entity,ok,sources/owid-datasets/italy/Biological_and_chemical_weapons_proliferation_OWID_based_on_Arms_Control_Association_2022_Nucle_6524d1bc.csv
+Biomass and taxa abundance (Bar-On et al. 2018),Biomass and taxa abundance (Bar-On et al. 2018).csv,False,0,Entity,ok,
+Births outside of marriage,Births outside of marriage.csv,True,54,Entity,ok,sources/owid-datasets/italy/Births_outside_of_marriage_a3898191.csv
+Books - Buringh and Van Zanden (2009),Books - Buringh and Van Zanden (2009).csv,True,17,Entity,ok,sources/owid-datasets/italy/Books_-_Buringh_and_Van_Zanden_2009_be8f5980.csv
+Bourguignon and Morrison (2002) and World Bank (PovcalNet) (2015),Bourguignon and Morrison (2002) and World Bank (PovcalNet) (2015).csv,False,0,Entity,ok,
+"CFC-11 expected and measured concentrations (Montzka et al., 2018)","CFC-11 expected and measured concentrations (Montzka et al., 2018).csv",False,0,,read_fail: No columns to parse from file,
+"CFC-11 expected and measured rate of change (Montzka et al., 2018)","CFC-11 expected and measured rate of change (Montzka et al., 2018).csv",False,0,,read_fail: No columns to parse from file,
+CO2 Footprint Breakdown Per Capita - Goodall (2011),CO2 Footprint Breakdown Per Capita - Goodall (2011).csv,False,0,Entity,ok,
+CO2 emission factors - IPCC (2006),CO2 emission factors - IPCC (2006).csv,False,0,,read_fail: No columns to parse from file,
+CO2 emissions by city - C40 Cities (2018),CO2 emissions by city - C40 Cities (2018).csv,False,0,Entity,ok,
+"CO2 emissions by sector (CAIT, 2020)","CO2 emissions by sector (CAIT, 2020).csv",True,27,Entity,ok,sources/owid-datasets/italy/CO2_emissions_by_sector_CAIT_2020_af62b0e3.csv
+"CO2 emissions by sector (CAIT, 2021)","CO2 emissions by sector (CAIT, 2021).csv",True,29,Entity,ok,sources/owid-datasets/italy/CO2_emissions_by_sector_CAIT_2021_78c5a7ed.csv
+CO2 emissions by source - CDIAC (2016),CO2 emissions by source - CDIAC (2016).csv,True,154,Entity,ok,sources/owid-datasets/italy/CO2_emissions_by_source_-_CDIAC_2016_847116d3.csv
+CO2 emissions in trade as % production - Global Carbon Project (2014),CO2 emissions in trade as % production - Global Carbon Project (2014).csv,True,25,Entity,ok,sources/owid-datasets/italy/CO2_emissions_in_trade_as_production_-_Global_Carbon_Project_2014_b64f500e.csv
+CO2 from cement - CDIAC (2017),CO2 from cement - CDIAC (2017).csv,False,0,Entity,ok,
+CO2 from flaring - CDIAC (2017),CO2 from flaring - CDIAC (2017).csv,False,0,Entity,ok,
+CO2 from gas - CDIAC (2017),CO2 from gas - CDIAC (2017).csv,False,0,Entity,ok,
+CO2 from liquid - CDIAC (2017),CO2 from liquid - CDIAC (2017).csv,False,0,Entity,ok,
+CO2 from solid fuel - CDIAC (2017),CO2 from solid fuel - CDIAC (2017).csv,False,0,Entity,ok,
+CO2 intensity of transport by mode (UK BEIS),CO2 intensity of transport by mode (UK BEIS).csv,False,0,Entity,ok,
+"CO2 mitigation curves for 1.5C (Andrews & GCP, 2019)","CO2 mitigation curves for 1.5C (Andrews & GCP, 2019).csv",False,0,Entity,ok,
+"CO2 mitigation curves for 2C (Andrews & GCP, 2019)","CO2 mitigation curves for 2C (Andrews & GCP, 2019).csv",False,0,Entity,ok,
+CO2 per year by region - CDIAC (2017),CO2 per year by region - CDIAC (2017).csv,False,0,Entity,ok,
+CO2-GDP Coupling - OWID based on World Bank,CO2-GDP Coupling - OWID based on World Bank.csv,True,26,Entity,ok,sources/owid-datasets/italy/CO2-GDP_Coupling_-_OWID_based_on_World_Bank_0597e298.csv
+COVID Government Response (OxBSG),COVID Government Response (OxBSG).csv,True,654,Entity,ok,sources/owid-datasets/italy/COVID_Government_Response_OxBSG_f6289b8a.csv
+COVID testing time series data,COVID testing time series data.csv,True,375,Entity,ok,sources/owid-datasets/italy/COVID_testing_time_series_data_8e4b8f60.csv
+COVID-2019 - ECDC (2020),COVID-2019 - ECDC (2020).csv,True,303,Entity,ok,sources/owid-datasets/italy/COVID-2019_-_ECDC_2020_a7896f92.csv
+COVID-2019 - Hospital & ICU,COVID-2019 - Hospital & ICU.csv,True,673,Entity,ok,sources/owid-datasets/italy/COVID-2019_-_Hospital_ICU_417f4de3.csv
+"Calories lost by food group and region (WRI, 2013)","Calories lost by food group and region (WRI, 2013).csv",False,0,Entity,ok,
+Cancer death rates in the US over the long-term - American Cancer Society,Cancer death rates in the US over the long-term - American Cancer Society.csv,False,0,Entity,ok,
+Cancer deaths grouped - OWID based on IHME,Cancer deaths grouped - OWID based on IHME.csv,True,27,Entity,ok,sources/owid-datasets/italy/Cancer_deaths_grouped_-_OWID_based_on_IHME_5691260d.csv
+Capital city population - UN Urbanization Prospects (2018),Capital city population - UN Urbanization Prospects (2018).csv,True,1,Entity,ok,sources/owid-datasets/italy/Capital_city_population_-_UN_Urbanization_Prospects_2018_f4becd91.csv
+"Carbon intensity (kgCO2!$) - Madisson, World Bank, CDIAC","Carbon intensity (kgCO2!$) - Madisson, World Bank, CDIAC.csv",False,0,Entity,ok,
+Causes of child mortality – IHME Global Burden of Disease study (2017),Causes of child mortality – IHME Global Burden of Disease study (2017).csv,False,0,Entity,ok,
+Causes of death vs. media coverage (Shen et al. 2018),Causes of death vs. media coverage (Shen et al. 2018).csv,False,0,Entity,ok,
+Causes of death vs. media coverage - Shen,Causes of death vs. media coverage - Shen.csv,False,0,Entity,ok,
+"Causes of infant death in boys and girls (IHME, 2018)","Causes of infant death in boys and girls (IHME, 2018).csv",False,0,Entity,ok,
+"Cereal allocation to food, feed, fuel (OWID based on FAO)","Cereal allocation to food, feed, fuel (OWID based on FAO).csv",True,57,Entity,ok,sources/owid-datasets/italy/Cereal_allocation_to_food_feed_fuel_OWID_based_on_FAO_23e9a4a1.csv
+Cereal yield index - (World Bank (2017) & OWID),Cereal yield index - (World Bank (2017) & OWID).csv,True,54,Entity,ok,sources/owid-datasets/italy/Cereal_yield_index_-_World_Bank_2017_OWID_4c56b7c5.csv
+"Change in Global Hunger Index, 1992-2017 (listed 2017) (Global Hunger Index 2017)","Change in Global Hunger Index, 1992-2017 (listed 2017) (Global Hunger Index 2017).csv",False,0,Entity,ok,
+"Chartbook of Economic Inequality, Gini (2016)","Chartbook of Economic Inequality, Gini (2016).csv",True,36,Entity,ok,sources/owid-datasets/italy/Chartbook_of_Economic_Inequality_Gini_2016_8159e270.csv
+Child Labor (World 1950-1995) - Basu (1999),Child Labor (World 1950-1995) - Basu (1999).csv,False,0,Entity,ok,
+Child Labor (World ILO) - ILO (2017),Child Labor (World ILO) - ILO (2017).csv,False,0,Entity,ok,
+"Child Labor Italy (historic) - Toniolo, G., & Vecchi, G. (2007)","Child Labor Italy (historic) - Toniolo, G., & Vecchi, G. (2007).csv",True,8,Entity,ok,sources/owid-datasets/italy/Child_Labor_Italy_historic_-_Toniolo_G_Vecchi_G_2007_b2818043.csv
+"Child Labor UK (historic) - Cunningham, H. and Viazzo, P.P. (1996)","Child Labor UK (historic) - Cunningham, H. and Viazzo, P.P. (1996).csv",False,0,Entity,ok,
+Child Labor in US - Economic History Association (2017),Child Labor in US - Economic History Association (2017).csv,False,0,Entity,ok,
+Child Labor in US - Long (1958),Child Labor in US - Long (1958).csv,False,0,Entity,ok,
+Child Marriage – UNICEF (2017),Child Marriage – UNICEF (2017).csv,False,0,,read_fail: No columns to parse from file,
+Child Mortality Estimates - CME Info (2018),Child Mortality Estimates - CME Info (2018).csv,True,68,Entity,ok,sources/owid-datasets/italy/Child_Mortality_Estimates_-_CME_Info_2018_5d02bcca.csv
+"Child Mortality Rates (Complete Gapminder, v10) (2017)","Child Mortality Rates (Complete Gapminder, v10) (2017).csv",True,301,Entity,ok,sources/owid-datasets/italy/Child_Mortality_Rates_Complete_Gapminder_v10_2017_df0a2813.csv
+"Child Mortality Rates (Selected Gapminder, v10) (2017)","Child Mortality Rates (Selected Gapminder, v10) (2017).csv",True,154,Entity,ok,sources/owid-datasets/italy/Child_Mortality_Rates_Selected_Gapminder_v10_2017_d5cd81a9.csv
+Child deaths by life stage (OWID based on UN IGME),Child deaths by life stage (OWID based on UN IGME).csv,True,57,Entity,ok,sources/owid-datasets/italy/Child_deaths_by_life_stage_OWID_based_on_UN_IGME_189e23b3.csv
+Child deaths – United Nations Population Division (2015),Child deaths – United Nations Population Division (2015).csv,True,13,Entity,ok,sources/owid-datasets/italy/Child_deaths_United_Nations_Population_Division_2015_841be0b8.csv
+Child mortality - Gapminder (2013),Child mortality - Gapminder (2013).csv,True,205,Entity,ok,sources/owid-datasets/italy/Child_mortality_-_Gapminder_2013_7e4ad145.csv
+Child mortality by income level (1960-2012) - World Bank (WDI) (2016),Child mortality by income level (1960-2012) - World Bank (WDI) (2016).csv,False,0,Entity,ok,
+Child mortality data - IHME (2017),Child mortality data - IHME (2017).csv,True,8,Entity,ok,sources/owid-datasets/italy/Child_mortality_data_-_IHME_2017_7e8cca04.csv
+Child mortality estimates - Gapminder (2015),Child mortality estimates - Gapminder (2015).csv,True,216,Entity,ok,sources/owid-datasets/italy/Child_mortality_estimates_-_Gapminder_2015_96295e3d.csv
+"Child mortality, 1950-2017 (IHME, 2017)","Child mortality, 1950-2017 (IHME, 2017).csv",True,14,Entity,ok,sources/owid-datasets/italy/Child_mortality_1950-2017_IHME_2017_4e8adbc8.csv
+Child violence – Ending Violence in Childhood Report (2017),Child violence – Ending Violence in Childhood Report (2017).csv,True,1,Entity,ok,sources/owid-datasets/italy/Child_violence_Ending_Violence_in_Childhood_Report_2017_47154538.csv
+Children that died before 5 years of age per woman - Gapminder (2017),Children that died before 5 years of age per woman - Gapminder (2017).csv,True,145,Entity,ok,sources/owid-datasets/italy/Children_that_died_before_5_years_of_age_per_woman_-_Gapminder_2017_9181db9c.csv
+Children that survived past 5 years of age per woman - Gapminder (2017),Children that survived past 5 years of age per woman - Gapminder (2017).csv,True,145,Entity,ok,sources/owid-datasets/italy/Children_that_survived_past_5_years_of_age_per_woman_-_Gapminder_2017_1f4490df.csv
+City populations (1950-2035) - UN Urbanization Prospects (2018),City populations (1950-2035) - UN Urbanization Prospects (2018).csv,False,0,Entity,ok,
+"Clark, Flèche & Senik – Happiness Inequality","Clark, Flèche & Senik – Happiness Inequality.csv",True,4,Entity,ok,sources/owid-datasets/italy/Clark_Fle_che_Senik_Happiness_Inequality_d70848cc.csv
+Coal output and employment in UK - BEIS (2020),Coal output and employment in UK - BEIS (2020).csv,False,0,Entity,ok,
+Coal production - The SHIFT Project,Coal production - The SHIFT Project.csv,True,115,Entity,ok,sources/owid-datasets/italy/Coal_production_-_The_SHIFT_Project_6c64e83f.csv
+Coefficient of Variation (CV) in caloric intake,Coefficient of Variation (CV) in caloric intake.csv,True,21,Entity,ok,sources/owid-datasets/italy/Coefficient_of_Variation_CV_in_caloric_intake_57c4cdf5.csv
+Conflict deaths by country – UCDP (2019),Conflict deaths by country – UCDP (2019).csv,True,1,Entity,ok,sources/owid-datasets/italy/Conflict_deaths_by_country_UCDP_2019_da485d06.csv
+Conflict deaths – UCDP Georeferenced Event Data (2019),Conflict deaths – UCDP Georeferenced Event Data (2019).csv,True,30,Entity,ok,sources/owid-datasets/italy/Conflict_deaths_UCDP_Georeferenced_Event_Data_2019_5d55d015.csv
+Consumption shares in selected non-essential products - World Bank Global Consumption Database,Consumption shares in selected non-essential products - World Bank Global Consumption Database.csv,False,0,Entity,ok,
+"Corporal Punishment in Schools - Longitudinal Evidence from Ethiopia, India, Peru and Vietnam (UNICE","Corporal Punishment in Schools - Longitudinal Evidence from Ethiopia, India, Peru and Vietnam (UNICE.csv",False,0,Entity,ok,
+Correlates of War! National Material Capabilities (v4.0),Correlates of War! National Material Capabilities (v4.0).csv,True,192,Entity,ok,sources/owid-datasets/italy/Correlates_of_War_National_Material_Capabilities_v4_0_68a8bc5f.csv
+Corruption Perception Index - Transparency International (2018),Corruption Perception Index - Transparency International (2018).csv,True,7,Entity,ok,sources/owid-datasets/italy/Corruption_Perception_Index_-_Transparency_International_2018_7c4c503d.csv
+Countries Continents,Countries Continents.csv,True,1,Entity,ok,sources/owid-datasets/italy/Countries_Continents_e2af0cee.csv
+Countries in which same-sex sexual acts are legal – OWID based on Kenny & Patel (2017) and Carroll &,Countries in which same-sex sexual acts are legal – OWID based on Kenny & Patel (2017) and Carroll &.csv,False,0,,read_fail: No columns to parse from file,
+Country Income Classification - World Bank (2017),Country Income Classification - World Bank (2017).csv,True,30,Entity,ok,sources/owid-datasets/italy/Country_Income_Classification_-_World_Bank_2017_671e4845.csv
+"Cross-country literacy rates - World Bank, CIA World Factbook, and other sources","Cross-country literacy rates - World Bank, CIA World Factbook, and other sources.csv",True,10,Entity,ok,sources/owid-datasets/italy/Cross-country_literacy_rates_-_World_Bank_CIA_World_Factbook_and_other_sources_94d02d13.csv
+"Crude Birth and Death Rates (per 1,000), England and Wales 1541-2015 - Wrigley and Schofield, Mitche","Crude Birth and Death Rates (per 1,000), England and Wales 1541-2015 - Wrigley and Schofield, Mitche.csv",False,0,Entity,ok,
+Crude Oil Consumption vs. Price - BP Statistics (2016),Crude Oil Consumption vs. Price - BP Statistics (2016).csv,False,0,Entity,ok,
+"Crude marriage rate (OWID based on UN, OECD, Eurostat and other sources)","Crude marriage rate (OWID based on UN, OECD, Eurostat and other sources).csv",True,58,Entity,ok,sources/owid-datasets/italy/Crude_marriage_rate_OWID_based_on_UN_OECD_Eurostat_and_other_sources_5be59199.csv
+"Cumulative CO2 emissions share (OWID based on GCP, 2017)","Cumulative CO2 emissions share (OWID based on GCP, 2017).csv",True,267,Entity,ok,sources/owid-datasets/italy/Cumulative_CO2_emissions_share_OWID_based_on_GCP_2017_2f8dacfd.csv
+"Cumulative share of marriages ending in divorce (England and Wales, UK ONS)","Cumulative share of marriages ending in divorce (England and Wales, UK ONS).csv",False,0,Entity,ok,
+Current GDP (British pounds) - Fouquin and Hugot (CEPII 2016),Current GDP (British pounds) - Fouquin and Hugot (CEPII 2016).csv,False,0,,read_fail: No columns to parse from file,
+D1 vs D10-D1 income!consumption – Povcal (2018),D1 vs D10-D1 income!consumption – Povcal (2018).csv,False,0,Entity,ok,
+Daily fat supply- FAO (2017),Daily fat supply- FAO (2017).csv,True,53,Entity,ok,sources/owid-datasets/italy/Daily_fat_supply-_FAO_2017_82f51bfb.csv
+Daily protein supply - FAO (2017),Daily protein supply - FAO (2017).csv,True,55,Entity,ok,sources/owid-datasets/italy/Daily_protein_supply_-_FAO_2017_1af7f0a7.csv
+Daily supply of calories per person (OWID based on UN FAO & historical sources),Daily supply of calories per person (OWID based on UN FAO & historical sources).csv,True,65,Entity,ok,sources/owid-datasets/italy/Daily_supply_of_calories_per_person_OWID_based_on_UN_FAO_historical_sources_43fd741b.csv
+Days and hours of work in Old and New Worlds - Huberman and Minns (2007),Days and hours of work in Old and New Worlds - Huberman and Minns (2007).csv,True,13,Entity,ok,sources/owid-datasets/italy/Days_and_hours_of_work_in_Old_and_New_Worlds_-_Huberman_and_Minns_2007_d60d4cc5.csv
+Death rate by age group in England and Wales - ONS,Death rate by age group in England and Wales - ONS.csv,False,0,Entity,ok,
+Deaths attributed to air pollution (Lelieveld et al. 2019),Deaths attributed to air pollution (Lelieveld et al. 2019).csv,True,1,Entity,ok,sources/owid-datasets/italy/Deaths_attributed_to_air_pollution_Lelieveld_et_al_2019_ca1896dc.csv
+Deaths by World Region - WHO (2016),Deaths by World Region - WHO (2016).csv,False,0,Entity,ok,
+"Deaths from Chernobyl (Range of long-term estimates) - WHO (2005), Fairlie & Sumner (2006), Cardis e","Deaths from Chernobyl (Range of long-term estimates) - WHO (2005), Fairlie & Sumner (2006), Cardis e.csv",False,0,Entity,ok,
+Deaths from Smalllpox and all causes in London 1629-1902,Deaths from Smalllpox and all causes in London 1629-1902.csv,False,0,Entity,ok,
+"Deaths from smallpox per million population (Edwardes, 1902)","Deaths from smallpox per million population (Edwardes, 1902).csv",False,0,Entity,ok,
+Deaths per TWh energy production,Deaths per TWh energy production.csv,False,0,Entity,ok,
+"Deaths per TWh from low-carbon energy (Sovacool et al., 2016)","Deaths per TWh from low-carbon energy (Sovacool et al., 2016).csv",False,0,Entity,ok,
+Decomposition of Gender Wage Gap 1980 - Blau and Kahn (2017),Decomposition of Gender Wage Gap 1980 - Blau and Kahn (2017).csv,False,0,Entity,ok,
+Decomposition of Gender Wage Gap 2010 - Blau and Kahn (2017),Decomposition of Gender Wage Gap 2010 - Blau and Kahn (2017).csv,False,0,Entity,ok,
+Decomposition times of marine debris,Decomposition times of marine debris.csv,False,0,Entity,ok,
+Deforestation by commodity (Pendrill et al. (2019)),Deforestation by commodity (Pendrill et al. (2019)).csv,False,0,Entity,ok,
+Deforestation in trade (Pendrill),Deforestation in trade (Pendrill).csv,True,9,Entity,ok,sources/owid-datasets/italy/Deforestation_in_trade_Pendrill_06520bfe.csv
+Delivery points in the US - United States Postal Service (2018),Delivery points in the US - United States Postal Service (2018).csv,False,0,Entity,ok,
+Democracy - Bertelsmann Transformation Index (2022),Democracy - Bertelsmann Transformation Index (2022).csv,False,0,,read_fail: No columns to parse from file,
+Democracy - Economist Intelligence Unit (2023),Democracy - Economist Intelligence Unit (2023).csv,False,0,,read_fail: No columns to parse from file,
+Democracy - OWID based on Boix-Miller-Rosato,Democracy - OWID based on Boix-Miller-Rosato.csv,False,0,,read_fail: No columns to parse from file,
+Democracy - OWID based on Episodes of Regime Transformation (v13),Democracy - OWID based on Episodes of Regime Transformation (v13).csv,False,0,,read_fail: No columns to parse from file,
+Democracy - Polity 5,Democracy - Polity 5.csv,False,0,,read_fail: No columns to parse from file,
+Democracy and Human rights - OWID based on Varieties of Democracy (v13) and Regimes of the World,Democracy and Human rights - OWID based on Varieties of Democracy (v13) and Regimes of the World.csv,False,0,,read_fail: No columns to parse from file,
+Democratic satisfaction - Claassen,Democratic satisfaction - Claassen.csv,True,48,Entity,ok,sources/owid-datasets/italy/Democratic_satisfaction_-_Claassen_2785b9d9.csv
+Democratic support - Claassen,Democratic support - Claassen.csv,True,33,Entity,ok,sources/owid-datasets/italy/Democratic_support_-_Claassen_67611690.csv
+Depression prevalence by education - OECD,Depression prevalence by education - OECD.csv,True,1,Entity,ok,sources/owid-datasets/italy/Depression_prevalence_by_education_-_OECD_064597de.csv
+Diet compositions by commodity categories - FAO (2017),Diet compositions by commodity categories - FAO (2017).csv,True,53,Entity,ok,sources/owid-datasets/italy/Diet_compositions_by_commodity_categories_-_FAO_2017_e36b9b94.csv
+Diet compositions by specific food commodities - FAO (2017),Diet compositions by specific food commodities - FAO (2017).csv,True,53,Entity,ok,sources/owid-datasets/italy/Diet_compositions_by_specific_food_commodities_-_FAO_2017_d11e66de.csv
+Dietary macronutrient compositions - FAO (2017),Dietary macronutrient compositions - FAO (2017).csv,True,53,Entity,ok,sources/owid-datasets/italy/Dietary_macronutrient_compositions_-_FAO_2017_5fc7bbd8.csv
+Difference in the value of goods exported to and imported by the US for 2016 (DOTS (2017)),Difference in the value of goods exported to and imported by the US for 2016 (DOTS (2017)).csv,True,1,Entity,ok,sources/owid-datasets/italy/Difference_in_the_value_of_goods_exported_to_and_imported_by_the_US_for_2016_DOTS_2017_29d8208c.csv
+Differences in population estimates - OWID based on UN vs US Census Bureau,Differences in population estimates - OWID based on UN vs US Census Bureau.csv,False,0,Entity,ok,
+Disability Adjusted Life Years - WHO (2015),Disability Adjusted Life Years - WHO (2015).csv,True,2,Entity,ok,sources/owid-datasets/italy/Disability_Adjusted_Life_Years_-_WHO_2015_f42d7435.csv
+Distribution of bilateral and unilateral trade partnerships - Fouquin and Hugot (CEPII 2016),Distribution of bilateral and unilateral trade partnerships - Fouquin and Hugot (CEPII 2016).csv,False,0,Entity,ok,
+Drinking habits in Great Britain - UK ONS,Drinking habits in Great Britain - UK ONS.csv,False,0,Entity,ok,
+Drivers of forest loss in Brazil Legal Amazon (Tyukavina et al. 2017),Drivers of forest loss in Brazil Legal Amazon (Tyukavina et al. 2017).csv,False,0,Entity,ok,
+Drug overdose deaths in the US (CDC WONDER),Drug overdose deaths in the US (CDC WONDER).csv,False,0,,read_fail: No columns to parse from file,
+Duration of marriages ending in divorce (OWID based on national statistics),Duration of marriages ending in divorce (OWID based on national statistics).csv,False,0,Entity,ok,
+ECI Country Rankings (Observatory of Economic Complexity (2016) and the Atlas of Economic Complexity,ECI Country Rankings (Observatory of Economic Complexity (2016) and the Atlas of Economic Complexity.csv,True,53,Entity,ok,sources/owid-datasets/italy/ECI_Country_Rankings_Observatory_of_Economic_Complexity_2016_and_the_Atlas_of_Economic_Complexity_fbdfcbe6.csv
+Earthquake deaths (NGDC-NOAA),Earthquake deaths (NGDC-NOAA).csv,True,402,Entity,ok,sources/owid-datasets/italy/Earthquake_deaths_NGDC-NOAA_11a9b170.csv
+Economic Freedom of the World - Fraser Institute (2018),Economic Freedom of the World - Fraser Institute (2018).csv,True,27,Entity,ok,sources/owid-datasets/italy/Economic_Freedom_of_the_World_-_Fraser_Institute_2018_356743c8.csv
+Economic impacts 2vs1.5C - Pretis et al.,Economic impacts 2vs1.5C - Pretis et al..csv,True,1,Entity,ok,sources/owid-datasets/italy/Economic_impacts_2vs1_5C_-_Pretis_et_al_fdb2349d.csv
+Economic impacts of 1.5C - Pretis et al.,Economic impacts of 1.5C - Pretis et al..csv,True,1,Entity,ok,sources/owid-datasets/italy/Economic_impacts_of_1_5C_-_Pretis_et_al_1a37ef19.csv
+Economic impacts of 2C - Pretis et al. (2018),Economic impacts of 2C - Pretis et al. (2018).csv,True,1,Entity,ok,sources/owid-datasets/italy/Economic_impacts_of_2C_-_Pretis_et_al_2018_89cec811.csv
+"Economic losses from disasters as a share of GDP (Pielke, 2018)","Economic losses from disasters as a share of GDP (Pielke, 2018).csv",False,0,Entity,ok,
+Education Expenditure US 1949-2013 - NCES (2014),Education Expenditure US 1949-2013 - NCES (2014).csv,False,0,Entity,ok,
+"Education data deprivation (GEM Report (2017!18), UIS (2017))","Education data deprivation (GEM Report (2017!18), UIS (2017)).csv",True,2,Entity,ok,sources/owid-datasets/italy/Education_data_deprivation_GEM_Report_2017_18_UIS_2017_676ba175.csv
+Educational Attainment - Barro Lee Education Dataset (2010) ,Educational Attainment - Barro Lee Education Dataset (2010) .csv,True,13,Entity,ok,sources/owid-datasets/italy/Educational_Attainment_-_Barro_Lee_Education_Dataset_2010_84fc2bbe.csv
+Educational Outcomes – Hanushek and Woessmann (2012),Educational Outcomes – Hanushek and Woessmann (2012).csv,True,1,Entity,ok,sources/owid-datasets/italy/Educational_Outcomes_Hanushek_and_Woessmann_2012_50d2d8e3.csv
+Electricity mix from BP & EMBER (2022),Electricity mix from BP & EMBER (2022).csv,True,57,Entity,ok,sources/owid-datasets/italy/Electricity_mix_from_BP_EMBER_2022_547784d3.csv
+Electricity mix from BP & EMBER (2022) - archive,Electricity mix from BP & EMBER (2022) - archive.csv,True,57,Entity,ok,sources/owid-datasets/italy/Electricity_mix_from_BP_EMBER_2022_-_archive_c152550c.csv
+"Elephant population (AfESG &AsESG, 2019)","Elephant population (AfESG &AsESG, 2019).csv",False,0,Entity,ok,
+Emissions air pollutants over long-term (DEFRA & EPA),Emissions air pollutants over long-term (DEFRA & EPA).csv,False,0,Entity,ok,
+Emissions intensity & value added by sector - Linus et al.,Emissions intensity & value added by sector - Linus et al..csv,False,0,Entity,ok,
+Employment and Gender attitudes - Pew Research Centre (2012),Employment and Gender attitudes - Pew Research Centre (2012).csv,False,0,Entity,ok,
+"Employment rate, ages 25-34, by education - Education at a Glance! OECD Indicators (2017)","Employment rate, ages 25-34, by education - Education at a Glance! OECD Indicators (2017).csv",True,1,Entity,ok,sources/owid-datasets/italy/Employment_rate_ages_25-34_by_education_-_Education_at_a_Glance_OECD_Indicators_2017_c9db69b1.csv
+"Endemic and threatened invertebrate species by country (IUCN, 2020)","Endemic and threatened invertebrate species by country (IUCN, 2020).csv",True,1,Entity,ok,sources/owid-datasets/italy/Endemic_and_threatened_invertebrate_species_by_country_IUCN_2020_4948d17c.csv
+"Endemic vertebrate species by country (IUCN, 2020)","Endemic vertebrate species by country (IUCN, 2020).csv",True,1,Entity,ok,sources/owid-datasets/italy/Endemic_vertebrate_species_by_country_IUCN_2020_590c56ac.csv
+Energy Prices - BP Statistics (2016),Energy Prices - BP Statistics (2016).csv,False,0,Entity,ok,
+Energy efficiency by passenger mode in USA (BTS),Energy efficiency by passenger mode in USA (BTS).csv,False,0,Entity,ok,
+Energy imports (% energy use) - World Bank (2014),Energy imports (% energy use) - World Bank (2014).csv,True,55,Entity,ok,sources/owid-datasets/italy/Energy_imports_energy_use_-_World_Bank_2014_1b60c1f3.csv
+Energy mix from BP (2020),Energy mix from BP (2020).csv,True,55,Entity,ok,sources/owid-datasets/italy/Energy_mix_from_BP_2020_dcac8c19.csv
+Energy mix from BP (2021),Energy mix from BP (2021).csv,True,56,Entity,ok,sources/owid-datasets/italy/Energy_mix_from_BP_2021_86227fd9.csv
+"Energy mix in the UK (DUKES, 2018)","Energy mix in the UK (DUKES, 2018).csv",False,0,Entity,ok,
+Environmental impacts of food (Clark et al. 2022),Environmental impacts of food (Clark et al. 2022).csv,False,0,Entity,ok,
+"Environmental impacts of food (Poore & Nemecek, 2018)","Environmental impacts of food (Poore & Nemecek, 2018).csv",False,0,,read_fail: No columns to parse from file,
+"Estimated average age at marriage, by gender (UN and OECD)","Estimated average age at marriage, by gender (UN and OECD).csv",True,26,Entity,ok,sources/owid-datasets/italy/Estimated_average_age_at_marriage_by_gender_UN_and_OECD_a1ccaa51.csv
+"Estimated average age at marriage, by gender (UN)","Estimated average age at marriage, by gender (UN).csv",True,17,Entity,ok,sources/owid-datasets/italy/Estimated_average_age_at_marriage_by_gender_UN_1a71f337.csv
+Estimated funding and future needs for HIV in low and middle income countries - UNAIDS,Estimated funding and future needs for HIV in low and middle income countries - UNAIDS.csv,False,0,Entity,ok,
+Estimated historical literacy rates - Buringh and Van Zanden (2009),Estimated historical literacy rates - Buringh and Van Zanden (2009).csv,True,4,Entity,ok,sources/owid-datasets/italy/Estimated_historical_literacy_rates_-_Buringh_and_Van_Zanden_2009_3bc36082.csv
+Estimated percent of women who are married or in a union (UN),Estimated percent of women who are married or in a union (UN).csv,False,0,Entity,ok,
+Ethnographic and Archaeological Evidence on Violent Deaths,Ethnographic and Archaeological Evidence on Violent Deaths.csv,False,0,Entity,ok,
+"European vehicle passenger sales (ICCT, 2021)","European vehicle passenger sales (ICCT, 2021).csv",True,19,Entity,ok,sources/owid-datasets/italy/European_vehicle_passenger_sales_ICCT_2021_5c6b69d8.csv
+Excess Mortality Data – OWID (2022),Excess Mortality Data – OWID (2022).csv,True,157,Entity,ok,sources/owid-datasets/italy/Excess_Mortality_Data_OWID_2022_1721cf32.csv
+Executions by country - Amnesty International,Executions by country - Amnesty International.csv,False,0,Entity,ok,
+Expected Years of Schooling - UNDP (2018),Expected Years of Schooling - UNDP (2018).csv,True,28,Entity,ok,sources/owid-datasets/italy/Expected_Years_of_Schooling_-_UNDP_2018_cba0f618.csv
+Extensions in life expectancy (OWID calculations based on UN Population Division (2017 Revision)),Extensions in life expectancy (OWID calculations based on UN Population Division (2017 Revision)).csv,True,14,Entity,ok,sources/owid-datasets/italy/Extensions_in_life_expectancy_OWID_calculations_based_on_UN_Population_Division_2017_Revision_08e3de48.csv
+Extreme Poverty 2030 Projections by SSP - Crespo et al. (2018),Extreme Poverty 2030 Projections by SSP - Crespo et al. (2018).csv,True,17,Entity,ok,sources/owid-datasets/italy/Extreme_Poverty_2030_Projections_by_SSP_-_Crespo_et_al_2018_811d6bd1.csv
+Extreme Poverty Michail Moatsos (OECD),Extreme Poverty Michail Moatsos (OECD).csv,True,21,Entity,ok,sources/owid-datasets/italy/Extreme_Poverty_Michail_Moatsos_OECD_295d28ff.csv
+Extreme Poverty in absolute numbers - Ravallion (2016) updated with World Bank (2019),Extreme Poverty in absolute numbers - Ravallion (2016) updated with World Bank (2019).csv,False,0,Entity,ok,
+Extreme income poverty in Europe - Bradshaw and Mayhew (2011),Extreme income poverty in Europe - Bradshaw and Mayhew (2011).csv,True,1,Entity,ok,sources/owid-datasets/italy/Extreme_income_poverty_in_Europe_-_Bradshaw_and_Mayhew_2011_38057935.csv
+FAO 2030-50 Projections of Arable Land - FAO (2017),FAO 2030-50 Projections of Arable Land - FAO (2017).csv,False,0,Entity,ok,
+Family Benefits Public Spending - OECD (2016),Family Benefits Public Spending - OECD (2016).csv,True,14,Entity,ok,sources/owid-datasets/italy/Family_Benefits_Public_Spending_-_OECD_2016_6923cdde.csv
+Fatal aviation accidents & fatalties - Aviation Safety Network (ASN),Fatal aviation accidents & fatalties - Aviation Safety Network (ASN).csv,False,0,Entity,ok,
+Female and male life expectancy at birth - OWID based on UN Population Division (2017),Female and male life expectancy at birth - OWID based on UN Population Division (2017).csv,True,66,Entity,ok,sources/owid-datasets/italy/Female_and_male_life_expectancy_at_birth_-_OWID_based_on_UN_Population_Division_2017_460efe6b.csv
+Female labor force participation rate - OWID (2017),Female labor force participation rate - OWID (2017).csv,True,47,Entity,ok,sources/owid-datasets/italy/Female_labor_force_participation_rate_-_OWID_2017_d29bd1f6.csv
+Female weekly hours worked – OECD (2017),Female weekly hours worked – OECD (2017).csv,True,22,Entity,ok,sources/owid-datasets/italy/Female_weekly_hours_worked_OECD_2017_3fe41107.csv
+Fertility - UN Population Division (2015 revision),Fertility - UN Population Division (2015 revision).csv,True,13,Entity,ok,sources/owid-datasets/italy/Fertility_-_UN_Population_Division_2015_revision_2401c23b.csv
+"Fertility Rate (Selected Gapminder, v12) (2017)","Fertility Rate (Selected Gapminder, v12) (2017).csv",True,239,Entity,ok,sources/owid-datasets/italy/Fertility_Rate_Selected_Gapminder_v12_2017_f0c96464.csv
+Fertility Rate - WC-IIASA (2017),Fertility Rate - WC-IIASA (2017).csv,False,0,Entity,ok,
+"Fertility rate (Complete Gapminder, v12) (2017)","Fertility rate (Complete Gapminder, v12) (2017).csv",True,301,Entity,ok,sources/owid-datasets/italy/Fertility_rate_Complete_Gapminder_v12_2017_cfaf8ac8.csv
+Fertilizer prices - World Bank (2017),Fertilizer prices - World Bank (2017).csv,False,0,Entity,ok,
+Fertilizer use per hectare of land -FAO & Federico,Fertilizer use per hectare of land -FAO & Federico.csv,True,18,Entity,ok,sources/owid-datasets/italy/Fertilizer_use_per_hectare_of_land_-FAO_Federico_40fde514.csv
+Firms with financial constraints - World Bank Enterprise Survey (2019),Firms with financial constraints - World Bank Enterprise Survey (2019).csv,False,0,Entity,ok,
+Fish stocks (RAMLegacy),Fish stocks (RAMLegacy).csv,False,0,Entity,ok,
+Fishery catch breakdown - Pauly and Zeller (2016),Fishery catch breakdown - Pauly and Zeller (2016).csv,False,0,Entity,ok,
+Five year cancer survival rates - Allemani et al. ,Five year cancer survival rates - Allemani et al. .csv,True,3,Entity,ok,sources/owid-datasets/italy/Five_year_cancer_survival_rates_-_Allemani_et_al_121c3855.csv
+Five-year cancer survival rates - National Cancer Institute,Five-year cancer survival rates - National Cancer Institute.csv,False,0,Entity,ok,
+Food Prices expressed in hourly wages - U.S. Bureau of Labor Statistics (2015),Food Prices expressed in hourly wages - U.S. Bureau of Labor Statistics (2015).csv,False,0,Entity,ok,
+"Food affordability (World Bank; FAO, 2022)","Food affordability (World Bank; FAO, 2022).csv",True,4,Entity,ok,sources/owid-datasets/italy/Food_affordability_World_Bank_FAO_2022_cec43013.csv
+Food expenditure in the USA - USDA,Food expenditure in the USA - USDA.csv,False,0,Entity,ok,
+"Food miles by transport method (Poore & Nemecek, 2018)","Food miles by transport method (Poore & Nemecek, 2018).csv",False,0,Entity,ok,
+"Food supply (FAO, 2020)","Food supply (FAO, 2020).csv",True,57,Entity,ok,sources/owid-datasets/italy/Food_supply_FAO_2020_268152f9.csv
+Food waste in the European Union - Europa (2010),Food waste in the European Union - Europa (2010).csv,True,1,Entity,ok,sources/owid-datasets/italy/Food_waste_in_the_European_Union_-_Europa_2010_9356a909.csv
+Food waste in the supply chain (t) - WRAP (2015) & Europa (2015),Food waste in the supply chain (t) - WRAP (2015) & Europa (2015).csv,False,0,Entity,ok,
+Forest Transition Phase (Pendrill et al. 2019),Forest Transition Phase (Pendrill et al. 2019).csv,True,1,Entity,ok,sources/owid-datasets/italy/Forest_Transition_Phase_Pendrill_et_al_2019_0cf8d3f1.csv
+"Forest land, deforestation and change (FAO, 2020)","Forest land, deforestation and change (FAO, 2020).csv",True,31,Entity,ok,sources/owid-datasets/italy/Forest_land_deforestation_and_change_FAO_2020_fb97f4c8.csv
+Forestry area - FAO (2017),Forestry area - FAO (2017).csv,False,0,Entity,ok,
+Fossil fuel consumption per capita - BP & UN (2017 revision),Fossil fuel consumption per capita - BP & UN (2017 revision).csv,True,51,Entity,ok,sources/owid-datasets/italy/Fossil_fuel_consumption_per_capita_-_BP_UN_2017_revision_4ec659c5.csv
+Fossil fuel production (BP & Shift (2020)),Fossil fuel production (BP & Shift (2020)).csv,True,120,Entity,ok,sources/owid-datasets/italy/Fossil_fuel_production_BP_Shift_2020_6780ea46.csv
+Fossil fuel production BP & Shift (2022),Fossil fuel production BP & Shift (2022).csv,True,121,Entity,ok,sources/owid-datasets/italy/Fossil_fuel_production_BP_Shift_2022_c36e9607.csv
+Friends and family support – OECD based on Gallup (2016),Friends and family support – OECD based on Gallup (2016).csv,True,1,Entity,ok,sources/owid-datasets/italy/Friends_and_family_support_OECD_based_on_Gallup_2016_172f6279.csv
+"GDP growth from previous year, 2020 Q2 (Eurostat, OECD, National sources)","GDP growth from previous year, 2020 Q2 (Eurostat, OECD, National sources).csv",True,1,Entity,ok,sources/owid-datasets/italy/GDP_growth_from_previous_year_2020_Q2_Eurostat_OECD_National_sources_929c44ed.csv
+"GDP in England (using BoE, 2017)","GDP in England (using BoE, 2017).csv",False,0,Entity,ok,
+"GHG Emissions by Country and Sector (CAIT, 2020)","GHG Emissions by Country and Sector (CAIT, 2020).csv",True,27,Entity,ok,sources/owid-datasets/italy/GHG_Emissions_by_Country_and_Sector_CAIT_2020_37bd4b81.csv
+"GHG Emissions by Country and Sector (CAIT, 2021)","GHG Emissions by Country and Sector (CAIT, 2021).csv",True,29,Entity,ok,sources/owid-datasets/italy/GHG_Emissions_by_Country_and_Sector_CAIT_2021_0b4beb49.csv
+"GHG emissions per capita (EDGAR, 2019)","GHG emissions per capita (EDGAR, 2019).csv",True,43,Entity,ok,sources/owid-datasets/italy/GHG_emissions_per_capita_EDGAR_2019_f19d5902.csv
+GISTEMP Temperature Anomaly,GISTEMP Temperature Anomaly.csv,True,138,Entity,ok,sources/owid-datasets/italy/GISTEMP_Temperature_Anomaly_e9aaed03.csv
+Gas production - Etemad & Luciana,Gas production - Etemad & Luciana.csv,True,69,Entity,ok,sources/owid-datasets/italy/Gas_production_-_Etemad_Luciana_b5bfbb78.csv
+Gender Inequality Index - Human Development Report (2015),Gender Inequality Index - Human Development Report (2015).csv,True,9,Entity,ok,sources/owid-datasets/italy/Gender_Inequality_Index_-_Human_Development_Report_2015_d20ac01e.csv
+Gender Wage Gap – OECD (2017),Gender Wage Gap – OECD (2017).csv,True,15,Entity,ok,sources/owid-datasets/italy/Gender_Wage_Gap_OECD_2017_21026a03.csv
+Gender preference for boss - Gallup (2017),Gender preference for boss - Gallup (2017).csv,False,0,Entity,ok,
+Gender wage gap (assigning zeros for no work),Gender wage gap (assigning zeros for no work).csv,False,0,Entity,ok,
+"Genuine saving estimates by various measures - Blum, Ducoing, McLaughlin (2017)","Genuine saving estimates by various measures - Blum, Ducoing, McLaughlin (2017).csv",False,0,Entity,ok,
+German road deaths and accidents - destatis,German road deaths and accidents - destatis.csv,False,0,Entity,ok,
+"Gini Coefficient, Equivalized Income After Tax and Transfers – Chartbook of Economic Inequality (201","Gini Coefficient, Equivalized Income After Tax and Transfers – Chartbook of Economic Inequality (201.csv",False,0,,read_fail: No columns to parse from file,
+Gini Coefficients – OECD (2016),Gini Coefficients – OECD (2016).csv,True,10,Entity,ok,sources/owid-datasets/italy/Gini_Coefficients_OECD_2016_9dcd862c.csv
+Gini coefficients for lifetime inequality - Peltzman (2009),Gini coefficients for lifetime inequality - Peltzman (2009).csv,False,0,Entity,ok,
+Global BMI in females - NCDRisC (2017),Global BMI in females - NCDRisC (2017).csv,True,42,Entity,ok,sources/owid-datasets/italy/Global_BMI_in_females_-_NCDRisC_2017_f0a554bb.csv
+Global BMI in males - NCD RisC (2017),Global BMI in males - NCD RisC (2017).csv,True,42,Entity,ok,sources/owid-datasets/italy/Global_BMI_in_males_-_NCD_RisC_2017_bb393b34.csv
+Global CO2 emissions - CDIAC and UN Population,Global CO2 emissions - CDIAC and UN Population.csv,False,0,Entity,ok,
+"Global Data Set on Education Quality (1965-2015) - Altinok, Angrist, and Patrinos (2018)","Global Data Set on Education Quality (1965-2015) - Altinok, Angrist, and Patrinos (2018).csv",True,9,Entity,ok,sources/owid-datasets/italy/Global_Data_Set_on_Education_Quality_1965-2015_-_Altinok_Angrist_and_Patrinos_2018_7d4752a8.csv
+Global Hunger Index (2021),Global Hunger Index (2021).csv,False,0,Entity,ok,
+Global Hunger Index in 1992 (listed 2017) (Global Hunger Index 2017),Global Hunger Index in 1992 (listed 2017) (Global Hunger Index 2017).csv,False,0,Entity,ok,
+Global Hunger Index in 2017 (listed 2017) (Global Hunger Index 2017),Global Hunger Index in 2017 (listed 2017) (Global Hunger Index 2017).csv,False,0,Entity,ok,
+Global Hunger Index- IFPRI (2018),Global Hunger Index- IFPRI (2018).csv,False,0,Entity,ok,
+Global Population by Region with projections - HYDE (2016) & UN (2017),Global Population by Region with projections - HYDE (2016) & UN (2017).csv,False,0,Entity,ok,
+Global Primary Energy Consumption - Vaclav Smil (2017) & BP Statistics (2020),Global Primary Energy Consumption - Vaclav Smil (2017) & BP Statistics (2020).csv,False,0,Entity,ok,
+"Global Projection, Medium SSP2 - IIASA (2016)","Global Projection, Medium SSP2 - IIASA (2016).csv",False,0,Entity,ok,
+Global Revenue Statistics Database - OECD (2018),Global Revenue Statistics Database - OECD (2018).csv,True,28,Entity,ok,sources/owid-datasets/italy/Global_Revenue_Statistics_Database_-_OECD_2018_017b5ff4.csv
+Global Smallpox Cases,Global Smallpox Cases.csv,False,0,Entity,ok,
+Global Tuberculosis Report! Case notifications - WHO (2019),Global Tuberculosis Report! Case notifications - WHO (2019).csv,True,39,Entity,ok,sources/owid-datasets/italy/Global_Tuberculosis_Report_Case_notifications_-_WHO_2019_51fb3d53.csv
+Global Tuberculosis Report! TB burden estimates - WHO (2019),Global Tuberculosis Report! TB burden estimates - WHO (2019).csv,True,19,Entity,ok,sources/owid-datasets/italy/Global_Tuberculosis_Report_TB_burden_estimates_-_WHO_2019_0b99e243.csv
+Global agricultural land by crop - FAO (2017),Global agricultural land by crop - FAO (2017).csv,False,0,Entity,ok,
+Global airline traffic and capacity (ICAO),Global airline traffic and capacity (ICAO).csv,False,0,,read_fail: No columns to parse from file,
+Global average temperature anomaly - Hadley Centre,Global average temperature anomaly - Hadley Centre.csv,False,0,Entity,ok,
+Global child mortality (since 1800) - based on Gapminder and World Bank (2019),Global child mortality (since 1800) - based on Gapminder and World Bank (2019).csv,False,0,Entity,ok,
+Global death rates from disasters (EMDAT; UN & HYDE),Global death rates from disasters (EMDAT; UN & HYDE).csv,False,0,Entity,ok,
+Global education (OECD + IIASA (2016)),Global education (OECD + IIASA (2016)).csv,False,0,Entity,ok,
+"Global extreme poverty! Present and past since 1820 (Moatsos in OECD, 2021)","Global extreme poverty! Present and past since 1820 (Moatsos in OECD, 2021).csv",True,21,Entity,ok,sources/owid-datasets/italy/Global_extreme_poverty_Present_and_past_since_1820_Moatsos_in_OECD_2021_59841778.csv
+Global fish catch by end use (FishStat via SeaAroundUs),Global fish catch by end use (FishStat via SeaAroundUs).csv,True,69,Entity,ok,sources/owid-datasets/italy/Global_fish_catch_by_end_use_FishStat_via_SeaAroundUs_439b970e.csv
+Global freshwater use since 1900 - IGB,Global freshwater use since 1900 - IGB.csv,False,0,Entity,ok,
+Global literacy since 1800 (OWID based on OECD & UNESCO (2019)),Global literacy since 1800 (OWID based on OECD & UNESCO (2019)).csv,False,0,Entity,ok,
+Global meat projections to 2050 - FAO,Global meat projections to 2050 - FAO.csv,False,0,Entity,ok,
+Global plastic production (Geyer et al. and OECD),Global plastic production (Geyer et al. and OECD).csv,False,0,Entity,ok,
+Global population trends - US Census Bureau (2017),Global population trends - US Census Bureau (2017).csv,False,0,Entity,ok,
+Global primary energy share (Smil & BP),Global primary energy share (Smil & BP).csv,False,0,Entity,ok,
+Global temperature anomaly - Met Office (HadCRUT4),Global temperature anomaly - Met Office (HadCRUT4).csv,False,0,Entity,ok,
+Global warming potential factors (GWP100) - IPCC (2014),Global warming potential factors (GWP100) - IPCC (2014).csv,False,0,Entity,ok,
+Global year of last polio case plus certification status - GPEI (2017),Global year of last polio case plus certification status - GPEI (2017).csv,True,108,Entity,ok,sources/owid-datasets/italy/Global_year_of_last_polio_case_plus_certification_status_-_GPEI_2017_03639937.csv
+"Globalization over 5 centuries - PWT 9.0, Klasing & Milionis (2014), and Estevadeordal, Frantz, and ","Globalization over 5 centuries - PWT 9.0, Klasing & Milionis (2014), and Estevadeordal, Frantz, and .csv",False,0,Entity,ok,
+Gold prices - Laurence & Williamson (2017),Gold prices - Laurence & Williamson (2017).csv,False,0,Entity,ok,
+Google Mobility Trends (2020),Google Mobility Trends (2020).csv,True,180,Entity,ok,sources/owid-datasets/italy/Google_Mobility_Trends_2020_a432cc93.csv
+Government Education Expenditure 1960-2010 - Szirmai (2015),Government Education Expenditure 1960-2010 - Szirmai (2015).csv,False,0,Entity,ok,
+Government Expenditure – IMF based on Mauro et al. (2015),Government Expenditure – IMF based on Mauro et al. (2015).csv,True,132,Entity,ok,sources/owid-datasets/italy/Government_Expenditure_IMF_based_on_Mauro_et_al_2015_6db16073.csv
+Government Revenue – Wallis (2000),Government Revenue – Wallis (2000).csv,False,0,Entity,ok,
+"Government Spending – Roine, Vlachos, Waldenström (2009) and US Historical Tables (2016)","Government Spending – Roine, Vlachos, Waldenström (2009) and US Historical Tables (2016).csv",True,69,Entity,ok,sources/owid-datasets/italy/Government_Spending_Roine_Vlachos_Waldenström_2009_and_US_Historical_Tables_2016_367ee4f5.csv
+Government Transparency index - Hollyer et al. (2014),Government Transparency index - Hollyer et al. (2014).csv,True,31,Entity,ok,sources/owid-datasets/italy/Government_Transparency_index_-_Hollyer_et_al_2014_65cab75a.csv
+Government expenditure and learning outcomes,Government expenditure and learning outcomes.csv,True,1,Entity,ok,sources/owid-datasets/italy/Government_expenditure_and_learning_outcomes_7c2591f0.csv
+Government spending – OECD (2017),Government spending – OECD (2017).csv,True,10,Entity,ok,sources/owid-datasets/italy/Government_spending_OECD_2017_17ffa82c.csv
+Guinea Worm Cases - The Carter Center (2022),Guinea Worm Cases - The Carter Center (2022).csv,False,0,Entity,ok,
+Guinea Worm Cases - WHO (2018),Guinea Worm Cases - WHO (2018).csv,False,0,Entity,ok,
+Guinea worm WHO certification status - WHO 2018,Guinea worm WHO certification status - WHO 2018.csv,True,22,Entity,ok,sources/owid-datasets/italy/Guinea_worm_WHO_certification_status_-_WHO_2018_a001c3e9.csv
+HALF Index (Land Use) - Alexander et al. (2016),HALF Index (Land Use) - Alexander et al. (2016).csv,True,1,Entity,ok,sources/owid-datasets/italy/HALF_Index_Land_Use_-_Alexander_et_al_2016_3a861dd2.csv
+HadCRUT Temperature Anomaly,HadCRUT Temperature Anomaly.csv,True,168,Entity,ok,sources/owid-datasets/italy/HadCRUT_Temperature_Anomaly_be7a2d38.csv
+Happiness predictors – World Happiness Report (2017),Happiness predictors – World Happiness Report (2017).csv,False,0,Entity,ok,
+Health Coverage – ILO (2014),Health Coverage – ILO (2014).csv,True,1,Entity,ok,sources/owid-datasets/italy/Health_Coverage_ILO_2014_09931412.csv
+Health Expenditure UK 1950-2012 - Office of Health Economics (2012),Health Expenditure UK 1950-2012 - Office of Health Economics (2012).csv,False,0,Entity,ok,
+Health Expenditure US 1929-2013 Private - US Census and WDI (2013),Health Expenditure US 1929-2013 Private - US Census and WDI (2013).csv,False,0,Entity,ok,
+Health Expenditure US 1929-2013 Public - US Census and WDI (2013),Health Expenditure US 1929-2013 Public - US Census and WDI (2013).csv,False,0,Entity,ok,
+Health Expenditure and Financing - OECDstat (2017),Health Expenditure and Financing - OECDstat (2017).csv,True,46,Entity,ok,sources/owid-datasets/italy/Health_Expenditure_and_Financing_-_OECDstat_2017_6d6827e6.csv
+Health Insurance Coverage (US) - US Current Population Survey (2014),Health Insurance Coverage (US) - US Current Population Survey (2014).csv,False,0,Entity,ok,
+"Health provider absence rates - Chaudhury, Hammer, Kremer, Muralidharan, and Rogers (2006)","Health provider absence rates - Chaudhury, Hammer, Kremer, Muralidharan, and Rogers (2006).csv",False,0,Entity,ok,
+Healthcare Access and Quality Index – IHME (2017),Healthcare Access and Quality Index – IHME (2017).csv,True,6,Entity,ok,sources/owid-datasets/italy/Healthcare_Access_and_Quality_Index_IHME_2017_e892eea8.csv
+Healthy Life Expectancy - IHME,Healthy Life Expectancy - IHME.csv,True,27,Entity,ok,sources/owid-datasets/italy/Healthy_Life_Expectancy_-_IHME_4f1483c1.csv
+Heights of Early Europeans - based on Hermanussen (2003) and the NCD RisC (2017),Heights of Early Europeans - based on Hermanussen (2003) and the NCD RisC (2017).csv,False,0,Entity,ok,
+Hidden Hunger Index in pre-school children - Muthayya et al. (2013),Hidden Hunger Index in pre-school children - Muthayya et al. (2013).csv,False,0,Entity,ok,
+Historical Index of Human Development (without GDP) - Prados de la Escosura,Historical Index of Human Development (without GDP) - Prados de la Escosura.csv,False,0,,read_fail: No columns to parse from file,
+Historical Index of Human Development - Prados de la Escosura,Historical Index of Human Development - Prados de la Escosura.csv,False,0,,read_fail: No columns to parse from file,
+"Historical World Population Prospects (UN, various years)","Historical World Population Prospects (UN, various years).csv",False,0,,read_fail: No columns to parse from file,
+"Historical cost of computer memory and storage (John C. McCallum, 2022)","Historical cost of computer memory and storage (John C. McCallum, 2022).csv",False,0,,read_fail: No columns to parse from file,
+Historical employment and output by sector – OWID (2017),Historical employment and output by sector – OWID (2017).csv,False,0,Entity,ok,
+Historical gender equality index - How Was Life! (2014),Historical gender equality index - How Was Life! (2014).csv,False,0,Entity,ok,
+Historical urban fraction estimates and total computed urban areas - HYDE 3.1 (2010),Historical urban fraction estimates and total computed urban areas - HYDE 3.1 (2010).csv,False,0,Entity,ok,
+Historical world population comparison (various sources),Historical world population comparison (various sources).csv,False,0,,read_fail: No columns to parse from file,
+Homelessness and Precarious Housing - OECD (2016),Homelessness and Precarious Housing - OECD (2016).csv,False,0,Entity,ok,
+Homelessness prevalence - Toro et al. (2007),Homelessness prevalence - Toro et al. (2007).csv,True,1,Entity,ok,sources/owid-datasets/italy/Homelessness_prevalence_-_Toro_et_al_2007_b8880b5d.csv
+Homicide rates in Europe over long-term (Eisner & IHME),Homicide rates in Europe over long-term (Eisner & IHME).csv,True,41,Entity,ok,sources/owid-datasets/italy/Homicide_rates_in_Europe_over_long-term_Eisner_IHME_4876c4da.csv
+Homosexuality opinions – WVS (1981-2016),Homosexuality opinions – WVS (1981-2016).csv,True,1,Entity,ok,sources/owid-datasets/italy/Homosexuality_opinions_WVS_1981-2016_37f4ae00.csv
+Homosexuality public opinion – Pew Research (2013),Homosexuality public opinion – Pew Research (2013).csv,True,3,Entity,ok,sources/owid-datasets/italy/Homosexuality_public_opinion_Pew_Research_2013_da930056.csv
+"Household expenditure on Housing, water, electricity, gas and other fuels as a share of GDP - UN","Household expenditure on Housing, water, electricity, gas and other fuels as a share of GDP - UN.csv",True,48,Entity,ok,sources/owid-datasets/italy/Household_expenditure_on_Housing_water_electricity_gas_and_other_fuels_as_a_share_of_GDP_-_UN_4dddbb2c.csv
+Households' actual and imputed rent as share of GDP – OECD,Households' actual and imputed rent as share of GDP – OECD.csv,True,24,Entity,ok,sources/owid-datasets/italy/Households_actual_and_imputed_rent_as_share_of_GDP_OECD_015c0243.csv
+How Europeans spend their time - European Commission (2004),How Europeans spend their time - European Commission (2004).csv,False,0,Entity,ok,
+Hubbert's Peak - Cavallo & EIA,Hubbert's Peak - Cavallo & EIA.csv,False,0,Entity,ok,
+"Human Capital Index (World Bank, 2018)","Human Capital Index (World Bank, 2018).csv",True,1,Entity,ok,sources/owid-datasets/italy/Human_Capital_Index_World_Bank_2018_34717a05.csv
+Human Capital in Long-Run - Lee-Lee (2016),Human Capital in Long-Run - Lee-Lee (2016).csv,True,39,Entity,ok,sources/owid-datasets/italy/Human_Capital_in_Long-Run_-_Lee-Lee_2016_44b59dbc.csv
+Human Development Index - UNDP,Human Development Index - UNDP.csv,True,30,Entity,ok,sources/owid-datasets/italy/Human_Development_Index_-_UNDP_1f7bee14.csv
+Human Height - NCD RisC (2017),Human Height - NCD RisC (2017).csv,True,101,Entity,ok,sources/owid-datasets/italy/Human_Height_-_NCD_RisC_2017_bef5ace7.csv
+Human Height - University of Tuebingen (2015),Human Height - University of Tuebingen (2015).csv,True,18,Entity,ok,sources/owid-datasets/italy/Human_Height_-_University_of_Tuebingen_2015_6bbcdca4.csv
+Human Rights Protection Score – Christopher Farris (2014) and Keith Schnakenberg,Human Rights Protection Score – Christopher Farris (2014) and Keith Schnakenberg.csv,True,66,Entity,ok,sources/owid-datasets/italy/Human_Rights_Protection_Score_Christopher_Farris_2014_and_Keith_Schnakenberg_e9a5e1de.csv
+Human rights protection – Fariss et al. (2020),Human rights protection – Fariss et al. (2020).csv,True,74,Entity,ok,sources/owid-datasets/italy/Human_rights_protection_Fariss_et_al_2020_a1f7d46c.csv
+Hypothetical global CO2 emissions - CDIAC (2014),Hypothetical global CO2 emissions - CDIAC (2014).csv,True,1,Entity,ok,sources/owid-datasets/italy/Hypothetical_global_CO2_emissions_-_CDIAC_2014_10590927.csv
+Hypothetical meat consumption - OWID based on FAO & UN,Hypothetical meat consumption - OWID based on FAO & UN.csv,True,53,Entity,ok,sources/owid-datasets/italy/Hypothetical_meat_consumption_-_OWID_based_on_FAO_UN_1ee4bf8b.csv
+IPCC Scenarios (IIASA),IPCC Scenarios (IIASA).csv,False,0,Entity,ok,
+IQ Data - Pietschnig and Voracek (2015),IQ Data - Pietschnig and Voracek (2015).csv,False,0,Entity,ok,
+"Incidence of child labor (England, Italy, US, World) - Cunningham and Viazzo (1996) and others","Incidence of child labor (England, Italy, US, World) - Cunningham and Viazzo (1996) and others.csv",True,8,Entity,ok,sources/owid-datasets/italy/Incidence_of_child_labor_England_Italy_US_World_-_Cunningham_and_Viazzo_1996_and_others_9f3a4f3a.csv
+Incidence of managerial or professional jobs and collective-bargaining by gender - Blau and Kahn (20,Incidence of managerial or professional jobs and collective-bargaining by gender - Blau and Kahn (20.csv,False,0,Entity,ok,
+Income Classification - World Bank (2017),Income Classification - World Bank (2017).csv,False,0,,read_fail: No columns to parse from file,
+Income Classification - World Bank (2021),Income Classification - World Bank (2021).csv,False,0,,read_fail: No columns to parse from file,
+"Incomes across the Distribution Database (Nolan, Thewissen, Roser) in levels (2016)","Incomes across the Distribution Database (Nolan, Thewissen, Roser) in levels (2016).csv",True,11,Entity,ok,sources/owid-datasets/italy/Incomes_across_the_Distribution_Database_Nolan_Thewissen_Roser_in_levels_2016_dd8a030b.csv
+"Incomes across the Distribution Database (authored by Nolan, Thewissen, Roser; based on LIS) indexed","Incomes across the Distribution Database (authored by Nolan, Thewissen, Roser; based on LIS) indexed.csv",True,11,Entity,ok,sources/owid-datasets/italy/Incomes_across_the_Distribution_Database_authored_by_Nolan_Thewissen_Roser_based_on_LIS_indexed_b2187765.csv
+"Incomes across the Distribution Database, Gini (2016)","Incomes across the Distribution Database, Gini (2016).csv",True,11,Entity,ok,sources/owid-datasets/italy/Incomes_across_the_Distribution_Database_Gini_2016_3ec592cb.csv
+Indicators for !What is PPP!  - World Bank,Indicators for !What is PPP!  - World Bank.csv,True,26,Entity,ok,sources/owid-datasets/italy/Indicators_for_What_is_PPP_-_World_Bank_31faab42.csv
+Industrial motive power in the UK 1800-70 (Musson (1976)),Industrial motive power in the UK 1800-70 (Musson (1976)).csv,False,0,Entity,ok,
+Inequality before and after taxes – OECD (2008),Inequality before and after taxes – OECD (2008).csv,True,1,Entity,ok,sources/owid-datasets/italy/Inequality_before_and_after_taxes_OECD_2008_093e165c.csv
+Inequality in Latin America - SEDLAC (CEDLAS and the World Bank),Inequality in Latin America - SEDLAC (CEDLAS and the World Bank).csv,False,0,Entity,ok,
+Inequality in human development indices - UNDP (2019),Inequality in human development indices - UNDP (2019).csv,True,2,Entity,ok,sources/owid-datasets/italy/Inequality_in_human_development_indices_-_UNDP_2019_05497eab.csv
+Infant mortality rate (IHME - 2017),Infant mortality rate (IHME - 2017).csv,True,28,Entity,ok,sources/owid-datasets/italy/Infant_mortality_rate_IHME_-_2017_f946b7e1.csv
+Inheritance for women - How Was Life! (2014),Inheritance for women - How Was Life! (2014).csv,True,3,Entity,ok,sources/owid-datasets/italy/Inheritance_for_women_-_How_Was_Life_2014_e99bf444.csv
+Integrated Network for Societal Conflict Research! Political Instability Task Force (PITF),Integrated Network for Societal Conflict Research! Political Instability Task Force (PITF).csv,False,0,Entity,ok,
+"Intercontinental Trade - Costa, Palma and Reis (2015)","Intercontinental Trade - Costa, Palma and Reis (2015).csv",True,5,Entity,ok,sources/owid-datasets/italy/Intercontinental_Trade_-_Costa_Palma_and_Reis_2015_7df9a4ac.csv
+"International Historical Statistics (Births per 1,000) - Brian Mitchell (2013)","International Historical Statistics (Births per 1,000) - Brian Mitchell (2013).csv",True,110,Entity,ok,sources/owid-datasets/italy/International_Historical_Statistics_Births_per_1_000_-_Brian_Mitchell_2013_adaa41f0.csv
+"International Historical Statistics (Deaths per 1,000) - Brian Mitchell (2013)","International Historical Statistics (Deaths per 1,000) - Brian Mitchell (2013).csv",False,0,,read_fail: No columns to parse from file,
+International Historical Statistics! European trade - Brian Mitchell (2015),International Historical Statistics! European trade - Brian Mitchell (2015).csv,True,43,Entity,ok,sources/owid-datasets/italy/International_Historical_Statistics_European_trade_-_Brian_Mitchell_2015_166101da.csv
+Internet use in the US by age (Pew Research Center),Internet use in the US by age (Pew Research Center).csv,False,0,,read_fail: No columns to parse from file,
+Interpersonal Trust - General Social Survey (GSS),Interpersonal Trust - General Social Survey (GSS).csv,False,0,Entity,ok,
+Investment in renewables by technology - IRENA (2017),Investment in renewables by technology - IRENA (2017).csv,False,0,Entity,ok,
+Job search methods US - Pew Research Center (2015),Job search methods US - Pew Research Center (2015).csv,False,0,Entity,ok,
+Key Indicators,Key Indicators.csv,False,0,,read_fail: No columns to parse from file,
+LGBT Marital Status in the US (Gallup 2017),LGBT Marital Status in the US (Gallup 2017).csv,False,0,Entity,ok,
+LIS Key Figures – Luxumbourg Income Study,LIS Key Figures – Luxumbourg Income Study.csv,True,12,Entity,ok,sources/owid-datasets/italy/LIS_Key_Figures_Luxumbourg_Income_Study_c7dc9a63.csv
+Lab-grown meat prices - NextBigFuture (2017) and United States Bureau of Labor Statistics (BLS) (201,Lab-grown meat prices - NextBigFuture (2017) and United States Bureau of Labor Statistics (BLS) (201.csv,False,0,Entity,ok,
+Labor Force Participation Rates of Men Age 65 and Over in the US – OWID based on Short (2002) and OE,Labor Force Participation Rates of Men Age 65 and Over in the US – OWID based on Short (2002) and OE.csv,False,0,Entity,ok,
+Labor productivity in cotton spinning (Chapman (1972)),Labor productivity in cotton spinning (Chapman (1972)).csv,False,0,Entity,ok,
+Labor productivity in cotton spinning and weaving (Ellison (1886)),Labor productivity in cotton spinning and weaving (Ellison (1886)).csv,False,0,Entity,ok,
+"Labor productivity per hour (Hill, Thomas, Dimsdale (2016), Bank of England)","Labor productivity per hour (Hill, Thomas, Dimsdale (2016), Bank of England).csv",False,0,Entity,ok,
+Labour cost ratio (45-54 year-old population) 2009 - OECD (2012),Labour cost ratio (45-54 year-old population) 2009 - OECD (2012).csv,True,1,Entity,ok,sources/owid-datasets/italy/Labour_cost_ratio_45-54_year-old_population_2009_-_OECD_2012_75134838.csv
+Land Use Data - HYDE (2017),Land Use Data - HYDE (2017).csv,False,0,Entity,ok,
+Land Use Map by Area - OWID based on FAO,Land Use Map by Area - OWID based on FAO.csv,True,1,Entity,ok,sources/owid-datasets/italy/Land_Use_Map_by_Area_-_OWID_based_on_FAO_2cee8ff4.csv
+Land under cereal production index - World Bank (2017),Land under cereal production index - World Bank (2017).csv,True,54,Entity,ok,sources/owid-datasets/italy/Land_under_cereal_production_index_-_World_Bank_2017_30526d4e.csv
+Land use for biofuels,Land use for biofuels.csv,True,59,Entity,ok,sources/owid-datasets/italy/Land_use_for_biofuels_5556eb2b.csv
+Land use since 10000BC (Ellis et al. (2020)),Land use since 10000BC (Ellis et al. (2020)).csv,False,0,Entity,ok,
+Largest cities by population density - UN Habitat (2014),Largest cities by population density - UN Habitat (2014).csv,False,0,Entity,ok,
+"Learning costs, J. Doyne Farmer and François Lafond (2016)","Learning costs, J. Doyne Farmer and François Lafond (2016).csv",False,0,Entity,ok,
+Learning-Adjusted Years of Schooling - World Bank (2018),Learning-Adjusted Years of Schooling - World Bank (2018).csv,True,1,Entity,ok,sources/owid-datasets/italy/Learning-Adjusted_Years_of_Schooling_-_World_Bank_2018_10a32883.csv
+Length of the work day! from 1890s to 1991 - Costa (2000),Length of the work day! from 1890s to 1991 - Costa (2000).csv,False,0,Entity,ok,
+Length of the workday in 1880 - Atack and Bateman (1992),Length of the workday in 1880 - Atack and Bateman (1992).csv,False,0,Entity,ok,
+Levels of Urbanization and per capita GNP in Various Regions - Bairoch (1988),Levels of Urbanization and per capita GNP in Various Regions - Bairoch (1988).csv,False,0,Entity,ok,
+Life Expectancy (1950-2015) – UN Population Division (2015),Life Expectancy (1950-2015) – UN Population Division (2015).csv,True,13,Entity,ok,sources/owid-datasets/italy/Life_Expectancy_1950-2015_UN_Population_Division_2015_f1a9d8bc.csv
+Life Expectancy (at birth) - World Bank (2015),Life Expectancy (at birth) - World Bank (2015).csv,True,54,Entity,ok,sources/owid-datasets/italy/Life_Expectancy_at_birth_-_World_Bank_2015_5ec8d975.csv
+Life Expectancy at Birth (both genders) – Clio Infra,Life Expectancy at Birth (both genders) – Clio Infra.csv,True,140,Entity,ok,sources/owid-datasets/italy/Life_Expectancy_at_Birth_both_genders_Clio_Infra_b0a58c0e.csv
+"Life expectancy (Gapminder, UN, IHME)","Life expectancy (Gapminder, UN, IHME).csv",True,217,Entity,ok,sources/owid-datasets/italy/Life_expectancy_Gapminder_UN_IHME_0aa12dec.csv
+Life expectancy - OECD,Life expectancy - OECD.csv,True,44,Entity,ok,sources/owid-datasets/italy/Life_expectancy_-_OECD_46e6316a.csv
+Life expectancy - Riley (2005) and UN ,Life expectancy - Riley (2005) and UN .csv,False,0,Entity,ok,
+"Life expectancy - Riley (2005), Clio Infra (2015), and UN (2019)","Life expectancy - Riley (2005), Clio Infra (2015), and UN (2019).csv",True,148,Entity,ok,sources/owid-datasets/italy/Life_expectancy_-_Riley_2005_Clio_Infra_2015_and_UN_2019_551ba51d.csv
+"Life expectancy at age 10, 1750-2100 - United Nations Population Division and Human Mortality Databa","Life expectancy at age 10, 1750-2100 - United Nations Population Division and Human Mortality Databa.csv",True,70,Entity,ok,sources/owid-datasets/italy/Life_expectancy_at_age_10_1750-2100_-_United_Nations_Population_Division_and_Human_Mortality_Databa_4624677e.csv
+Life expectancy projections - UK ONS,Life expectancy projections - UK ONS.csv,False,0,Entity,ok,
+Life expectancy – James Riley for data 1990 and earlier; WHO and World Bank for later data (by Max R,Life expectancy – James Riley for data 1990 and earlier; WHO and World Bank for later data (by Max R.csv,False,0,Entity,ok,
+"Life expectation by sex at ages 0, 15, and 45 - OWID based on Hacker (2010) and the US Social Securi","Life expectation by sex at ages 0, 15, and 45 - OWID based on Hacker (2010) and the US Social Securi.csv",False,0,Entity,ok,
+Life satisfaction – Eurobarometer (2017),Life satisfaction – Eurobarometer (2017).csv,True,42,Entity,ok,sources/owid-datasets/italy/Life_satisfaction_Eurobarometer_2017_1474acce.csv
+Life satisfaction – World Value Survey (2014),Life satisfaction – World Value Survey (2014).csv,True,1,Entity,ok,sources/owid-datasets/italy/Life_satisfaction_World_Value_Survey_2014_751b4af9.csv
+Life-cycle impacts of energy sources (UNECE),Life-cycle impacts of energy sources (UNECE).csv,False,0,Entity,ok,
+Lighting efficiency in UK - OWID based on Fouquet & Pearson (2007),Lighting efficiency in UK - OWID based on Fouquet & Pearson (2007).csv,False,0,Entity,ok,
+Literacy by years of schooling US 1947 – OECD (2014) ,Literacy by years of schooling US 1947 – OECD (2014) .csv,False,0,Entity,ok,
+"Literacy in England, by sex - Schofield (1973), Houston (1982), Cressy (1980) ","Literacy in England, by sex - Schofield (1973), Houston (1982), Cressy (1980) .csv",False,0,Entity,ok,
+Literacy rate (% of total respondents) - DHS Surveys,Literacy rate (% of total respondents) - DHS Surveys.csv,False,0,Entity,ok,
+Literate world population (OurWorldInData based on OECD and UNESCO),Literate world population (OurWorldInData based on OECD and UNESCO).csv,True,1,Entity,ok,sources/owid-datasets/italy/Literate_world_population_OurWorldInData_based_on_OECD_and_UNESCO_66b82d6e.csv
+Livestock counts - HYDE & FAO (2017),Livestock counts - HYDE & FAO (2017).csv,False,0,Entity,ok,
+"Long run life expectancy - Gapminder, UN","Long run life expectancy - Gapminder, UN.csv",True,216,Entity,ok,sources/owid-datasets/italy/Long_run_life_expectancy_-_Gapminder_UN_a7f12367.csv
+"Long run time use in Norway, by sex - Norway Statistics","Long run time use in Norway, by sex - Norway Statistics.csv",False,0,Entity,ok,
+"Long term productivity - Bergeaud, Cette, and Lecat (2016)","Long term productivity - Bergeaud, Cette, and Lecat (2016).csv",True,217,Entity,ok,sources/owid-datasets/italy/Long_term_productivity_-_Bergeaud_Cette_and_Lecat_2016_80e37617.csv
+Long-term energy transition in Europe - Gales et al. (2007),Long-term energy transition in Europe - Gales et al. (2007).csv,True,4,Entity,ok,sources/owid-datasets/italy/Long-term_energy_transition_in_Europe_-_Gales_et_al_2007_3c780da0.csv
+"Long-term energy transitions - Energy History, Harvard (2016)","Long-term energy transitions - Energy History, Harvard (2016).csv",True,148,Entity,ok,sources/owid-datasets/italy/Long-term_energy_transitions_-_Energy_History_Harvard_2016_bfcbe4ad.csv
+Long-term homicide rates in Europe - Eisner (2014),Long-term homicide rates in Europe - Eisner (2014).csv,False,0,,read_fail: No columns to parse from file,
+"Long-term per capita fossil fuels - OWID based on UN, Gapminder, BP, Etemad & Luciana","Long-term per capita fossil fuels - OWID based on UN, Gapminder, BP, Etemad & Luciana.csv",True,117,Entity,ok,sources/owid-datasets/italy/Long-term_per_capita_fossil_fuels_-_OWID_based_on_UN_Gapminder_BP_Etemad_Luciana_ae536c61.csv
+Long-term wheat yields - FAO (2017) & Bayliss-Smith (1984),Long-term wheat yields - FAO (2017) & Bayliss-Smith (1984).csv,True,58,Entity,ok,sources/owid-datasets/italy/Long-term_wheat_yields_-_FAO_2017_Bayliss-Smith_1984_14007319.csv
+Long-term yields in the United Kingdom (2022),Long-term yields in the United Kingdom (2022).csv,False,0,Entity,ok,
+Lost school grants - Reinikka and Svensson (2004),Lost school grants - Reinikka and Svensson (2004).csv,False,0,Entity,ok,
+"Lowest paying occupations, percent female – NWLC (2014)","Lowest paying occupations, percent female – NWLC (2014).csv",False,0,Entity,ok,
+"Lung cancer mortality rates (per 100,000) (2022)","Lung cancer mortality rates (per 100,000) (2022).csv",True,67,Entity,ok,sources/owid-datasets/italy/Lung_cancer_mortality_rates_per_100_000_2022_16ceb0c6.csv
+MDG Final Evaluation (UN MDG Report),MDG Final Evaluation (UN MDG Report).csv,False,0,Entity,ok,
+Maddison Project Database 2020 (Bolt and van Zanden (2020)),Maddison Project Database 2020 (Bolt and van Zanden (2020)).csv,True,711,Entity,ok,sources/owid-datasets/italy/Maddison_Project_Database_2020_Bolt_and_van_Zanden_2020_5374e3b1.csv
+Malaria deaths - IHME (2016),Malaria deaths - IHME (2016).csv,True,27,Entity,ok,sources/owid-datasets/italy/Malaria_deaths_-_IHME_2016_45e02639.csv
+Male and female life expectancy by age in the long run (Human Mortality Database (2018) and others),Male and female life expectancy by age in the long run (Human Mortality Database (2018) and others).csv,False,0,Entity,ok,
+Male-to-female ratio high school courses in USA - Goldin et al.,Male-to-female ratio high school courses in USA - Goldin et al..csv,False,0,Entity,ok,
+Marine stocks by region and taxa (ramlegacy),Marine stocks by region and taxa (ramlegacy).csv,False,0,Entity,ok,
+Market share of iodized salt in European countries - European Commission (2006),Market share of iodized salt in European countries - European Commission (2006).csv,True,1,Entity,ok,sources/owid-datasets/italy/Market_share_of_iodized_salt_in_European_countries_-_European_Commission_2006_95f788c1.csv
+"Maternal Mortality Ratio (Gapminder (2010), WHO (2019) and OECD (2022))","Maternal Mortality Ratio (Gapminder (2010), WHO (2019) and OECD (2022)).csv",True,50,Entity,ok,sources/owid-datasets/italy/Maternal_Mortality_Ratio_Gapminder_2010_WHO_2019_and_OECD_2022_f015575e.csv
+Maternal deaths to 2030 (BAU vs. SDG Target) - based on World Bank & UN (2018),Maternal deaths to 2030 (BAU vs. SDG Target) - based on World Bank & UN (2018).csv,True,16,Entity,ok,sources/owid-datasets/italy/Maternal_deaths_to_2030_BAU_vs_SDG_Target_-_based_on_World_Bank_UN_2018_64891e53.csv
+"Maternal mortality projection to 2030 (based on World Bank, 2018)","Maternal mortality projection to 2030 (based on World Bank, 2018).csv",True,16,Entity,ok,sources/owid-datasets/italy/Maternal_mortality_projection_to_2030_based_on_World_Bank_2018_1fa3d5ac.csv
+Mean BMI - NCD RisC (2017),Mean BMI - NCD RisC (2017).csv,True,42,Entity,ok,sources/owid-datasets/italy/Mean_BMI_-_NCD_RisC_2017_a5ff8a65.csv
+"Mean years of schooling, women (15 to 49) – Our World In Data (2017)","Mean years of schooling, women (15 to 49) – Our World In Data (2017).csv",True,13,Entity,ok,sources/owid-datasets/italy/Mean_years_of_schooling_women_15_to_49_Our_World_In_Data_2017_12fbdecc.csv
+Measles London,Measles London.csv,False,0,Entity,ok,
+Measures and indicators for Poverty - PovcalNet (World Bank) (2017),Measures and indicators for Poverty - PovcalNet (World Bank) (2017).csv,False,0,Entity,ok,
+"Meat consumption in EU28 (OECD, 2018)","Meat consumption in EU28 (OECD, 2018).csv",False,0,Entity,ok,
+"Meat consumption in the USA (USDA, 2018)","Meat consumption in the USA (USDA, 2018).csv",False,0,Entity,ok,
+Meat conversion efficiencies - Alexander et al. (2016),Meat conversion efficiencies - Alexander et al. (2016).csv,False,0,Entity,ok,
+Median UN Population Projections - Global vs Africa (OWID based on UN),Median UN Population Projections - Global vs Africa (OWID based on UN).csv,True,86,Entity,ok,sources/owid-datasets/italy/Median_UN_Population_Projections_-_Global_vs_Africa_OWID_based_on_UN_79311292.csv
+Mental and substance use disorder disaggregated - IHME,Mental and substance use disorder disaggregated - IHME.csv,True,27,Entity,ok,sources/owid-datasets/italy/Mental_and_substance_use_disorder_disaggregated_-_IHME_61dbaedf.csv
+Mental health as risk factor for substance use - Swendsen et al. (2010),Mental health as risk factor for substance use - Swendsen et al. (2010).csv,False,0,Entity,ok,
+Mental health services across incomes - Wang et al. (2007),Mental health services across incomes - Wang et al. (2007).csv,True,1,Entity,ok,sources/owid-datasets/italy/Mental_health_services_across_incomes_-_Wang_et_al_2007_8c11f166.csv
+Metal production - Clio Infra & USGS,Metal production - Clio Infra & USGS.csv,True,335,Entity,ok,sources/owid-datasets/italy/Metal_production_-_Clio_Infra_USGS_d31d1e8a.csv
+"Methane emissions by sector (CAIT, 2020)","Methane emissions by sector (CAIT, 2020).csv",True,27,Entity,ok,sources/owid-datasets/italy/Methane_emissions_by_sector_CAIT_2020_8af666d6.csv
+"Methane emissions by sector (CAIT, 2021)","Methane emissions by sector (CAIT, 2021).csv",True,29,Entity,ok,sources/owid-datasets/italy/Methane_emissions_by_sector_CAIT_2021_a6e8195f.csv
+Milestones of Women's Political Representation - Paxton et al (2006),Milestones of Women's Political Representation - Paxton et al (2006).csv,True,125,Entity,ok,sources/owid-datasets/italy/Milestones_of_Women_s_Political_Representation_-_Paxton_et_al_2006_1de1c25d.csv
+Military expenditure as a share of GDP - OWID based on COW & SIPRI (2017),Military expenditure as a share of GDP - OWID based on COW & SIPRI (2017).csv,True,153,Entity,ok,sources/owid-datasets/italy/Military_expenditure_as_a_share_of_GDP_-_OWID_based_on_COW_SIPRI_2017_8236cf58.csv
+Mineral production (BGS (2016)),Mineral production (BGS (2016)).csv,True,34,Entity,ok,sources/owid-datasets/italy/Mineral_production_BGS_2016_ade9fbdf.csv
+Minimum reading and maths proficiency (GEM Report (2017!8)),Minimum reading and maths proficiency (GEM Report (2017!8)).csv,True,1,Entity,ok,sources/owid-datasets/italy/Minimum_reading_and_maths_proficiency_GEM_Report_2017_8_a858a1f0.csv
+Missing plastic budget (Lebreton et al. 2019),Missing plastic budget (Lebreton et al. 2019).csv,False,0,Entity,ok,
+"Missing women estimates (Bongaarts & Guilmoto, 2015)","Missing women estimates (Bongaarts & Guilmoto, 2015).csv",False,0,Entity,ok,
+Mobile Bank Accounts by Region - GSMA (2019),Mobile Bank Accounts by Region - GSMA (2019).csv,False,0,Entity,ok,
+Mortality from all forms of violence  (IHME (2016)),Mortality from all forms of violence  (IHME (2016)).csv,True,27,Entity,ok,sources/owid-datasets/italy/Mortality_from_all_forms_of_violence_IHME_2016_bda3d65e.csv
+Motor vehicles per 1000 people - NationMaster (2014),Motor vehicles per 1000 people - NationMaster (2014).csv,True,1,Entity,ok,sources/owid-datasets/italy/Motor_vehicles_per_1000_people_-_NationMaster_2014_5c9c460c.csv
+Multidimensional Poverty Index (MPI) 2022 – Current estimates,Multidimensional Poverty Index (MPI) 2022 – Current estimates.csv,False,0,Entity,ok,
+Multidimensional Poverty Index (MPI) 2022 – Harmonized over time estimates,Multidimensional Poverty Index (MPI) 2022 – Harmonized over time estimates.csv,False,0,Entity,ok,
+Multinational Time Use Study (MTUS) - Gershuny and Fisher (2013),Multinational Time Use Study (MTUS) - Gershuny and Fisher (2013).csv,True,4,Entity,ok,sources/owid-datasets/italy/Multinational_Time_Use_Study_MTUS_-_Gershuny_and_Fisher_2013_722eb619.csv
+NIH - DNA Sequencing Costs,NIH - DNA Sequencing Costs.csv,False,0,,read_fail: No columns to parse from file,
+National Poverty Lines - Jolliffe and Prydz (2016),National Poverty Lines - Jolliffe and Prydz (2016).csv,True,1,Entity,ok,sources/owid-datasets/italy/National_Poverty_Lines_-_Jolliffe_and_Prydz_2016_edcd4d25.csv
+"National poverty lines (Jolliffe et al., 2022)","National poverty lines (Jolliffe et al., 2022).csv",True,1,Entity,ok,sources/owid-datasets/italy/National_poverty_lines_Jolliffe_et_al_2022_c73ba872.csv
+Natural disasters (EMDAT – decadal),Natural disasters (EMDAT – decadal).csv,True,12,Entity,ok,sources/owid-datasets/italy/Natural_disasters_EMDAT_decadal_8424a155.csv
+Natural disasters (EMDAT),Natural disasters (EMDAT).csv,True,68,Entity,ok,sources/owid-datasets/italy/Natural_disasters_EMDAT_4295fac5.csv
+Natural disasters from 1900 to 2019 - EMDAT (2020),Natural disasters from 1900 to 2019 - EMDAT (2020).csv,False,0,Entity,ok,
+Neglected Tropical Diseases (Lymphatic Filariasis) Population requiring PC not-treated and treated -,Neglected Tropical Diseases (Lymphatic Filariasis) Population requiring PC not-treated and treated -.csv,False,0,Entity,ok,
+Neonatal Mortality Rate - via Childmortality.org (2015),Neonatal Mortality Rate - via Childmortality.org (2015).csv,True,56,Entity,ok,sources/owid-datasets/italy/Neonatal_Mortality_Rate_-_via_Childmortality_org_2015_3eb7aa20.csv
+Neonatal tetanus incidence,Neonatal tetanus incidence.csv,False,0,Entity,ok,
+"New estimates of hours of work per week, 1900-1957 - Jones (1963)","New estimates of hours of work per week, 1900-1957 - Jones (1963).csv",False,0,Entity,ok,
+Newsworthiness of disasters by disaster type and region - Eisensee and Strömberg (2007),Newsworthiness of disasters by disaster type and region - Eisensee and Strömberg (2007).csv,False,0,Entity,ok,
+"Nitrous oxide emissions by sector (CAIT, 2020)","Nitrous oxide emissions by sector (CAIT, 2020).csv",True,27,Entity,ok,sources/owid-datasets/italy/Nitrous_oxide_emissions_by_sector_CAIT_2020_06ac06bf.csv
+"Nitrous oxide emissions by sector (CAIT, 2021)","Nitrous oxide emissions by sector (CAIT, 2021).csv",True,29,Entity,ok,sources/owid-datasets/italy/Nitrous_oxide_emissions_by_sector_CAIT_2021_e73b8b64.csv
+Non-commercial flight distance records - Wikipedia,Non-commercial flight distance records - Wikipedia.csv,False,0,,read_fail: No columns to parse from file,
+"Nuclear weapons proliferation total – OWID based on Bleek (2017), Nuclear Threat Initiative (2022)","Nuclear weapons proliferation total – OWID based on Bleek (2017), Nuclear Threat Initiative (2022).csv",False,0,Entity,ok,
+"Nuclear weapons proliferation – OWID based on Bleek (2017), Nuclear Threat Initiative (2022)","Nuclear weapons proliferation – OWID based on Bleek (2017), Nuclear Threat Initiative (2022).csv",True,85,Entity,ok,sources/owid-datasets/italy/Nuclear_weapons_proliferation_OWID_based_on_Bleek_2017_Nuclear_Threat_Initiative_2022_49b07144.csv
+Nuclear weapons tests – Arms Control Association (2020),Nuclear weapons tests – Arms Control Association (2020).csv,False,0,Entity,ok,
+"Number and percentage of current smokers, by sex (American Lung Association (2011))","Number and percentage of current smokers, by sex (American Lung Association (2011)).csv",False,0,Entity,ok,
+"Number of child deaths 1950-2017 (IHME, 2017)","Number of child deaths 1950-2017 (IHME, 2017).csv",True,14,Entity,ok,sources/owid-datasets/italy/Number_of_child_deaths_1950-2017_IHME_2017_13242d91.csv
+Number of children who are stunted (OWID based on UNICEF!WHO),Number of children who are stunted (OWID based on UNICEF!WHO).csv,False,0,Entity,ok,
+Number of countries with minimum urban population threshold (UN;2018),Number of countries with minimum urban population threshold (UN;2018).csv,False,0,Entity,ok,
+Number of deaths due to tetanus,Number of deaths due to tetanus.csv,True,27,Entity,ok,sources/owid-datasets/italy/Number_of_deaths_due_to_tetanus_37c72125.csv
+Number of deaths in England and Wales by age - ONS,Number of deaths in England and Wales by age - ONS.csv,False,0,Entity,ok,
+Number of direct national elections — NELDA (2015),Number of direct national elections — NELDA (2015).csv,True,17,Entity,ok,sources/owid-datasets/italy/Number_of_direct_national_elections_NELDA_2015_7efbc24f.csv
+Number of infant deaths (IHME - 2017),Number of infant deaths (IHME - 2017).csv,True,28,Entity,ok,sources/owid-datasets/italy/Number_of_infant_deaths_IHME_-_2017_90a3ec7c.csv
+Number of neonatal deaths (IHME - 2017),Number of neonatal deaths (IHME - 2017).csv,True,28,Entity,ok,sources/owid-datasets/italy/Number_of_neonatal_deaths_IHME_-_2017_c02d1c51.csv
+Number of observations in Povcal per decade - OWID (2017),Number of observations in Povcal per decade - OWID (2017).csv,False,0,Entity,ok,
+Number of parties to multilateral environmental agreements - UNCTAD,Number of parties to multilateral environmental agreements - UNCTAD.csv,False,0,Entity,ok,
+"Number of people living in extreme poverty, by world region (World Bank PIP)","Number of people living in extreme poverty, by world region (World Bank PIP).csv",False,0,,read_fail: No columns to parse from file,
+Number of people with and without access to improved water sources - World Bank and UN,Number of people with and without access to improved water sources - World Bank and UN.csv,False,0,,read_fail: No columns to parse from file,
+"Number of people with and without energy access (OWID based on World Bank, 2021)","Number of people with and without energy access (OWID based on World Bank, 2021).csv",False,0,,read_fail: No columns to parse from file,
+"Number of people without access to safe water and sanitation (WHO Wash, 2019)","Number of people without access to safe water and sanitation (WHO Wash, 2019).csv",True,16,Entity,ok,sources/owid-datasets/italy/Number_of_people_without_access_to_safe_water_and_sanitation_WHO_Wash_2019_10cfab0f.csv
+Number of polio cases per one million population - WHO (2017),Number of polio cases per one million population - WHO (2017).csv,True,36,Entity,ok,sources/owid-datasets/italy/Number_of_polio_cases_per_one_million_population_-_WHO_2017_ab5c2b81.csv
+Number of published titles - Simons (2001),Number of published titles - Simons (2001).csv,False,0,Entity,ok,
+"Number of state-based conflicts, by conflict type and region (UCDP-PRIO)","Number of state-based conflicts, by conflict type and region (UCDP-PRIO).csv",False,0,Entity,ok,
+Number of surveys in the past decade (World Bank PIP),Number of surveys in the past decade (World Bank PIP).csv,False,0,,read_fail: No columns to parse from file,
+Number of tourist departures per 1000 - World Bank & UN (2019),Number of tourist departures per 1000 - World Bank & UN (2019).csv,True,22,Entity,ok,sources/owid-datasets/italy/Number_of_tourist_departures_per_1000_-_World_Bank_UN_2019_da3f9df5.csv
+OECD - Trust in government,OECD - Trust in government.csv,False,0,,read_fail: No columns to parse from file,
+OECD Education! PISA Test Scores - PISA (2015),OECD Education! PISA Test Scores - PISA (2015).csv,True,5,Entity,ok,sources/owid-datasets/italy/OECD_Education_PISA_Test_Scores_-_PISA_2015_1b934dbb.csv
+OECD Social Spending- Family,OECD Social Spending- Family.csv,True,10,Entity,ok,sources/owid-datasets/italy/OECD_Social_Spending-_Family_4591ac86.csv
+OECD Social Spending- Health,OECD Social Spending- Health.csv,True,10,Entity,ok,sources/owid-datasets/italy/OECD_Social_Spending-_Health_a820c1cc.csv
+OECD Social Spending- Housing,OECD Social Spending- Housing.csv,True,10,Entity,ok,sources/owid-datasets/italy/OECD_Social_Spending-_Housing_6a9b2b39.csv
+OECD Social Spending- Incapacity related,OECD Social Spending- Incapacity related.csv,True,10,Entity,ok,sources/owid-datasets/italy/OECD_Social_Spending-_Incapacity_related_b62ba5ac.csv
+OECD Social Spending- Old Age,OECD Social Spending- Old Age.csv,True,10,Entity,ok,sources/owid-datasets/italy/OECD_Social_Spending-_Old_Age_531c715b.csv
+OECD Social Spending- Other social policy areas,OECD Social Spending- Other social policy areas.csv,True,10,Entity,ok,sources/owid-datasets/italy/OECD_Social_Spending-_Other_social_policy_areas_bca227c9.csv
+OECD Social Spending- Survivors,OECD Social Spending- Survivors.csv,True,10,Entity,ok,sources/owid-datasets/italy/OECD_Social_Spending-_Survivors_fdfa683d.csv
+OECD Social Spending- Unemployment,OECD Social Spending- Unemployment.csv,True,10,Entity,ok,sources/owid-datasets/italy/OECD_Social_Spending-_Unemployment_0ff199db.csv
+OECD – Consumption Tax Trends 2016,OECD – Consumption Tax Trends 2016.csv,False,0,Entity,ok,
+OECD! Education Statistics (2017),OECD! Education Statistics (2017).csv,True,6,Entity,ok,sources/owid-datasets/italy/OECD_Education_Statistics_2017_8fc92e94.csv
+OPHI Multidimensional Poverty Index - Alkire and Robles (2016),OPHI Multidimensional Poverty Index - Alkire and Robles (2016).csv,False,0,Entity,ok,
+OWID country to WHO regions,OWID country to WHO regions.csv,True,1,Entity,ok,sources/owid-datasets/italy/OWID_country_to_WHO_regions_a8631dee.csv
+"Oil Spills (ITOPF, 2021)","Oil Spills (ITOPF, 2021).csv",False,0,,read_fail: No columns to parse from file,
+Oil production - Etemad & Luciana,Oil production - Etemad & Luciana.csv,True,115,Entity,ok,sources/owid-datasets/italy/Oil_production_-_Etemad_Luciana_c3aece5f.csv
+Oil&Gas Employment and Rig Count - US Bureau of Labor Statistics (2017),Oil&Gas Employment and Rig Count - US Bureau of Labor Statistics (2017).csv,False,0,Entity,ok,
+Output of key industrial sectors in England - Bank of England (2017),Output of key industrial sectors in England - Bank of England (2017).csv,False,0,Entity,ok,
+Output of key industries in England - using Bank of England (2017),Output of key industries in England - using Bank of England (2017).csv,False,0,,read_fail: No columns to parse from file,
+Output of key services sectors in England - using Bank of England (2017),Output of key services sectors in England - using Bank of England (2017).csv,False,0,,read_fail: No columns to parse from file,
+"Ozone and chlorine projections to 2100 (Scientific Assessment, 2014)","Ozone and chlorine projections to 2100 (Scientific Assessment, 2014).csv",False,0,,read_fail: No columns to parse from file,
+Ozone concentration-StateofGlobalAir,Ozone concentration-StateofGlobalAir.csv,True,7,Entity,ok,sources/owid-datasets/italy/Ozone_concentration-StateofGlobalAir_e8f66e68.csv
+"Ozone depleting emissions since 1960 (Scientific Assessment, 2014)","Ozone depleting emissions since 1960 (Scientific Assessment, 2014).csv",False,0,,read_fail: No columns to parse from file,
+"Ozone depletion impacts on skin cancer incidence (Slaper et al., 1996)","Ozone depletion impacts on skin cancer incidence (Slaper et al., 1996).csv",False,0,,read_fail: No columns to parse from file,
+Ozone hole area and concentration - NASA,Ozone hole area and concentration - NASA.csv,False,0,Entity,ok,
+Ozone-depleting emissions index - EEA,Ozone-depleting emissions index - EEA.csv,False,0,Entity,ok,
+"Parties to Montreal Protocol (UNEP, 2023)","Parties to Montreal Protocol (UNEP, 2023).csv",False,0,,read_fail: No columns to parse from file,
+Patent and publication rates  - OWID based on World Bank & UN,Patent and publication rates  - OWID based on World Bank & UN.csv,True,22,Entity,ok,sources/owid-datasets/italy/Patent_and_publication_rates_-_OWID_based_on_World_Bank_UN_6ab26147.csv
+"Patents awarded in England, Scotland and Wales - Bottomley","Patents awarded in England, Scotland and Wales - Bottomley.csv",False,0,,read_fail: No columns to parse from file,
+Peak Farmland Projection - Ausbuel et al. (2013),Peak Farmland Projection - Ausbuel et al. (2013).csv,False,0,Entity,ok,
+Penn World Table version 10.0,Penn World Table version 10.0.csv,True,70,Entity,ok,sources/owid-datasets/italy/Penn_World_Table_version_10_0_6759ced8.csv
+People experiencing homelessness in the USA (PIT) by sheltering status - HUD (2016),People experiencing homelessness in the USA (PIT) by sheltering status - HUD (2016).csv,False,0,Entity,ok,
+Percentage deaths attributable to risk factors - IHME,Percentage deaths attributable to risk factors - IHME.csv,False,0,Entity,ok,
+Percentage gained access to improved water and sanitation 1990-2015 - WHO,Percentage gained access to improved water and sanitation 1990-2015 - WHO.csv,False,0,Entity,ok,
+"Percentage of Americans living alone, by age - IPUMS","Percentage of Americans living alone, by age - IPUMS.csv",False,0,Entity,ok,
+Percentage of adults living alone in the US and Canada- US Census Bureau & Statistics Canada,Percentage of adults living alone in the US and Canada- US Census Bureau & Statistics Canada.csv,False,0,Entity,ok,
+Percentage of persons without health insurance - Council of Economic Advisers and National Center fo,Percentage of persons without health insurance - Council of Economic Advisers and National Center fo.csv,False,0,Entity,ok,
+Perceptions of spending on health expenditure - IPSOS (2016),Perceptions of spending on health expenditure - IPSOS (2016).csv,True,1,Entity,ok,sources/owid-datasets/italy/Perceptions_of_spending_on_health_expenditure_-_IPSOS_2016_4dcdcea2.csv
+Pieces of mail and number of post offices - United States Postal Service (2018),Pieces of mail and number of post offices - United States Postal Service (2018).csv,False,0,Entity,ok,
+Plastic Waste - Jambeck et al. (2015),Plastic Waste - Jambeck et al. (2015).csv,True,1,Entity,ok,sources/owid-datasets/italy/Plastic_Waste_-_Jambeck_et_al_2015_d5a9e618.csv
+"Plastic bag substitute comparisons (Danish EPA, 2018)","Plastic bag substitute comparisons (Danish EPA, 2018).csv",False,0,Entity,ok,
+"Plastic discarded, recycled, incinerated - Geyer et al. (2017)","Plastic discarded, recycled, incinerated - Geyer et al. (2017).csv",False,0,Entity,ok,
+Plastic importers to China - Brooks et al. (2018),Plastic importers to China - Brooks et al. (2018).csv,False,0,Entity,ok,
+Plastic imports by China & impact of ban - Brooks et al. (2018),Plastic imports by China & impact of ban - Brooks et al. (2018).csv,False,0,Entity,ok,
+Plastic ocean pollution (Meijer et al. 2021),Plastic ocean pollution (Meijer et al. 2021).csv,True,1,Entity,ok,sources/owid-datasets/italy/Plastic_ocean_pollution_Meijer_et_al_2021_7075a69d.csv
+Plastic pollution by top 50 rivers (Meijer et al. 2021),Plastic pollution by top 50 rivers (Meijer et al. 2021).csv,False,0,Entity,ok,
+"Plastic product lifetime, production, waste by source - Geyer et al. (2017)","Plastic product lifetime, production, waste by source - Geyer et al. (2017).csv",False,0,Entity,ok,
+Plastic waste generation by country - OWID based on Jambeck et al. & World Bank,Plastic waste generation by country - OWID based on Jambeck et al. & World Bank.csv,True,1,Entity,ok,sources/owid-datasets/italy/Plastic_waste_generation_by_country_-_OWID_based_on_Jambeck_et_al_World_Bank_c8e58249.csv
+"Plastic waste trade (UN Comtrade, 2022)","Plastic waste trade (UN Comtrade, 2022).csv",True,14,Entity,ok,sources/owid-datasets/italy/Plastic_waste_trade_UN_Comtrade_2022_42fc2737.csv
+PolcalNet Global Poverty (2017),PolcalNet Global Poverty (2017).csv,True,9,Entity,ok,sources/owid-datasets/italy/PolcalNet_Global_Poverty_2017_9fd602c2.csv
+"Political Competition and Participation (How Was Life, OECD (2014))","Political Competition and Participation (How Was Life, OECD (2014)).csv",False,0,Entity,ok,
+"Population (Clio-infra (2016)), with Island of Ireland (Rep. + Northern)","Population (Clio-infra (2016)), with Island of Ireland (Rep. + Northern).csv",True,25,Entity,ok,sources/owid-datasets/italy/Population_Clio-infra_2016_with_Island_of_Ireland_Rep_Northern_a1c2b8a2.csv
+Population Dynamics and Global Human Capital - IIASA (2015),Population Dynamics and Global Human Capital - IIASA (2015).csv,True,17,Entity,ok,sources/owid-datasets/italy/Population_Dynamics_and_Global_Human_Capital_-_IIASA_2015_eb0fcbbc.csv
+Population Estimates and Projection - Wittgenstein Centre for Demography and Global Human Capital,Population Estimates and Projection - Wittgenstein Centre for Demography and Global Human Capital.csv,False,0,Entity,ok,
+Population Growth -  UN Population Division (2015 revision),Population Growth -  UN Population Division (2015 revision).csv,True,30,Entity,ok,sources/owid-datasets/italy/Population_Growth_-_UN_Population_Division_2015_revision_a39223bd.csv
+"Population by age group to 2100 (based on UNWPP, 2017 medium scenario)","Population by age group to 2100 (based on UNWPP, 2017 medium scenario).csv",True,151,Entity,ok,sources/owid-datasets/italy/Population_by_age_group_to_2100_based_on_UNWPP_2017_medium_scenario_ee9ddfc6.csv
+"Population by country, 1800 to 2100 (Gapminder & UN)","Population by country, 1800 to 2100 (Gapminder & UN).csv",True,301,Entity,ok,sources/owid-datasets/italy/Population_by_country_1800_to_2100_Gapminder_UN_f8d36ea3.csv
+Population covered by the internet - Internet World Stats (2019),Population covered by the internet - Internet World Stats (2019).csv,False,0,Entity,ok,
+Population data (Gapminder up to 1949; UN Population Division 1950 to 2015),Population data (Gapminder up to 1949; UN Population Division 1950 to 2015).csv,True,198,Entity,ok,sources/owid-datasets/italy/Population_data_Gapminder_up_to_1949_UN_Population_Division_1950_to_2015_bad1d33f.csv
+Population fed by Haber-Bosch fertilizers - FAO (2017),Population fed by Haber-Bosch fertilizers - FAO (2017).csv,False,0,Entity,ok,
+Population growth 1992-2015 (listed 2017) (UN Population Division 2015),Population growth 1992-2015 (listed 2017) (UN Population Division 2015).csv,True,1,Entity,ok,sources/owid-datasets/italy/Population_growth_1992-2015_listed_2017_UN_Population_Division_2015_c23e3a22.csv
+"Population growth rate by region, 2020-2100 medium variant projection - UN Population Division (2015","Population growth rate by region, 2020-2100 medium variant projection - UN Population Division (2015.csv",False,0,Entity,ok,
+Population using informal saving (%) - World Bank World Development Report (2013),Population using informal saving (%) - World Bank World Development Report (2013).csv,True,1,Entity,ok,sources/owid-datasets/italy/Population_using_informal_saving_-_World_Bank_World_Development_Report_2013_dda7e424.csv
+Postage rates - United States Postal Service (2018),Postage rates - United States Postal Service (2018).csv,False,0,Entity,ok,
+"Poverty rate (!50% of median) (LIS Key Figures, 2018)","Poverty rate (!50% of median) (LIS Key Figures, 2018).csv",True,12,Entity,ok,sources/owid-datasets/italy/Poverty_rate_50_of_median_LIS_Key_Figures_2018_f69636a4.csv
+Press freedom - Freedom House (2017),Press freedom - Freedom House (2017).csv,True,36,Entity,ok,sources/owid-datasets/italy/Press_freedom_-_Freedom_House_2017_c0b9f4be.csv
+Prevalence of Undernourishment in Developing Countries - FAO (Food Security Indicators) (2017),Prevalence of Undernourishment in Developing Countries - FAO (Food Security Indicators) (2017).csv,False,0,Entity,ok,
+Prevalence of Vitamin A deficiency in children - WHO (2017),Prevalence of Vitamin A deficiency in children - WHO (2017).csv,False,0,Entity,ok,
+Prevalence of alcohol drinking in the USA - CDC,Prevalence of alcohol drinking in the USA - CDC.csv,False,0,Entity,ok,
+Prevalence of undernourishment - World Bank (2017) & UN SOFI (2018),Prevalence of undernourishment - World Bank (2017) & UN SOFI (2018).csv,False,0,Entity,ok,
+Prevalence of undernourishment by region - UN FAO SOFI (2017 & 2018),Prevalence of undernourishment by region - UN FAO SOFI (2017 & 2018).csv,False,0,Entity,ok,
+Prevalence of vitamin-A deficiency in pregnant women - WHO (2009),Prevalence of vitamin-A deficiency in pregnant women - WHO (2009).csv,False,0,Entity,ok,
+Prevalence of weight categories in females - NCDRisC (2017),Prevalence of weight categories in females - NCDRisC (2017).csv,True,40,Entity,ok,sources/owid-datasets/italy/Prevalence_of_weight_categories_in_females_-_NCDRisC_2017_42a3668f.csv
+Prevalence of weight categories in males - NCDRisC (2017),Prevalence of weight categories in males - NCDRisC (2017).csv,True,40,Entity,ok,sources/owid-datasets/italy/Prevalence_of_weight_categories_in_males_-_NCDRisC_2017_98810651.csv
+Prevalence of zinc deficiency - Wessells et al. (2012),Prevalence of zinc deficiency - Wessells et al. (2012).csv,True,4,Entity,ok,sources/owid-datasets/italy/Prevalence_of_zinc_deficiency_-_Wessells_et_al_2012_9e862683.csv
+Price for Light – Fouquet,Price for Light – Fouquet.csv,False,0,Entity,ok,
+Price of mobile data - Alliance for Affordable Internet (2019),Price of mobile data - Alliance for Affordable Internet (2019).csv,False,0,Entity,ok,
+Price of nails since 1695 (Daniel Sichels (2017)),Price of nails since 1695 (Daniel Sichels (2017)).csv,False,0,Entity,ok,
+"Primary energy consumption (BP & Shift, 2020)","Primary energy consumption (BP & Shift, 2020).csv",True,55,Entity,ok,sources/owid-datasets/italy/Primary_energy_consumption_BP_Shift_2020_2939c3bc.csv
+Primary energy consumption BP & EIA (2022),Primary energy consumption BP & EIA (2022).csv,True,56,Entity,ok,sources/owid-datasets/italy/Primary_energy_consumption_BP_EIA_2022_06045b86.csv
+Prisoners per 100 000 from World Prison Brief (downloaded September 2018)_country_standardized,Prisoners per 100 000 from World Prison Brief (downloaded September 2018)_country_standardized.csv,True,1,Entity,ok,sources/owid-datasets/italy/Prisoners_per_100_000_from_World_Prison_Brief_downloaded_September_2018__country_standardized_d92178f4.csv
+"Projected change in under-5 population by country 2015, 2050, 2100 - OWID based on UN Population (20","Projected change in under-5 population by country 2015, 2050, 2100 - OWID based on UN Population (20.csv",True,2,Entity,ok,sources/owid-datasets/italy/Projected_change_in_under-5_population_by_country_2015_2050_2100_-_OWID_based_on_UN_Population_20_0ada7388.csv
+"Projected extreme poverty among different groupings of fragile states (Crespo Cuaresma et al, 2018; ","Projected extreme poverty among different groupings of fragile states (Crespo Cuaresma et al, 2018; .csv",False,0,Entity,ok,
+"Projections of peak agricultural land - FAO (2006), OECD (2012), MEA (2005)","Projections of peak agricultural land - FAO (2006), OECD (2012), MEA (2005).csv",False,0,Entity,ok,
+Proportion of 45-54 year-olds with tertiary education 2009 - OECD (2012),Proportion of 45-54 year-olds with tertiary education 2009 - OECD (2012).csv,True,1,Entity,ok,sources/owid-datasets/italy/Proportion_of_45-54_year-olds_with_tertiary_education_2009_-_OECD_2012_5be6e73c.csv
+Public Expenditure on Education OECD - Tanzi & Schuknecht (2000),Public Expenditure on Education OECD - Tanzi & Schuknecht (2000).csv,True,5,Entity,ok,sources/owid-datasets/italy/Public_Expenditure_on_Education_OECD_-_Tanzi_Schuknecht_2000_14e990d2.csv
+Public support and opposition to nuclear energy- Ipsos MORI (2011),Public support and opposition to nuclear energy- Ipsos MORI (2011).csv,True,1,Entity,ok,sources/owid-datasets/italy/Public_support_and_opposition_to_nuclear_energy-_Ipsos_MORI_2011_bd16caab.csv
+RAND Database of Worldwide Terrorism Incidents,RAND Database of Worldwide Terrorism Incidents.csv,True,41,Entity,ok,sources/owid-datasets/italy/RAND_Database_of_Worldwide_Terrorism_Incidents_5aba5f5e.csv
+Raised Blood Pressure Prevalence - NCD RisC (2017),Raised Blood Pressure Prevalence - NCD RisC (2017).csv,True,41,Entity,ok,sources/owid-datasets/italy/Raised_Blood_Pressure_Prevalence_-_NCD_RisC_2017_c59161ef.csv
+Rate of Natural Population Increase – UN Population Division (2015),Rate of Natural Population Increase – UN Population Division (2015).csv,True,13,Entity,ok,sources/owid-datasets/italy/Rate_of_Natural_Population_Increase_UN_Population_Division_2015_a378860c.csv
+Rate of internationally observed elections - Hyde and Marinov (2012),Rate of internationally observed elections - Hyde and Marinov (2012).csv,False,0,Entity,ok,
+Rate of internationally observed elections - Susan Hyde (2011),Rate of internationally observed elections - Susan Hyde (2011).csv,False,0,Entity,ok,
+Real Commodity Price Index since 1850 - Jacks (2016),Real Commodity Price Index since 1850 - Jacks (2016).csv,False,0,Entity,ok,
+"Real GDP per capita, London and Delhi - OWID","Real GDP per capita, London and Delhi - OWID.csv",False,0,Entity,ok,
+Recycled plastic exports - Brooks et al. (2018),Recycled plastic exports - Brooks et al. (2018).csv,False,0,Entity,ok,
+"Regime populations - OWID based on Lührmann et al. (2018), V-Dem (v12), OWID (2021), Gapminder (v6),","Regime populations - OWID based on Lührmann et al. (2018), V-Dem (v12), OWID (2021), Gapminder (v6),.csv",False,0,Entity,ok,
+"Relative earnings of adults, by educational attainment - Education at a Glance 2017! OECD Indicators","Relative earnings of adults, by educational attainment - Education at a Glance 2017! OECD Indicators.csv",True,1,Entity,ok,sources/owid-datasets/italy/Relative_earnings_of_adults_by_educational_attainment_-_Education_at_a_Glance_2017_OECD_Indicators_2ed1b642.csv
+"Relative wages of craftsmen to labourers, 1200-2000 - Clark (2005)","Relative wages of craftsmen to labourers, 1200-2000 - Clark (2005).csv",False,0,Entity,ok,
+Renewable Energy (% electricity production) - World Bank (2015),Renewable Energy (% electricity production) - World Bank (2015).csv,False,0,,read_fail: No columns to parse from file,
+Renewable Energy Capacity by Technology - IRENA (2017),Renewable Energy Capacity by Technology - IRENA (2017).csv,False,0,Entity,ok,
+Renewable Investment as % of GDP - BNEP and World Bank,Renewable Investment as % of GDP - BNEP and World Bank.csv,False,0,,read_fail: No columns to parse from file,
+"Renewable energy costs (IRENA, 2020)","Renewable energy costs (IRENA, 2020).csv",True,30,Entity,ok,sources/owid-datasets/italy/Renewable_energy_costs_IRENA_2020_428b273b.csv
+"Reported number and different estimations of polio cases (WHO, 2018)","Reported number and different estimations of polio cases (WHO, 2018).csv",True,37,Entity,ok,sources/owid-datasets/italy/Reported_number_and_different_estimations_of_polio_cases_WHO_2018_1ab5aad4.csv
+Required rate of maternal mortality decline for SDG - based on World Bank (2018),Required rate of maternal mortality decline for SDG - based on World Bank (2018).csv,True,1,Entity,ok,sources/owid-datasets/italy/Required_rate_of_maternal_mortality_decline_for_SDG_-_based_on_World_Bank_2018_cc7916a6.csv
+Reserves-Production Ratio - BP Statistics (2016),Reserves-Production Ratio - BP Statistics (2016).csv,False,0,Entity,ok,
+Revenue shares from tax – Flora (1983) and ICTD (2016),Revenue shares from tax – Flora (1983) and ICTD (2016).csv,True,75,Entity,ok,sources/owid-datasets/italy/Revenue_shares_from_tax_Flora_1983_and_ICTD_2016_5d573640.csv
+"Rhino poaching rates (AfRSG, 2019)","Rhino poaching rates (AfRSG, 2019).csv",False,0,Entity,ok,
+"Rhino populations (AfRSG & other sources, 2022)","Rhino populations (AfRSG & other sources, 2022).csv",False,0,Entity,ok,
+Risk attribution of cancer deaths to tobacco smoking - IHME,Risk attribution of cancer deaths to tobacco smoking - IHME.csv,True,7,Entity,ok,sources/owid-datasets/italy/Risk_attribution_of_cancer_deaths_to_tobacco_smoking_-_IHME_72b8ac71.csv
+"Rotavirus deaths and cases in under-5s (IHME, 2018)","Rotavirus deaths and cases in under-5s (IHME, 2018).csv",True,1,Entity,ok,sources/owid-datasets/italy/Rotavirus_deaths_and_cases_in_under-5s_IHME_2018_8916ac00.csv
+Rough Sleeping in England in the 2010s - OWID based on UK National Statistics (2018),Rough Sleeping in England in the 2010s - OWID based on UK National Statistics (2018).csv,False,0,Entity,ok,
+SIPRI Military Expenditure Database,SIPRI Military Expenditure Database.csv,True,72,Entity,ok,sources/owid-datasets/italy/SIPRI_Military_Expenditure_Database_08fef16b.csv
+SO2 emissions by country (1850-2000) - Clio Infra,SO2 emissions by country (1850-2000) - Clio Infra.csv,True,16,Entity,ok,sources/owid-datasets/italy/SO2_emissions_by_country_1850-2000_-_Clio_Infra_126a6e15.csv
+SO2 emissions by region - OECD (2014) and Klimont et al. (2013),SO2 emissions by region - OECD (2014) and Klimont et al. (2013).csv,False,0,Entity,ok,
+"SO2 emissions, China and India - Klimont et al. (2013) ","SO2 emissions, China and India - Klimont et al. (2013) .csv",False,0,Entity,ok,
+SO2 per capita - Clio Infra,SO2 per capita - Clio Infra.csv,True,16,Entity,ok,sources/owid-datasets/italy/SO2_per_capita_-_Clio_Infra_36f6c994.csv
+Same-sex marriages by sex in the Netherlands – CBS (2016),Same-sex marriages by sex in the Netherlands – CBS (2016).csv,False,0,Entity,ok,
+Same-sex married households in the US,Same-sex married households in the US.csv,False,0,Entity,ok,
+Self-reported loneliness in older adults - OWID (2018),Self-reported loneliness in older adults - OWID (2018).csv,True,1,Entity,ok,sources/owid-datasets/italy/Self-reported_loneliness_in_older_adults_-_OWID_2018_f6d23fee.csv
+Sex ratio at birth (Chao et al. 2019),Sex ratio at birth (Chao et al. 2019).csv,True,68,Entity,ok,sources/owid-datasets/italy/Sex_ratio_at_birth_Chao_et_al_2019_07edafc2.csv
+Sex ratio at birth by birth order in S.Korea & China (Jiang et al. 2017 & NSO Korea),Sex ratio at birth by birth order in S.Korea & China (Jiang et al. 2017 & NSO Korea).csv,False,0,Entity,ok,
+"Sex ratio by age (OWID based on UNWPP, 2017)","Sex ratio by age (OWID based on UNWPP, 2017).csv",True,66,Entity,ok,sources/owid-datasets/italy/Sex_ratio_by_age_OWID_based_on_UNWPP_2017_4fadc85d.csv
+Sexual Violence – UNICEF (2017),Sexual Violence – UNICEF (2017).csv,False,0,Entity,ok,
+Share of Top 1% in net personal wealth – World Wealth and Income Database (2018),Share of Top 1% in net personal wealth – World Wealth and Income Database (2018).csv,False,0,Entity,ok,
+Share of arable land which is organic - OWID based on FAO,Share of arable land which is organic - OWID based on FAO.csv,True,7,Entity,ok,sources/owid-datasets/italy/Share_of_arable_land_which_is_organic_-_OWID_based_on_FAO_0967b7f4.csv
+"Share of deaths attributed to air pollution (IHME, 2019)","Share of deaths attributed to air pollution (IHME, 2019).csv",True,28,Entity,ok,sources/owid-datasets/italy/Share_of_deaths_attributed_to_air_pollution_IHME_2019_0bed4d1a.csv
+"Share of employment in the financial sector (GGDC, 2017)","Share of employment in the financial sector (GGDC, 2017).csv",True,52,Entity,ok,sources/owid-datasets/italy/Share_of_employment_in_the_financial_sector_GGDC_2017_19ac54bd.csv
+"Share of energy from cereals, roots and tubers - FAO (2017)","Share of energy from cereals, roots and tubers - FAO (2017).csv",True,20,Entity,ok,sources/owid-datasets/italy/Share_of_energy_from_cereals_roots_and_tubers_-_FAO_2017_16ea1ba6.csv
+"Share of food lost by food type and region (FAO, 2019)","Share of food lost by food type and region (FAO, 2019).csv",False,0,Entity,ok,
+Share of landowners who are female - FAO (2017),Share of landowners who are female - FAO (2017).csv,False,0,,read_fail: No columns to parse from file,
+"Share of marriages in England and Wales that ended in divorce (UK ONS, 2020)","Share of marriages in England and Wales that ended in divorce (UK ONS, 2020).csv",False,0,Entity,ok,
+"Share of people experiencing homelessness in the USA 2007-2016 (per 100,000) - HUD (2016) and U.S. C","Share of people experiencing homelessness in the USA 2007-2016 (per 100,000) - HUD (2016) and U.S. C.csv",False,0,Entity,ok,
+Share of people who report having intentions to start business - Global Entrepreneurship Monitor,Share of people who report having intentions to start business - Global Entrepreneurship Monitor.csv,True,15,Entity,ok,sources/owid-datasets/italy/Share_of_people_who_report_having_intentions_to_start_business_-_Global_Entrepreneurship_Monitor_347c390d.csv
+Share of population covered by social protection - ASPIRE World Bank (2019),Share of population covered by social protection - ASPIRE World Bank (2019).csv,False,0,Entity,ok,
+"Share of primary-school children achieving minimum reading proficiency, rich vs poor - UNESCO","Share of primary-school children achieving minimum reading proficiency, rich vs poor - UNESCO.csv",False,0,Entity,ok,
+Share of single parent families (UN Population Division 2018),Share of single parent families (UN Population Division 2018).csv,True,2,Entity,ok,sources/owid-datasets/italy/Share_of_single_parent_families_UN_Population_Division_2018_6b251d39.csv
+"Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018) [OLD]","Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018) [OLD].csv",True,17,Entity,ok,sources/owid-datasets/italy/Share_of_women_in_top_income_groups_Atkinson_Casarico_Voitchovsky_2018_OLD_ef1afb49.csv
+"Share of world merchandise trade by type of trade - Fouquin and Hugot (CEPII 2016, Dyadic data)","Share of world merchandise trade by type of trade - Fouquin and Hugot (CEPII 2016, Dyadic data).csv",False,0,Entity,ok,
+Shark attacks and fatalities - Global Shark Attack File (GSAF) (2018) ,Shark attacks and fatalities - Global Shark Attack File (GSAF) (2018) .csv,True,43,Entity,ok,sources/owid-datasets/italy/Shark_attacks_and_fatalities_-_Global_Shark_Attack_File_GSAF_2018_96c133a8.csv
+Significant earthquake events (NGDC-NASA),Significant earthquake events (NGDC-NASA).csv,True,945,Entity,ok,sources/owid-datasets/italy/Significant_earthquake_events_NGDC-NASA_71e00672.csv
+Significant volcanic eruptions (NGDC-WDS),Significant volcanic eruptions (NGDC-WDS).csv,True,3768,Entity,ok,sources/owid-datasets/italy/Significant_volcanic_eruptions_NGDC-WDS_f8603c93.csv
+Smallpox cases by country 1920-1977,Smallpox cases by country 1920-1977.csv,True,47,Entity,ok,sources/owid-datasets/italy/Smallpox_cases_by_country_1920-1977_17b30420.csv
+Smallpox cases reported and revised - Fenner et al. (1988),Smallpox cases reported and revised - Fenner et al. (1988).csv,False,0,Entity,ok,
+Smoking cigarette sales (International Smoking Statistics (2017)) ,Smoking cigarette sales (International Smoking Statistics (2017)) .csv,True,98,Entity,ok,sources/owid-datasets/italy/Smoking_cigarette_sales_International_Smoking_Statistics_2017_dbcea3c6.csv
+"Smoking prevalence and cigarette consumption (IHME, GHDx (2012))","Smoking prevalence and cigarette consumption (IHME, GHDx (2012)).csv",True,33,Entity,ok,sources/owid-datasets/italy/Smoking_prevalence_and_cigarette_consumption_IHME_GHDx_2012_648845a5.csv
+Social Expenditure in the long run - Lindert 2004; OECD 1985; OECD (SOCX).,Social Expenditure in the long run - Lindert 2004; OECD 1985; OECD (SOCX)..csv,True,37,Entity,ok,sources/owid-datasets/italy/Social_Expenditure_in_the_long_run_-_Lindert_2004_OECD_1985_OECD_SOCX_1ba6ef32.csv
+Social media use in the US by gender (Pew Research Center),Social media use in the US by gender (Pew Research Center).csv,False,0,,read_fail: No columns to parse from file,
+Solar PV Module Costs & Capacity - Lafond et al. (2017) & IRENA,Solar PV Module Costs & Capacity - Lafond et al. (2017) & IRENA.csv,False,0,Entity,ok,
+Solar PV Systems Costs - Barbose & Darghouth (2016),Solar PV Systems Costs - Barbose & Darghouth (2016).csv,False,0,Entity,ok,
+Solid fuel use for cooking by region - Bonjour et al. (2013),Solid fuel use for cooking by region - Bonjour et al. (2013).csv,False,0,Entity,ok,
+Split of exports to different country groups - OWID calculations based on Fouquin and Hugot (CEPII 2,Split of exports to different country groups - OWID calculations based on Fouquin and Hugot (CEPII 2.csv,True,151,Entity,ok,sources/owid-datasets/italy/Split_of_exports_to_different_country_groups_-_OWID_calculations_based_on_Fouquin_and_Hugot_CEPII_2_9771949d.csv
+State of Vaccine Confidence - Larson et al (2016),State of Vaccine Confidence - Larson et al (2016).csv,True,1,Entity,ok,sources/owid-datasets/italy/State_of_Vaccine_Confidence_-_Larson_et_al_2016_892c047f.csv
+"State-based conflict deaths since 1946, by region and conflict type (PRIO; UCDP 2022)","State-based conflict deaths since 1946, by region and conflict type (PRIO; UCDP 2022).csv",False,0,Entity,ok,
+Subnational inequality - OECD based on Royuela et al. (2014)),Subnational inequality - OECD based on Royuela et al. (2014)).csv,False,0,Entity,ok,
+"Suicide rates by sex and age (IHME, 2019)","Suicide rates by sex and age (IHME, 2019).csv",True,28,Entity,ok,sources/owid-datasets/italy/Suicide_rates_by_sex_and_age_IHME_2019_c427948a.csv
+"Suicides from pesticides (Mew et al., 2017)","Suicides from pesticides (Mew et al., 2017).csv",False,0,Entity,ok,
+Supercomputer power (FLOPS) – TOP500 Database,Supercomputer power (FLOPS) – TOP500 Database.csv,False,0,,read_fail: No columns to parse from file,
+Surface ocean plastic by mass - Eriksen et al. (2014),Surface ocean plastic by mass - Eriksen et al. (2014).csv,False,0,Entity,ok,
+Surface ocean plastic by particle count - Eriksen et al. (2014),Surface ocean plastic by particle count - Eriksen et al. (2014).csv,False,0,Entity,ok,
+"Swedish Historical National Accounts - Schön and Krantz (2007, 2012, 2015)","Swedish Historical National Accounts - Schön and Krantz (2007, 2012, 2015).csv",False,0,Entity,ok,
+Tax Revenue – Piketty (2014),Tax Revenue – Piketty (2014).csv,False,0,Entity,ok,
+Tax composition – !Arroyo Abad  and P. Lindert (2016),Tax composition – !Arroyo Abad  and P. Lindert (2016).csv,False,0,Entity,ok,
+Tax composition – Todaro and Smith (2014),Tax composition – Todaro and Smith (2014).csv,False,0,Entity,ok,
+Taxes – ICTD GRD (2021),Taxes – ICTD GRD (2021).csv,True,40,Entity,ok,sources/owid-datasets/italy/Taxes_ICTD_GRD_2021_dbfdf731.csv
+Teacher Absenteeism - Bold et al. (2017),Teacher Absenteeism - Bold et al. (2017).csv,False,0,Entity,ok,
+Teaching time lost - World Development Report (2018),Teaching time lost - World Development Report (2018).csv,False,0,Entity,ok,
+Technology Adoption - Multiple sources compiled by Our World in Data,Technology Adoption - Multiple sources compiled by Our World in Data.csv,False,0,,read_fail: No columns to parse from file,
+Technology Diffusion - Comin and Hobijn (2004) and others,Technology Diffusion - Comin and Hobijn (2004) and others.csv,False,0,,read_fail: No columns to parse from file,
+Temporary accommodation in England - UK Government (2018),Temporary accommodation in England - UK Government (2018).csv,False,0,Entity,ok,
+Terrain Ruggedness Index - Nunn and Puga (2012),Terrain Ruggedness Index - Nunn and Puga (2012).csv,True,1,Entity,ok,sources/owid-datasets/italy/Terrain_Ruggedness_Index_-_Nunn_and_Puga_2012_f533bf9c.csv
+Terrorist attack by target type - Global Terrorism Database (2018),Terrorist attack by target type - Global Terrorism Database (2018).csv,True,46,Entity,ok,sources/owid-datasets/italy/Terrorist_attack_by_target_type_-_Global_Terrorism_Database_2018_1bd96e5d.csv
+Terrorist attacks by type - Global Terrorism Database (2018),Terrorist attacks by type - Global Terrorism Database (2018).csv,True,46,Entity,ok,sources/owid-datasets/italy/Terrorist_attacks_by_type_-_Global_Terrorism_Database_2018_5eb4ba73.csv
+Terrorist attacks by weapon type - Global Terrorism Database (2018),Terrorist attacks by weapon type - Global Terrorism Database (2018).csv,True,46,Entity,ok,sources/owid-datasets/italy/Terrorist_attacks_by_weapon_type_-_Global_Terrorism_Database_2018_824760d7.csv
+Tetanus Neonatal Rate - calculated from WHO incidence (2017) and WDI population data - Hannah Behren,Tetanus Neonatal Rate - calculated from WHO incidence (2017) and WDI population data - Hannah Behren.csv,True,31,Entity,ok,sources/owid-datasets/italy/Tetanus_Neonatal_Rate_-_calculated_from_WHO_incidence_2017_and_WDI_population_data_-_Hannah_Behren_b3c691b8.csv
+The allocation of time over five decades - Aguiar and Hurst (2006),The allocation of time over five decades - Aguiar and Hurst (2006).csv,False,0,Entity,ok,
+The world's number and share of vaccinated one-year-olds ,The world's number and share of vaccinated one-year-olds .csv,False,0,Entity,ok,
+Time spent on domestic work – UN (2017) and OECD (2014),Time spent on domestic work – UN (2017) and OECD (2014).csv,True,2,Entity,ok,sources/owid-datasets/italy/Time_spent_on_domestic_work_UN_2017_and_OECD_2014_07ee805b.csv
+"Time spent, participation time, and participation rates - Eurostat","Time spent, participation time, and participation rates - Eurostat.csv",True,2,Entity,ok,sources/owid-datasets/italy/Time_spent_participation_time_and_participation_rates_-_Eurostat_3939805c.csv
+Time use in Finland - Statistics Finland,Time use in Finland - Statistics Finland.csv,False,0,Entity,ok,
+Time use in Sweden - Statistics Sweden,Time use in Sweden - Statistics Sweden.csv,False,0,Entity,ok,
+Top 1% wealth shares - Chartbook of Economic Inequality (2017),Top 1% wealth shares - Chartbook of Economic Inequality (2017).csv,True,12,Entity,ok,sources/owid-datasets/italy/Top_1_wealth_shares_-_Chartbook_of_Economic_Inequality_2017_c5d07b5a.csv
+Top Net Personal Wealth Shares – WID (2018),Top Net Personal Wealth Shares – WID (2018).csv,False,0,Entity,ok,
+Top income shares – World Wealth and Income Database (2018),Top income shares – World Wealth and Income Database (2018).csv,True,34,Entity,ok,sources/owid-datasets/italy/Top_income_shares_World_Wealth_and_Income_Database_2018_4eac391d.csv
+Top marginal income tax rate – Reynolds (2008),Top marginal income tax rate – Reynolds (2008).csv,True,3,Entity,ok,sources/owid-datasets/italy/Top_marginal_income_tax_rate_Reynolds_2008_3ed44613.csv
+Total Economy Productivity Growth - OECD,Total Economy Productivity Growth - OECD.csv,True,46,Entity,ok,sources/owid-datasets/italy/Total_Economy_Productivity_Growth_-_OECD_a848c10a.csv
+Total cases of poliomyelitis virus by country and year from 1980 onwards - WHO (2020),Total cases of poliomyelitis virus by country and year from 1980 onwards - WHO (2020).csv,True,40,Entity,ok,sources/owid-datasets/italy/Total_cases_of_poliomyelitis_virus_by_country_and_year_from_1980_onwards_-_WHO_2020_2b3831d2.csv
+"Total fertility by region, 2020-2100 medium variant projection - UN Population Division (2015 revisi","Total fertility by region, 2020-2100 medium variant projection - UN Population Division (2015 revisi.csv",False,0,Entity,ok,
+Total gross official disbursements for medical research and basic heath sectors - OECD,Total gross official disbursements for medical research and basic heath sectors - OECD.csv,False,0,Entity,ok,
+"Total population - Gapminder, UN Population Division","Total population - Gapminder, UN Population Division.csv",True,199,Entity,ok,sources/owid-datasets/italy/Total_population_-_Gapminder_UN_Population_Division_dd4d1bfe.csv
+"Total population by broad age group, both sexes, 1950-2100 - UN Population Division (2015)","Total population by broad age group, both sexes, 1950-2100 - UN Population Division (2015).csv",True,151,Entity,ok,sources/owid-datasets/italy/Total_population_by_broad_age_group_both_sexes_1950-2100_-_UN_Population_Division_2015_ab6c0ffa.csv
+Total value of exports by country to world (%GDP) (OWID calculations based on Fouquin and Hugot (CEP,Total value of exports by country to world (%GDP) (OWID calculations based on Fouquin and Hugot (CEP.csv,True,151,Entity,ok,sources/owid-datasets/italy/Total_value_of_exports_by_country_to_world_GDP_OWID_calculations_based_on_Fouquin_and_Hugot_CEP_0ca21b4f.csv
+Tourism data by World Region - UNWTO (2019),Tourism data by World Region - UNWTO (2019).csv,False,0,Entity,ok,
+Trade share by type of trade (OWID calculations based on NBER- United Nations Trade Data 1962-2000),Trade share by type of trade (OWID calculations based on NBER- United Nations Trade Data 1962-2000).csv,True,39,Entity,ok,sources/owid-datasets/italy/Trade_share_by_type_of_trade_OWID_calculations_based_on_NBER-_United_Nations_Trade_Data_1962-2000_8719f427.csv
+Trade share with capital- and labor-intensive countries (OWID calculations based on Fouquin and Hugo,Trade share with capital- and labor-intensive countries (OWID calculations based on Fouquin and Hugo.csv,True,151,Entity,ok,sources/owid-datasets/italy/Trade_share_with_capital-_and_labor-intensive_countries_OWID_calculations_based_on_Fouquin_and_Hugo_5a2c9460.csv
+Trade – Giovanni and Tena-Junguito (2016),Trade – Giovanni and Tena-Junguito (2016).csv,False,0,Entity,ok,
+Transistors per microprocessor - Rupp & Horowitz,Transistors per microprocessor - Rupp & Horowitz.csv,False,0,,read_fail: No columns to parse from file,
+Tree density (Crowther et al. 2015),Tree density (Crowther et al. 2015).csv,True,1,Entity,ok,sources/owid-datasets/italy/Tree_density_Crowther_et_al_2015_32eae794.csv
+Tropical deforestation by country or region (Pendrill et al. (2019)),Tropical deforestation by country or region (Pendrill et al. (2019)).csv,False,0,Entity,ok,
+Trust – Eurostat,Trust – Eurostat.csv,False,0,,read_fail: No columns to parse from file,
+Trust – World Value Survey,Trust – World Value Survey.csv,True,1,Entity,ok,sources/owid-datasets/italy/Trust_World_Value_Survey_9a4e9ae2.csv
+UCDP!PRIO Armed Conflict Dataset version 17.2 (direct form UCDP),UCDP!PRIO Armed Conflict Dataset version 17.2 (direct form UCDP).csv,False,0,Entity,ok,
+UK Butterfly Populations (UK ONS),UK Butterfly Populations (UK ONS).csv,False,0,Entity,ok,
+UK Cholera Death over the long-term - ONS,UK Cholera Death over the long-term - ONS.csv,False,0,Entity,ok,
+UK Defence Spending - ukpublicspending.com ,UK Defence Spending - ukpublicspending.com .csv,False,0,Entity,ok,
+"UK Nominal wage data, price data, and real wage – Bank of England (!Three centuries of macroeconomic","UK Nominal wage data, price data, and real wage – Bank of England (!Three centuries of macroeconomic.csv",False,0,,read_fail: No columns to parse from file,
+UN Population Division (2015),UN Population Division (2015).csv,True,30,Entity,ok,sources/owid-datasets/italy/UN_Population_Division_2015_7b2586e3.csv
+UN Population Division (Median Age) (2015),UN Population Division (Median Age) (2015).csv,True,31,Entity,ok,sources/owid-datasets/italy/UN_Population_Division_Median_Age_2015_00640e99.csv
+UNESCO metadata on literacy (UIS (2017)),UNESCO metadata on literacy (UIS (2017)).csv,True,3,Entity,ok,sources/owid-datasets/italy/UNESCO_metadata_on_literacy_UIS_2017_ddde61b4.csv
+US - Public Trust in Government - Pew Research Center,US - Public Trust in Government - Pew Research Center.csv,False,0,,read_fail: No columns to parse from file,
+US Corn Yields - USDA (2023),US Corn Yields - USDA (2023).csv,False,0,,read_fail: No columns to parse from file,
+US Female Labor Force Participation 1890-2005 - Olivetti (2013),US Female Labor Force Participation 1890-2005 - Olivetti (2013).csv,False,0,Entity,ok,
+US Maternal Mortality and FLFP Index - OWID (2017),US Maternal Mortality and FLFP Index - OWID (2017).csv,False,0,Entity,ok,
+"US Measles Cases and Deaths (OWID, 2017)","US Measles Cases and Deaths (OWID, 2017).csv",False,0,Entity,ok,
+US Opinion on wives working 1936-1998 - OWID compilation,US Opinion on wives working 1936-1998 - OWID compilation.csv,False,0,Entity,ok,
+US Revenue Public Schools - US Bureau of the Census and NCES (2017),US Revenue Public Schools - US Bureau of the Census and NCES (2017).csv,False,0,Entity,ok,
+USA Consumer Price Index Goods and Services 1997-2017 - US Bureau of Labor Statistics (2017),USA Consumer Price Index Goods and Services 1997-2017 - US Bureau of Labor Statistics (2017).csv,False,0,Entity,ok,
+USA Polio cases and deaths 1910-2010 - OWID based on US Public Health Service (1910-1951); US Center,USA Polio cases and deaths 1910-2010 - OWID based on US Public Health Service (1910-1951); US Center.csv,False,0,Entity,ok,
+USA patents granted - US Patent & Trademark Office,USA patents granted - US Patent & Trademark Office.csv,False,0,,read_fail: No columns to parse from file,
+Ukraine-Russia (Global food based on UN FAO),Ukraine-Russia (Global food based on UN FAO).csv,True,10,Entity,ok,sources/owid-datasets/italy/Ukraine-Russia_Global_food_based_on_UN_FAO_5b54fed4.csv
+Ukraine-Russia contribution to global food,Ukraine-Russia contribution to global food.csv,False,0,Entity,ok,
+"Unadjusted female-male hourly wage ratios by percentile – Blau, Kahn (2017)","Unadjusted female-male hourly wage ratios by percentile – Blau, Kahn (2017).csv",False,0,Entity,ok,
+Under 5 mortality rate [Our World in Data],Under 5 mortality rate [Our World in Data].csv,True,144,Entity,ok,sources/owid-datasets/italy/Under_5_mortality_rate_Our_World_in_Data_39d05786.csv
+Under five mortality rate - UN World Population Prospects (2015),Under five mortality rate - UN World Population Prospects (2015).csv,True,13,Entity,ok,sources/owid-datasets/italy/Under_five_mortality_rate_-_UN_World_Population_Prospects_2015_908a35fa.csv
+"Unemployment rate, ages 25-54, by education - ILOSTAT (2017)","Unemployment rate, ages 25-54, by education - ILOSTAT (2017).csv",True,20,Entity,ok,sources/owid-datasets/italy/Unemployment_rate_ages_25-54_by_education_-_ILOSTAT_2017_f7d21ca4.csv
+United Nations Peacekeeping,United Nations Peacekeeping.csv,False,0,Entity,ok,
+United Nations! Human Development Index (HDI),United Nations! Human Development Index (HDI).csv,True,9,Entity,ok,sources/owid-datasets/italy/United_Nations_Human_Development_Index_HDI_9506470b.csv
+Urban and rural population 1950-2050 - UN World Urbanization Prospects 2018,Urban and rural population 1950-2050 - UN World Urbanization Prospects 2018.csv,True,101,Entity,ok,sources/owid-datasets/italy/Urban_and_rural_population_1950-2050_-_UN_World_Urbanization_Prospects_2018_316248a8.csv
+Urban and rural populations in the United States - US Census Bureau (2010),Urban and rural populations in the United States - US Census Bureau (2010).csv,False,0,Entity,ok,
+Urban definition - population threshold (UN; 2018),Urban definition - population threshold (UN; 2018).csv,True,1,Entity,ok,sources/owid-datasets/italy/Urban_definition_-_population_threshold_UN_2018_ac99b36a.csv
+Urbanization in the long run - OWID based on the UN World Urbanization Prospects 2018 and others,Urbanization in the long run - OWID based on the UN World Urbanization Prospects 2018 and others.csv,True,105,Entity,ok,sources/owid-datasets/italy/Urbanization_in_the_long_run_-_OWID_based_on_the_UN_World_Urbanization_Prospects_2018_and_others_6234b669.csv
+"Urbanization share (European Commission, Atlas of the Human Planet)","Urbanization share (European Commission, Atlas of the Human Planet).csv",False,0,Entity,ok,
+Vaccine Coverage and Disease Burden - WHO (2017),Vaccine Coverage and Disease Burden - WHO (2017).csv,True,42,Entity,ok,sources/owid-datasets/italy/Vaccine_Coverage_and_Disease_Burden_-_WHO_2017_b94584a2.csv
+Value of global merchandise imports and exports - (Fouquin and Hugot (CEPII 2016) National data),Value of global merchandise imports and exports - (Fouquin and Hugot (CEPII 2016) National data).csv,True,150,Entity,ok,sources/owid-datasets/italy/Value_of_global_merchandise_imports_and_exports_-_Fouquin_and_Hugot_CEPII_2016_National_data_6d692127.csv
+Vegetable oil yields (FAO),Vegetable oil yields (FAO).csv,True,59,Entity,ok,sources/owid-datasets/italy/Vegetable_oil_yields_FAO_0e58b496.csv
+Violent Victimization - US Bureau of Justice Statistics (2017),Violent Victimization - US Bureau of Justice Statistics (2017).csv,False,0,Entity,ok,
+"Violent deaths in conflicts and one-sided violence since 1989, by region and type of violence (UCDP ","Violent deaths in conflicts and one-sided violence since 1989, by region and type of violence (UCDP .csv",False,0,Entity,ok,
+Violent discipline in the US (US General Social Survey (2017)),Violent discipline in the US (US General Social Survey (2017)).csv,False,0,Entity,ok,
+Violent discipline – UNICEF (2017),Violent discipline – UNICEF (2017).csv,False,0,Entity,ok,
+Volcanic eruption deaths (NGDC!NOAA),Volcanic eruption deaths (NGDC!NOAA).csv,True,205,Entity,ok,sources/owid-datasets/italy/Volcanic_eruption_deaths_NGDC_NOAA_892e1429.csv
+WHO Vaccination Schedule (2021),WHO Vaccination Schedule (2021).csv,True,28,Entity,ok,sources/owid-datasets/italy/WHO_Vaccination_Schedule_2021_503ffb45.csv
+Wages in the manufacturing sector vs. several food prices in the US – U.S. Bureau of Labor Statistic,Wages in the manufacturing sector vs. several food prices in the US – U.S. Bureau of Labor Statistic.csv,False,0,Entity,ok,
+"Water and Sanitation (WHO WASH, 2021)","Water and Sanitation (WHO WASH, 2021).csv",True,21,Entity,ok,sources/owid-datasets/italy/Water_and_Sanitation_WHO_WASH_2021_1966e853.csv
+Water resources by continent - FAO AQUASTAT,Water resources by continent - FAO AQUASTAT.csv,False,0,Entity,ok,
+Water withdrawals and consumption - Aquastat,Water withdrawals and consumption - Aquastat.csv,True,8,Entity,ok,sources/owid-datasets/italy/Water_withdrawals_and_consumption_-_Aquastat_7f4564ba.csv
+Watts per MIPS- Kurzweil,Watts per MIPS- Kurzweil.csv,False,0,Entity,ok,
+Wealth (total) by component for various country groupings - World Bank (2017),Wealth (total) by component for various country groupings - World Bank (2017).csv,False,0,Entity,ok,
+Wealth as percent national income by wealth type – Piketty (2014),Wealth as percent national income by wealth type – Piketty (2014).csv,False,0,Entity,ok,
+Wealth per capita by component by country - World Bank (2017),Wealth per capita by component by country - World Bank (2017).csv,False,0,,read_fail: No columns to parse from file,
+Wealth per capita by component for various country groupings - World Bank (2017),Wealth per capita by component for various country groupings - World Bank (2017).csv,False,0,Entity,ok,
+Weather fatality rates in the US – OWID based on NOAA and Lopez Holle and population data,Weather fatality rates in the US – OWID based on NOAA and Lopez Holle and population data.csv,False,0,Entity,ok,
+Weekly home production hours in the USA - Ramey (2009) & Ramey Francis (2009),Weekly home production hours in the USA - Ramey (2009) & Ramey Francis (2009).csv,False,0,Entity,ok,
+Wellcome Global Monitor 2020! Covid-19 - Trust questions,Wellcome Global Monitor 2020! Covid-19 - Trust questions.csv,False,0,,read_fail: No columns to parse from file,
+Whale catch (Rocha et al.; IWC),Whale catch (Rocha et al.; IWC).csv,False,0,Entity,ok,
+Whale catch by decade (Rocha et al. & IWC),Whale catch by decade (Rocha et al. & IWC).csv,False,0,Entity,ok,
+Whale populations (Pershing et al. 2010),Whale populations (Pershing et al. 2010).csv,False,0,Entity,ok,
+"Wheat prices, long run, in England (Makridakis et al. 1997)","Wheat prices, long run, in England (Makridakis et al. 1997).csv",False,0,Entity,ok,
+Who Americans spend time with - American Time Use Survey (2009-2019),Who Americans spend time with - American Time Use Survey (2009-2019).csv,False,0,Entity,ok,
+Wildfire data in the US (NIFC),Wildfire data in the US (NIFC).csv,False,0,Entity,ok,
+Women's Economic Opportunity 2012 - Economist Intelligence Unit (2012),Women's Economic Opportunity 2012 - Economist Intelligence Unit (2012).csv,True,1,Entity,ok,sources/owid-datasets/italy/Women_s_Economic_Opportunity_2012_-_Economist_Intelligence_Unit_2012_bd4d360b.csv
+Women's weekly earnings as a percentage of men's - Bureau of Labor Statistics (2017),Women's weekly earnings as a percentage of men's - Bureau of Labor Statistics (2017).csv,False,0,Entity,ok,
+"Women’s Political Representation using Paxton et al (2006), IPU (2017) & WDI (2017) ","Women’s Political Representation using Paxton et al (2006), IPU (2017) & WDI (2017) .csv",False,0,Entity,ok,
+Working Hours Data - Huberman & Minns (2007),Working Hours Data - Huberman & Minns (2007).csv,True,13,Entity,ok,sources/owid-datasets/italy/Working_Hours_Data_-_Huberman_Minns_2007_b4b8b128.csv
+World Bank Income Thresholds - World Bank (2017),World Bank Income Thresholds - World Bank (2017).csv,False,0,Entity,ok,
+World Bank Poverty and Inequality Platform (PIP),World Bank Poverty and Inequality Platform (PIP).csv,False,0,,read_fail: No columns to parse from file,
+World Bank Poverty and Inequality Platform (PIP) - 2011 PPPs,World Bank Poverty and Inequality Platform (PIP) - 2011 PPPs.csv,False,0,,read_fail: No columns to parse from file,
+World Bank! Education Dataset - World Bank (2015),World Bank! Education Dataset - World Bank (2015).csv,True,15,Entity,ok,sources/owid-datasets/italy/World_Bank_Education_Dataset_-_World_Bank_2015_8ab1213c.csv
+World GDP in 2011 int $ – OWID based on World Bank + Maddison (2017),World GDP in 2011 int $ – OWID based on World Bank + Maddison (2017).csv,False,0,,read_fail: No columns to parse from file,
+World Happiness Report (2022),World Happiness Report (2022).csv,True,17,Entity,ok,sources/owid-datasets/italy/World_Happiness_Report_2022_d3cd2df0.csv
+World Inequality Database (WID) - Pretax income,World Inequality Database (WID) - Pretax income.csv,True,10,Entity,ok,sources/owid-datasets/italy/World_Inequality_Database_WID_-_Pretax_income_e6dbb861.csv
+World Press Freedom Index - Reporters sans Frontieres (2022),World Press Freedom Index - Reporters sans Frontieres (2022).csv,False,0,,read_fail: No columns to parse from file,
+World Regions according to the World Bank,World Regions according to the World Bank.csv,True,1,Entity,ok,sources/owid-datasets/italy/World_Regions_according_to_the_World_Bank_48aec660.csv
+World conflict death rate since 1989 (various sources),World conflict death rate since 1989 (various sources).csv,False,0,Entity,ok,
+World conflict deaths (various sources),World conflict deaths (various sources).csv,False,0,Entity,ok,
+"Year of Maternal and Neonatal Tetanus (MNT) elimination (WHO and KIWANIS, 2018)","Year of Maternal and Neonatal Tetanus (MNT) elimination (WHO and KIWANIS, 2018).csv",False,0,Entity,ok,
+Year of last Rinderpest case - OIE (2018),Year of last Rinderpest case - OIE (2018).csv,True,1,Entity,ok,sources/owid-datasets/italy/Year_of_last_Rinderpest_case_-_OIE_2018_c2dc60a5.csv
+Year of last recorded wild poliomyelitis virus - WHO (GPEI) (2017),Year of last recorded wild poliomyelitis virus - WHO (GPEI) (2017).csv,True,1,Entity,ok,sources/owid-datasets/italy/Year_of_last_recorded_wild_poliomyelitis_virus_-_WHO_GPEI_2017_2e573fd7.csv
+Year of smallpox eradication by country - WHO (1988),Year of smallpox eradication by country - WHO (1988).csv,True,1,Entity,ok,sources/owid-datasets/italy/Year_of_smallpox_eradication_by_country_-_WHO_1988_a1af838f.csv
+Year when same-sex sexual acts became legal – OWID based on Kenny & Patel (2017) and Carroll & Mendo,Year when same-sex sexual acts became legal – OWID based on Kenny & Patel (2017) and Carroll & Mendo.csv,False,0,,read_fail: No columns to parse from file,
+"Years of Schooling - based on Lee-Lee (2016), Barro-Lee (2018) and UNDP (2018)","Years of Schooling - based on Lee-Lee (2016), Barro-Lee (2018) and UNDP (2018).csv",True,52,Entity,ok,sources/owid-datasets/italy/Years_of_Schooling_-_based_on_Lee-Lee_2016_Barro-Lee_2018_and_UNDP_2018_e707354d.csv
+"Years of Schooling - based on Lee-Lee (2016), Barro-Lee (2018); and UNDP (2018)","Years of Schooling - based on Lee-Lee (2016), Barro-Lee (2018); and UNDP (2018).csv",True,52,Entity,ok,sources/owid-datasets/italy/Years_of_Schooling_-_based_on_Lee-Lee_2016_Barro-Lee_2018_and_UNDP_2018_123e38f6.csv
+YouGov-Imperial COVID-19 Behavior Tracker,YouGov-Imperial COVID-19 Behavior Tracker.csv,True,17,Entity,ok,sources/owid-datasets/italy/YouGov-Imperial_COVID-19_Behavior_Tracker_6422bf83.csv
+Youth Mortality Rates - UN IGME (2021),Youth Mortality Rates - UN IGME (2021).csv,True,71,Entity,ok,sources/owid-datasets/italy/Youth_Mortality_Rates_-_UN_IGME_2021_2a8df137.csv
+ocean_waste_by_item,ocean_waste_by_item.csv,False,0,Entity,ok,
+ocean_waste_global_top10,ocean_waste_global_top10.csv,False,0,Entity,ok,
+ocean_waste_items_by_region,ocean_waste_items_by_region.csv,False,0,Entity,ok,
+pm25-exposure-world-bank,pm25-exposure-world-bank.csv,True,12,Entity,ok,sources/owid-datasets/italy/pm25-exposure-world-bank_c1902d50.csv

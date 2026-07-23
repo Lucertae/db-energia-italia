@@ -1,0 +1,38 @@
+# name del progetto Compose = volume esistente infra-db_oim_pgdata
+name: infra-db
+
+services:
+  postgis:
+    image: postgis/postgis:16-3.5
+    container_name: oim-italia-db
+    environment:
+      POSTGRES_DB: oim_italia
+      POSTGRES_USER: oim
+      POSTGRES_PASSWORD: oim
+    ports:
+      - "5433:5432"
+    volumes:
+      - oim_pgdata:/var/lib/postgresql/data
+      - ./sql:/sql:ro
+      - ./data:/data:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U oim -d oim_italia"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+
+  osm2pgsql:
+    image: iboates/osm2pgsql:2.0.1
+    profiles: ["import"]
+    volumes:
+      - ./data:/data:ro
+      - ./lua:/lua:ro
+      - ./sql:/sql:ro
+    network_mode: service:postgis
+    depends_on:
+      postgis:
+        condition: service_healthy
+
+volumes:
+  oim_pgdata:
+    name: infra-db_oim_pgdata

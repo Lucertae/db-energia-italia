@@ -1,0 +1,10 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+meteo-italia,open_meteo_cities_hourly,sources/meteo,12 città — orario ricco (precip/rain/snow/vento/solare),12 città IT,2015,2026,orario,1074552,146,538963294,"°C, mm, cm, km/h, W/m2",Open-Meteo,Open-Meteo/ERA5,ok
+meteo-italia,open_meteo_cities_daily,sources/meteo_daily,12 città — giornaliero (sum precip/rain/snow),12 città IT,2015,2026,giornaliero,44773,137,15781245,"mm, cm, °C",Open-Meteo,Open-Meteo/ERA5,ok
+meteo-italia,open_meteo_zones_hourly,sources/open_meteo_zones,7 zone ENTSO — orario,7 zone,2015,2026,orario,101304,7,62301720,come città,Open-Meteo,Open-Meteo/ERA5,ok
+meteo-italia,open_meteo_zones_daily,sources/open_meteo_zones_daily,7 zone ENTSO — giornaliero,7 zone,2015,2026,giornaliero,4220,1,469037,"mm, °C",Open-Meteo,Open-Meteo/ERA5,ok
+meteo-italia,nasa_power_grid,sources/nasa_power_grid,Griglia nazionale ~1° daily (precip/temp/vento/solare),IT griglia ~81 punti,2015,2026,giornaliero,341577,83,50343411,"mm, °C, m/s, kWh/m2/d",NASA POWER,NASA POWER,ok
+meteo-italia,nasa_power_cities,sources/nasa_power_cities,12 città daily NASA POWER,12 città,2015,2026,giornaliero,50604,13,8687431,"mm, °C, …",NASA POWER,NASA POWER,ok
+meteo-italia,nasa_power_zones,sources/nasa_power_zones,7 zone ENTSO daily NASA POWER,7 zone,2015,2026,giornaliero,29519,8,5112788,"mm, °C, …",NASA POWER,NASA POWER,ok
+meteo-italia,meteostat_stations,sources/meteostat_stations,Stazioni osservative IT daily (~120),IT stazioni,2015,2026,giornaliero,852904,168,385659414,"°C, mm precip, snow mm, km/h",Meteostat,Meteostat,ok
+meteo-italia,open_meteo_grid,sources/open_meteo_grid,Tentativo griglia Open-Meteo (spesso vuoto/429),IT,,,giornaliero,,1,288,,Open-Meteo,Open-Meteo,partial

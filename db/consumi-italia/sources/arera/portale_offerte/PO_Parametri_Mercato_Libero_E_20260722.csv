@@ -1,0 +1,101 @@
+nome_parametro,valore,descrizione
+acc_a_h_h,4820.000000,Accisa NON DOMESTICO con fornitura oltre 1.200.000 kWh/mese per consumi superiori a 200.000 kWh/mese
+acc_a_h_l,0.012500,Accisa NON DOMESTICO con fornitura oltre 1.200.000 kWh/mese per consumi fino a 200.000 kWh/mese
+acc_a_l_h,0.007500,Accisa NON DOMESTICO con fornitura fino a 1.200.000 kWh/mese per consumi superiori a 200.000 kWh/mese
+acc_a_l_l,0.012500,Accisa NON DOMESTICO con fornitura fino a 1.200.000 kWh/mese per consumi fino a 200.000 kWh/mese
+acc_c_nr,0.022700,Accisa DOMESTICO NON RESIDENTE
+acc_c_r_h,0.022700,Accisa DOMESTICO RESIDENTE con fornitura oltre 3 kW
+acc_c_r_l,0.022700,Accisa DOMESTICO RESIDENTE con fornitura fino a 3 kW per consumi superiori a 150 kWh/mese
+arim_dnr_f,0.000000,Rimanenti oneri generali (ARIM) DOMESTICO NON RESIDENTE quota fissa
+arim_dnr_v,0.001638,Rimanenti oneri generali (ARIM) DOMESTICO NON RESIDENTE quota energia
+arim_dr,0.001638,Rimanenti oneri generali (ARIM) DOMESTICO RESIDENTE
+arim_nd_b1_c,0.001616,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA1 quota energia
+arim_nd_b1_f,3.027600,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA1 quota fissa
+arim_nd_b1_p,3.452400,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA1 quota potenza
+arim_nd_b2_c,0.001616,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA2 quota energia
+arim_nd_b2_f,3.027600,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA2 quota fissa
+arim_nd_b2_p,3.270000,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA2 quota potenza
+arim_nd_b3_c,0.001616,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA3 quota energia
+arim_nd_b3_f,3.027600,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA3 quota fissa
+arim_nd_b3_p,3.636000,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA3 quota potenza
+arim_nd_b4_c,0.001616,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA4 quota energia
+arim_nd_b4_f,3.082800,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA4 quota fissa
+arim_nd_b4_p,3.636000,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA4 quota potenza
+arim_nd_b5_c,0.001616,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA5 quota energia
+arim_nd_b5_f,3.082800,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA5 quota fissa
+arim_nd_b5_p,3.636000,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA5 quota potenza
+arim_nd_b6_c,0.001614,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA6 quota energia
+arim_nd_b6_f,3.027600,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA6 quota fissa
+arim_nd_b6_p,3.452400,Rimanenti oneri generali (ARIM) NON DOMESTICO BTA6 quota potenza
+asos_dnr_f,95.091600,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) DOMESTICO NON RESIDENTE quota fissa
+asos_dnr_v,0.031515,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92 (ASOS) DOMESTICO NON RESIDENTE quota variabile
+asos_dr,0.031515,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92 (ASOS) DOMESTICO RESIDENTE
+asos_nd_b1_c,0.031881,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA1 quota energia
+asos_nd_b1_f,12.992400,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA1 quota fissa
+asos_nd_b1_p,14.816400,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA1 quota potenza
+asos_nd_b2_c,0.031881,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA2 quota energia
+asos_nd_b2_f,12.992400,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA2 quota fissa
+asos_nd_b2_p,14.032800,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA2 quota potenza
+asos_nd_b3_c,0.031881,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA3 quota energia
+asos_nd_b3_f,12.992400,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA3 quota fissa
+asos_nd_b3_p,15.601200,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA3 quota potenza
+asos_nd_b4_c,0.031881,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA4 quota energia
+asos_nd_b4_f,13.233600,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA4 quota fissa
+asos_nd_b4_p,15.601200,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA4 quota potenza
+asos_nd_b5_c,0.031881,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA5 quota energia
+asos_nd_b5_f,13.233600,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA5 quota fissa
+asos_nd_b5_p,15.601200,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA5 quota potenza
+asos_nd_b6_c,0.031875,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA6 quota energia
+asos_nd_b6_f,12.992400,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA6 quota fissa
+asos_nd_b6_p,14.816400,Oneri generali relativi al sostegno delle energie rinnovabili ed alla cogenerazione CIP 6/92  (ASOS) NON DOMESTICO BTA6 quota potenza
+capprod,0.000000,Valori del corrispettivo unitario a copertura dei costi per la remunerazione della disponibilità  di capacità  produttiva Art.48 Del.111/06
+cdispd,0.024000,Corrispettivo somma del corrispettivo di Capacità e di quelli applicati da Terna per il servizio di dispacciamento
+cpstgd,0.002080,Corrispettivo a copertura dei saldi di perequazione relativi al Servizio a Tutele Graduali per i clienti Domestici non vulnerabili
+cpty_mrkt_1,0.026913,Nuovo parametro Capacity Market mese 1
+cpty_mrkt_2,0.006917,Nuovo parametro Capacity Market mese 2
+cpty_mrkt_3,0.003517,Nuovo parametro Capacity Market mese 3
+cpty_mrkt_mt,0.013492,Corrispettivo Capacità di Mercato MT
+csed,0.000560,Corrispettivo finalizzato alla copertura dei costi di sbilanciamento di un operatore efficiente applicato nel Servizio a Tutele Graduali per i clienti Domestici non vulnerabili
+dis_b1_c,0.000680,Distribuzione (DIS) NON DOMESTICO BTA1 quota energia
+dis_b1_f,5.347100,Distribuzione (DIS) NON DOMESTICO BTA1 quota fissa
+dis_b1_p,32.929700,Distribuzione (DIS) NON DOMESTICO BTA1 quota potenza
+dis_b2_c,0.000680,Distribuzione (DIS) NON DOMESTICO BTA2 quota energia
+dis_b2_f,5.347100,Distribuzione (DIS) NON DOMESTICO BTA2 quota fissa
+dis_b2_p,31.187400,Distribuzione (DIS) NON DOMESTICO BTA2 quota potenza
+dis_b3_c,0.000680,Distribuzione (DIS) NON DOMESTICO BTA3 quota energia
+dis_b3_f,5.347100,Distribuzione (DIS) NON DOMESTICO BTA3 quota fissa
+dis_b3_p,34.672000,Distribuzione (DIS) NON DOMESTICO BTA3 quota potenza
+dis_b4_c,0.000680,Distribuzione (DIS) NON DOMESTICO BTA4 quota energia
+dis_b4_f,5.881800,Distribuzione (DIS) NON DOMESTICO BTA4 quota fissa
+dis_b4_p,34.672000,Distribuzione (DIS) NON DOMESTICO BTA4 quota potenza
+dis_b5_c,0.000680,Distribuzione (DIS) NON DOMESTICO BTA5 quota energia
+dis_b5_f,5.881800,Distribuzione (DIS) NON DOMESTICO BTA5 quota fissa
+dis_b5_p,34.672000,Distribuzione (DIS) NON DOMESTICO BTA5 quota potenza
+dis_b6_c,0.000660,Distribuzione (DIS) NON DOMESTICO BTA6 quota energia
+dis_b6_f,5.347100,Distribuzione (DIS) NON DOMESTICO BTA6 quota fissa
+dis_b6_p,32.929700,Distribuzione (DIS) NON DOMESTICO BTA6 quota potenza
+dispbt_d,1.107000,Componente di dispacciamento (parte fissa) DOMESTICO
+dispbt_nd,1.107000,Componente di dispacciamento (parte fissa) NON DOMESTICO
+gamma,-73.573700,Media ponderata rispetto a stima POD dei prezzi di aggiudicazione aste
+interr,0.002490,Valori del corrispettivo unitario a copertura dei costi per la remunerazione del servizio di interrompibilità del carico. Art.73 Del.111/06
+iva_a,0.220000,IVA NON DOMESTICO
+iva_c,0.100000,IVA DOMESTICO
+lambda,0.100000,Fattore di correzione per tener conto delle perdite di rete (LAMBDA)
+mis,21.846900,Misura (MIS)
+modeol,0.001339,Corrispettivo a copertura dei costi della modulazione della produzione eolica. Calcolato da Terna. Art.44bis  Del.111/06
+msd,0.003659,Corrispettivo per l'approvvigionamento delle risorse nel mercato per il servizio di dispacciamento. Calcolato da Terna.  Art.44  Del.116/06 (MSD)
+pcv_a,41.180000,Commercializzazione vendita NON DOMESTICO
+pcv_c,41.180000,Commercializzazione vendita DOMESTICO
+rst,0.000572,Reintegro salvaguardia provvisoria (RST)
+rstg,0.000000,Reintegrazione oneri tutele graduali lordo perdite
+sigma1,23.040000,Distribuzione (Sigma1)
+sigma2,23.520000,Trasporto (Sigma2)
+sigma3,0.011900,Misura (Sigma3)
+terna,0.000717,"Valori del corrispettivo unitario a copertura dei costi riconosciuti per il funzionamento di Terna relativi all'attività  di dispacciamento, nonchè dei costi di Terna relativi alle attività funzionali al monitoraggio. Art.46 Del.111/06 (TERNA)"
+tras,0.011900,Trasmissione (TRAS)
+uc3,0.002760,Perequazione (UC3)
+uc6p_d,0.000070,Qualità (UC6 primo) DOMESTICO
+uc6p_nd,0.000070,Qualità (UC6 primo) NON DOMESTICO
+uc6s_d,0.198800,Qualità (UC6 secondo) DOMESTICO
+uc6s_nd,1.682400,Qualità (UC6 secondo) NON DOMESTICO
+uniess,0.003346,Corrispettivo a copertura dei costi delle unità essenziali per la sicurezza del sistema. Art.45  Del.111/06

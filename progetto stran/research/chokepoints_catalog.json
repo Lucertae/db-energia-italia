@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "updated": "2026-07-07",
+  "baseline_flows_1h25_mbpd": {
+    "malacca": 23.2,
+    "hormuz": 20.9,
+    "bab_el_mandeb": 4.2,
+    "suez_sumed": 4.9
+  },
+  "chokepoints": [
+    {
+      "id": "HORMUZ",
+      "name": "Strait of Hormuz",
+      "lat": 26.56,
+      "lon": 56.25,
+      "bbox": [26.0, 27.0, 55.5, 57.0],
+      "oil_mbpd_1h25": 20.9,
+      "lng_share_global_pct": 20,
+      "bypass_available": "partial",
+      "bypass_routes": ["ADCOP_FUJAIRAH", "PETROLINE_YANBU", "GOREH_JASK"],
+      "notes": "Feb 2026: -90% traffic at peak; Qatar LNG 100% dependent"
+    },
+    {
+      "id": "MALACCA",
+      "name": "Strait of Malacca",
+      "lat": 2.5,
+      "lon": 101.5,
+      "bbox": [0.5, 6.0, 99.0, 104.5],
+      "oil_mbpd_1h25": 23.2,
+      "lng_bcf_d_1h25": 9.2,
+      "china_crude_share_pct": 48,
+      "alternatives": ["SUNDA", "LOMBOK", "MYANMAR_PIPELINE"],
+      "notes": "Largest oil chokepoint globally; 84% Hormuz oil continues here to Asia"
+    },
+    {
+      "id": "SUNDA",
+      "name": "Sunda Strait",
+      "lat": -5.8,
+      "lon": 105.9,
+      "bbox": [-7.0, -5.0, 104.5, 106.5],
+      "extra_nm_vs_malacca": 450,
+      "extra_days_typical": 3,
+      "draft_m": 30,
+      "traffic_share_vs_malacca_pct": 3,
+      "notes": "VLCC fully loaded; Anak Krakatoa hazard"
+    },
+    {
+      "id": "LOMBOK",
+      "name": "Lombok Strait",
+      "lat": -8.5,
+      "lon": 115.8,
+      "bbox": [-9.5, -7.5, 115.0, 116.5],
+      "extra_nm_vs_malacca": 700,
+      "extra_days_typical": 5,
+      "draft_m": 250,
+      "traffic_share_vs_malacca_pct": 2,
+      "notes": "ULCC/deep draft; TSS since 2020"
+    },
+    {
+      "id": "FUJAIRAH",
+      "name": "Fujairah / Khor Fakkan (UAE bypass)",
+      "lat": 25.12,
+      "lon": 56.35,
+      "bbox": [24.8, 25.5, 56.0, 56.8],
+      "pipeline": "ADCOP",
+      "capacity_mbpd": 1.8,
+      "capacity_mbpd_expansion": 3.4,
+      "notes": "Only major bypass into Indian Ocean; drone risk 2026"
+    },
+    {
+      "id": "YANBU",
+      "name": "Yanbu (Saudi Petroline)",
+      "lat": 24.09,
+      "lon": 38.06,
+      "bbox": [23.5, 24.5, 37.5, 38.5],
+      "pipeline": "PETROLINE_EAST_WEST",
+      "capacity_mbpd": 7.0,
+      "spare_mbpd_est": 4.0,
+      "notes": "Red Sea export; second choke Bab el-Mandeb"
+    },
+    {
+      "id": "BAB_EL_MANDEB",
+      "name": "Bab el-Mandeb",
+      "lat": 12.58,
+      "lon": 43.33,
+      "bbox": [12.0, 13.5, 42.5, 44.5],
+      "oil_mbpd_1h25": 4.2,
+      "notes": "Houthi attacks resumed Feb 2026; links Yanbu bypass to Suez"
+    },
+    {
+      "id": "CAPE",
+      "name": "Cape of Good Hope",
+      "lat": -34.35,
+      "lon": 18.47,
+      "bbox": [-36.0, -32.0, 17.0, 20.0],
+      "extra_nm_vs_suez": 3500,
+      "extra_days_typical": 14,
+      "notes": "+35% traffic Mar 2026 during Hormuz closure"
+    },
+    {
+      "id": "KYAUKPYU",
+      "name": "Kyaukpyu / Maday Island (Myanmar-China pipeline)",
+      "lat": 19.42,
+      "lon": 93.55,
+      "bbox": [18.5, 20.0, 92.5, 94.5],
+      "pipeline_capacity_mt_yr": 22,
+      "pipeline_capacity_kbpd": 440,
+      "bypasses": ["MALACCA"],
+      "notes": "~6.5 mb/d China imports via Malacca vs 0.44 mb/d via pipeline"
+    }
+  ],
+  "pipeline_bypasses": [
+    {
+      "id": "ADCOP",
+      "from": "Habshan UAE",
+      "to": "Fujairah",
+      "capacity_mbpd": 1.8,
+      "expansion_mbpd": 3.4,
+      "operator": "ADNOC",
+      "avoids": ["HORMUZ"]
+    },
+    {
+      "id": "PETROLINE",
+      "from": "Eastern Province KSA",
+      "to": "Yanbu Red Sea",
+      "capacity_mbpd": 7.0,
+      "operator": "Aramco",
+      "avoids": ["HORMUZ"],
+      "exposes_to": ["BAB_EL_MANDEB", "RED_SEA"]
+    },
+    {
+      "id": "KIRKUK_CEYHAN",
+      "from": "Kirkuk Iraq",
+      "to": "Ceyhan Turkey",
+      "capacity_kbpd": 250,
+      "avoids": ["HORMUZ"]
+    },
+    {
+      "id": "GOREH_JASK",
+      "from": "Goreh Iran",
+      "to": "Jask Oman Sea",
+      "capacity_mbpd": 1.0,
+      "status": "largely_non_operational",
+      "avoids": ["HORMUZ"]
+    },
+    {
+      "id": "MYANMAR_CHINA",
+      "from": "Kyaukpyu",
+      "to": "Kunming",
+      "capacity_kbpd": 440,
+      "avoids": ["MALACCA"],
+      "operator": "PetroChina/CNPC"
+    }
+  ],
+  "monitoring_signals": [
+    {
+      "id": "RT-01",
+      "metric": "tanker_transits_per_day",
+      "zones": ["HORMUZ"],
+      "freq": "daily"
+    },
+    {
+      "id": "RT-04",
+      "metric": "tanker_transits_per_day",
+      "zones": ["MALACCA"],
+      "freq": "daily"
+    },
+    {
+      "id": "RT-05",
+      "metric": "sunda_lombok_ratio_vs_malacca",
+      "zones": ["SUNDA", "LOMBOK", "MALACCA"],
+      "freq": "weekly"
+    },
+    {
+      "id": "RT-02",
+      "metric": "fujairah_loadings",
+      "zones": ["FUJAIRAH"],
+      "freq": "daily"
+    },
+    {
+      "id": "RT-06",
+      "metric": "cape_tanker_transits_vs_7d_ma",
+      "zones": ["CAPE"],
+      "freq": "daily"
+    }
+  ]
+}

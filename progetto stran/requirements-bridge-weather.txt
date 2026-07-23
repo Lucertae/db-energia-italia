@@ -1,0 +1,28 @@
+# Weather / NWP stack — optional pip packages
+# Core weather pipeline (open_meteo, hdd_cdd, enso, signals) needs NO pip.
+
+# Layer 1 — NWP ingestion
+herbie>=2024.1
+cdsapi>=0.7
+xarray>=2024.1
+cfgrib>=0.9.14
+
+# Layer 2 — meteo → MWh
+atlite>=0.2.12
+pvlib>=0.11
+windpowerlib>=0.2.1
+
+# Layer 2 — forecast / quantili
+epftoolbox>=1.0
+neuralforecast>=1.7
+lightgbm>=4.0
+statsmodels>=0.14
+
+# Storage (optional)
+# arcticdb
+# kerchunk
+# zarr
+
+# Calendars (FX sessions + power EIC)
+pandas-market-calendars>=4.0
+exchange-calendars>=4.0

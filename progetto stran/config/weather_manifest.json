@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "updated": "2026-07-09",
+  "description": "Meteo zones → energy (HDD/CDD, wind, solar proxy) and FX (commodity/ENSO overlay)",
+  "hdd_base_c": 18.0,
+  "cdd_base_c": 22.0,
+  "wind_ramp_threshold_ms": 8.0,
+  "zones": [
+    {"id": "PAR", "name": "Paris", "lat": 48.86, "lon": 2.35, "region": "EU", "weight_hdd": 0.12, "weight_cdd": 0.10, "power_desk": "PFR", "fx_pairs": ["EUR"]},
+    {"id": "BER", "name": "Berlin", "lat": 52.52, "lon": 13.41, "region": "EU", "weight_hdd": 0.14, "weight_cdd": 0.08, "power_desk": "PDE", "fx_pairs": ["EUR"]},
+    {"id": "LON", "name": "London", "lat": 51.51, "lon": -0.13, "region": "EU", "weight_hdd": 0.10, "weight_cdd": 0.06, "power_desk": null, "fx_pairs": ["EUR", "GBP"]},
+    {"id": "OSL", "name": "Oslo", "lat": 59.91, "lon": 10.75, "region": "NORD", "weight_hdd": 0.08, "weight_cdd": 0.02, "power_desk": null, "fx_pairs": ["ENK"], "note": "Nord Pool hydro / EURNOK"},
+    {"id": "HEL", "name": "Helsinki", "lat": 60.17, "lon": 24.94, "region": "NORD", "weight_hdd": 0.06, "weight_cdd": 0.02, "power_desk": null, "fx_pairs": ["EUR"]},
+    {"id": "MIL", "name": "Milan", "lat": 45.46, "lon": 9.19, "region": "EU", "weight_hdd": 0.08, "weight_cdd": 0.10, "power_desk": "PIT", "fx_pairs": ["EUR"]},
+    {"id": "AMS", "name": "Amsterdam", "lat": 52.37, "lon": 4.90, "region": "EU", "weight_hdd": 0.08, "weight_cdd": 0.06, "power_desk": "PNL", "fx_pairs": ["EUR"]},
+    {"id": "WAW", "name": "Warsaw", "lat": 52.23, "lon": 21.01, "region": "EU", "weight_hdd": 0.08, "weight_cdd": 0.08, "power_desk": "PPL", "fx_pairs": ["EUR"]},
+    {"id": "NYC", "name": "New York", "lat": 40.71, "lon": -74.01, "region": "US", "weight_hdd": 0.10, "weight_cdd": 0.12, "power_desk": null, "fx_pairs": ["USD"], "gas_proxy": "HUB"},
+    {"id": "CHI", "name": "Chicago", "lat": 41.88, "lon": -87.63, "region": "US", "weight_hdd": 0.10, "weight_cdd": 0.10, "power_desk": null, "fx_pairs": ["USD"], "gas_proxy": "HUB"},
+    {"id": "HOU", "name": "Houston", "lat": 29.76, "lon": -95.37, "region": "US", "weight_hdd": 0.04, "weight_cdd": 0.14, "power_desk": null, "fx_pairs": ["USD"], "gas_proxy": "HUB"},
+    {"id": "SAO", "name": "Sao Paulo", "lat": -23.55, "lon": -46.63, "region": "LATAM", "weight_hdd": 0.0, "weight_cdd": 0.08, "power_desk": null, "fx_pairs": ["BRL"], "note": "Agri / soy climate"},
+    {"id": "SYD", "name": "Sydney", "lat": -33.87, "lon": 151.21, "region": "PAC", "weight_hdd": 0.0, "weight_cdd": 0.06, "power_desk": null, "fx_pairs": ["AUD"]},
+    {"id": "JNB", "name": "Johannesburg", "lat": -26.20, "lon": 28.04, "region": "AFR", "weight_hdd": 0.0, "weight_cdd": 0.04, "power_desk": null, "fx_pairs": ["ZAR"]},
+    {"id": "MUM", "name": "Mumbai", "lat": 19.08, "lon": 72.88, "region": "MONSOON", "weight_hdd": 0.0, "weight_cdd": 0.08, "power_desk": null, "fx_pairs": ["INR"], "note": "Monsoon → food CPI / RBI"}
+  ],
+  "enso": {
+    "source_url": "https://www.cpc.ncep.noaa.gov/data/indices/oni.ascii.txt",
+    "fx_commodity_pairs": {
+      "el_nino": ["AUD", "BRL", "ZAR", "CLP", "NZD"],
+      "la_nina": ["AUD", "BRL"]
+    }
+  },
+  "pipeline": [
+    "open_meteo",
+    "hdd_cdd",
+    "enso",
+    "signals"
+  ],
+  "sector_links": {
+    "energy": {
+      "modules": ["weather_open_meteo", "weather_hdd_cdd", "weather_signals", "entsoe_py_harvest", "epftoolbox_status"],
+      "signals": ["PWR-01", "PWR-02", "PWR-03"],
+      "causal_chain": "wind/solar/temp → renewables/demand → merit order → spot/DA"
+    },
+    "fx": {
+      "modules": ["weather_enso", "weather_hdd_cdd", "weather_signals", "fx_carry", "pysystemtrade_export"],
+      "signals": ["FX-ENSO", "GAS-X"],
+      "causal_chain": "HDD/ENSO/monsone → commodity/terms of trade → FX overlay"
+    }
+  }
+}

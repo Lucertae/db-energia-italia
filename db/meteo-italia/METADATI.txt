@@ -1,0 +1,119 @@
+================================================================================
+METADATI — Meteo Italia
+================================================================================
+Aggiornato: 2026-07-23
+Path:       db/meteo-italia/
+Volume:     1.07 GB   |   file dati catalogati: 564
+
+--------------------------------------------------------------------------------
+1. DESCRIZIONE
+--------------------------------------------------------------------------------
+Driver meteo per domanda/FER: Open-Meteo (città/zone, orario+daily con pioggia/neve), alternativa NASA POWER (griglia nazionale + città + zone) e stazioni Meteostat.
+
+--------------------------------------------------------------------------------
+2. REFRESH
+--------------------------------------------------------------------------------
+python db/meteo-italia/scripts/harvest_open_meteo.py
+python db/meteo-italia/scripts/harvest_meteo_alt.py
+
+--------------------------------------------------------------------------------
+3. DATASET (cosa / quanto / copertura)
+--------------------------------------------------------------------------------
+[open_meteo_cities_hourly]  status=ok
+  path:    sources/meteo
+  cosa:    12 città — orario ricco (precip/rain/snow/vento/solare)
+  geo:     12 città IT
+  tempo:   2015–2026   |  granularità: orario
+  quanto:  1074552 righe (file campione), 146 file, 539.0 MB
+  unità:   °C, mm, cm, km/h, W/m2
+  fonte:   Open-Meteo  |  licenza: Open-Meteo/ERA5
+
+[open_meteo_cities_daily]  status=ok
+  path:    sources/meteo_daily
+  cosa:    12 città — giornaliero (sum precip/rain/snow)
+  geo:     12 città IT
+  tempo:   2015–2026   |  granularità: giornaliero
+  quanto:  44773 righe (file campione), 137 file, 15.8 MB
+  unità:   mm, cm, °C
+  fonte:   Open-Meteo  |  licenza: Open-Meteo/ERA5
+
+[open_meteo_zones_hourly]  status=ok
+  path:    sources/open_meteo_zones
+  cosa:    7 zone ENTSO — orario
+  geo:     7 zone
+  tempo:   2015–2026   |  granularità: orario
+  quanto:  101304 righe (file campione), 7 file, 62.3 MB
+  unità:   come città
+  fonte:   Open-Meteo  |  licenza: Open-Meteo/ERA5
+
+[open_meteo_zones_daily]  status=ok
+  path:    sources/open_meteo_zones_daily
+  cosa:    7 zone ENTSO — giornaliero
+  geo:     7 zone
+  tempo:   2015–2026   |  granularità: giornaliero
+  quanto:  4220 righe (file campione), 1 file, 469.0 KB
+  unità:   mm, °C
+  fonte:   Open-Meteo  |  licenza: Open-Meteo/ERA5
+
+[nasa_power_grid]  status=ok
+  path:    sources/nasa_power_grid
+  cosa:    Griglia nazionale ~1° daily (precip/temp/vento/solare)
+  geo:     IT griglia ~81 punti
+  tempo:   2015–2026   |  granularità: giornaliero
+  quanto:  341577 righe (file campione), 83 file, 50.3 MB
+  unità:   mm, °C, m/s, kWh/m2/d
+  fonte:   NASA POWER  |  licenza: NASA POWER
+
+[nasa_power_cities]  status=ok
+  path:    sources/nasa_power_cities
+  cosa:    12 città daily NASA POWER
+  geo:     12 città
+  tempo:   2015–2026   |  granularità: giornaliero
+  quanto:  50604 righe (file campione), 13 file, 8.7 MB
+  unità:   mm, °C, …
+  fonte:   NASA POWER  |  licenza: NASA POWER
+
+[nasa_power_zones]  status=ok
+  path:    sources/nasa_power_zones
+  cosa:    7 zone ENTSO daily NASA POWER
+  geo:     7 zone
+  tempo:   2015–2026   |  granularità: giornaliero
+  quanto:  29519 righe (file campione), 8 file, 5.1 MB
+  unità:   mm, °C, …
+  fonte:   NASA POWER  |  licenza: NASA POWER
+
+[meteostat_stations]  status=ok
+  path:    sources/meteostat_stations
+  cosa:    Stazioni osservative IT daily (~120)
+  geo:     IT stazioni
+  tempo:   2015–2026   |  granularità: giornaliero
+  quanto:  852904 righe (file campione), 168 file, 385.7 MB
+  unità:   °C, mm precip, snow mm, km/h
+  fonte:   Meteostat  |  licenza: Meteostat
+
+[open_meteo_grid]  status=partial
+  path:    sources/open_meteo_grid
+  cosa:    Tentativo griglia Open-Meteo (spesso vuoto/429)
+  geo:     IT
+  tempo:   n/d   |  granularità: giornaliero
+  quanto:  1 file, 288 B
+  unità:   —
+  fonte:   Open-Meteo  |  licenza: Open-Meteo
+
+--------------------------------------------------------------------------------
+4. CATALOGO MACHINE-READABLE
+--------------------------------------------------------------------------------
+Vedi catalog.csv nello stesso folder (rigenerate con:
+  python db/scripts/build_metadata_catalogs.py
+
+--------------------------------------------------------------------------------
+5. LICENZE
+--------------------------------------------------------------------------------
+Open-Meteo/ERA5; NASA POWER; Meteostat.
+
+--------------------------------------------------------------------------------
+6. BUCHI NOTI
+--------------------------------------------------------------------------------
+Open-Meteo spesso 429: usare NASA POWER/Meteostat. Griglia Open-Meteo incompleta.
+
+================================================================================

@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CATEGORIA'/>
+		<variable name='ATTO_DI_CONCESSIONE'/>
+		<variable name='TITOLI_RILASCIATI'/>
+		<variable name='UNITA_DI_MISURA'/>
+		<variable name='MESE_DI_EROGAZIONE'/>
+		<variable name='ANNO_DI_EROGAZIONE'/>
+	</head>
+	<results>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00163020506</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00163020506</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ECOFOR_SERVICE_SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>1</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>199</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2024</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>5672</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01846560983</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03000680177</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>INIZIATIVE_BRESCIANE-INBRE-S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>1</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>-65</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2024</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>2445</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01591110356</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01591110356</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>IREN_AMBIENTE_S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>565</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2024</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>2265</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02927670923</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02927670923</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SARDINIA_BIO_ENERGY_SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>10</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>-110</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2024</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>1956</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02719930980</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02719930980</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SPER_S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>-3397</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2024</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>6945</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

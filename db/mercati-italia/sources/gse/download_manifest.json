@@ -1,0 +1,975 @@
+[
+  {
+    "itemId": 978,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2025/conto-energia-2025-csv.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-energia-2025-csv.zip",
+    "status": "ok",
+    "bytes": 8760359
+  },
+  {
+    "itemId": 978,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2025/conto-energia-2025-json.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-energia-2025-json.zip",
+    "status": "ok",
+    "bytes": 14098332
+  },
+  {
+    "itemId": 978,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2025/conto-energia-2025-xlsx-Parte1.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-energia-2025-xlsx-Parte1.zip",
+    "status": "ok",
+    "bytes": 9664572
+  },
+  {
+    "itemId": 978,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2025/conto-energia-2025-xlsx-Parte2.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-energia-2025-xlsx-Parte2.zip",
+    "status": "ok",
+    "bytes": 10759298
+  },
+  {
+    "itemId": 978,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2025/conto-energia-2025-xlsx-Parte3.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-energia-2025-xlsx-Parte3.zip",
+    "status": "ok",
+    "bytes": 5974649
+  },
+  {
+    "itemId": 978,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-energia-anno-2025/conto-energia-2025-xml.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-energia-2025-xml.zip",
+    "status": "ok",
+    "bytes": 12973334
+  },
+  {
+    "itemId": 985,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2025/cv-rilasciati-2025-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\cv-rilasciati-2025-csv.csv",
+    "status": "ok",
+    "bytes": 479
+  },
+  {
+    "itemId": 985,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2025/cv-rilasciati-2025-json.json",
+    "file": "Gestore_Servizi_Energetici\\cv-rilasciati-2025-json.json",
+    "status": "ok",
+    "bytes": 15066
+  },
+  {
+    "itemId": 985,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2025/cv-rilasciati-2025-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\cv-rilasciati-2025-xls.xls",
+    "status": "ok",
+    "bytes": 15872
+  },
+  {
+    "itemId": 985,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-rilasciati-2025/cv-rilasciati-2025-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\cv-rilasciati-2025-xml.xml",
+    "status": "ok",
+    "bytes": 3071
+  },
+  {
+    "itemId": 990,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2025/cv-ritirari-2025-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\cv-ritirari-2025-csv.csv",
+    "status": "ok",
+    "bytes": 578
+  },
+  {
+    "itemId": 990,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2025/cv-ritirari-2025-json.json",
+    "file": "Gestore_Servizi_Energetici\\cv-ritirari-2025-json.json",
+    "status": "ok",
+    "bytes": 15039
+  },
+  {
+    "itemId": 990,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2025/cv-ritirari-2025-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\cv-ritirari-2025-xls.xls",
+    "status": "ok",
+    "bytes": 16896
+  },
+  {
+    "itemId": 990,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-verdi-2025/cv-ritirari-2025-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\cv-ritirari-2025-xml.xml",
+    "status": "ok",
+    "bytes": 3915
+  },
+  {
+    "itemId": 995,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2025/cb-rilasciati-2025-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\cb-rilasciati-2025-csv.csv",
+    "status": "ok",
+    "bytes": 77279
+  },
+  {
+    "itemId": 995,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2025/cb-rilasciati-2025-json.json",
+    "file": "Gestore_Servizi_Energetici\\cb-rilasciati-2025-json.json",
+    "status": "ok",
+    "bytes": 15069
+  },
+  {
+    "itemId": 995,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2025/cb-rilasciati-2025-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\cb-rilasciati-2025-xls.xls",
+    "status": "ok",
+    "bytes": 392192
+  },
+  {
+    "itemId": 995,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-rilasciati-2025/cb-rilasciati-2025-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\cb-rilasciati-2025-xml.xml",
+    "status": "ok",
+    "bytes": 665705
+  },
+  {
+    "itemId": 1000,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2025/cb-ritirari-2025-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\cb-ritirari-2025-csv.csv",
+    "status": "ok",
+    "bytes": 45064
+  },
+  {
+    "itemId": 1000,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2025/cb-ritirari-2025-json.json",
+    "file": "Gestore_Servizi_Energetici\\cb-ritirari-2025-json.json",
+    "status": "ok",
+    "bytes": 15078
+  },
+  {
+    "itemId": 1000,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2025/cb-ritirari-2025-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\cb-ritirari-2025-xls.xls",
+    "status": "ok",
+    "bytes": 232960
+  },
+  {
+    "itemId": 1000,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-bianchi-car-ritirati-anno-2025/cb-ritirari-2025-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\cb-ritirari-2025-xml.xml",
+    "status": "ok",
+    "bytes": 377399
+  },
+  {
+    "itemId": 1005,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2025/tee-2025-csv.zip",
+    "file": "Gestore_Servizi_Energetici\\tee-2025-csv.zip",
+    "status": "ok",
+    "bytes": 17623
+  },
+  {
+    "itemId": 1005,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2025/tee-2025-json.zip",
+    "file": "Gestore_Servizi_Energetici\\tee-2025-json.zip",
+    "status": "ok",
+    "bytes": 31426
+  },
+  {
+    "itemId": 1005,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2025/tee-2025-xlsx-Parte1.zip",
+    "file": "Gestore_Servizi_Energetici\\tee-2025-xlsx-Parte1.zip",
+    "status": "ok",
+    "bytes": 51014
+  },
+  {
+    "itemId": 1005,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2025/tee-2025-xlsx-Parte2.zip",
+    "file": "Gestore_Servizi_Energetici\\tee-2025-xlsx-Parte2.zip",
+    "status": "ok",
+    "bytes": 31339
+  },
+  {
+    "itemId": 1005,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2025/tee-2025-xlsx-Parte3.zip",
+    "file": "Gestore_Servizi_Energetici\\tee-2025-xlsx-Parte3.zip",
+    "status": "ok",
+    "bytes": 24890
+  },
+  {
+    "itemId": 1005,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tee-2025/tee-2025-xml.zip",
+    "file": "Gestore_Servizi_Energetici\\tee-2025-xml.zip",
+    "status": "ok",
+    "bytes": 27645
+  },
+  {
+    "itemId": 1012,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2025/conto-termico-2025-csv.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-termico-2025-csv.zip",
+    "status": "ok",
+    "bytes": 1545388
+  },
+  {
+    "itemId": 1012,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2025/conto-termico-2025-json.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-termico-2025-json.zip",
+    "status": "ok",
+    "bytes": 2847402
+  },
+  {
+    "itemId": 1012,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2025/conto-termico-2025-xlsx-Parte1.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-termico-2025-xlsx-Parte1.zip",
+    "status": "ok",
+    "bytes": 1790981
+  },
+  {
+    "itemId": 1012,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2025/conto-termico-2025-xlsx-Parte2.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-termico-2025-xlsx-Parte2.zip",
+    "status": "ok",
+    "bytes": 2175593
+  },
+  {
+    "itemId": 1012,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2025/conto-termico-2025-xlsx-Parte3.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-termico-2025-xlsx-Parte3.zip",
+    "status": "ok",
+    "bytes": 1299958
+  },
+  {
+    "itemId": 1012,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-conto-termico-anno-2025/conto-termico-2025-xml.zip",
+    "file": "Gestore_Servizi_Energetici\\conto-termico-2025-xml.zip",
+    "status": "ok",
+    "bytes": 2414292
+  },
+  {
+    "itemId": 1024,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2025/fer-elettriche-2025-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\fer-elettriche-2025-csv.csv",
+    "status": "ok",
+    "bytes": 5435457
+  },
+  {
+    "itemId": 1024,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2025/fer-elettriche-2025-json.json",
+    "file": "Gestore_Servizi_Energetici\\fer-elettriche-2025-json.json",
+    "status": "ok",
+    "bytes": 15049
+  },
+  {
+    "itemId": 1024,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2025/fer-elettriche-2025-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\fer-elettriche-2025-xls.xls",
+    "status": "fail:The read operation timed out"
+  },
+  {
+    "itemId": 1024,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-fer-elettriche-anno-2025/fer-elettriche-2025-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\fer-elettriche-2025-xml.xml",
+    "status": "ok",
+    "bytes": 48338807
+  },
+  {
+    "itemId": 1029,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2025/tariffa-onnicomprensiva-2025-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\tariffa-onnicomprensiva-2025-csv.csv",
+    "status": "ok",
+    "bytes": 2068090
+  },
+  {
+    "itemId": 1029,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2025/tariffa-onnicomprensiva-2025-json.json",
+    "file": "Gestore_Servizi_Energetici\\tariffa-onnicomprensiva-2025-json.json",
+    "status": "ok",
+    "bytes": 15073
+  },
+  {
+    "itemId": 1029,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2025/tariffa-onnicomprensiva-2025-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\tariffa-onnicomprensiva-2025-xls.xls",
+    "status": "fail:The read operation timed out"
+  },
+  {
+    "itemId": 1029,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-tariffa-onnicomprensiva-2025/tariffa-onnicomprensiva-2025-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\tariffa-onnicomprensiva-2025-xml.xml",
+    "status": "ok",
+    "bytes": 16215568
+  },
+  {
+    "itemId": 1039,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2025/grin-2025-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\grin-2025-csv.csv",
+    "status": "ok",
+    "bytes": 467251
+  },
+  {
+    "itemId": 1039,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2025/grin-2025-json.json",
+    "file": "Gestore_Servizi_Energetici\\grin-2025-json.json",
+    "status": "ok",
+    "bytes": 15008
+  },
+  {
+    "itemId": 1039,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2025/grin-2025-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\grin-2025-xls.xls",
+    "status": "fail:The read operation timed out"
+  },
+  {
+    "itemId": 1039,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-grin-anno-2025/grin-2025-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\grin-2025-xml.xml",
+    "status": "ok",
+    "bytes": 4624645
+  },
+  {
+    "itemId": 1049,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2019/biocarburanti-avanzati-2019-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2019-csv.csv",
+    "status": "ok",
+    "bytes": 1738
+  },
+  {
+    "itemId": 1049,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2019/biocarburanti-avanzati-2019-json.json",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2019-json.json",
+    "status": "ok",
+    "bytes": 15068
+  },
+  {
+    "itemId": 1049,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2019/biocarburanti-avanzati-2019-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2019-xls.xls",
+    "status": "ok",
+    "bytes": 22016
+  },
+  {
+    "itemId": 1049,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2019/biocarburanti-avanzati-2019-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2019-xml.xml",
+    "status": "ok",
+    "bytes": 12613
+  },
+  {
+    "itemId": 1054,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2020/biocarburanti-avanzati-2020-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2020-csv.csv",
+    "status": "ok",
+    "bytes": 1758
+  },
+  {
+    "itemId": 1054,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2020/biocarburanti-avanzati-2020-json.json",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2020-json.json",
+    "status": "ok",
+    "bytes": 15069
+  },
+  {
+    "itemId": 1054,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2020/biocarburanti-avanzati-2020-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2020-xls.xls",
+    "status": "ok",
+    "bytes": 22016
+  },
+  {
+    "itemId": 1054,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2020/biocarburanti-avanzati-2020-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2020-xml.xml",
+    "status": "ok",
+    "bytes": 12637
+  },
+  {
+    "itemId": 1059,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2021/biocarburanti-avanzati-2021-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2021-csv.csv",
+    "status": "ok",
+    "bytes": 1830
+  },
+  {
+    "itemId": 1059,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2021/biocarburanti-avanzati-2021-json.json",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2021-json.json",
+    "status": "ok",
+    "bytes": 15069
+  },
+  {
+    "itemId": 1059,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2021/biocarburanti-avanzati-2021-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2021-xls.xls",
+    "status": "ok",
+    "bytes": 22528
+  },
+  {
+    "itemId": 1059,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2021/biocarburanti-avanzati-2021-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2021-xml.xml",
+    "status": "ok",
+    "bytes": 13462
+  },
+  {
+    "itemId": 1064,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2022/biocarburanti-avanzati-2022-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2022-csv.csv",
+    "status": "ok",
+    "bytes": 2136
+  },
+  {
+    "itemId": 1064,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2022/biocarburanti-avanzati-2022-json.json",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2022-json.json",
+    "status": "ok",
+    "bytes": 15068
+  },
+  {
+    "itemId": 1064,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2022/biocarburanti-avanzati-2022-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2022-xls.xls",
+    "status": "ok",
+    "bytes": 24064
+  },
+  {
+    "itemId": 1064,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2022/biocarburanti-avanzati-2022-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2022-xml.xml",
+    "status": "ok",
+    "bytes": 16027
+  },
+  {
+    "itemId": 1069,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2023/biocarburanti-avanzati-2023-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2023-csv.csv",
+    "status": "ok",
+    "bytes": 1938
+  },
+  {
+    "itemId": 1069,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2023/biocarburanti-avanzati-2023-json.json",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2023-json.json",
+    "status": "ok",
+    "bytes": 15070
+  },
+  {
+    "itemId": 1069,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2023/biocarburanti-avanzati-2023-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2023-xls.xls",
+    "status": "ok",
+    "bytes": 23040
+  },
+  {
+    "itemId": 1069,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biocarburanti-avanzati-2023/biocarburanti-avanzati-2023-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-avanzati-2023-xml.xml",
+    "status": "ok",
+    "bytes": 14319
+  },
+  {
+    "itemId": 1110,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2019/biometano-2019-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biometano-2019-csv.csv",
+    "status": "ok",
+    "bytes": 6158
+  },
+  {
+    "itemId": 1110,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2019/biometano-2019-json.json",
+    "file": "Gestore_Servizi_Energetici\\biometano-2019-json.json",
+    "status": "ok",
+    "bytes": 15019
+  },
+  {
+    "itemId": 1110,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2019/biometano-2019-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biometano-2019-xls.xls",
+    "status": "ok",
+    "bytes": 43520
+  },
+  {
+    "itemId": 1110,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2019/biometano-2019-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biometano-2019-xml.xml",
+    "status": "ok",
+    "bytes": 56057
+  },
+  {
+    "itemId": 1120,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2020/biometano-2020-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biometano-2020-csv.csv",
+    "status": "ok",
+    "bytes": 15296
+  },
+  {
+    "itemId": 1120,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2020/biometano-2020-json.json",
+    "file": "Gestore_Servizi_Energetici\\biometano-2020-json.json",
+    "status": "ok",
+    "bytes": 15018
+  },
+  {
+    "itemId": 1120,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2020/biometano-2020-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biometano-2020-xls.xls",
+    "status": "ok",
+    "bytes": 91136
+  },
+  {
+    "itemId": 1120,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2020/biometano-2020-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biometano-2020-xml.xml",
+    "status": "ok",
+    "bytes": 145564
+  },
+  {
+    "itemId": 1125,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2020/isole-minori-2020-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2020-csv.csv",
+    "status": "ok",
+    "bytes": 1918
+  },
+  {
+    "itemId": 1125,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2020/isole-minori-2020-json.json",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2020-json.json",
+    "status": "ok",
+    "bytes": 15032
+  },
+  {
+    "itemId": 1125,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2020/isole-minori-2020-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2020-xls.xls",
+    "status": "ok",
+    "bytes": 24064
+  },
+  {
+    "itemId": 1125,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2020/isole-minori-2020-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2020-xml.xml",
+    "status": "ok",
+    "bytes": 16520
+  },
+  {
+    "itemId": 1130,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2021/biometano-2021-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biometano-2021-csv.csv",
+    "status": "ok",
+    "bytes": 29957
+  },
+  {
+    "itemId": 1130,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2021/biometano-2021-json.json",
+    "file": "Gestore_Servizi_Energetici\\biometano-2021-json.json",
+    "status": "ok",
+    "bytes": 15018
+  },
+  {
+    "itemId": 1130,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2021/biometano-2021-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biometano-2021-xls.xls",
+    "status": "ok",
+    "bytes": 161792
+  },
+  {
+    "itemId": 1130,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2021/biometano-2021-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biometano-2021-xml.xml",
+    "status": "ok",
+    "bytes": 281887
+  },
+  {
+    "itemId": 1135,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2021/isole-minori-2021-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2021-csv.csv",
+    "status": "ok",
+    "bytes": 33108
+  },
+  {
+    "itemId": 1135,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2021/isole-minori-2021-json.json",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2021-json.json",
+    "status": "ok",
+    "bytes": 15031
+  },
+  {
+    "itemId": 1135,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2021/isole-minori-2021-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2021-xls.xls",
+    "status": "ok",
+    "bytes": 182272
+  },
+  {
+    "itemId": 1135,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2021/isole-minori-2021-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2021-xml.xml",
+    "status": "ok",
+    "bytes": 309825
+  },
+  {
+    "itemId": 1140,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2022/biometano-2022-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biometano-2022-csv.csv",
+    "status": "ok",
+    "bytes": 37779
+  },
+  {
+    "itemId": 1140,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2022/biometano-2022-json.json",
+    "file": "Gestore_Servizi_Energetici\\biometano-2022-json.json",
+    "status": "ok",
+    "bytes": 15019
+  },
+  {
+    "itemId": 1140,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2022/biometano-2022-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biometano-2022-xls.xls",
+    "status": "ok",
+    "bytes": 195072
+  },
+  {
+    "itemId": 1140,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2022/biometano-2022-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biometano-2022-xml.xml",
+    "status": "ok",
+    "bytes": 346046
+  },
+  {
+    "itemId": 1145,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2022/isole-minori-2022-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2022-csv.csv",
+    "status": "ok",
+    "bytes": 36699
+  },
+  {
+    "itemId": 1145,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2022/isole-minori-2022-json.json",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2022-json.json",
+    "status": "ok",
+    "bytes": 15031
+  },
+  {
+    "itemId": 1145,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2022/isole-minori-2022-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2022-xls.xls",
+    "status": "ok",
+    "bytes": 199680
+  },
+  {
+    "itemId": 1145,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2022/isole-minori-2022-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2022-xml.xml",
+    "status": "ok",
+    "bytes": 341271
+  },
+  {
+    "itemId": 1150,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2023/biometano-2023-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biometano-2023-csv.csv",
+    "status": "ok",
+    "bytes": 53017
+  },
+  {
+    "itemId": 1150,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2023/biometano-2023-json.json",
+    "file": "Gestore_Servizi_Energetici\\biometano-2023-json.json",
+    "status": "ok",
+    "bytes": 15018
+  },
+  {
+    "itemId": 1150,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2023/biometano-2023-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biometano-2023-xls.xls",
+    "status": "ok",
+    "bytes": 266752
+  },
+  {
+    "itemId": 1150,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2023/biometano-2023-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biometano-2023-xml.xml",
+    "status": "ok",
+    "bytes": 481436
+  },
+  {
+    "itemId": 1155,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2023/isole-minori-2023-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2023-csv.csv",
+    "status": "ok",
+    "bytes": 52351
+  },
+  {
+    "itemId": 1155,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2023/isole-minori-2023-json.json",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2023-json.json",
+    "status": "ok",
+    "bytes": 15031
+  },
+  {
+    "itemId": 1155,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2023/isole-minori-2023-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2023-xls.xls",
+    "status": "ok",
+    "bytes": 283648
+  },
+  {
+    "itemId": 1155,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2023/isole-minori-2023-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2023-xml.xml",
+    "status": "ok",
+    "bytes": 494400
+  },
+  {
+    "itemId": 1160,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2024/biometano-2024-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biometano-2024-csv.csv",
+    "status": "ok",
+    "bytes": 78952
+  },
+  {
+    "itemId": 1160,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2024/biometano-2024-json.json",
+    "file": "Gestore_Servizi_Energetici\\biometano-2024-json.json",
+    "status": "ok",
+    "bytes": 15018
+  },
+  {
+    "itemId": 1160,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2024/biometano-2024-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biometano-2024-xls.xls",
+    "status": "ok",
+    "bytes": 391680
+  },
+  {
+    "itemId": 1160,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2024/biometano-2024-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biometano-2024-xml.xml",
+    "status": "ok",
+    "bytes": 720671
+  },
+  {
+    "itemId": 1165,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2024/isole-minori-2024-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2024-csv.csv",
+    "status": "ok",
+    "bytes": 67429
+  },
+  {
+    "itemId": 1165,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2024/isole-minori-2024-json.json",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2024-json.json",
+    "status": "ok",
+    "bytes": 15031
+  },
+  {
+    "itemId": 1165,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2024/isole-minori-2024-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2024-xls.xls",
+    "status": "ok",
+    "bytes": 367616
+  },
+  {
+    "itemId": 1165,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2024/isole-minori-2024-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2024-xml.xml",
+    "status": "ok",
+    "bytes": 647642
+  },
+  {
+    "itemId": 1170,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2025/biometano-2025-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biometano-2025-csv.csv",
+    "status": "ok",
+    "bytes": 68418
+  },
+  {
+    "itemId": 1170,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2025/biometano-2025-json.json",
+    "file": "Gestore_Servizi_Energetici\\biometano-2025-json.json",
+    "status": "ok",
+    "bytes": 15018
+  },
+  {
+    "itemId": 1170,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2025/biometano-2025-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biometano-2025-xls.xls",
+    "status": "ok",
+    "bytes": 340480
+  },
+  {
+    "itemId": 1170,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-biometano-2025/biometano-2025-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biometano-2025-xml.xml",
+    "status": "ok",
+    "bytes": 619326
+  },
+  {
+    "itemId": 1175,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2025/isole-minori-2025-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2025-csv.csv",
+    "status": "ok",
+    "bytes": 60138
+  },
+  {
+    "itemId": 1175,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2025/isole-minori-2025-json.json",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2025-json.json",
+    "status": "ok",
+    "bytes": 15031
+  },
+  {
+    "itemId": 1175,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2025/isole-minori-2025-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2025-xls.xls",
+    "status": "ok",
+    "bytes": 335360
+  },
+  {
+    "itemId": 1175,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-isole-minori-2025/isole-minori-2025-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\isole-minori-2025-xml.xml",
+    "status": "ok",
+    "bytes": 585516
+  },
+  {
+    "itemId": 1180,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2021/biocarburanti-2021-csv.csv",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-2021-csv.csv",
+    "status": "ok",
+    "bytes": 1896
+  },
+  {
+    "itemId": 1180,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2021/biocarburanti-2021-json.json",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-2021-json.json",
+    "status": "ok",
+    "bytes": 15068
+  },
+  {
+    "itemId": 1180,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2021/biocarburanti-2021-xls.xls",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-2021-xls.xls",
+    "status": "ok",
+    "bytes": 23552
+  },
+  {
+    "itemId": 1180,
+    "title": "Gestore Servizi Energetici",
+    "url": "http://opendata.gse.it/Lists/DataSetGSEPubblica/dataset-certificati-immissione-consumo-2021/biocarburanti-2021-xml.xml",
+    "file": "Gestore_Servizi_Energetici\\biocarburanti-2021-xml.xml",
+    "status": "ok",
+    "bytes": 15034
+  }
+]

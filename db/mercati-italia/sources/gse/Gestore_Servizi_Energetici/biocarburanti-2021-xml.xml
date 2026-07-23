@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CATEGORIA'/>
+		<variable name='ATTO_DI_CONCESSIONE'/>
+		<variable name='TITOLI_RILASCIATI'/>
+		<variable name='UNITA_DI_MISURA'/>
+		<variable name='MESE_DI_EROGAZIONE'/>
+		<variable name='ANNO_DI_EROGAZIONE'/>
+	</head>
+	<results>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>04764730638</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>04764730638</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ALBA DE BIASE &amp; C SAS</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>377</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210280640</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03912960980</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03912960980</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENERGOSUISSE AG</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>26</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210250487</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00905811006</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00484960588</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENI SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>503416</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210316456</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00902231000</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00473410587</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ESSO ITALIANA SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>249372</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210250488</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00902231000</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00473410587</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ESSO ITALIANA SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>-81</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210469379</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03123470100</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00685490377</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>IES - ITALIANA ENERGIA E SERVIZI SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>51473</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210316458</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>11616440159</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02242120109</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>IPLOM SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>13462</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210339924</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01629050897</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01629050897</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ISAB S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>40797</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210316459</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00051570893</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00051570893</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ITALIANA PETROLI S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>222879</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210316457</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00891951006</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00435970587</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>KUWAIT PETROLEUM ITALIA SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>223166</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210389337</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06630440821</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06630440821</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>LEVANTOIL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>459</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210339925</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>07047491217</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>07047491217</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>LUDOIL ENERGIA SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>13897</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210316460</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01280900281</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01280900281</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>PIVA IMONE CARBURANTI SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>898</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210439164</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00151550340</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00151550340</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>REPSOL ITALIA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>1334</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210284048</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00164290272</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00164290272</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SAN MARCO PETROLI SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>17009</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210250489</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00136440922</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00136440922</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SARAS S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>87773</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210316455</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00698550159</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00698550159</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>TAMOIL ITALIA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>68837</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20210250490</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

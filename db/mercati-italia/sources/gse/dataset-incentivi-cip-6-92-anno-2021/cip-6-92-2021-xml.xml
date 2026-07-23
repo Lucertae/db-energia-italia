@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CATEGORIA'/>
+		<variable name='ATTO_DI_CONCESSIONE'/>
+		<variable name='IMPORTO_EROGATO'/>
+		<variable name='UNITA_DI_MISURA'/>
+		<variable name='MESE_DI_EROGAZIONE'/>
+		<variable name='ANNO_DI_EROGAZIONE'/>
+	</head>
+	<results>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SARLUX SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>1</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>31716657.84</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>CIP000445</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CIP 6/92</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SARLUX SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>2</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>32279091.08</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>CIP000445</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CIP 6/92</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SARLUX SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>3</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>25391046.47</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>CIP000445</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CIP 6/92</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SARLUX SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>10493452.29</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>CIP000445</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CIP 6/92</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SARLUX SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>11785819.05</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>CIP000445</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CIP 6/92</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SARLUX SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>13412575.4</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>CIP000445</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CIP 6/92</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

@@ -1,0 +1,16 @@
+{
+  "n": 357,
+  "cols": [
+    "time",
+    "time_label",
+    "geo",
+    "geo_label",
+    "unit",
+    "unit_label",
+    "vehicle",
+    "vehicle_label",
+    "freq",
+    "freq_label",
+    "OBS_VALUE"
+  ]
+}

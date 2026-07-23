@@ -1,0 +1,164 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "tables": [
+        {
+            "@id": "adbb1da2-0891-4ac5-b856-3c0cd0979a82",
+            "@type": "table",
+            "url": "http://dati.mit.gov.it/catalog/dataset/a951891b-6704-4f02-8e40-97aaa14448e7/resource/adbb1da2-0891-4ac5-b856-3c0cd0979a82/download/trafficoporti.csv",
+            "primaryKey": "{anno}/{locode}",
+            "aboutURL": "http://www.dati.mit.gov.it/trafficoporti/{anno}/{locode}",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "name": "locode",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene la codifica univoca dei porti riconosciuta a livello europeo. Assieme alla colonna 'anno_riferimento' è campo chiave",
+                        "aboutURL": "http://www.dati.mit.gov.it/porto/{locode}"
+                    },
+                    {
+                        "name": "nome_porto",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene il nome del porto"
+                    },
+                    {
+                        "name": "merci_in_contenitori",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene le merci in contenitori (in migliaia di tonnellate) transitate nel porto"
+                    },
+                    {
+                        "name": "merci_in_contenitori_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene le note sulle merci in contenitori transitate nel porto"
+                    },
+                    {
+                        "name": "merci_in_rinfuse_liquide",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene le merci in rinfuse liquide (in migliaia di tonnellate) transitate nel porto"
+                    },
+                    {
+                        "name": "merci_in_rinfuse_liquide_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene le note sulle merci in rinfuse liquide transitate nel porto"
+                    },
+                    {
+                        "name": "merci_in_rinfuse_solide",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene le merci in rinfuse solide (in migliaia di tonnellate) transitate nel porto"
+                    },
+                    {
+                        "name": "merci_in_rinfuse_solide_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene le note sulle merci in rinfuse solide transitate nel porto"
+                    },
+                    {
+                        "name": "merci_in_ro_ro",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene le merci in ro ro (in migliaia di tonnellate) transitate nel porto"
+                    },
+                    {
+                        "name": "merci_in_ro_ro_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene le note sulle merci in ro ro transitate nel porto"
+                    },
+                    {
+                        "name": "merci_altro_carico",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene le merci in altri tipi (in migliaia di tonnellate) transitate nel porto"
+                    },
+                    {
+                        "name": "merci_altro_carico_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene le note sulle merci in altri tipi transitate nel porto"
+                    },
+                    {
+                        "name": "n_tot_merci_trasportate",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene il numero totale di merci (in migliaia di tonnellate) transitate nel porto"
+                    },
+                    {
+                        "name": "n_tot_merci_trasportate_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene le note sul numero totale di merci transitate nel porto"
+                    },
+                    {
+                        "name": "n_tot_passeggeri_sbarcati",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene il numero totale di passeggeri sbarcati (in migliaia) nel porto"
+                    },
+                    {
+                        "name": "n_tot_passeggeri_sbarcati_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene le note sul numero totale di passeggeri sbarcati nel porto"
+                    },
+                    {
+                        "name": "n_tot_passeggeri_imbarcati",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene il numero totale di passeggeri imbarcati (in migliaia) nel porto"
+                    },
+                    {
+                        "name": "n_tot_passeggeri_imbarcati_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene il numero totale di passeggeri imbarcati nel porto"
+                    },
+                    {
+                        "name": "n_tot_passeggeri",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene le note sul numero totale di passeggeri sbarcati e imbarcati (in migliaia) nel porto"
+                    },
+                    {
+                        "name": "n_tot_passeggeri_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene le note sul numero totale di passeggeri sbarcati e imbarcati nel porto"
+                    },
+                    {
+                        "name": "merce_sbarcata",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene il numero totale di merce sbarcata (in migliaia di tonnellate) nel porto"
+                    },
+                    {
+                        "name": "merce_sbarcata_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene le note sul numero totale di merce sbarcata nel porto"
+                    },
+                    {
+                        "name": "merce_imbarcata",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene il numero totale di merce imbarcata (in migliaia di tonnellate) nel porto"
+                    },
+                    {
+                        "name": "merce_imbarcata_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene le note sul numero totale di merce imbarcata nel porto"
+                    },
+                    {
+                        "name": "tot_merce_imbarcata_sbarcata",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene il numero totale di merce imbarcata e sbarcata (in migliaia di tonnellate) nel porto"
+                    },
+                    {
+                        "name": "tot_merce_imbarcata_sbarcata_note",
+                        "datatype": "string",
+                        "dc:description": "Questa colonna contiene le note sul numero totale di merce imbarcata e sbarcata nel porto"
+                    },
+                    {
+                        "name": "anno_riferimento",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene l'anno di riferimento della rilevazione. Assieme alla colonna 'locode' è campo chiave"
+                    },
+                    {
+                        "name": "lat",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene la latitudine del porto di riferimento",
+                        "propertyURL": "http://www.w3.org/2003/01/geo/wgs84_pos#lat"
+                    },
+                    {
+                        "name": "lon",
+                        "datatype": "number",
+                        "dc:description": "Questa colonna contiene la longitudine del porto di riferimento",
+                        "propertyURL": "http://www.w3.org/2003/01/geo/wgs84_pos#lon"
+                    }
+                ]
+            }
+        }
+    ]
+}

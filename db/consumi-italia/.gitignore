@@ -1,0 +1,5 @@
+# Local secrets — never commit
+terna.credentials
+*.credentials
+*.key
+*.secret

@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "updated": "2026-07-12",
+  "title": "Sistema energetico — sintesi",
+  "subtitle": "Catena completa, perdite tipiche e mappa documento",
+  "chain": {
+    "message": "Energia attraversa sei anelli: produzione, restare operativi, accumulo, cooperazione, redistribuzione, consumo. Ogni anello ha vincoli M/L/G (meteo, legale, manutenzione) e perdite proprie.",
+    "steps": [
+      {"step": 1, "name": "Produzione", "ref": "Parte I-II", "output": "Elettricita, calore, carburanti, vettori"},
+      {"step": 2, "name": "Operativita", "ref": "Appendice A", "output": "Impianto autorizzato, conforme, manutenuto"},
+      {"step": 3, "name": "Accumulo", "ref": "Appendice B/D", "output": "Energia/spinta temporale (ore-stagioni)"},
+      {"step": 4, "name": "Cooperazione", "ref": "Appendice C/E", "output": "Scambi, contratti, bilanciamento"},
+      {"step": 5, "name": "Redistribuzione", "ref": "Appendice F/G", "output": "Energia al punto uso (AC/DC)"},
+      {"step": 6, "name": "Consumo", "ref": "Appendice H", "output": "Servizio utile finale"}
+    ]
+  },
+  "losses": [
+    {"stage": "Produzione", "typical": "5-65% (carnot, combustione, curtailment)", "main_driver": "Efficienza termodinamica, meteo rinnovabili"},
+    {"stage": "Accumulo", "typical": "5-25% round-trip", "main_driver": "Efficienza carica/scarica, self-discharge"},
+    {"stage": "Cooperazione", "typical": "1-5% (commerciali/IT)", "main_driver": "Imbalance, fees mercato, congestione"},
+    {"stage": "Trasmissione AC", "typical": "2-8%", "main_driver": "Resistenza linea, distanza"},
+    {"stage": "Trasmissione HVDC", "typical": "3-5% (incl. conversione)", "main_driver": "Stazioni rectifier/inverter"},
+    {"stage": "Distribuzione AC", "typical": "3-12%", "main_driver": "LV lunghe tratte, trasformatori"},
+    {"stage": "Conversione AC-DC", "typical": "2-8% per stadio", "main_driver": "Inverter, rectifier, UPS"},
+    {"stage": "Consumo finale", "typical": "10-70% (utile vs sprechi)", "main_driver": "Efficienza dispositivo, comportamento"}
+  ],
+  "document_map": [
+    {"section": "Parte I", "pages": "1", "content": "Catalogo 67 fonti produzione"},
+    {"section": "Parte II", "pages": "2-8", "content": "Schede M/L/G per fonte (4 macro-gruppi)"},
+    {"section": "Appendice A", "pages": "9", "content": "Costo operativo produzione"},
+    {"section": "Appendice B", "pages": "10-12", "content": "Accumulo (24 tecnologie)"},
+    {"section": "Appendice D", "pages": "13-14", "content": "Manutenzione accumulo"},
+    {"section": "Appendice C", "pages": "15-16", "content": "Cooperazione (20 processi)"},
+    {"section": "Appendice E", "pages": "17-18", "content": "Manutenzione cooperazione"},
+    {"section": "Appendice F", "pages": "19-22", "content": "Redistribuzione AC/DC (20 modalita)"},
+    {"section": "Appendice G", "pages": "23-24", "content": "Manutenzione redistribuzione"},
+    {"section": "Appendice H", "pages": "25-26", "content": "Consumo (14 settori)"},
+    {"section": "Appendice I", "pages": "28-29", "content": "Sintesi catena, perdite, diagramma completo"}
+  ],
+  "system_diagram": {
+    "title": "Catena energetica completa",
+    "subtitle": "Produzione -> co-produzione -> accumulo/stoccaggio -> distribuzione/redistribuzione -> consumo",
+    "nodes": [
+      {
+        "id": "production",
+        "title": "PRODUZIONE",
+        "lines": ["67 fonti · Parte I-II", "Elettricita, calore, carburanti, vettori"],
+        "ref": "Parte I-II",
+        "accent": "#8B3A2A",
+        "fill": "#FAF6F4"
+      },
+      {
+        "id": "operativity",
+        "title": "OPERATIVITA",
+        "lines": ["Restare in produzione", "Compliance, O&M, meteo nel tempo"],
+        "ref": "Appendice A",
+        "accent": "#3d4a3a",
+        "fill": "#F0F2EE"
+      },
+      {
+        "id": "coproduction",
+        "title": "CO-PRODUZIONE",
+        "lines": ["CHP, trigenerazione, calore di scarto", "Elettricita + calore + vapore insieme"],
+        "ref": "Parte I / II",
+        "accent": "#5A6472",
+        "fill": "#F5F6F8"
+      },
+      {
+        "id": "cooperation",
+        "title": "COOPERAZIONE",
+        "lines": ["Scambi, mercati, bilanciamento", "20 processi tra attori e reti"],
+        "ref": "Appendice C/E",
+        "accent": "#2E6B7A",
+        "fill": "#F0F6F8"
+      },
+      {
+        "id": "accumulo",
+        "title": "ACCUMULO",
+        "lines": ["Energia elettrica/termica temporale", "Batterie, PES, CAES, thermal storage"],
+        "ref": "Appendice B/D",
+        "accent": "#6B4C9A",
+        "fill": "#F6F3FA"
+      },
+      {
+        "id": "stoccaggio",
+        "title": "STOCCAGGIO",
+        "lines": ["Vettori e combustibili", "GNL, caverne gas, serbatoi, idrogeno"],
+        "ref": "Appendice B",
+        "accent": "#5B4B8A",
+        "fill": "#F3F0F8"
+      },
+      {
+        "id": "distribution",
+        "title": "DISTRIBUZIONE",
+        "lines": ["Reti primarie e secondarie", "AT/MT, gas, DH, idrogeno"],
+        "ref": "Appendice F",
+        "accent": "#B45309",
+        "fill": "#FFF7ED"
+      },
+      {
+        "id": "redistribution",
+        "title": "REDISTRIBUZIONE",
+        "lines": ["AC/DC al punto di uso", "HVDC, inverter, bus DC, smart grid"],
+        "ref": "Appendice F/G",
+        "accent": "#C2410C",
+        "fill": "#FFEDD5"
+      },
+      {
+        "id": "consumption",
+        "title": "CONSUMO",
+        "lines": ["14 settori finali", "Industria, civile, trasporti, datacenter..."],
+        "ref": "Appendice H",
+        "accent": "#047857",
+        "fill": "#ECFDF5"
+      },
+      {
+        "id": "useful",
+        "title": "SERVIZIO UTILE",
+        "lines": ["Luce, calore, movimento, lavoro", "Valore finale per l'utente"],
+        "ref": "Output",
+        "accent": "#111827",
+        "fill": "#E5E7EB"
+      }
+    ],
+    "edges": [
+      {"from": "production", "to": "operativity", "loss": "5-65%"},
+      {"from": "operativity", "to": "coproduction", "loss": ""},
+      {"from": "operativity", "to": "cooperation", "loss": "1-5%"},
+      {"from": "coproduction", "to": "accumulo", "loss": ""},
+      {"from": "cooperation", "to": "accumulo", "loss": ""},
+      {"from": "operativity", "to": "stoccaggio", "loss": ""},
+      {"from": "accumulo", "to": "distribution", "loss": "5-25%"},
+      {"from": "stoccaggio", "to": "distribution", "loss": "1-3%"},
+      {"from": "distribution", "to": "redistribution", "loss": "2-8%"},
+      {"from": "redistribution", "to": "consumption", "loss": "3-12%"},
+      {"from": "consumption", "to": "useful", "loss": "10-70%"}
+    ],
+    "loss_legend": [
+      "Produzione 5-65% · Accumulo 5-25% · Cooperazione 1-5%",
+      "Trasmissione AC 2-8% · HVDC 3-5% · Distribuzione 3-12%",
+      "Conversione AC-DC 2-8% · Consumo utile vs sprechi 10-70%"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+owid-energy-italia,redirect,.,Punta a owid-italia/sources/energy-data/,IT,,,—,1,4,2645,,OWID,CC-BY,legacy

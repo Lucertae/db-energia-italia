@@ -1,0 +1,118 @@
+================================================================================
+METADATI — ENTSO-E Transparency Italia
+================================================================================
+Aggiornato: 2026-07-23
+Path:       db/entsoe-italia/
+Volume:     627.0 MB   |   file dati catalogati: 3230
+
+--------------------------------------------------------------------------------
+1. DESCRIZIONE
+--------------------------------------------------------------------------------
+Serie operative Transparency Platform: carico, generazione, prezzi DA, bilanciamento, scambi cross-border — paese IT e 7 zone di mercato.
+
+--------------------------------------------------------------------------------
+2. REFRESH
+--------------------------------------------------------------------------------
+python db/entsoe-italia/scripts/harvest_all_italia.py
+
+--------------------------------------------------------------------------------
+3. DATASET (cosa / quanto / copertura)
+--------------------------------------------------------------------------------
+[IT_national]  status=ok
+  path:    data/IT
+  cosa:    Serie nazionali (load, gen, prices, balancing, …)
+  geo:     IT
+  tempo:   2015–2015   |  granularità: orario/quarter
+  quanto:  133052 righe (file campione), 1220 file, 200.3 MB
+  unità:   MW, €/MWh
+  fonte:   ENTSO-E  |  licenza: ENTSO-E
+
+[IT_North]  status=ok
+  path:    data/IT-North
+  cosa:    Zona Nord
+  geo:     IT-North
+  tempo:   2015–2015   |  granularità: orario
+  quanto:  8664 righe (file campione), 192 file, 50.7 MB
+  unità:   MW, €/MWh
+  fonte:   ENTSO-E  |  licenza: ENTSO-E
+
+[IT_Centre_North]  status=ok
+  path:    data/IT-Centre-North
+  cosa:    Zona Centro-Nord
+  geo:     IT-Centre-North
+  tempo:   2015–2015   |  granularità: orario
+  quanto:  8664 righe (file campione), 192 file, 47.6 MB
+  unità:   MW, €/MWh
+  fonte:   ENTSO-E  |  licenza: ENTSO-E
+
+[IT_Centre_South]  status=ok
+  path:    data/IT-Centre-South
+  cosa:    Zona Centro-Sud
+  geo:     IT-Centre-South
+  tempo:   2015–2015   |  granularità: orario
+  quanto:  8664 righe (file campione), 190 file, 49.3 MB
+  unità:   MW, €/MWh
+  fonte:   ENTSO-E  |  licenza: ENTSO-E
+
+[IT_South]  status=ok
+  path:    data/IT-South
+  cosa:    Zona Sud
+  geo:     IT-South
+  tempo:   2015–2015   |  granularità: orario
+  quanto:  8664 righe (file campione), 192 file, 48.4 MB
+  unità:   MW, €/MWh
+  fonte:   ENTSO-E  |  licenza: ENTSO-E
+
+[IT_Sicily]  status=ok
+  path:    data/IT-Sicily
+  cosa:    Zona Sicilia
+  geo:     IT-Sicily
+  tempo:   2015–2015   |  granularità: orario
+  quanto:  8664 righe (file campione), 192 file, 47.9 MB
+  unità:   MW, €/MWh
+  fonte:   ENTSO-E  |  licenza: ENTSO-E
+
+[IT_Sardinia]  status=ok
+  path:    data/IT-Sardinia
+  cosa:    Zona Sardegna
+  geo:     IT-Sardinia
+  tempo:   2015–2015   |  granularità: orario
+  quanto:  8664 righe (file campione), 192 file, 47.7 MB
+  unità:   MW, €/MWh
+  fonte:   ENTSO-E  |  licenza: ENTSO-E
+
+[IT_Calabria]  status=ok
+  path:    data/IT-Calabria
+  cosa:    Zona Calabria
+  geo:     IT-Calabria
+  tempo:   2015–2015   |  granularità: orario
+  quanto:  0 righe (file campione), 192 file, 31.5 MB
+  unità:   MW, €/MWh
+  fonte:   ENTSO-E  |  licenza: ENTSO-E
+
+[crossborder]  status=ok
+  path:    data/crossborder
+  cosa:    Scambi/NTC/outage frontiere IT
+  geo:     IT borders
+  tempo:   2015–2015   |  granularità: orario
+  quanto:  8760 righe (file campione), 668 file, 103.5 MB
+  unità:   MW
+  fonte:   ENTSO-E  |  licenza: ENTSO-E
+
+--------------------------------------------------------------------------------
+4. CATALOGO MACHINE-READABLE
+--------------------------------------------------------------------------------
+Vedi catalog.csv nello stesso folder (rigenerate con:
+  python db/scripts/build_metadata_catalogs.py
+
+--------------------------------------------------------------------------------
+5. LICENZE
+--------------------------------------------------------------------------------
+ENTSO-E Transparency (uso con API key).
+
+--------------------------------------------------------------------------------
+6. BUCHI NOTI
+--------------------------------------------------------------------------------
+Alcune serie balancing/intraday vuote per IT; prezzi DA sulle zone non sul codice paese.
+
+================================================================================

@@ -1,0 +1,916 @@
+[
+  {
+    "name": "ATV",
+    "id": "WM6382DD50",
+    "orig": "https://www.atv.hu/rss",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.atv.hu/rss",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aatv.hu&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Arab News",
+    "id": "GO580E8164",
+    "orig": "https://www.arabnews.com/rss.xml",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.arabnews.com/rss.xml",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aarabnews.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Arms Control",
+    "id": "GO2FDE7B9A",
+    "orig": "https://www.armscontrol.org/rss.xml",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.armscontrol.org/rss.xml",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aarmscontrol.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Asharq Business",
+    "id": "WM23C27BE1",
+    "orig": "https://asharqbusiness.com/rss.xml",
+    "strategies": [
+      [
+        "original+ua",
+        "https://asharqbusiness.com/rss.xml",
+        "non-xml b''"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aasharqbusiness.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Australian Mining",
+    "id": "WM47E7C19A",
+    "orig": "https://www.australianmining.com.au/feed/",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.australianmining.com.au/feed/",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aaustralianmining.com.au&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Both Sides of Table",
+    "id": "WM718C2B15",
+    "orig": "https://bothsidesofthetable.com/feed",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Abothsidesofthetable.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Brookings",
+    "id": "GO85F9D667",
+    "orig": "https://www.brookings.edu/feed/",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Abrookings.edu&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "CB Insights",
+    "id": "WMBB56901A",
+    "orig": "https://www.cbinsights.com/research/feed/",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.cbinsights.com/research/feed/",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Acbinsights.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "CFR",
+    "id": "GO5CAF5440",
+    "orig": "https://www.cfr.org/rss.xml",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Acfr.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "CISA",
+    "id": "WMD750A297",
+    "orig": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Acisa.gov&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "CNN",
+    "id": "GOECCBD1E7",
+    "orig": "https://rss.cnn.com/rss/edition.rss",
+    "strategies": [
+      [
+        "url_fix",
+        "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Arss.cnn.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "CSIS",
+    "id": "GO31A1825F",
+    "orig": "https://www.csis.org/analysis/feed",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Acsis.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Chatham House",
+    "id": "GO0958E426",
+    "orig": "https://www.chathamhouse.org/rss.xml",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Achathamhouse.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Contxto (LATAM)",
+    "id": "WM18C0F634",
+    "orig": "https://contxto.com/feed/",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Acontxto.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Defense One",
+    "id": "GO29F396B1",
+    "orig": "https://www.defenseone.com/rss/",
+    "strategies": [
+      [
+        "url_fix",
+        "https://www.defenseone.com/rss/all/",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Adefenseone.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "EIA Press Releases",
+    "id": "ST5EB96B28",
+    "orig": "https://www.eia.gov/rss/pressreleases.xml",
+    "strategies": [
+      [
+        "url_fix",
+        "https://www.eia.gov/rss/todayinenergy.xml",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aeia.gov&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "EIA Reports",
+    "id": "WMB959771A",
+    "orig": "https://www.eia.gov/rss/press_room.xml",
+    "strategies": [
+      [
+        "url_fix",
+        "https://www.eia.gov/rss/todayinenergy.xml",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aeia.gov&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Energy Voice",
+    "id": "GO09157312",
+    "orig": "https://www.energyvoice.com/feed/",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aenergyvoice.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Euractiv",
+    "id": "GO4E487AE9",
+    "orig": "https://www.euractiv.com/feed/",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aeuractiv.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Euronews",
+    "id": "GOB497BBAF",
+    "orig": "https://www.euronews.com/rss",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.euronews.com/rss",
+        "xml-ok"
+      ],
+      [
+        "url_fix",
+        "https://www.euronews.com/rss?format=mrss",
+        "non-xml b\"\\x1b'\\xae\\x8cHNZ=\\x00\\x1a\\xa1\\xc3\\xe7\\xbc\\xff\\xd74\\xab|\\x92\\xe8\\x9f\\xed5\\xfcM\\x98B\\xa1\\xc0\\xa7\\x95^\\xab\\xa75\\xa3\\x19I\\xa3\""
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aeuronews.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "FPRI",
+    "id": "WM9CC246AC",
+    "orig": "https://www.fpri.org/feed/",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Afpri.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Gold Silver Worlds",
+    "id": "WM4A635459",
+    "orig": "https://goldsilverworlds.com/feed/",
+    "strategies": [
+      [
+        "original+ua",
+        "https://goldsilverworlds.com/feed/",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Agoldsilverworlds.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "ICRC",
+    "id": "GO030EE1DB",
+    "orig": "https://www.icrc.org/en/rss",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aicrc.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "IEA News",
+    "id": "ST40468AEF",
+    "orig": "https://www.iea.org/news/rss",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aiea.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "IISS",
+    "id": "GO83D133A2",
+    "orig": "https://www.iiss.org/rss/",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aiiss.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "ISS Africa",
+    "id": "GO9C142E1C",
+    "orig": "https://issafrica.org/iss-today/feed",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aissafrica.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Indian Express",
+    "id": "WM014E7189",
+    "orig": "https://indianexpress.com/section/india/feed/",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aindianexpress.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Japan Today",
+    "id": "WMBE29F288",
+    "orig": "https://japantoday.com/feed/atom",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Ajapantoday.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "KrASIA",
+    "id": "WM48AD312D",
+    "orig": "https://kr-asia.com/feed",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Akr-asia.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Kyiv Indep.",
+    "id": "GO6B6F3285",
+    "orig": "https://kyivindependent.com/feed/",
+    "strategies": [
+      [
+        "url_fix",
+        "https://kyivindependent.com/feed/rss/",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Akyivindependent.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "MSF",
+    "id": "GOEF1047D9",
+    "orig": "https://www.msf.org/rss",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Amsf.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Maritime Exec",
+    "id": "GOA7E58C72",
+    "orig": "https://maritime-executive.com/feed",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Amaritime-executive.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Mining Weekly",
+    "id": "GO0592F182",
+    "orig": "https://www.miningweekly.com/page/rss",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aminingweekly.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Mining.com",
+    "id": "WM509E1B73",
+    "orig": "https://www.mining.com/feed/",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.mining.com/feed/",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Amining.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "NASA Climate",
+    "id": "GO09C8AFDE",
+    "orig": "https://climate.nasa.gov/news/rss.xml",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aclimate.nasa.gov&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "NFX Essays",
+    "id": "WM5DCA39A8",
+    "orig": "https://www.nfx.com/feed",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Anfx.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "News24",
+    "id": "WMC5563538",
+    "orig": "https://feeds.news24.com/articles/news24/TopStories/rss",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Afeeds.news24.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Nikkei Asia",
+    "id": "GO92E79FF3",
+    "orig": "https://asia.nikkei.com/rss",
+    "strategies": [
+      [
+        "url_fix",
+        "https://asia.nikkei.com/rss/feed/nar",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aasia.nikkei.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Northern Miner",
+    "id": "WMC4337AC8",
+    "orig": "https://www.northernminer.com/feed/",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.northernminer.com/feed/",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Anorthernminer.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "OPEC Press",
+    "id": "STDF977490",
+    "orig": "https://www.opec.org/opec_web/en/press/press_rss.htm",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aopec.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Paul Graham Essays",
+    "id": "WM4BD28B3C",
+    "orig": "https://www.aaronsw.com/2002/feeds/pgessays.rss",
+    "strategies": [
+      [
+        "url_fix",
+        "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aaaronsw.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "PitchBook News",
+    "id": "WM2CB6D54C",
+    "orig": "https://pitchbook.com/feed",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Apitchbook.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Primicias",
+    "id": "WM74AFB771",
+    "orig": "https://www.primicias.ec/feed/",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aprimicias.ec&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "RAND",
+    "id": "WM54E3CF70",
+    "orig": "https://www.rand.org/pubs/articles.xml",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.rand.org/pubs/articles.xml",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Arand.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "RAND",
+    "id": "GO39566D0C",
+    "orig": "https://www.rand.org/news.xml",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.rand.org/news.xml",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Arand.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "RT",
+    "id": "WM022446E2",
+    "orig": "https://www.rt.com/rss/",
+    "strategies": [
+      [
+        "url_fix",
+        "https://news.google.com/rss/search?q=site:rt.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Art.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "RT Russia",
+    "id": "WM6E94AAAB",
+    "orig": "https://www.rt.com/rss/russia/",
+    "strategies": [
+      [
+        "url_fix",
+        "https://news.google.com/rss/search?q=site:rt.com+russia&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Art.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "RW Disasters",
+    "id": "GO2D0A890F",
+    "orig": "https://reliefweb.int/disasters/rss.xml",
+    "strategies": [
+      [
+        "original+ua",
+        "https://reliefweb.int/disasters/rss.xml",
+        "xml-ok"
+      ],
+      [
+        "url_fix",
+        "https://reliefweb.int/disasters/rss.xml?language=267",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Areliefweb.int&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "ReliefWeb",
+    "id": "GO1E8B43D9",
+    "orig": "https://reliefweb.int/updates/rss.xml",
+    "strategies": [
+      [
+        "original+ua",
+        "https://reliefweb.int/updates/rss.xml",
+        "xml-ok"
+      ],
+      [
+        "url_fix",
+        "https://reliefweb.int/updates/rss.xml?language=267",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Areliefweb.int&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Rigzone",
+    "id": "WM7A880DDC",
+    "orig": "https://www.rigzone.com/news/rss/rigzone_latest.aspx",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.rigzone.com/news/rss/rigzone_latest.aspx",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Arigzone.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "S&P Commodities",
+    "id": "GO194AFF85",
+    "orig": "https://www.spglobal.com/commodityinsights/en/rss-feed/all.rss",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aspglobal.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Singularity Hub",
+    "id": "WM28022C7F",
+    "orig": "https://singularityhub.com/feed/",
+    "strategies": [
+      [
+        "original+ua",
+        "https://singularityhub.com/feed/",
+        "non-xml b'\\x1f\\x8b\\x08\\x00\\x00\\x00\\x00\\x00\\x00\\x03\\xec\\xbd\\xeb\\x92#\\xd7u.\\xf8\\xdbz\\x8a<\\xf0\\xd8\\x96\\xe2 \\x0b\\x97\\xba\\x93\\xecbT\\xdf\\xc8\\x96\\xbaI'"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Asingularityhub.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "State Dept",
+    "id": "GO42FE3F4E",
+    "orig": "https://www.state.gov/rss-feed/press-releases/feed/",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.state.gov/rss-feed/press-releases/feed/",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Astate.gov&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Stimson Center",
+    "id": "WMD1C2DB8C",
+    "orig": "https://www.stimson.org/feed/",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Astimson.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Tech in Asia",
+    "id": "WM0385AA35",
+    "orig": "https://www.techinasia.com/feed",
+    "strategies": [
+      [
+        "original+ua",
+        "https://www.techinasia.com/feed",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Atechinasia.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Techstars Blog",
+    "id": "WM0B8E32A7",
+    "orig": "https://www.techstars.com/blog/feed/",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Atechstars.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Tuoi Tre News",
+    "id": "WM6DEF7587",
+    "orig": "https://tuoitrenews.vn/rss",
+    "strategies": [
+      [
+        "url_fix",
+        "https://news.google.com/rss/search?q=site:tuoitrenews.vn&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Atuoitrenews.vn&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "UN News",
+    "id": "WM55D5EA4C",
+    "orig": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+    "strategies": [
+      [
+        "original+ua",
+        "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "non-xml b'\\x1f\\x8b\\x08\\x00\\x00\\x00\\x00\\x00\\x04\\x03\\xed\\x9d\\xdbn\\x1bI\\x92\\x86\\xef\\xfd\\x14\\xb9\\xda\\xddA7F%R\\xa4\\x0e\\x94F\\xed\\x06-\\x9f\\xb4\\xdb\\xb6'"
+      ],
+      [
+        "url_fix",
+        "https://news.un.org/feed/subscribe/en/news/all/atom.xml",
+        "non-xml b''"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Anews.un.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "UNHCR",
+    "id": "GO0AE8ED80",
+    "orig": "https://www.unhcr.org/us/news/rss.xml",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Aunhcr.org&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "Vanguard Nigeria",
+    "id": "WM65F63780",
+    "orig": "https://www.vanguardngr.com/feed/",
+    "strategies": [
+      [
+        "url_fix",
+        "https://news.google.com/rss/search?q=site:vanguardngr.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ],
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Avanguardngr.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "VolcanoDisc",
+    "id": "GOC12E8AAD",
+    "orig": "https://www.volcanodiscovery.com/rss/news.xml",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Avolcanodiscovery.com&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  },
+  {
+    "name": "White House",
+    "id": "GO7AC1DB21",
+    "orig": "https://www.whitehouse.gov/feed/",
+    "strategies": [
+      [
+        "gnews",
+        "https://news.google.com/rss/search?q=site%3Awhitehouse.gov&hl=en-US&gl=US&ceid=US:en",
+        "xml-ok"
+      ]
+    ]
+  }
+]

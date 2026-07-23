@@ -1,0 +1,30 @@
+package,resource,format,url
+Traffico Aereo - Anno 2012,Traffico Aereo 2012,xls,https://dati.mit.gov.it/catalog/dataset/8c1f3bd7-e72f-4aff-bdd3-b669a67f2bad/resource/415cefad-00ab-47b8-a6ba-b2f904a2c090/download/traffico-aereo-2012.xlsx
+Traffico Aereo - Anno 2012,Traffico Aereo 2012,csv,https://dati.mit.gov.it/catalog/dataset/8c1f3bd7-e72f-4aff-bdd3-b669a67f2bad/resource/bcec813c-92e7-4d3a-81a4-674eb6854736/download/trafficoaereo2012.csv
+Traffico Aereo - Anno 2017,Traffico Aereo 2017,csv,https://dati.mit.gov.it/catalog/dataset/42957c1d-1a8c-4b93-a90b-ef15b5851c17/resource/23354d7c-8293-4515-a193-a866f9a10e15/download/traffico-aereo-2017.csv
+Traffico Aereo - Anno 2017,Traffico Aereo 2017,xlsx,https://dati.mit.gov.it/catalog/dataset/42957c1d-1a8c-4b93-a90b-ef15b5851c17/resource/61835644-999e-4b09-8a01-97e816950af7/download/traffico-aereo-2017.xlsx
+Traffico Aereo - Anno 2018,Traffico Aereo 2018,csv,https://dati.mit.gov.it/catalog/dataset/d2d33304-c969-4993-9d3f-5fb97396c45c/resource/2cefb6ef-49b4-426f-bca0-25becaa7b099/download/traffico-aereo-2018.csv
+Traffico Aereo - Anno 2018,Traffico Aereo 2018,xlsx,https://dati.mit.gov.it/catalog/dataset/d2d33304-c969-4993-9d3f-5fb97396c45c/resource/b03279aa-c985-451c-b436-ef6ab18a18cc/download/traffico-aereo-2018.xlsx
+Traffico Merci e Passeggeri nei principali Porti Italiani,Traffico Merci e Passeggeri nei porti,csv,https://dati.mit.gov.it/catalog/dataset/a951891b-6704-4f02-8e40-97aaa14448e7/resource/adbb1da2-0891-4ac5-b856-3c0cd0979a82/download/traffico-merci-e-passeggeri-nei-principali-porti-italiani.csv
+Traffico Merci e Passeggeri nei principali Porti Italiani,metadata,json,https://dati.mit.gov.it/catalog/dataset/a951891b-6704-4f02-8e40-97aaa14448e7/resource/34fc9a5f-41ad-4730-bd90-574ee1c2b4d1/download/metadata.json
+Traffico Merci e Passeggeri nei principali Porti Italiani,metadata (PDF),pdf,https://dati.mit.gov.it/catalog/dataset/a951891b-6704-4f02-8e40-97aaa14448e7/resource/56fa8d7a-e327-458b-8336-a3067beae8a9/download/traffico-porto-metadata.pdf
+Traffico Giornaliero Medio - Rete stradale ed autostradale ANAS,TGM Novembre 2015 in formato ESRI Shapefile,shp,https://dati.mit.gov.it/catalog/dataset/a9b851f0-cb05-4e7e-ae43-040926a368db/resource/09935ff0-da89-4b11-afe9-9902fad9ea57/download/tgm_nov2015.zip
+Traffico Giornaliero Medio - Rete stradale ed autostradale ANAS,metadata,json,https://dati.mit.gov.it/catalog/dataset/a9b851f0-cb05-4e7e-ae43-040926a368db/resource/be437e01-6e6a-40f0-bbad-669881b2a726/download/metadata.json
+Porti,Anagrafica dei porti,csv,https://dati.mit.gov.it/catalog/dataset/72d632e5-56d9-4d00-810e-89c24002943f/resource/661bba97-829e-453e-8923-97023de9fced/download/anagraficaporti.csv
+Porti,metadata,json,https://dati.mit.gov.it/catalog/dataset/72d632e5-56d9-4d00-810e-89c24002943f/resource/17f3c8dd-16c7-49d9-814f-042de2065308/download/metadata.json
+Porti,metadata (PDF),pdf,https://dati.mit.gov.it/catalog/dataset/72d632e5-56d9-4d00-810e-89c24002943f/resource/62bd107e-5757-41f1-80f5-e37225860ff8/download/porto-metdata.pdf
+Patenti di guida - veicoli stradali,Patenti Abruzzo formato ZIP,zip,https://dati.mit.gov.it/hfs/patenti_Abruzzo.csv.zip
+Patenti di guida - veicoli stradali,Patenti Abruzzo formato CSV,csv,https://dati.mit.gov.it/hfs/patenti_Abruzzo.csv
+Patenti di guida - veicoli stradali,Patenti Basilicata formato ZIP,zip,https://dati.mit.gov.it/hfs/patenti_Basilicata.csv.zip
+Patenti di guida - veicoli stradali,Patenti Basilicata formato CSV,csv,https://dati.mit.gov.it/hfs/patenti_Basilicata.csv
+Patenti di guida - veicoli stradali,Patenti Calabria formato ZIP,zip,https://dati.mit.gov.it/hfs/patenti_Calabria.csv.zip
+Patenti di guida - veicoli stradali,Patenti Calabria formato CSV,csv,https://dati.mit.gov.it/hfs/patenti_Calabria.csv
+Patenti di guida - veicoli stradali,Patenti Campania formato ZIP,zip,https://dati.mit.gov.it/hfs/patenti_Campania.csv.zip
+Patenti di guida - veicoli stradali,Patenti Campania formato CSV,csv,https://dati.mit.gov.it/hfs/patenti_Campania.csv
+Patenti di guida - veicoli stradali,Patenti Emilia Romagna formato ZIP,zip,https://dati.mit.gov.it/hfs/patenti_EmiliaRomagna.csv.zip
+Patenti di guida - veicoli stradali,Patenti Emilia Romagna formato CSV,csv,https://dati.mit.gov.it/hfs/patenti_EmiliaRomagna.csv
+Patenti di guida - veicoli stradali,Patenti Friuli Venezia Giulia formato ZIP,zip,https://dati.mit.gov.it/hfs/patenti_FriuliVeneziaGiulia.csv.zip
+Patenti di guida - veicoli stradali,Patenti Friuli Venezia Giulia formato CSV,csv,https://dati.mit.gov.it/hfs/patenti_FriuliVeneziaGiulia.csv
+Patenti di guida - veicoli stradali,Patenti Lazio formato ZIP,zip,https://dati.mit.gov.it/hfs/patenti_Lazio.csv.zip
+Patenti di guida - veicoli stradali,Patenti Lazio formato CSV,csv,https://dati.mit.gov.it/hfs/patenti_Lazio.csv
+Patenti di guida - veicoli stradali,Patenti Liguria formato ZIP,zip,https://dati.mit.gov.it/hfs/patenti_Liguria.csv.zip

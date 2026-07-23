@@ -1,0 +1,156 @@
+{
+  "built_at": "2026-07-15T22:43:37Z",
+  "signals": [
+    {
+      "id": "PWR-02",
+      "sector": "energy",
+      "metric": "eu_hdd_cdd_anom",
+      "hdd_anom": -0.27,
+      "cdd_anom": -0.04,
+      "alert": false,
+      "msg": "EU HDD anom -0.3 CDD -0.0 \u2192 gas/power demand",
+      "horizon": "daily-weekly"
+    },
+    {
+      "id": "PWR-03",
+      "sector": "energy",
+      "metric": "us_hdd_anom",
+      "value": -0.05,
+      "alert": false,
+      "msg": "US HDD anom -0.1 \u2192 HH gas demand proxy",
+      "horizon": "daily-weekly"
+    },
+    {
+      "id": "PWR-01",
+      "sector": "energy",
+      "metric": "wind_fc_ramp",
+      "zone": "PAR",
+      "power_desk": "PFR",
+      "wind_fc_ms": 15.01,
+      "alert": false,
+      "msg": "PFR wind fc 15.0 m/s \u2192 renewable ramp / DA price",
+      "horizon": "intraday-daily",
+      "validated": false,
+      "note": "backtest FAIL \u2014 monitor only; use PWR-01b delta"
+    },
+    {
+      "id": "PWR-01",
+      "sector": "energy",
+      "metric": "wind_fc_ramp",
+      "zone": "BER",
+      "power_desk": "PDE",
+      "wind_fc_ms": 16.13,
+      "alert": false,
+      "msg": "PDE wind fc 16.1 m/s \u2192 renewable ramp / DA price",
+      "horizon": "intraday-daily",
+      "validated": false,
+      "note": "backtest FAIL \u2014 monitor only; use PWR-01b delta"
+    },
+    {
+      "id": "PWR-01",
+      "sector": "energy",
+      "metric": "wind_fc_ramp",
+      "zone": "MIL",
+      "power_desk": "PIT",
+      "wind_fc_ms": 16.21,
+      "alert": false,
+      "msg": "PIT wind fc 16.2 m/s \u2192 renewable ramp / DA price",
+      "horizon": "intraday-daily",
+      "validated": false,
+      "note": "backtest FAIL \u2014 monitor only; use PWR-01b delta"
+    },
+    {
+      "id": "PWR-01",
+      "sector": "energy",
+      "metric": "wind_fc_ramp",
+      "zone": "AMS",
+      "power_desk": "PNL",
+      "wind_fc_ms": 18.23,
+      "alert": false,
+      "msg": "PNL wind fc 18.2 m/s \u2192 renewable ramp / DA price",
+      "horizon": "intraday-daily",
+      "validated": false,
+      "note": "backtest FAIL \u2014 monitor only; use PWR-01b delta"
+    },
+    {
+      "id": "PWR-01",
+      "sector": "energy",
+      "metric": "wind_fc_ramp",
+      "zone": "WAW",
+      "power_desk": "PPL",
+      "wind_fc_ms": 16.7,
+      "alert": false,
+      "msg": "PPL wind fc 16.7 m/s \u2192 renewable ramp / DA price",
+      "horizon": "intraday-daily",
+      "validated": false,
+      "note": "backtest FAIL \u2014 monitor only; use PWR-01b delta"
+    },
+    {
+      "id": "PWR-01-v2",
+      "sector": "energy",
+      "metric": "wind_fc_delta_norm",
+      "power_desk": "PDE",
+      "zone": "7-grid",
+      "delta_norm": 0.81478,
+      "alert": false,
+      "msg": "PDE delta_norm +0.815 (OM cubic MW \u2212 published) \u2192 imb\u2212DA",
+      "horizon": "gate D-1",
+      "validated": false,
+      "note": "backtest v2 pending / FAIL"
+    },
+    {
+      "id": "PWR-01-v2",
+      "sector": "energy",
+      "metric": "wind_fc_delta_norm",
+      "power_desk": "PFR",
+      "zone": "6-grid",
+      "delta_norm": 0.27357,
+      "alert": false,
+      "msg": "PFR delta_norm +0.274 (OM cubic MW \u2212 published) \u2192 imb\u2212DA",
+      "horizon": "gate D-1",
+      "validated": false,
+      "note": "backtest v2 pending / FAIL"
+    },
+    {
+      "id": "PWR-01-v2",
+      "sector": "energy",
+      "metric": "wind_fc_delta_norm",
+      "power_desk": "PIT",
+      "zone": "6-grid",
+      "delta_norm": 0.18062,
+      "alert": false,
+      "msg": "PIT delta_norm +0.181 (OM cubic MW \u2212 published) \u2192 imb\u2212DA",
+      "horizon": "gate D-1",
+      "validated": false,
+      "note": "backtest v2 pending / FAIL"
+    },
+    {
+      "id": "FX-ENSO",
+      "sector": "fx",
+      "metric": "oni_phase",
+      "oni": 0.98,
+      "phase": "el_nino",
+      "pairs": [
+        "AUD",
+        "BRL",
+        "ZAR",
+        "CLP",
+        "NZD"
+      ],
+      "alert": true,
+      "msg": "ENSO el_nino ONI=+0.98 \u2192 AUD,BRL,ZAR,CLP,NZD terms of trade",
+      "horizon": "monthly"
+    },
+    {
+      "id": "GAS-X",
+      "sector": "energy",
+      "metric": "ttf_hub_ratio",
+      "value": 5.333,
+      "alert": true,
+      "msg": "TTF/HUB=5.33 (weather-linked arb context)",
+      "horizon": "weekly"
+    }
+  ],
+  "alerts": 2,
+  "brief": "FX-ENSO | GAS-X"
+}

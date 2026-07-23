@@ -1,0 +1,87 @@
+Open Infrasctructure Map
+Legenda×
+Linee elettriche
+< 10 kV	
+≥ 10 kV	
+≥ 25 kV	
+≥ 52 kV	
+≥ 132 kV	
+≥ 220 kV	
+≥ 310 kV	
+≥ 550 kV	
+HVDC	
+Trazione (< 50 Hz)	
+Sotterranea	
+Matricola linea	
+Centrali elettriche
+Carbone	
+Geotermico	
+Idroelettrico	
+Nucleare	
+Gas/Petrolio	
+Solare	
+Eolico	
+Biomassa	
+Termovalorizzatore	
+Batterie	
+Other/Unknown	
+Generatori
+Turbina eolica	
+Pannello solare	
+Pannello solare (nodo)	
+Generatore (altro)	
+Supporti per linee elettriche
+Torre/traliccio	
+Traliccio di transizione	
+Palo elettrico	
+Palo di transizione	
+Apparecchiature di manovra
+Trasformatore	
+Trasformatore a 3 avvolgimenti	
+Current transformer	
+Potential transformer	
+Sezionatore	
+Interruttore	
+Organo di manovra (generico)	
+Reattanza serie	
+Reattanza shunt	
+Condensatore serie	
+Condensatore shunt	
+Filtro	
+Compensatore (altro)	
+Sottostazione di conversione DC	
+Telecomunicazioni
+Cavo	
+Torre/palo	
+Datacenter	
+Centrale telefonica	
+Armadio	
+Gas
+Transmission >= DN 700	
+Transmission >= DN 300	
+Transmission < DN 300	
+Distribution High Pressure	
+Distribution Intermediate Pressure	
+Distribution Low Pressure	
+Petrolio
+Petrolio	
+Prodotti intermedi del petrolio	
+Carburante	
+Idrogeno	
+Infrastrutture petrolifere	
+Acqua
+Acqua dolce	
+Acqua calda	
+Vapore	
+Acque reflue	
+Impianto trattamento acque	
+Stazione pompaggio acque	
+Impianto di depurazione	
+Stazione pompaggio reflui	
+Stazione di pompaggio (altro)	
+Other Pipelines
+Oxygen	
+CO2	
+Nitrogen	
+Beer	
+Altro	

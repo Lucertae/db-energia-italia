@@ -1,0 +1,15 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+terna-italia,bilanci,sources/bilanci,Bilanci consumi elettrici per settore,IT,1990,2024,annuale,18,2,50106,GWh,ISPRA/Terna,open,ok
+terna-italia,total_load,sources/total_load,Carico totale,IT,2023,2026,orario,993188,1,65605264,MW,Terna API,Terna Developer,ok
+terna-italia,imcei,sources/imcei,IMCEI,IT,2015,2026,mensile,30429,1,1515344,indice,Terna API,Terna Developer,ok
+terna-italia,industry_sector,sources/industry_sector,Industria provincia/ATECO,IT,2015,2024,mensile,32208,1,2947459,GWh,Terna API,Terna Developer,ok
+terna-italia,services_sector,sources/services_sector,Servizi,IT,2015,2024,mensile,36648,1,4509440,GWh,Terna API,Terna Developer,ok
+terna-italia,by_sector,sources/electrical_energy_by_sector,Per settore,IT,2015,2024,mensile,4304,1,194233,GWh,Terna API,Terna Developer,ok
+terna-italia,by_type,sources/electrical_energy_by_type,Per tipologia,IT,2015,2024,mensile,600,1,28132,GWh,Terna API,Terna Developer,ok
+terna-italia,in_italy,sources/electrical_energy_in_italy,Serie nazionali,IT,2015,2023,mensile,108,1,1844,GWh,Terna API,Terna Developer,ok
+terna-italia,installed_capacity,sources/installed_capacity,Capacità installata,IT,2021,2022,mensile,10,1,243,MW,Terna API,Terna Developer,ok
+terna-italia,res_capacity,sources/renewable_source_capacity,Capacità FER,IT,2015,2024,mensile,11044,1,521804,MW,Terna API,Terna Developer,ok
+terna-italia,pdf_documenti,sources/pdf,"PDF Terna (report, piani, comunicati) — DA POPOLARE",IT,,,documentale,,0,0,PDF,Terna,termini Terna,planned
+terna-italia,incidenti_rete,sources/incidenti,Incidenti / eventi di rete (dati semantici) — DA POPOLARE,IT,,,evento,,0,0,"eventi, MW, durata",Terna,termini Terna,planned
+terna-italia,stato_rete,sources/stato_rete,"Stato della rete (asset, congestioni, indisponibilità) — DA POPOLARE",IT,,,snapshot/serie,,0,0,stato asset / MW,Terna,termini Terna,planned
+terna-italia,avanzamento_rete,sources/avanzamento_rete,"Avanzamento / sviluppo rete (piani, cantieri, opere) — DA POPOLARE",IT,,,progetto/milestone,,0,0,"opere, stato avanzamento",Terna,termini Terna,planned

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "updated": "2026-07-07",
+  "description": "Canonical OPS DESK data spine — single source for refresh policy and health",
+  "series": [
+    {"id": "BRT", "tier": "critical", "backend": "fred", "paths": ["cache/BRT.csv", "cache/fred/BRT.csv"], "max_age_h": 96},
+    {"id": "WTI", "tier": "critical", "backend": "fred", "paths": ["cache/WTI.csv"], "max_age_h": 96},
+    {"id": "HUB", "tier": "critical", "backend": "fred", "paths": ["cache/HUB.csv"], "max_age_h": 96},
+    {"id": "TTF", "tier": "critical", "backend": "fred", "paths": ["cache/TTF.csv"], "max_age_h": 1800},
+    {"id": "VIX", "tier": "critical", "backend": "fred", "paths": ["cache/VIX.csv"], "max_age_h": 96},
+    {"id": "U10", "tier": "critical", "backend": "fred", "paths": ["cache/U10.csv"], "max_age_h": 96},
+    {"id": "EUF", "tier": "critical", "backend": "fred", "paths": ["cache/EUF.csv"], "max_age_h": 96},
+    {"id": "JPF", "tier": "standard", "backend": "fred", "paths": ["cache/JPF.csv"], "max_age_h": 48},
+    {"id": "GBF", "tier": "standard", "backend": "fred", "paths": ["cache/GBF.csv"], "max_age_h": 48},
+    {"id": "SOF", "tier": "standard", "backend": "fred", "paths": ["cache/SOF.csv"], "max_age_h": 48},
+    {"id": "EDF", "tier": "standard", "backend": "fred", "paths": ["cache/EDF.csv"], "max_age_h": 48},
+    {"id": "BRF", "tier": "standard", "backend": "fred", "paths": ["cache/BRF.csv"], "max_age_h": 72},
+    {"id": "MXF", "tier": "standard", "backend": "fred", "paths": ["cache/MXF.csv"], "max_age_h": 72},
+    {"id": "DXY", "tier": "standard", "backend": "fred", "paths": ["cache/DXY.csv"], "max_age_h": 72},
+    {"id": "NGS", "tier": "critical", "backend": "eia_public", "paths": ["cache/NGS.csv", "cache/eia/NGS.csv"], "max_age_h": 336, "script": "scripts/desk_harvest/eia_public_inventories.py"},
+    {"id": "CRU", "tier": "critical", "backend": "eia_public", "paths": ["cache/CRU.csv", "cache/eia/CRU.csv"], "max_age_h": 168, "script": "scripts/desk_harvest/eia_public_inventories.py"},
+    {"id": "COA", "tier": "standard", "backend": "fred", "paths": ["cache/COA.csv"], "max_age_h": 72},
+    {"id": "JKM", "tier": "standard", "backend": "fred", "paths": ["cache/JKM.csv"], "max_age_h": 72},
+    {"id": "DXY", "tier": "standard", "backend": "fred", "paths": ["cache/DXY.csv"], "max_age_h": 72},
+    {"id": "PDE", "tier": "standard", "backend": "entsoe", "paths": ["cache/PDE.csv"], "max_age_h": 48},
+    {"id": "PFR", "tier": "standard", "backend": "entsoe", "paths": ["cache/PFR.csv"], "max_age_h": 48},
+    {"id": "PIT", "tier": "standard", "backend": "entsoe", "paths": ["cache/PIT.csv"], "max_age_h": 48},
+    {"id": "BTC", "tier": "standard", "backend": "crypto", "paths": ["cache/crypto/BTC.csv", "cache/BTC.csv"], "max_age_h": 24}
+  ],
+  "pipelines": [
+    {"id": "portwatch", "tier": "critical", "paths": ["cache/portwatch/chokepoints.csv"], "max_age_h": 48, "script": "scripts/desk_harvest/harvest_portwatch.py"},
+    {"id": "intel_rss", "tier": "standard", "paths": ["cache/intel/headlines.csv", "cache/intel/desk_index.json"], "max_age_h": 6, "script": "scripts/desk_harvest/harvest_intel.py"},
+    {"id": "ecb_fx", "tier": "critical", "paths": ["cache/ecb/eurofxref-daily.xml"], "max_age_h": 48},
+    {"id": "bridge_modules", "tier": "standard", "paths": ["cache/spine/modules_index.json"], "max_age_h": 6, "script": "bridge/module_runner.py"},
+    {"id": "fx_graph", "tier": "standard", "paths": ["cache/spine/modules/fx_graph.json"], "max_age_h": 6},
+    {"id": "fx_carry", "tier": "standard", "paths": ["cache/spine/modules/fx_carry.json"], "max_age_h": 6},
+    {"id": "weather_signals", "tier": "standard", "paths": ["cache/spine/modules/weather_signals.json"], "max_age_h": 6},
+    {"id": "weather_open_meteo", "tier": "standard", "paths": ["cache/spine/modules/weather_open_meteo.json"], "max_age_h": 6},
+    {"id": "backtest_pwr_signals", "tier": "research", "paths": ["cache/spine/modules/backtest_pwr_signals.json"], "max_age_h": 168},
+    {"id": "ais", "tier": "standard", "paths": ["cache/ais.key"], "max_age_h": 8760}
+  ],
+  "external": [
+    {"id": "lac_hedge_status", "path": "../lac/hedge/data/status.json", "max_age_h": 24, "optional": true},
+    {"id": "math_eu_prices", "path": "../math/data/unified/prices_unified.csv", "max_age_h": 168, "optional": true},
+    {"id": "math_registry", "path": "../math/data/energy_data_sources_registry.json", "max_age_h": 720, "optional": true}
+  ]
+}

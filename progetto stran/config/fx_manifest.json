@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "updated": "2026-07-09",
+  "hub": "EUR",
+  "convention": "quote_per_base",
+  "description": "Canonical FX pairs — ISO 4217 quote/base; desk_id is legacy cache filename",
+  "fee_bps": 2,
+  "desk_id_aliases": {
+    "USD": {"iso": "USD", "note": "FRED leg EUF = EUR/USD inverted in data.c; desk file USD.csv or EUF.csv"},
+    "EUF": {"iso": "USD", "canonical_desk_id": "USD", "fred_series": "DEXUSEU", "deprecated": true},
+    "JPY": {"iso": "JPY", "canonical_desk_id": "JPY"},
+    "JPF": {"iso": "JPY", "fred_series": "DEXJPUS", "deprecated": true},
+    "ENK": {"iso": "NOK", "canonical_desk_id": "NOK", "ecb_currency": "NOK"},
+    "ESK": {"iso": "SEK", "canonical_desk_id": "SEK", "ecb_currency": "SEK"},
+    "GBP": {"iso": "GBP"},
+    "GBF": {"iso": "GBP", "deprecated": true},
+    "BRL": {"iso": "BRL"},
+    "BRF": {"iso": "BRL", "deprecated": true},
+    "ZAR": {"iso": "ZAR"},
+    "ZAF": {"iso": "ZAR", "deprecated": true},
+    "INR": {"iso": "INR"},
+    "INF": {"iso": "INR", "deprecated": true},
+    "CNY": {"iso": "CNY"},
+    "CNF": {"iso": "CNY", "deprecated": true},
+    "MXN": {"iso": "MXN"},
+    "MXF": {"iso": "MXN", "deprecated": true},
+    "NOK": {"iso": "NOK"},
+    "SEK": {"iso": "SEK"},
+    "CAD": {"iso": "CAD"},
+    "NZD": {"iso": "NZD"},
+    "NZF": {"iso": "NZD", "deprecated": true}
+  },
+  "rate_legs": {
+    "usd": {"desk_id": "SOF", "label": "SOFR"},
+    "eur": {"desk_id": "EDF", "label": "ECB DFR"}
+  },
+  "pairs": [
+    {"id": "EURUSD", "base": "EUR", "quote": "USD", "desk_id": "USD", "fred_leg_id": "EUF", "ecb_currency": "USD", "usd_per_quote": false, "cme_future": "6E"},
+    {"id": "EURJPY", "base": "EUR", "quote": "JPY", "desk_id": "JPY", "fred_leg_id": "JPF", "ecb_currency": "JPY", "usd_per_quote": false, "cme_future": "6J"},
+    {"id": "EURGBP", "base": "EUR", "quote": "GBP", "desk_id": "GBP", "fred_leg_id": "GBF", "ecb_currency": "GBP", "usd_per_quote": true, "cme_future": "6B"},
+    {"id": "EURBRL", "base": "EUR", "quote": "BRL", "desk_id": "BRL", "fred_leg_id": "BRF", "ecb_currency": "BRL", "usd_per_quote": false, "cme_future": null},
+    {"id": "EURZAR", "base": "EUR", "quote": "ZAR", "desk_id": "ZAR", "fred_leg_id": "ZAF", "ecb_currency": "ZAR", "usd_per_quote": false, "cme_future": null},
+    {"id": "EURINR", "base": "EUR", "quote": "INR", "desk_id": "INR", "fred_leg_id": "INF", "ecb_currency": "INR", "usd_per_quote": false, "cme_future": null},
+    {"id": "EURCNY", "base": "EUR", "quote": "CNY", "desk_id": "CNY", "fred_leg_id": "CNF", "ecb_currency": "CNY", "usd_per_quote": false, "cme_future": null},
+    {"id": "EURMXN", "base": "EUR", "quote": "MXN", "desk_id": "MXN", "fred_leg_id": "MXF", "ecb_currency": "MXN", "usd_per_quote": false, "cme_future": "6M"},
+    {"id": "EURNOK", "base": "EUR", "quote": "NOK", "desk_id": "ENK", "fred_leg_id": "NOK", "ecb_currency": "NOK", "usd_per_quote": false, "cme_future": null},
+    {"id": "EURSEK", "base": "EUR", "quote": "SEK", "desk_id": "ESK", "fred_leg_id": "SEK", "ecb_currency": "SEK", "usd_per_quote": false, "cme_future": null},
+    {"id": "EURCAD", "base": "EUR", "quote": "CAD", "desk_id": "CAD", "fred_leg_id": "CAD", "ecb_currency": "CAD", "usd_per_quote": false, "cme_future": "6C"},
+    {"id": "EURNZD", "base": "EUR", "quote": "NZD", "desk_id": "NZD", "fred_leg_id": "NZF", "ecb_currency": "NZD", "usd_per_quote": true, "cme_future": "6N"},
+    {"id": "EURCHF", "base": "EUR", "quote": "CHF", "desk_id": "CHF", "fred_leg_id": null, "ecb_currency": "CHF", "usd_per_quote": false, "cme_future": "6S"},
+    {"id": "EURAUD", "base": "EUR", "quote": "AUD", "desk_id": "AUD", "fred_leg_id": null, "ecb_currency": "AUD", "usd_per_quote": false, "cme_future": "6A"}
+  ]
+}

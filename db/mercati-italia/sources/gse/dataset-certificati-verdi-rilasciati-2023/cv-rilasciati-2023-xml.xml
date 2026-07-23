@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CATEGORIA'/>
+		<variable name='ATTO_DI_CONCESSIONE'/>
+		<variable name='TITOLI_RILASCIATI'/>
+		<variable name='UNITA_DI_MISURA'/>
+		<variable name='MESE_DI_EROGAZIONE'/>
+		<variable name='ANNO_DI_EROGAZIONE'/>
+	</head>
+	<results>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02284190028</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02284190028</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ALPIQ_HYDRO_ITALIA_SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>14371</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>106</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01435930217</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01435930217</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CONSORTIUM_WALDER_e_MAIRHOFER</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>867</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>4754</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01013130073</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01013130073</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CVA_SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>10</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>-117</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>7210</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>09401601001</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>09401601001</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>EN.IT._SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>3133</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>8236</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>09401601001</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>09401601001</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>EN.IT._SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>4331</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>8236</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949481009</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949481009</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENERGY_EU_S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>3748</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>8235</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949481009</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949481009</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENERGY_EU_S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>2851</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>8235</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949481009</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949481009</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENERGY_EU_S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>3211</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>8238</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949481009</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949481009</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENERGY_EU_S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>4505</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>8238</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949491008</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949491008</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENERGY_WIND_S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>3513</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>8234</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949491008</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949491008</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENERGY_WIND_S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>3713</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>8234</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949491008</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949491008</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENERGY_WIND_S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>3239</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>8237</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949491008</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>13949491008</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENERGY_WIND_S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>4538</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>8237</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02075180220</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02075180220</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>HYDRO_DOLOMITI_ENERGIA_S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>12802</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>1539</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>09357630012</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>09357630012</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>IREN_ENERGIA_S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>10</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>77564</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>6723</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02351170424</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02351170424</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MARIO_SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>1</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>1793</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>6245</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02351170424</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02351170424</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MARIO_SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>3</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>6508</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>6245</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08823431005</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08823431005</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ROMAGNA_ENERGIA_S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>8114</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2023</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>1591</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

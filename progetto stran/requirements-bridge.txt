@@ -1,0 +1,36 @@
+# OPS DESK bridge — dependency groups (all optional except stdlib core)
+#
+# Core modules (fx_graph, qa_series, pysystemtrade export) need NO pip packages.
+#
+# Install examples:
+#   pip install -r requirements-bridge.txt
+#   pip install -r requirements-bridge.txt -r requirements-bridge-energy.txt
+
+# --- FX ingestion (proprietary tick = keys required) ---
+# findatapy          # Cuemacro: FRED, Dukascopy, Quandl, Bloomberg, Eikon
+# finmarketpy        # Macro event studies (companion)
+# databento          # CME futures — set DATABENTO_API_KEY
+# dukascopy-python   # Free spot tick history
+
+# --- FX storage ---
+# arcticdb           # Man Group TS store (findatapy backend)
+
+# --- FX calendars (critical for session-aware research) ---
+# pandas-market-calendars
+# exchange-calendars
+
+# --- Energy EU (public data — highest ROI) ---
+# entsoe-py
+# pandas
+
+# --- Energy US ---
+# gridstatus
+
+# --- Energy forecast / model ---
+# epftoolbox
+# pypsa
+# atlite
+
+# --- Execution research (external repos, not pip-only) ---
+# pysystemtrade      # clone pst-group/pysystemtrade + ib_async
+# nautilus-trader

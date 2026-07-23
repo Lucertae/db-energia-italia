@@ -1,0 +1,344 @@
+qid,name,type,lat,lon,capacity_mw
+Q3664637,centrale termica e cabina apparati centrali,centrale elettrica,43.78165,11.24496,
+Q3664645,centrale termoelettrica Marzocco,centrale elettrica,43.567603,10.311141,310
+Q3664647,centrale termoelettrica di Nera Montoro,centrale elettrica,42.497091666,12.480719444,
+Q3895581,parco eolico dei Poggi Alti,parco eolico,42.74499444,11.38613056,
+Q3895583,parco eolico di Castiglione Messer Marino,parco eolico,41.877368,14.425191,
+Q3895584,parco eolico di Cocullo,parco eolico,42.049016,13.784899,
+Q3895585,parco eolico di Collarmele,parco eolico,42.07341,13.64553,
+Q3895586,parco eolico di Fraine,parco eolico,41.889445,14.467176,
+Q3895587,parco eolico di Monteferrante,parco eolico,41.947568,14.397175,
+Q3895588,parco eolico di Montazzoli,parco eolico,41.92079,14.401676,
+Q3895589,parco eolico di Montemignaio,parco eolico,43.717601,11.587189,
+Q3895590,parco eolico di Roccaspinalveti,parco eolico,41.906445,14.450819,
+Q3895591,parco eolico di Roio del Sangro,parco eolico,41.902063,14.390682,
+Q3895592,parco eolico di Schiavi di Abruzzo,parco eolico,41.836354,14.483888,
+Q3895593,parco eolico di Tocco da Casauria,parco eolico,42.206418,13.903684,
+Q7232212,Portoscuso Wind Farm,parco eolico,,,
+Q16538860,"centrale termoelettrica ""Giuseppe Volpi""",centrale elettrica,45.4592672,12.2305008,126
+Q19819534,parco eolico del monte Mesa,parco eolico,45.558297222,10.819294444,
+Q20010149,centrale termoelettrica Bari,centrale elettrica,41.117272222,16.835136111,
+Q24053015,centrale termoelettrica Regina Margherita,centrale elettrica,,,
+Q30252550,parco eolico di Sedini,parco eolico,40.8558574,8.7701797,
+Q30253156,parco eolico di Florinas,parco eolico,40.6191,8.645897,
+Q30320986,parco eolico di Tula,parco eolico,40.760391,8.960209,
+Q30321744,parco eolico di Campeda,parco eolico,40.399346,8.797871,
+Q30329354,parco eolico di Buddusò e Alà dei Sardi,parco eolico,40.6742589,9.2623329,
+Q47492014,parco eolico di Ploaghe,parco eolico,40.712785,8.75399,
+Q47492034,parco eolico di Fiume Santo,parco eolico,40.8397394,8.2924032,
+Q47538509,parco eolico di Macchiareddu,parco eolico,39.2029943,8.9775467,
+Q47538517,parco eolico del Medio Campidano,parco eolico,39.592858,8.671389,
+Q47538571,parco eolico di Aggius-Bortigiadas-Viddalba,parco eolico,40.9188959,8.994112,
+Q47538576,parco eolico di Ulassai,parco eolico,39.7003191,9.518795,
+Q68294848,Centrale Termica,centrale elettrica,45.459711,7.87293,
+Q77806790,Centrale elettrica di Santa Radegonda,centrale elettrica,45.465195,9.192553,
+Q97179314,Q97179314,centrale elettrica,40.931944,14.385,100
+Q97179325,Q97179325,centrale elettrica,40.978333,14.3825,107.5
+Q97179358,Q97179358,centrale elettrica,44.594167,7.484722,120
+Q97179416,Q97179416,centrale elettrica,41.476111,13.751944,100
+Q97179542,Q97179542,centrale elettrica,45.619444,13.783056,180
+Q97179583,Q97179583,centrale elettrica,42.323611,14.377778,104
+Q97179591,centrale di Cogenerazione di Teverola,centrale elettrica,41.009167,14.228056,150
+Q97179613,Q97179613,centrale elettrica,41.956667,14.996389,100
+Q97179662,Q97179662,centrale elettrica,44.860556,11.586944,150
+Q97182241,Q97182241,centrale elettrica,41.066389,15.711944,
+Q97182336,Q97182336,centrale elettrica,45.052222,9.507222,180
+Q97182385,Q97182385,centrale elettrica,41.810278,12.421111,19
+Q97277727,Q97277727,centrale elettrica,45.456944,8.649722,100
+Q97277739,Porcari Sondel Power Plant,centrale elettrica,43.823611,10.602222,100
+Q97277795,Q97277795,centrale elettrica,43.641111,13.379722,282
+Q104394884,Parco eolico di Casoni di Romagna,parco eolico,44.256194444,11.422583333,
+Q110937244,parco eolico di Taranto,parco eolico,,,
+Q106083690,ex centrale del Battiferro,centrale elettrica,44.520699,11.333326,
+Q615128,centrale elettronucleare Montalto di Castro,centrale elettrica,42.3588,11.5314,2018
+Q1528979,reattore nucleare CIRENE,centrale elettrica,41.427222,12.808056,
+Q1626301,Centrale elettronucleare Enrico Fermi,centrale elettrica,45.184166666,8.277555555,260
+Q1724901,centrale nucleare di Garigliano,centrale elettrica,41.25833333,13.83472222,150
+Q1739370,centrale elettronucleare Caorso,centrale elettrica,45.07222222,9.87222222,860
+Q1739429,centrale elettronucleare Latina,centrale elettrica,41.425277777,12.807,
+Q3664533,centrale elettronucleare Trino 2,centrale elettrica,45.25166667,8.19388889,
+Q3664537,Centrale idroelettrica Angelo Bertini,centrale elettrica,45.665399,9.484356,
+Q3664538,centrale idroelettrica Esterle,centrale elettrica,45.653136,9.483537,
+Q3664541,centrale idroelettrica Semenza,centrale elettrica,45.68791,9.45198,
+Q3664542,centrale idroelettrica Taccani,centrale elettrica,45.612419,9.521321,
+Q3664650,centrale termoelettrica di Turbigo,centrale elettrica,45.5202,8.7424,1280
+Q29389356,centrale idroelettrica Bonomi,centrale elettrica,46.08601774,9.309819306,
+Q30092492,Centrale Edison,centrale elettrica,45.542817,9.2517509,
+Q54872964,ex stazione Bellini,centrale elettrica,40.8502542,14.2444228,
+Q56258315,Centrale idroelettrica Umberto I (Area ex Lanerossi),centrale elettrica,45.7147,11.3488,
+Q56258316,Centrale termica (Area ex Lanerossi),centrale elettrica,45.7138,11.35174,
+Q67465217,centrale idroelettrica di Bertonico,centrale elettrica,45.232013,9.648819,
+Q81803591,centrale di Turbigo Inferiore,centrale elettrica,45.527921,8.721717,
+Q112137306,centrale elettrica via Gatti 15,centrale elettrica,45.65554,9.264785,
+Q112137609,Palazzina Elettroadda SPA,centrale elettrica,45.741525,9.424092,
+Q112138131,Cabina di conversione elettrica Montedison,centrale elettrica,45.428973,9.099562,
+Q112138215,Centrale elettrica Orobia,centrale elettrica,45.866159,9.413363,
+Q112138559,Centrale idroelettrica Cornelli,centrale elettrica,45.496508,8.772065,
+Q112139781,Cabina elettrica Conti (ex),centrale elettrica,45.585779,9.280294,
+Q112140738,Centrale idroelettrica Pietro Rusca,centrale elettrica,45.532008,9.529546,
+Q112142135,Centralina Idroelettrica Enel,centrale elettrica,45.33455,9.34984,
+Q112142562,Centrale Enel (ex),centrale elettrica,45.573405,9.266598,
+Q112172609,Centrale ENEL,centrale elettrica,45.695279,9.402614,
+Q112318065,Centrale Elettrica dello Stabilimento Idrovoro della Travata,centrale elettrica,45.100857,10.887305,
+Q112319285,Centrale elettrica del Cotonificio Zopfi,centrale elettrica,45.727129,9.71873,
+Q3664638,"centrale termoelettrica ""Alessandro Volta""",centrale elettrica,42.3583234,11.5363892,3600
+Q3664648,centrale termoelettrica di Porto Tolle,centrale elettrica,44.956483,12.4877946,2640
+Q11995737,Centrale di Piombino,centrale elettrica,42.956888,10.6032173,1280
+Q11998472,centrale termoelettrica di Rossano,centrale elettrica,39.6214124,16.6075052,1738
+Q19387537,Centrale di San Filippo del Mela,centrale elettrica,38.2029957,15.285212,960
+Q3434274,centrale idroelettrica Luigi Einaudi,centrale elettrica,44.22472222,7.38611111,1064
+Q3664585,centrale idroelettrica di Pont Ventoux-Susa,centrale elettrica,45.137055555,7.032472222,150
+Q3664587,centrale idroelettrica di Provvidenza,centrale elettrica,42.51124,13.41059,
+Q3664592,centrale idroelettrica di San Giacomo,centrale elettrica,42.537805555,13.556388888,490
+Q3664593,centrale idroelettrica di San Fiorano,centrale elettrica,46.050111111,10.351444444,268
+Q3664600,centrale idroelettrica di Telessio,centrale elettrica,45.483583333,7.372583333,
+Q4138183,Centrale idroelettrica del Ponale,centrale elettrica,45.88313611,10.83803333,
+Q5340183,Centrale idroelettrica di Edolo,centrale elettrica,46.17083333,10.34777778,950
+Q7241025,centrale idroelettrica di Presenzano,centrale elettrica,41.38138889,14.09027778,985
+Q14646095,centrale idroelettrica di Roncovalgrande,centrale elettrica,46.06944444,8.73194444,1000
+Q18745015,Q18745015,centrale elettrica,39.192444444,16.724777777,
+Q19298796,Capriati hydroelectric power station,centrale elettrica,41.476305555,14.128222222,113
+Q56357818,Q56357818,centrale elettrica,46.304,9.928694444,
+Q56357819,Q56357819,centrale elettrica,46.091916666,9.89075,
+Q56357820,centrale di Lanzada,centrale elettrica,46.268388888,9.876611111,
+Q56357843,Gargnano hydroelectric power station,centrale elettrica,45.703833333,10.686083333,137
+Q56357861,Fadalto hydroelectric power station,centrale elettrica,46.069277777,12.331388888,220
+Q56357987,centrale idroelettrica di Bargi,centrale elettrica,44.116745041,11.043073829,281
+Q56357994,Q56357994,centrale elettrica,42.384222222,12.913472222,
+Q56358177,Guadalami hydroelectric power station,centrale elettrica,37.955638888,13.279472222,80
+Q56358182,Centrale Anapo,centrale elettrica,37.116083333,15.139111111,500
+Q56358183,Taloro hydroelectric power station,centrale elettrica,40.127055555,9.140722222,240
+Q97371468,Centrale idroelettrica di Santa Massenza,centrale elettrica,46.065972222,10.980638888,377
+Q3895611,parco fotovoltaico di Sticciano,centrale elettrica,42.9594,11.13345,
+Q4721980,Alfonsine Solar Park,centrale elettrica,44.56666667,11.98333333,
+Q5058285,Cellino San Marco Solar Park,centrale elettrica,40.46666667,17.96666667,
+Q7371716,parco fotovoltaico di Rovigo,centrale elettrica,45.03583333,11.57222222,70.6
+Q7419045,Sant'Alberto Solar Park,centrale elettrica,44.51666667,12.15,
+Q7453211,Serenissima Solar Park,centrale elettrica,44.94305556,11.65333333,
+Q3664636,Centrale solare termodinamica Archimede,centrale elettrica,37.1390489,15.2158928,700
+Q11957609,Altomonte power plant,centrale elettrica,39.7114538,16.2153375,808
+Q11983644,Leini power plant,centrale elettrica,45.1625228,7.7502805,385
+Q11998022,Rizziconi Power Station,centrale elettrica,38.4450477,15.9901339,760
+Q11999654,Scandale power plant,centrale elettrica,39.1022191,17.0326764,821
+Q12007122,Centrale termoelettrica Torrevaldaliga Sud,centrale elettrica,42.124492,11.761901,1180
+Q12007183,centrale termoelettrica di Torviscosa,centrale elettrica,45.8168889,13.2891118,867
+Q12008789,Centrale termoelettrica di Vado Ligure,centrale elettrica,44.2758371,8.4308229,760
+Q17761941,centrale termoelettrica di Cassano d'Adda,centrale elettrica,45.51152778,9.51,748
+Q17776176,centrale termoelettrica di Gissi,centrale elettrica,42.0504149,14.5635387,840
+Q19378684,Centrale Termoelletrica di La Casella,centrale elettrica,45.090568,9.4798937,1476
+Q19380053,Livorno Ferraris power plant,centrale elettrica,45.2377183,8.1925848,776
+Q19381036,Centrale di Marghera Levante,centrale elettrica,45.4460714,12.2553162,753
+Q19385545,Ponti sul Mincio power plant,centrale elettrica,45.3999035,10.7142408,381
+Q97170317,centrale elettrica di Sparanise,centrale elettrica,41.17792,14.11297,760
+Q97179280,centrale termoelettrica di Jesi,centrale elettrica,43.5532972,13.2851961,140
+Q97179370,Voghera power plant,centrale elettrica,45.0299624,8.9722177,381
+Q97179513,centrale termoelettrica di San Quirico,centrale elettrica,44.9289537,10.3051147,132
+Q97179578,centrale termoelettrica di Simeri Crichi,centrale elettrica,38.8757461,16.6571815,885
+Q97179605,centrale di Teverola,centrale elettrica,41.0087995,14.2293873,404
+Q97182168,centrale di Aprilia,centrale elettrica,41.5616876,12.6334137,787
+Q97182174,centrale di Bertonico-Turano Lodigiano,centrale elettrica,45.2267313,9.6373594,800
+Q97182273,Centrale Napoli Levante,centrale elettrica,40.8341188,14.300959,400
+Q97182292,Centrale di Piacenza,centrale elettrica,45.0553157,9.7082419,806
+Q97182374,centrale di Termoli,centrale elettrica,41.9369638,15.0004202,769
+Q97277661,Centrale termoelettrica di Chivasso,centrale elettrica,45.1855684,7.9011776,1123
+Q97277749,Roselectra,centrale elettrica,43.381429,10.4485613,386
+Q97277761,centrale di San Severo,centrale elettrica,41.6267494,15.4235192,419
+Q106777461,Rosen,centrale elettrica,43.3819319,10.449543,325
+Q56325613,Centrale idroelettrica di Crespi d'Adda,centrale elettrica,45.59686,9.53284,
+Q3664523,centrale ad idrogeno di Fusina,centrale elettrica,45.430833333,12.245555555,16
+Q16538832,centrale di cogenerazione di Bolgiano,centrale elettrica,45.4152217,9.2843654,66
+Q1145080,Centrale idroelettrica di Antolina,centrale elettrica,46.235109,8.33048,
+Q1619540,Q1619540,centrale elettrica,46.79859,11.66793,
+Q2551197,centrale di Cardano,centrale elettrica,46.495,11.396,121
+Q3664536,Centrale idroelettrica Alpe Bacco,centrale elettrica,45.96726,8.395282,
+Q3664539,centrale idroelettrica Guida,centrale elettrica,38.49222,16.41667,
+Q3664540,centrale idroelettrica Marmarico,centrale elettrica,38.497954,16.404163,
+Q3664543,centrale idroelettrica di Albosaggia,centrale elettrica,,,
+Q3664544,centrale idroelettrica di Andonno-Roccavione,centrale elettrica,44.294527777,7.446055555,65
+Q3664545,centrale idroelettrica di Anzuno,centrale elettrica,46.091575,8.275607,
+Q3664546,centrale idroelettrica di Ardenno,centrale elettrica,,,
+Q3664547,centrale idroelettrica di Arsa,centrale elettrica,45.991606,8.290027,
+Q3664548,centrale idroelettrica di Ascoli Porta Romana,centrale elettrica,42.855609,13.565835,
+Q3664549,centrale idroelettrica di Avise,centrale elettrica,45.7055,7.145361111,126
+Q3664550,centrale idroelettrica di Aymavilles,centrale elettrica,,,
+Q3664551,centrale idroelettrica di Balma-Quittengo,centrale elettrica,,,
+Q3664553,centrale idroelettrica di Braulio,centrale elettrica,46.51483,10.4041,19
+Q3664554,Centrale idroelettrica di Brolo,centrale elettrica,45.859379,8.390079,
+Q3664555,centrale idroelettrica di Brossasco,centrale elettrica,44.56783889,7.35331944,
+Q3664556,Centrale idroelettrica di Bognanco-Dagliano,centrale elettrica,46.120987,8.232965,
+Q3664557,centrale idroelettrica di Bussolengo,centrale elettrica,45.4785,10.8425,
+Q3664558,centrale idroelettrica di Capodacqua,centrale elettrica,42.76942,13.29344,
+Q3664559,centrale idroelettrica di Capodiponte,centrale elettrica,42.815874,13.504791,
+Q3664560,centrale idroelettrica di Casteldelfino,centrale elettrica,44.586525,7.06437222,
+Q3664561,centrale idroelettrica di Castellano,centrale elettrica,42.843594,13.556753,
+Q3664562,centrale idroelettrica di Châtillon,centrale elettrica,,,
+Q3664563,Centrale idroelettrica di Covalou,centrale elettrica,45.774361111,7.595111111,
+Q3664564,centrale idroelettrica di Crego,centrale elettrica,46.246772,8.331979,
+Q3664565,centrale idroelettrica di Demonte,centrale elettrica,44.31485278,7.27141944,
+Q3664566,centrale idroelettrica di Farneta,centrale elettrica,44.361953,10.5790739,
+Q3664567,centrale idroelettrica di Fedio-Demonte,centrale elettrica,44.32946389,7.26705556,
+Q3664568,centrale idroelettrica di Fervento,centrale elettrica,45.84223611,8.07566111,
+Q3664569,centrale idroelettrica di Gressoney,centrale elettrica,,,
+Q3664570,centrale idroelettrica di Fucine,centrale elettrica,45.23163333,7.36585278,
+Q3664571,centrale idroelettrica di Grosio,centrale elettrica,46.29193316,10.266192392,428
+Q3664572,centrale idroelettrica di Isollaz,centrale elettrica,,,
+Q3664573,centrale idroelettrica di Isorella,centrale elettrica,,,
+Q3664574,centrale idroelettrica di Issime,centrale elettrica,,,
+Q3664575,centrale idroelettrica di La Stanga,centrale elettrica,,,
+Q3664576,centrale idroelettrica di Ligonchio e Predare,centrale elettrica,44.314815,10.344796,
+Q3664577,centrale idroelettrica di Lovero,centrale elettrica,,,
+Q3664579,centrale idroelettrica di Montjovet,centrale elettrica,45.720027777,7.66725,50
+Q3664580,centrale idroelettrica di Montorio,centrale elettrica,42.585825,13.70896944,
+Q3664581,centrale idroelettrica di Morasco,centrale elettrica,46.4279,8.39092,
+Q3664582,centrale idroelettrica di Piaganini,centrale elettrica,42.56115,13.56353,
+Q3664583,Centrale idroelettrica di Pallanzeno,centrale elettrica,46.04789167,8.25907222,
+Q3664584,centrale idroelettrica di Piova-Castellamonte,centrale elettrica,,,
+Q3664586,centrale idroelettrica di Premadio,centrale elettrica,46.486444444,10.351361111,226
+Q3664588,centrale idroelettrica di Quart,centrale elettrica,,,
+Q3664589,centrale idroelettrica di Rusià,centrale elettrica,45.31541944,7.37939167,
+Q3664590,centrale idroelettrica di Santa Caterina,centrale elettrica,,,
+Q3664591,centrale idroelettrica di San Damiano Macra,centrale elettrica,44.48744444,7.24623889,
+Q3664594,centrale idroelettrica di San Mauro Torinese,centrale elettrica,,,
+Q3664595,centrale idroelettrica di Scandarello,centrale elettrica,42.64148,13.27028,
+Q3664596,centrale idroelettrica di Sendren,centrale elettrica,,,
+Q3664597,centrale idroelettrica di Soverzene,centrale elettrica,46.2009,12.3025,214
+Q3664598,centrale idroelettrica di Signayes,centrale elettrica,45.753664,7.317334,
+Q3664599,centrale idroelettrica di Stazzona,centrale elettrica,46.213667,10.15,30
+Q3664601,centrale idroelettrica di Torrite,centrale elettrica,44.100666666,10.383027777,81
+Q3664602,centrale idroelettrica di Venamartello,centrale elettrica,42.793814,13.430059,
+Q3664603,centrale idroelettrica di Venaus,centrale elettrica,45.162055555,7.007888888,230
+Q3664604,centrale idroelettrica di Verampio,centrale elettrica,46.24226,8.32451,54
+Q3664605,centrale idroelettrica di Zuino,centrale elettrica,,,
+Q16538850,centrale idroelettrica Molino di Poleo,centrale elettrica,45.72859,11.32687,
+Q16538852,Centrale idroelettrica di Devero,centrale elettrica,46.32153889,8.25541944,
+Q17624546,centrale idroelettrica di Piano della Rocca,centrale elettrica,44.0046981,10.5440581,
+Q21236623,centrale idroelettrica di Isola Serafini,centrale elettrica,45.093194444,9.904777777,82
+Q34599854,impianto dell'Armalunga,centrale elettrica,45.05522,9.71445,
+Q38588050,centrale idroelettrica di Porto della Torre,centrale elettrica,45.676037,8.670573,
+Q41528965,centrale idroelettrica di Rosone,centrale elettrica,45.435833333,7.418333333,185
+Q41795029,centrale idroelettrica di Timpagrande,centrale elettrica,39.175777777,16.781138888,213.5
+Q48804071,centrale idroelettrica di Lana,centrale elettrica,46.6128,11.1392,
+Q48804131,asta idroelettrica di Valle Orco,centrale elettrica,45.440761,7.2079754,40
+Q48804137,Centrale idroelettrica di Bardonetto,centrale elettrica,45.408801131,7.487190617,
+Q51879620,centrale idroelettrica di San Floriano,centrale elettrica,46.290666666,11.246222222,180
+Q55378800,centrale idroelettrica Guida,centrale elettrica,38.484325,16.453545,
+Q56247635,centrale idroelettrica di Vizzola Ticino,centrale elettrica,45.6266,8.6822,
+Q56357636,Q56357636,centrale elettrica,46.342638888,13.067,172.8
+Q56357637,Q56357637,centrale elettrica,46.427305555,12.785972222,62.1
+Q56357645,Q56357645,centrale elettrica,46.310527777,9.399916666,66.9
+Q56357647,Q56357647,centrale elettrica,46.304527777,9.376916666,172.6
+Q56357659,centrale idroelettrica di Ponte Gardena,centrale elettrica,46.604,11.531861111,55
+Q56357674,Q56357674,centrale elettrica,46.717888888,11.668611111,90
+Q56357675,Seled Glorenza hydroelectric power station,centrale elettrica,46.673972222,10.575972222,102
+Q56357684,Castelbello hydroelectric power station,centrale elettrica,46.622722222,10.914833333,87
+Q56357686,Lasa hydroelectric power station,centrale elettrica,46.611027777,10.708333333,63
+Q56357698,centrale idroelettrica di Cogolo,centrale elettrica,46.366027777,10.689305555,98.3
+Q56357717,Centrale idroelettrica di Mezzocorona,centrale elettrica,46.219416666,11.105527777,54
+Q56357749,centrale di Torbole,centrale elettrica,45.883055555,10.883083333,110
+Q56357785,centrale di Malga Boazzo,centrale elettrica,46.007916666,10.512111111,95
+Q56357786,centrale idroelettrica di Cimego,centrale elettrica,45.922861111,10.627638888,220
+Q56357788,centrale idroelettrica di Sonico,centrale elettrica,46.171,10.347916666,60
+Q56357793,Q56357793,centrale elettrica,46.066027777,10.351222222,72
+Q56357796,Q56357796,centrale elettrica,46.14075,10.12325,66
+Q56357798,Q56357798,centrale elettrica,46.152777777,10.085138888,66.8
+Q56357816,Q56357816,centrale elettrica,46.159916666,9.924638888,152.4
+Q56357822,centrale di Sondrio,centrale elettrica,46.173361111,9.888166666,148
+Q56357841,Q56357841,centrale elettrica,46.170111111,9.646361111,56.7
+Q56357865,Q56357865,centrale elettrica,46.0365,12.303944444,65
+Q56357886,Q56357886,centrale elettrica,46.279277777,8.353527777,71
+Q56357909,centrale idroelettrica Valpelline,centrale elettrica,45.824666666,7.333055555,130
+Q56357998,Q56357998,centrale elettrica,42.551333333,12.696694444,326
+Q56358008,Q56358008,centrale elettrica,42.551388888,12.671611111,68
+Q56358010,Q56358010,centrale elettrica,42.656416666,12.235833333,108
+Q56358015,Q56358015,centrale elettrica,42.598805555,13.704166666,120.9
+Q56358016,Q56358016,centrale elettrica,41.9615,14.348611111,57
+Q56358096,Q56358096,centrale elettrica,40.130416666,15.510833333,60
+Q56358121,Q56358121,centrale elettrica,39.183416666,16.834277777,50.5
+Q56358137,Mucone 1 hydroelectric power station,centrale elettrica,39.47275,16.407222222,101
+Q56358140,Mucone 2 hydroelectric power station,centrale elettrica,39.476472222,16.291222222,54
+Q56404458,Galleto hydroelectric power station,centrale elettrica,,,295
+Q56580070,ex centralina idroelettrica,centrale elettrica,46.052634369,11.398108903,
+Q57315764,centrale idroelettrica Buzzi,centrale elettrica,45.83475,8.65012,
+Q57333646,Centrale idroelettrica di Pozzolago,centrale elettrica,46.165722222,11.232416666,
+Q58188365,centrale idroelettrica Malga Mare,centrale elettrica,,,
+Q60333113,Impianto idroelettrico di San Colombano,centrale elettrica,45.880269444,11.06205,
+Q63390113,Centrale idroelettrica Sant'Antonio,centrale elettrica,46.5132,11.3563,90
+Q69300630,Centrale idroelettrica di Cadarese,centrale elettrica,46.289781,8.355377,
+Q70327278,Centrale idroelettrica di Crevola Toce,centrale elettrica,46.159517,8.307285,
+Q84704932,centrale della Lanca,centrale elettrica,45.95989,8.50924,
+Q85860589,centrale idroelettrica di Rasin,centrale elettrica,46.489130555,10.305419444,
+Q86211699,centrale idroelettrica di Naturno,centrale elettrica,46.65182,10.99306,175
+Q101244771,Centrale idroelettrica di Maën,centrale elettrica,45.868166666,7.614666666,
+Q102358430,centrale idroelettrica Antonio Pitter,centrale elettrica,46.148075816,12.634863643,
+Q105781392,centrale idroelettrica di Pedesalto,centrale elettrica,46.02129,11.77848,
+Q107179764,Kraftwerk Marling,centrale elettrica,46.660505,11.143184,
+Q107227000,centrale idroelettrica di Muccia,centrale elettrica,43.0871,13.1104,
+Q107232714,centrale idroelettrica di Caoria,centrale elettrica,46.20410171,11.662480509,
+Q109376972,Centrale idroelettrica di Alanno,centrale elettrica,42.253333333,13.946111111,
+Q116697989,centrale idroelettrica di Casuzze,centrale elettrica,38.0735542,13.3601805,
+Q116762169,centrale idroelettrica di Tocco da Casauria,centrale elettrica,42.11587,13.52545,
+Q116763985,Centrale idroelettrica di Meduno,centrale elettrica,46.21751933,12.77519434,
+Q116763986,Centrale idroelettrica di Mese,centrale elettrica,46.304911,9.378257,
+Q116763987,Centrale idroelettrica di Prestone,centrale elettrica,46.389631,9.3519,
+Q116763988,Centrale idroelettrica di San Bernardo,centrale elettrica,46.345287,9.350167,
+Q116763989,Centrale idroelettrica di San Foca,centrale elettrica,,,
+Q116763992,Centrale idroelettrica di Villa Rinaldi,centrale elettrica,,,
+Q118186149,ex centrale idroelettrica Guarnieri,centrale elettrica,45.857145677,11.660988915,
+Q118398051,mulino di Mendatica,centrale elettrica,44.07296,7.81244,
+Q120484028,centrale del Partidor,centrale elettrica,46.090815148,12.710143726,
+Q120752859,Forze Idrauliche dell'Appennino Centrale,centrale elettrica,,,
+Q121283912,centrale idroelettrica di Nembia,centrale elettrica,46.10584,10.93819,
+Q121705032,centrale di Moline,centrale elettrica,46.067197297,11.762823762,
+Q125400809,Diga di Suviana,centrale elettrica,44.13456,11.04086,
+Q125487221,centrale idroelettrica di Suviana,centrale elettrica,44.13572,11.04049,
+Q126681215,Centrale di Pozzena,centrale elettrica,46.397730555,11.078830555,
+Q126938426,Diga di Barcis,centrale elettrica,46.187612564,12.596852301,
+Q129652141,Centrale idroelettrica di Rovesca,centrale elettrica,46.05723,8.126804,
+Q129652188,Centrale idroelettrica di Campliccioli,centrale elettrica,46.048149,8.073471,
+Q129652398,Ex centrale idroelettrica di Sottofrua,centrale elettrica,46.402862,8.418027,
+Q129653145,Centrale idroelettrica di Ponte,centrale elettrica,46.3804,8.424153,
+Q129653567,Ex centrale idroelettrica di Valdo,centrale elettrica,46.373627,8.42558,
+Q134577450,centrale idroelettrica di Nera Montoro,centrale elettrica,,,
+Q135412681,centrale idroelettrica Collicello,centrale elettrica,45.916619016,11.721200738,
+Q3664578,centrale termoelettrica di Moncalieri,centrale elettrica,44.99285,7.67555278,754
+Q3664642,centrale termoelettrica EniPower di Brindisi,centrale elettrica,40.629214,18.0029016,1170
+Q11963002,Q11963002,centrale elettrica,,,
+Q11963074,Candela power plant,centrale elettrica,41.2018337,15.4762816,401
+Q11968742,Ferrera Erbognone power plant,centrale elettrica,45.0994374,8.866788,1006
+Q11971440,"Centrale termoelettrica ""Galileo Ferraris""",centrale elettrica,45.25206,8.19393,746
+Q11995675,Pietrafitta power plant,centrale elettrica,42.995278,12.199444,365
+Q11999586,Sarlux power plant,centrale elettrica,39.0780953,9.0222279,590
+Q19375845,Isab Energy,centrale elettrica,37.1317066,15.2010495,576
+Q19381523,Q19381523,centrale elettrica,,,
+Q19386285,Enipower Ravenna power plant,centrale elettrica,44.4485512,12.2374445,961
+Q19388252,Sermide power plant,centrale elettrica,45.0266584,11.2511304,1151
+Q19391999,centrale di Tavazzano,centrale elettrica,45.332976,9.43526,1970
+Q3664644,centrale termoelettrica Santa Barbara,centrale elettrica,43.56431389,11.47807778,391
+Q12005579,centrale termoelettrica Ettore Maiorana,centrale elettrica,37.9684762,13.7517929,1052
+Q19381733,Modugno power plant,centrale elettrica,41.1028328,16.7557275,810
+Q19384929,Ostiglia power plant,centrale elettrica,45.0599482,11.1380397,1123
+Q97179445,Porto Corsini power plant,centrale elettrica,44.4837505,12.2651786,704
+Q97179623,centrale termoelettrica di Terni,centrale elettrica,42.5545108,12.6172936,95
+Q97179670,centrale termoelettrica di Ferrara,centrale elettrica,44.8638925,11.5939412,761
+Q97182233,centrale di mantova,centrale elettrica,45.1496149,10.8348938,812
+Q97182406,Trapani power plant,centrale elettrica,37.8770184,12.5896955,212
+Q97277641,centrale termoelettrica di Bussi sul Tirino,centrale elettrica,42.2001416,13.8396862,122
+Q3664518,centrale Enel Federico II,centrale elettrica,40.56324,18.03182,
+Q3664639,"centrale termoelettrica ""Andrea Palladio""",centrale elettrica,45.4305635,12.2467364,871
+Q3664640,centrale termoelettrica Edipower di Brindisi,centrale elettrica,40.6438532,17.9789503,640
+Q3664641,"centrale termoelettrica ""Eugenio Montale""",centrale elettrica,44.11083333,9.87444444,520
+Q3664649,centrale termoelettrica di Torrevaldaliga Nord,centrale elettrica,42.127432,11.758437,1845
+Q11989857,Monfalcone power plant,centrale elettrica,,,315
+Q12003920,Sulcis power plant,centrale elettrica,39.1963096,8.4004104,432
+Q17772520,centrale termoelettrica Fiume Santo,centrale elettrica,40.847838888,8.30515,534
+Q140232274,centrale idroelettrica di Grigno,centrale elettrica,46.018192343,11.610191397,
+Q140366986,Centrale idroelettrica di Les Perrères,centrale elettrica,45.907619025,7.616751719,
+Q140466912,Centrale idroelettrica di Viverone,centrale elettrica,45.43015871,8.040095697,
+Q139601888,ex centrale idroelettrica del Colombarolo,centrale elettrica,45.415503409,11.022006869,
+Q112624352,Termovalorizzatore di Brescia,centrale elettrica,45.51158,10.21085,
+Q16538823,centrale del Mercure,centrale elettrica,39.982163888,16.021294444,34
+Q3984489,Termovalorizzatore di Acerra,centrale elettrica,40.978473,14.384058,99
+Q111191459,termovalorizzatore di Bologna,centrale elettrica,44.523263,11.428508,
+Q116421638,Termovalorizzatore di San Vittore,centrale elettrica,41.437744,13.896527,
+Q100705202,Larderello geothermal power plant,centrale elettrica,43.231888,10.884598,
+Q107636622,centrale Enel Bagnore 3,centrale elettrica,42.841802636,11.558572546,

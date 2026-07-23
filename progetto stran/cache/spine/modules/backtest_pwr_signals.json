@@ -1,0 +1,726 @@
+{
+  "built_at": "2026-07-15T22:43:36Z",
+  "sample": {
+    "start": "2021-03-12",
+    "end": "2026-07-11",
+    "desks": [
+      "PDE",
+      "PFR",
+      "PIT"
+    ]
+  },
+  "PWR-02": {
+    "feature": "eu_hdd_anom_7d_vs_30d",
+    "return_alignment": "forward (d\u2192d+1) primary; same_day diagnostic",
+    "results": [
+      {
+        "signal_id": "PWR-02",
+        "desk": "PDE",
+        "hypothesis": "EU HDD anomaly \u2191 \u2192 DA price \u2191 (demand)",
+        "expected_sign": 1,
+        "return_mode": "forward",
+        "regression": {
+          "slope": -0.551111,
+          "intercept": -0.040177
+        },
+        "ic_spearman": -0.019,
+        "newey_west": {
+          "ic": -0.0259,
+          "t_ic": -1.117,
+          "t_ols": -1.117,
+          "t_nw": -0.919,
+          "slope": -0.551111,
+          "n": 1858,
+          "inference": "ols_nw_slope"
+        },
+        "seasonal_ic": {
+          "DJF": {
+            "n": 451,
+            "ic": -0.0501
+          },
+          "MAM": {
+            "n": 481,
+            "ic": -0.0426
+          },
+          "JJA": {
+            "n": 471,
+            "ic": -0.003
+          },
+          "SON": {
+            "n": 455,
+            "ic": -0.002
+          }
+        },
+        "event_study": {
+          "n_high": 465,
+          "n_low": 465,
+          "mean_high": -1.74984,
+          "mean_low": 0.4418,
+          "spread": -2.19164
+        },
+        "forward_return": {
+          "n": 1858,
+          "mean": -0.01752,
+          "std": 40.60055
+        },
+        "verdict": {
+          "n_obs": 1858,
+          "ic_pearson": -0.0259,
+          "t_stat": -1.117,
+          "t_nw": -0.919,
+          "hit_rate": 0.471,
+          "sign_ok": false,
+          "event_sign_ok": false,
+          "passed": false,
+          "gates": {
+            "min_obs": 120,
+            "min_ic": 0.04,
+            "min_hit": 0.52,
+            "min_t_bonferroni": 2.64,
+            "min_t_nw": 2.5,
+            "family_tests": 6
+          }
+        }
+      },
+      {
+        "signal_id": "PWR-02",
+        "desk": "PFR",
+        "hypothesis": "EU HDD anomaly \u2191 \u2192 DA price \u2191 (demand)",
+        "expected_sign": 1,
+        "return_mode": "forward",
+        "regression": {
+          "slope": -0.493566,
+          "intercept": -0.047321
+        },
+        "ic_spearman": -0.0141,
+        "newey_west": {
+          "ic": -0.0283,
+          "t_ic": -1.221,
+          "t_ols": -1.221,
+          "t_nw": -0.935,
+          "slope": -0.493566,
+          "n": 1858,
+          "inference": "ols_nw_slope"
+        },
+        "seasonal_ic": {
+          "DJF": {
+            "n": 451,
+            "ic": -0.0891
+          },
+          "MAM": {
+            "n": 481,
+            "ic": -0.0459
+          },
+          "JJA": {
+            "n": 471,
+            "ic": -0.0048
+          },
+          "SON": {
+            "n": 455,
+            "ic": 0.0166
+          }
+        },
+        "event_study": {
+          "n_high": 465,
+          "n_low": 465,
+          "mean_high": -1.67464,
+          "mean_low": 0.15951,
+          "spread": -1.83415
+        },
+        "forward_return": {
+          "n": 1858,
+          "mean": -0.02703,
+          "std": 33.26662
+        },
+        "verdict": {
+          "n_obs": 1858,
+          "ic_pearson": -0.0283,
+          "t_stat": -1.221,
+          "t_nw": -0.935,
+          "hit_rate": 0.4688,
+          "sign_ok": false,
+          "event_sign_ok": false,
+          "passed": false,
+          "gates": {
+            "min_obs": 120,
+            "min_ic": 0.04,
+            "min_hit": 0.52,
+            "min_t_bonferroni": 2.64,
+            "min_t_nw": 2.5,
+            "family_tests": 6
+          }
+        }
+      },
+      {
+        "signal_id": "PWR-02",
+        "desk": "PIT",
+        "hypothesis": "EU HDD anomaly \u2191 \u2192 DA price \u2191 (demand)",
+        "expected_sign": 1,
+        "return_mode": "forward",
+        "regression": {
+          "slope": -0.165577,
+          "intercept": 0.013812
+        },
+        "ic_spearman": -0.0166,
+        "newey_west": {
+          "ic": -0.0137,
+          "t_ic": -0.589,
+          "t_ols": -0.589,
+          "t_nw": -0.448,
+          "slope": -0.165577,
+          "n": 1858,
+          "inference": "ols_nw_slope"
+        },
+        "seasonal_ic": {
+          "DJF": {
+            "n": 451,
+            "ic": -0.0515
+          },
+          "MAM": {
+            "n": 481,
+            "ic": -0.0311
+          },
+          "JJA": {
+            "n": 471,
+            "ic": -0.0122
+          },
+          "SON": {
+            "n": 455,
+            "ic": 0.0486
+          }
+        },
+        "event_study": {
+          "n_high": 465,
+          "n_low": 465,
+          "mean_high": -0.34396,
+          "mean_low": -0.00411,
+          "spread": -0.33985
+        },
+        "forward_return": {
+          "n": 1858,
+          "mean": 0.02062,
+          "std": 23.11373
+        },
+        "verdict": {
+          "n_obs": 1858,
+          "ic_pearson": -0.0137,
+          "t_stat": -0.589,
+          "t_nw": -0.448,
+          "hit_rate": 0.471,
+          "sign_ok": false,
+          "event_sign_ok": false,
+          "passed": false,
+          "gates": {
+            "min_obs": 120,
+            "min_ic": 0.04,
+            "min_hit": 0.52,
+            "min_t_bonferroni": 2.64,
+            "min_t_nw": 2.5,
+            "family_tests": 6
+          }
+        }
+      }
+    ],
+    "same_day_results": [
+      {
+        "signal_id": "PWR-02",
+        "desk": "PDE",
+        "hypothesis": "EU HDD anomaly \u2191 \u2192 same-day DA price \u2191",
+        "expected_sign": 1,
+        "return_mode": "same_day",
+        "regression": {
+          "slope": -0.386675,
+          "intercept": -0.024286
+        },
+        "ic_spearman": -0.0131,
+        "newey_west": {
+          "ic": -0.0182,
+          "t_ic": -0.784,
+          "t_ols": -0.784,
+          "t_nw": -0.641,
+          "slope": -0.386675,
+          "n": 1858,
+          "inference": "ols_nw_slope"
+        },
+        "seasonal_ic": {
+          "DJF": {
+            "n": 451,
+            "ic": -0.0432
+          },
+          "MAM": {
+            "n": 482,
+            "ic": -0.0315
+          },
+          "JJA": {
+            "n": 470,
+            "ic": -0.0024
+          },
+          "SON": {
+            "n": 455,
+            "ic": 0.017
+          }
+        },
+        "event_study": {
+          "n_high": 465,
+          "n_low": 465,
+          "mean_high": -2.31287,
+          "mean_low": -0.31187,
+          "spread": -2.001
+        },
+        "forward_return": {
+          "n": 1858,
+          "mean": -0.00821,
+          "std": 40.59809
+        },
+        "verdict": {
+          "n_obs": 1858,
+          "ic_pearson": -0.0182,
+          "t_stat": -0.784,
+          "t_nw": -0.641,
+          "hit_rate": 0.4731,
+          "sign_ok": false,
+          "event_sign_ok": false,
+          "passed": false,
+          "gates": {
+            "min_obs": 120,
+            "min_ic": 0.04,
+            "min_hit": 0.52,
+            "min_t_bonferroni": 2.64,
+            "min_t_nw": 2.5,
+            "family_tests": 6
+          }
+        }
+      },
+      {
+        "signal_id": "PWR-02",
+        "desk": "PFR",
+        "hypothesis": "EU HDD anomaly \u2191 \u2192 same-day DA price \u2191",
+        "expected_sign": 1,
+        "return_mode": "same_day",
+        "regression": {
+          "slope": -0.307047,
+          "intercept": -0.034724
+        },
+        "ic_spearman": -0.0046,
+        "newey_west": {
+          "ic": -0.0176,
+          "t_ic": -0.759,
+          "t_ols": -0.759,
+          "t_nw": -0.587,
+          "slope": -0.307047,
+          "n": 1858,
+          "inference": "ols_nw_slope"
+        },
+        "seasonal_ic": {
+          "DJF": {
+            "n": 451,
+            "ic": -0.0701
+          },
+          "MAM": {
+            "n": 482,
+            "ic": -0.0238
+          },
+          "JJA": {
+            "n": 470,
+            "ic": -0.0049
+          },
+          "SON": {
+            "n": 455,
+            "ic": 0.0251
+          }
+        },
+        "event_study": {
+          "n_high": 465,
+          "n_low": 465,
+          "mean_high": -0.68089,
+          "mean_low": 0.03646,
+          "spread": -0.71735
+        },
+        "forward_return": {
+          "n": 1858,
+          "mean": -0.02196,
+          "std": 33.26488
+        },
+        "verdict": {
+          "n_obs": 1858,
+          "ic_pearson": -0.0176,
+          "t_stat": -0.759,
+          "t_nw": -0.587,
+          "hit_rate": 0.4753,
+          "sign_ok": false,
+          "event_sign_ok": false,
+          "passed": false,
+          "gates": {
+            "min_obs": 120,
+            "min_ic": 0.04,
+            "min_hit": 0.52,
+            "min_t_bonferroni": 2.64,
+            "min_t_nw": 2.5,
+            "family_tests": 6
+          }
+        }
+      },
+      {
+        "signal_id": "PWR-02",
+        "desk": "PIT",
+        "hypothesis": "EU HDD anomaly \u2191 \u2192 same-day DA price \u2191",
+        "expected_sign": 1,
+        "return_mode": "same_day",
+        "regression": {
+          "slope": -0.057326,
+          "intercept": 0.023038
+        },
+        "ic_spearman": -0.0089,
+        "newey_west": {
+          "ic": -0.0047,
+          "t_ic": -0.204,
+          "t_ols": -0.204,
+          "t_nw": -0.161,
+          "slope": -0.057326,
+          "n": 1858,
+          "inference": "ols_nw_slope"
+        },
+        "seasonal_ic": {
+          "DJF": {
+            "n": 451,
+            "ic": -0.0403
+          },
+          "MAM": {
+            "n": 482,
+            "ic": -0.0054
+          },
+          "JJA": {
+            "n": 470,
+            "ic": -0.014
+          },
+          "SON": {
+            "n": 455,
+            "ic": 0.0526
+          }
+        },
+        "event_study": {
+          "n_high": 465,
+          "n_low": 465,
+          "mean_high": 0.14856,
+          "mean_low": -0.15224,
+          "spread": 0.30079
+        },
+        "forward_return": {
+          "n": 1858,
+          "mean": 0.02542,
+          "std": 23.11158
+        },
+        "verdict": {
+          "n_obs": 1858,
+          "ic_pearson": -0.0047,
+          "t_stat": -0.204,
+          "t_nw": -0.161,
+          "hit_rate": 0.4774,
+          "sign_ok": false,
+          "event_sign_ok": true,
+          "passed": false,
+          "gates": {
+            "min_obs": 120,
+            "min_ic": 0.04,
+            "min_hit": 0.52,
+            "min_t_bonferroni": 2.64,
+            "min_t_nw": 2.5,
+            "family_tests": 6
+          }
+        }
+      }
+    ],
+    "any_desk_passed": false
+  },
+  "PWR-01": {
+    "feature": "zone_wind_zscore_30d",
+    "threshold_live_alert_ms": 8.0,
+    "results": [
+      {
+        "signal_id": "PWR-01",
+        "desk": "PDE",
+        "hypothesis": "Zone BER wind anomaly \u2191 \u2192 DA price \u2193 (renewables)",
+        "expected_sign": -1,
+        "return_mode": "forward",
+        "regression": {
+          "slope": 7.442288,
+          "intercept": -0.054527
+        },
+        "ic_spearman": 0.1925,
+        "newey_west": {
+          "ic": 0.1883,
+          "t_ic": 8.274,
+          "t_ols": 8.274,
+          "t_nw": 8.138,
+          "slope": 7.442288,
+          "n": 1865,
+          "inference": "ols_nw_slope"
+        },
+        "seasonal_ic": {
+          "DJF": {
+            "n": 451,
+            "ic": 0.2412
+          },
+          "MAM": {
+            "n": 488,
+            "ic": 0.1891
+          },
+          "JJA": {
+            "n": 471,
+            "ic": 0.0943
+          },
+          "SON": {
+            "n": 455,
+            "ic": 0.2276
+          }
+        },
+        "event_study": {
+          "n_high": 467,
+          "n_low": 467,
+          "mean_high": 12.18556,
+          "mean_low": -7.70418,
+          "spread": 19.88974
+        },
+        "forward_return": {
+          "n": 1865,
+          "mean": -0.01532,
+          "std": 40.5276
+        },
+        "verdict": {
+          "n_obs": 1865,
+          "ic_pearson": 0.1883,
+          "t_stat": 8.274,
+          "t_nw": 8.138,
+          "hit_rate": 0.3769,
+          "sign_ok": false,
+          "event_sign_ok": false,
+          "passed": false,
+          "gates": {
+            "min_obs": 120,
+            "min_ic": 0.04,
+            "min_hit": 0.52,
+            "min_t_bonferroni": 2.64,
+            "min_t_nw": 2.5,
+            "family_tests": 6
+          }
+        }
+      },
+      {
+        "signal_id": "PWR-01",
+        "desk": "PFR",
+        "hypothesis": "Zone PAR wind anomaly \u2191 \u2192 DA price \u2193 (renewables)",
+        "expected_sign": -1,
+        "return_mode": "forward",
+        "regression": {
+          "slope": 3.46403,
+          "intercept": -0.014476
+        },
+        "ic_spearman": 0.1239,
+        "newey_west": {
+          "ic": 0.1087,
+          "t_ic": 4.721,
+          "t_ols": 4.721,
+          "t_nw": 4.819,
+          "slope": 3.46403,
+          "n": 1865,
+          "inference": "ols_nw_slope"
+        },
+        "seasonal_ic": {
+          "DJF": {
+            "n": 451,
+            "ic": 0.1197
+          },
+          "MAM": {
+            "n": 488,
+            "ic": 0.0864
+          },
+          "JJA": {
+            "n": 471,
+            "ic": 0.0752
+          },
+          "SON": {
+            "n": 455,
+            "ic": 0.1588
+          }
+        },
+        "event_study": {
+          "n_high": 467,
+          "n_low": 467,
+          "mean_high": 5.66729,
+          "mean_low": -3.5382,
+          "spread": 9.20548
+        },
+        "forward_return": {
+          "n": 1865,
+          "mean": -0.02393,
+          "std": 33.20904
+        },
+        "verdict": {
+          "n_obs": 1865,
+          "ic_pearson": 0.1087,
+          "t_stat": 4.721,
+          "t_nw": 4.819,
+          "hit_rate": 0.4411,
+          "sign_ok": false,
+          "event_sign_ok": false,
+          "passed": false,
+          "gates": {
+            "min_obs": 120,
+            "min_ic": 0.04,
+            "min_hit": 0.52,
+            "min_t_bonferroni": 2.64,
+            "min_t_nw": 2.5,
+            "family_tests": 6
+          }
+        }
+      },
+      {
+        "signal_id": "PWR-01",
+        "desk": "PIT",
+        "hypothesis": "Zone MIL wind anomaly \u2191 \u2192 DA price \u2193 (renewables)",
+        "expected_sign": -1,
+        "return_mode": "forward",
+        "regression": {
+          "slope": -1.083995,
+          "intercept": 0.020715
+        },
+        "ic_spearman": -0.0459,
+        "newey_west": {
+          "ic": -0.047,
+          "t_ic": -2.031,
+          "t_ols": -2.031,
+          "t_nw": -2.14,
+          "slope": -1.083995,
+          "n": 1865,
+          "inference": "ols_nw_slope"
+        },
+        "seasonal_ic": {
+          "DJF": {
+            "n": 451,
+            "ic": 0.0222
+          },
+          "MAM": {
+            "n": 488,
+            "ic": -0.026
+          },
+          "JJA": {
+            "n": 471,
+            "ic": -0.0993
+          },
+          "SON": {
+            "n": 455,
+            "ic": -0.0666
+          }
+        },
+        "event_study": {
+          "n_high": 467,
+          "n_low": 467,
+          "mean_high": -0.95926,
+          "mean_low": 1.21054,
+          "spread": -2.1698
+        },
+        "forward_return": {
+          "n": 1865,
+          "mean": 0.02512,
+          "std": 23.0746
+        },
+        "verdict": {
+          "n_obs": 1865,
+          "ic_pearson": -0.047,
+          "t_stat": -2.031,
+          "t_nw": -2.14,
+          "hit_rate": 0.5589,
+          "sign_ok": true,
+          "event_sign_ok": true,
+          "passed": false,
+          "gates": {
+            "min_obs": 120,
+            "min_ic": 0.04,
+            "min_hit": 0.52,
+            "min_t_bonferroni": 2.64,
+            "min_t_nw": 2.5,
+            "family_tests": 6
+          }
+        }
+      }
+    ],
+    "threshold_events": [
+      {
+        "desk": "PDE",
+        "zone": "BER",
+        "threshold_ms": 8.0,
+        "n_events": 1863,
+        "mean_fwd_return": 0.2901
+      },
+      {
+        "desk": "PFR",
+        "zone": "PAR",
+        "threshold_ms": 8.0,
+        "n_events": 1837,
+        "mean_fwd_return": 0.03252
+      },
+      {
+        "desk": "PIT",
+        "zone": "MIL",
+        "threshold_ms": 8.0,
+        "n_events": 1588,
+        "mean_fwd_return": -0.22255
+      }
+    ],
+    "any_desk_passed": false,
+    "note": "Raw wind level rejected \u2014 use PWR-01b delta for live"
+  },
+  "promotions": [
+    {
+      "signal_id": "PWR-02",
+      "desk": "PDE",
+      "status": "reject",
+      "ic": -0.0259,
+      "hit_rate": 0.471,
+      "n_obs": 1858
+    },
+    {
+      "signal_id": "PWR-02",
+      "desk": "PFR",
+      "status": "reject",
+      "ic": -0.0283,
+      "hit_rate": 0.4688,
+      "n_obs": 1858
+    },
+    {
+      "signal_id": "PWR-02",
+      "desk": "PIT",
+      "status": "reject",
+      "ic": -0.0137,
+      "hit_rate": 0.471,
+      "n_obs": 1858
+    },
+    {
+      "signal_id": "PWR-01",
+      "desk": "PDE",
+      "status": "reject",
+      "ic": 0.1883,
+      "hit_rate": 0.3769,
+      "n_obs": 1865
+    },
+    {
+      "signal_id": "PWR-01",
+      "desk": "PFR",
+      "status": "reject",
+      "ic": 0.1087,
+      "hit_rate": 0.4411,
+      "n_obs": 1865
+    },
+    {
+      "signal_id": "PWR-01",
+      "desk": "PIT",
+      "status": "reject",
+      "ic": -0.047,
+      "hit_rate": 0.5589,
+      "n_obs": 1865
+    }
+  ],
+  "methodology_note": "v1 daily target \u0394 DA is weak gate timing; see PWR-01-v2 hourly (delta\u2192imb\u2212DA). NW t + seasonal IC flag winter confounding.",
+  "fetch_errors": [],
+  "next": "Do not promote \u2014 signals fail statistical gates"
+}

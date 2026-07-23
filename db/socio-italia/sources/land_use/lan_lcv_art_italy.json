@@ -1,0 +1,16 @@
+{
+  "n": 182,
+  "cols": [
+    "time",
+    "time_label",
+    "geo",
+    "geo_label",
+    "landcover",
+    "landcover_label",
+    "unit",
+    "unit_label",
+    "freq",
+    "freq_label",
+    "OBS_VALUE"
+  ]
+}

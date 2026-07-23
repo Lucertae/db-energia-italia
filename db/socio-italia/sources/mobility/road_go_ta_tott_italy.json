@@ -1,0 +1,18 @@
+{
+  "n": 1782,
+  "cols": [
+    "time",
+    "time_label",
+    "geo",
+    "geo_label",
+    "unit",
+    "unit_label",
+    "tra_oper",
+    "tra_oper_label",
+    "tra_type",
+    "tra_type_label",
+    "freq",
+    "freq_label",
+    "OBS_VALUE"
+  ]
+}

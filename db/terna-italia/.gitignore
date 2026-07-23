@@ -1,0 +1,4 @@
+terna.credentials
+*.credentials
+*.key
+*.secret

@@ -1,0 +1,698 @@
+{
+  "last_page": 178,
+  "total": 30,
+  "dataset": "<a href=\"/data-overview/eu\">EU</a> > IT",
+  "gas_day": "2026-07-20",
+  "data": [
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-21 11:43:56",
+      "gasDayStart": "2026-07-20",
+      "gasDayEnd": "2026-07-21",
+      "inventory": {
+        "lng": "332.07",
+        "gwh": "2201.97"
+      },
+      "sendOut": "407.5",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5112.67"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "459.5652",
+      "availableCapacity": "430.1902",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-20 08:40:31",
+      "gasDayStart": "2026-07-19",
+      "gasDayEnd": "2026-07-20",
+      "inventory": {
+        "lng": "297.73",
+        "gwh": "1997.23"
+      },
+      "sendOut": "367",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5172.15"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "455.9585",
+      "availableCapacity": "433.7968",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-20 07:09:34",
+      "gasDayStart": "2026-07-18",
+      "gasDayEnd": "2026-07-19",
+      "inventory": {
+        "lng": "354.36",
+        "gwh": "2368.91"
+      },
+      "sendOut": "441.4",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5154.3"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "524.0418",
+      "availableCapacity": "365.7135",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-20 07:08:14",
+      "gasDayStart": "2026-07-17",
+      "gasDayEnd": "2026-07-18",
+      "inventory": {
+        "lng": "346.83",
+        "gwh": "2309.78"
+      },
+      "sendOut": "538.1",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5134.75"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "599.4278",
+      "availableCapacity": "290.3275",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-17 09:27:18",
+      "gasDayStart": "2026-07-16",
+      "gasDayEnd": "2026-07-17",
+      "inventory": {
+        "lng": "349.7",
+        "gwh": "2320.41"
+      },
+      "sendOut": "533.4",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5116.05"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "593.9264",
+      "availableCapacity": "295.829",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-16 09:40:19",
+      "gasDayStart": "2026-07-15",
+      "gasDayEnd": "2026-07-16",
+      "inventory": {
+        "lng": "431.81",
+        "gwh": "2864.86"
+      },
+      "sendOut": "638.6",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5115.36"
+      },
+      "dtrs": "893.1",
+      "contractedCapacity": "664.3661",
+      "availableCapacity": "228.6878",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-15 12:39:34",
+      "gasDayStart": "2026-07-14",
+      "gasDayEnd": "2026-07-15",
+      "inventory": {
+        "lng": "463.84",
+        "gwh": "3064.68"
+      },
+      "sendOut": "655.9",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5094.28"
+      },
+      "dtrs": "893.1",
+      "contractedCapacity": "678.5182",
+      "availableCapacity": "214.5357",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-14 08:41:15",
+      "gasDayStart": "2026-07-13",
+      "gasDayEnd": "2026-07-14",
+      "inventory": {
+        "lng": "461.35",
+        "gwh": "3033.72"
+      },
+      "sendOut": "626",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5070.03"
+      },
+      "dtrs": "893.1",
+      "contractedCapacity": "649.7182",
+      "availableCapacity": "243.3357",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-13 12:16:58",
+      "gasDayStart": "2026-07-12",
+      "gasDayEnd": "2026-07-13",
+      "inventory": {
+        "lng": "404.59",
+        "gwh": "2702.4"
+      },
+      "sendOut": "590.7",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5149.92"
+      },
+      "dtrs": "893.1",
+      "contractedCapacity": "615.6682",
+      "availableCapacity": "277.3857",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-13 06:31:59",
+      "gasDayStart": "2026-07-11",
+      "gasDayEnd": "2026-07-12",
+      "inventory": {
+        "lng": "500.89",
+        "gwh": "3340.61"
+      },
+      "sendOut": "620",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5142.2"
+      },
+      "dtrs": "893.1",
+      "contractedCapacity": "645.0782",
+      "availableCapacity": "247.9757",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-13 06:31:13",
+      "gasDayStart": "2026-07-10",
+      "gasDayEnd": "2026-07-11",
+      "inventory": {
+        "lng": "434.07",
+        "gwh": "2870.12"
+      },
+      "sendOut": "729.7",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5098.07"
+      },
+      "dtrs": "893.1",
+      "contractedCapacity": "756.8437",
+      "availableCapacity": "136.2102",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-11 08:34:00",
+      "gasDayStart": "2026-07-09",
+      "gasDayEnd": "2026-07-10",
+      "inventory": {
+        "lng": "347.1",
+        "gwh": "2334.92"
+      },
+      "sendOut": "763",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5186.6"
+      },
+      "dtrs": "893.1",
+      "contractedCapacity": "769.9506",
+      "availableCapacity": "123.1033",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-09 14:49:07",
+      "gasDayStart": "2026-07-08",
+      "gasDayEnd": "2026-07-09",
+      "inventory": {
+        "lng": "327.05",
+        "gwh": "2186.1"
+      },
+      "sendOut": "747.3",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5153.73"
+      },
+      "dtrs": "893.1",
+      "contractedCapacity": "748.1536",
+      "availableCapacity": "144.9003",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-08 07:59:15",
+      "gasDayStart": "2026-07-07",
+      "gasDayEnd": "2026-07-08",
+      "inventory": {
+        "lng": "344.66",
+        "gwh": "2284.49"
+      },
+      "sendOut": "696.2",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5110.51"
+      },
+      "dtrs": "893.1",
+      "contractedCapacity": "711.2067",
+      "availableCapacity": "181.8471",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-07 08:08:18",
+      "gasDayStart": "2026-07-06",
+      "gasDayEnd": "2026-07-07",
+      "inventory": {
+        "lng": "361.97",
+        "gwh": "2381.99"
+      },
+      "sendOut": "720.5",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5073.8"
+      },
+      "dtrs": "893.1",
+      "contractedCapacity": "711.2067",
+      "availableCapacity": "181.8471",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-06 08:31:09",
+      "gasDayStart": "2026-07-05",
+      "gasDayEnd": "2026-07-06",
+      "inventory": {
+        "lng": "475.34",
+        "gwh": "3133.28"
+      },
+      "sendOut": "551",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5082.3"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "571.9567",
+      "availableCapacity": "317.7986",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-06 07:09:50",
+      "gasDayStart": "2026-07-04",
+      "gasDayEnd": "2026-07-05",
+      "inventory": {
+        "lng": "516.4",
+        "gwh": "3415.4"
+      },
+      "sendOut": "488.1",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5099.42"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "508.4031",
+      "availableCapacity": "381.3522",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-06 07:08:33",
+      "gasDayStart": "2026-07-03",
+      "gasDayEnd": "2026-07-04",
+      "inventory": {
+        "lng": "473.71",
+        "gwh": "3162.22"
+      },
+      "sendOut": "578.1",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5146.89"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "577.7718",
+      "availableCapacity": "311.9835",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-03 08:59:55",
+      "gasDayStart": "2026-07-02",
+      "gasDayEnd": "2026-07-03",
+      "inventory": {
+        "lng": "392.95",
+        "gwh": "2624.21"
+      },
+      "sendOut": "522.4",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5149.05"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "586.2718",
+      "availableCapacity": "303.4835",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-02 09:52:02",
+      "gasDayStart": "2026-07-01",
+      "gasDayEnd": "2026-07-02",
+      "inventory": {
+        "lng": "154.16",
+        "gwh": "1035.86"
+      },
+      "sendOut": "626.2",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5180.78"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "618.2823",
+      "availableCapacity": "271.4731",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-07-02 07:41:25",
+      "gasDayStart": "2026-06-30",
+      "gasDayEnd": "2026-07-01",
+      "inventory": {
+        "lng": "230",
+        "gwh": "1531.49"
+      },
+      "sendOut": "744.5",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5133.95"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "764.8612",
+      "availableCapacity": "124.8942",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-06-30 09:00:56",
+      "gasDayStart": "2026-06-29",
+      "gasDayEnd": "2026-06-30",
+      "inventory": {
+        "lng": "321.47",
+        "gwh": "2132.39"
+      },
+      "sendOut": "767.7",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5114.37"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "792.4659",
+      "availableCapacity": "97.2895",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-06-29 08:41:11",
+      "gasDayStart": "2026-06-28",
+      "gasDayEnd": "2026-06-29",
+      "inventory": {
+        "lng": "427.57",
+        "gwh": "2832.83"
+      },
+      "sendOut": "517.4",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5108.33"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "572.3702",
+      "availableCapacity": "317.3851",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-06-29 06:57:39",
+      "gasDayStart": "2026-06-27",
+      "gasDayEnd": "2026-06-28",
+      "inventory": {
+        "lng": "352.3",
+        "gwh": "2377.27"
+      },
+      "sendOut": "524",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5202.73"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "580.0212",
+      "availableCapacity": "309.7342",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-06-29 06:56:30",
+      "gasDayStart": "2026-06-26",
+      "gasDayEnd": "2026-06-27",
+      "inventory": {
+        "lng": "434.83",
+        "gwh": "2920.57"
+      },
+      "sendOut": "666.2",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5178.62"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "691.784",
+      "availableCapacity": "197.9714",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-06-26 09:46:28",
+      "gasDayStart": "2026-06-25",
+      "gasDayEnd": "2026-06-26",
+      "inventory": {
+        "lng": "538.9",
+        "gwh": "3607.71"
+      },
+      "sendOut": "662.5",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5161.66"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "713.9641",
+      "availableCapacity": "175.7913",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-06-25 08:09:29",
+      "gasDayStart": "2026-06-24",
+      "gasDayEnd": "2026-06-25",
+      "inventory": {
+        "lng": "372.99",
+        "gwh": "2518.07"
+      },
+      "sendOut": "663.4",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5205.19"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "713.9641",
+      "availableCapacity": "175.7913",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-06-24 08:03:03",
+      "gasDayStart": "2026-06-23",
+      "gasDayEnd": "2026-06-24",
+      "inventory": {
+        "lng": "154.18",
+        "gwh": "1010.46"
+      },
+      "sendOut": "540.3",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5053.09"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "589.1351",
+      "availableCapacity": "300.6203",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-06-23 07:53:14",
+      "gasDayStart": "2026-06-22",
+      "gasDayEnd": "2026-06-23",
+      "inventory": {
+        "lng": "239.16",
+        "gwh": "1569.25"
+      },
+      "sendOut": "552.8",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5059.05"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "601.4641",
+      "availableCapacity": "288.2913",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "url": "IT",
+      "updatedAt": "2026-06-22 13:18:46",
+      "gasDayStart": "2026-06-21",
+      "gasDayEnd": "2026-06-22",
+      "inventory": {
+        "lng": "326.93",
+        "gwh": "2146.52"
+      },
+      "sendOut": "462.7",
+      "dtmi": {
+        "lng": "771.02",
+        "gwh": "5062.28"
+      },
+      "dtrs": "889.8",
+      "contractedCapacity": "531.7714",
+      "availableCapacity": "357.984",
+      "coveredCapacity": "100",
+      "info": [],
+      "status": "C"
+    }
+  ]
+}

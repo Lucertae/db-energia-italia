@@ -1,0 +1,1930 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CATEGORIA'/>
+		<variable name='ATTO_DI_CONCESSIONE'/>
+		<variable name='IMPORTO_EROGATO'/>
+		<variable name='UNITA_DI_MISURA'/>
+		<variable name='MESE_DI_EROGAZIONE'/>
+		<variable name='ANNO_DI_EROGAZIONE'/>
+	</head>
+	<results>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ASJA AMBIENTE ITALIA SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>22889.62</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10025</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ASJA AMBIENTE ITALIA SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>39796.43</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10025</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ASJA AMBIENTE ITALIA SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>41110.85</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10025</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ASJA AMBIENTE ITALIA SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>28147.97</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10025</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ASJA AMBIENTE ITALIA SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>10</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>26144.39</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10025</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ASJA AMBIENTE ITALIA SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>25704.37</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10025</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ASJA AMBIENTE ITALIA SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>28409.84</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10025</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>06824320011</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ASJA AMBIENTE ITALIA SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>878267.95</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10025_I</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CAVIRO EXTRA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>10</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>34939.28</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10022_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CAVIRO EXTRA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>41861.49</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10022_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CAVIRO EXTRA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>55485.02</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10022_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CAVIRO EXTRA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>12762.23</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10023_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CAVIRO EXTRA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>24187.35</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10023_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CAVIRO EXTRA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>10</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>32082.06</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10023_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CAVIRO EXTRA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>42653.14</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10023_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02274140397</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CAVIRO EXTRA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>30843.43</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10023_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02575570920</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02575570920</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>DP LUBRIFICANTI SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1028709.37</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10037</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02575570920</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02575570920</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>DP LUBRIFICANTI SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>18697.26</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10037</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02575570920</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02575570920</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>DP LUBRIFICANTI SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>408381.92</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10037</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ECO FOX S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>2060147.15</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10034</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ECO FOX S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>530613.27</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10034</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ECO FOX S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>41412.83</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10034</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ECO FOX S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1723738.25</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10034</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ECO FOX S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>5242702.82</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10051</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02266110697</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ECO FOX S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>19464.77</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10051</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02175430392</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02175430392</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>HERAMBIENTE SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>2011339.69</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10030</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02175430392</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02175430392</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>HERAMBIENTE SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>384846.59</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10030</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>1</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1752494.67</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_0005</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1652082.77</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_I</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1484529.66</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_I</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1794471.74</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_I</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1696855.55</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_I</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1833702.84</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_I</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1678557.12</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_I</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>10</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>2058093.18</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_I</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1469952.05</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_I</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1756536.9</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_I</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>667740.93</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>510115.65</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>6</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>543575.94</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>527129.34</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>529151.56</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>434906.48</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>10</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>395237.08</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>292091.94</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01078620166</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MONTELLO S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>358094.08</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10024_R</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>8613324.01</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10036</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>4414754.49</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10036</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>3182967.74</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10036</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>173143.99</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10036</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>956384.7</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10036</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>918436.32</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10044</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>18462.3</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10044</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>936171.32</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10044</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>284601.31</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10049</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>5721.02</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10049</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>367955.57</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10049</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>8</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>555690.27</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10052</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>2021961.23</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10052</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>2656166.02</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10052</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>6438632.09</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10055</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>08293900968</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>Masol Continental Biofuel S.r.l.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>5273028.71</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10055</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03469340362</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03469340362</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SABIO FUELS SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>861674.22</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10038</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03469340362</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03469340362</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SABIO FUELS SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>676718.65</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10038</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03469340362</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03469340362</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SABIO FUELS SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>15661.33</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10038</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03469340362</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03469340362</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SABIO FUELS SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2019</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>98071.5</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>BMT_10038</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOMETANO</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CATEGORIA'/>
+		<variable name='ATTO_DI_CONCESSIONE'/>
+		<variable name='TITOLI_RILASCIATI'/>
+		<variable name='UNITA_DI_MISURA'/>
+		<variable name='MESE_DI_EROGAZIONE'/>
+		<variable name='ANNO_DI_EROGAZIONE'/>
+	</head>
+	<results>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>04764730638</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>04764730638</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ALBA DE BIASE &amp; C SAS</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>215</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200231722</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00180660367</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00180660367</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>BERTELLI WALTER E ROLANDO CARBURANTI S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>562</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200232334</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00905811006</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00484960588</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENI SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>145880</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200257599</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00902231000</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00473410587</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ESSO ITALIANA SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>97109</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200239384</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03123470100</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00685490377</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>IES - ITALIANA ENERGIA E SERVIZI SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>14634</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200250852</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>11616440159</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02242120109</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>IPLOM SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>9271</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200250853</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01629050897</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01629050897</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ISAB S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>13296</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200388595</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00051570893</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00051570893</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ITALIANA PETROLI S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>146338</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200239385</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00891951006</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00435970587</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>KUWAIT PETROLEUM ITALIA SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>78747</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200256617</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>07047491217</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>07047491217</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>LUDOIL ENERGIA SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>1654</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200233697</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00151550340</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00151550340</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>REPSOL ITALIA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>204</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200236982</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00164290272</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00164290272</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SAN MARCO PETROLI SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>15146</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200232333</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00136440922</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00136440922</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SARAS S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>5</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>45072</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200250855</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00698550159</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>00698550159</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>TAMOIL ITALIA S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='TITOLI_RILASCIATI'>
+				<literal>53952</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>quantita</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>GSEWEBP20200388596</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>BIOCARBURANTI AVANZATI</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

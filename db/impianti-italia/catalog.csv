@@ -1,0 +1,6 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+impianti-italia,wikidata,sources/wikidata,Centrali/asset da Wikidata,IT,,,snapshot,343,4,617709,n. impianti,Wikidata,CC0,ok
+impianti-italia,wri_gppd,sources/wri_gppd,WRI Global Power Plant Database — IT,IT,,,snapshot,396,2,12083888,"MW, fuel",WRI,CC-BY,ok
+impianti-italia,gem,sources/gem,Global Energy Monitor trackers IT,IT,,,snapshot,1996,2,24534441,MW,GEM,CC-BY 4.0,ok
+impianti-italia,osm,sources/osm,OSM power plant/generator (Overpass),IT,,,snapshot,103905,2,41141297,elementi OSM,OpenStreetMap,ODbL,ok
+impianti-italia,poweratlas,sources/poweratlas,Power Atlas impianti IT,IT,2003,2006,snapshot,104,1,11326,,PowerAtlas,termini PowerAtlas,ok

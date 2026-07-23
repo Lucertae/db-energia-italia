@@ -1,0 +1,72 @@
+[
+  {
+    "kind": "company",
+    "country": "IT",
+    "company": "26X00000117915-0",
+    "facility": null,
+    "name": "GNL Italia S.p.A."
+  },
+  {
+    "kind": "facility",
+    "country": "IT",
+    "company": "26X00000117915-0",
+    "facility": "59W0000000000011",
+    "name": "Panigaglia LNG Terminal (Historical data prior to 1 March 2025)"
+  },
+  {
+    "kind": "company",
+    "country": "IT",
+    "company": "21X000000001109G",
+    "facility": null,
+    "name": "OLT Offshore LNG Toscana S.p.A"
+  },
+  {
+    "kind": "facility",
+    "country": "IT",
+    "company": "21X000000001109G",
+    "facility": "21W0000000000443",
+    "name": "OLT Offshore LNG (FSRU Toscana)"
+  },
+  {
+    "kind": "company",
+    "country": "IT",
+    "company": "59XFSRUITALIASTY",
+    "facility": null,
+    "name": "SNAM LNG Srl"
+  },
+  {
+    "kind": "facility",
+    "country": "IT",
+    "company": "59XFSRUITALIASTY",
+    "facility": "59WFSRUGOLARTUNH",
+    "name": "Piombino LNG Terminal (FSRU Golar Tundra)"
+  },
+  {
+    "kind": "facility",
+    "country": "IT",
+    "company": "59XFSRUITALIASTY",
+    "facility": "59WBWSINGAPORERX",
+    "name": "Ravenna LNG Terminal (FSRU BW Singapore)"
+  },
+  {
+    "kind": "facility",
+    "country": "IT",
+    "company": "59XFSRUITALIASTY",
+    "facility": "59W0000000000011",
+    "name": "Panigaglia LNG Terminal"
+  },
+  {
+    "kind": "company",
+    "country": "IT",
+    "company": "21X000000001360B",
+    "facility": null,
+    "name": "Terminale GNL Adriatico S.r.l."
+  },
+  {
+    "kind": "facility",
+    "country": "IT",
+    "company": "21X000000001360B",
+    "facility": "21W000000000082W",
+    "name": "Rovigo LNG Terminal"
+  }
+]

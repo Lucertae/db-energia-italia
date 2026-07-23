@@ -1,0 +1,9719 @@
+[
+  {
+    "id": "16008",
+    "name": {
+      "en": "S. Valentino Alla Muta"
+    },
+    "country": "IT",
+    "region": "TT",
+    "identifiers": {
+      "national": null,
+      "wmo": "16008",
+      "icao": null
+    },
+    "location": {
+      "latitude": 46.75,
+      "longitude": 10.5333,
+      "elevation": 1459
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1967-01-02",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1967-01-21",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1967,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16014",
+    "name": {
+      "en": "Vipiteno / Castel Tona"
+    },
+    "country": "IT",
+    "region": "TT",
+    "identifiers": {
+      "national": null,
+      "wmo": "16014",
+      "icao": null
+    },
+    "location": {
+      "latitude": 46.8839,
+      "longitude": 11.44,
+      "elevation": 920
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2025-03-21"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2022-03-15"
+      },
+      "daily": {
+        "start": "2005-07-31",
+        "end": "2019-07-04"
+      },
+      "monthly": {
+        "start": 2016,
+        "end": 2018
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16020",
+    "name": {
+      "en": "Bolzano"
+    },
+    "country": "IT",
+    "region": "TT",
+    "identifiers": {
+      "national": null,
+      "wmo": "16020",
+      "icao": "LIPB"
+    },
+    "location": {
+      "latitude": 46.4667,
+      "longitude": 11.3333,
+      "elevation": 1459
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1965-01-29",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "1973-12-02",
+        "end": "2021-09-19"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16021",
+    "name": {
+      "en": "Passo Rolle"
+    },
+    "country": "IT",
+    "region": "TT",
+    "identifiers": {
+      "national": null,
+      "wmo": "16021",
+      "icao": "LIVR"
+    },
+    "location": {
+      "latitude": 46.3,
+      "longitude": 11.7833,
+      "elevation": 2004
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "2021-12-03",
+        "end": "2022-04-18"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16022",
+    "name": {
+      "en": "Paganella"
+    },
+    "country": "IT",
+    "region": "TT",
+    "identifiers": {
+      "national": null,
+      "wmo": "16022",
+      "icao": "LIVP"
+    },
+    "location": {
+      "latitude": 46.15,
+      "longitude": 11.0333,
+      "elevation": 2125
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-03"
+      },
+      "daily": {
+        "start": "1951-01-01",
+        "end": "2025-08-03"
+      },
+      "monthly": {
+        "start": 1951,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16023",
+    "name": {
+      "en": "Trento / Mattarello"
+    },
+    "country": "IT",
+    "region": "TT",
+    "identifiers": {
+      "national": null,
+      "wmo": "16023",
+      "icao": null
+    },
+    "location": {
+      "latitude": 46.0203,
+      "longitude": 11.1267,
+      "elevation": 188
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2025-02-23"
+      },
+      "hourly": {
+        "start": "2007-06-05",
+        "end": "2022-02-15"
+      },
+      "daily": {
+        "start": "2016-03-10",
+        "end": "2022-02-14"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16033",
+    "name": {
+      "en": "Dobbiaco"
+    },
+    "country": "IT",
+    "region": "TT",
+    "identifiers": {
+      "national": null,
+      "wmo": "16033",
+      "icao": "LIVD"
+    },
+    "location": {
+      "latitude": 46.7333,
+      "longitude": 12.2167,
+      "elevation": 1222
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-01",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1974,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16036",
+    "name": {
+      "en": "Aviano"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": "16036",
+      "icao": "LIPA"
+    },
+    "location": {
+      "latitude": 46.0333,
+      "longitude": 12.6,
+      "elevation": 128
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1966-07-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-03",
+        "end": "2022-04-24"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16037",
+    "name": {
+      "en": "Aviano Usaf"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": "16037",
+      "icao": "LIYW"
+    },
+    "location": {
+      "latitude": 46.0333,
+      "longitude": 12.6167,
+      "elevation": 126
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": "1993-07-01",
+        "end": "2015-10-20"
+      },
+      "daily": {
+        "start": "1995-09-01",
+        "end": "2015-10-14"
+      },
+      "monthly": {
+        "start": 2008,
+        "end": 2008
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16040",
+    "name": {
+      "en": "Tarvisio"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": "16040",
+      "icao": "LIVO"
+    },
+    "location": {
+      "latitude": 46.5,
+      "longitude": 13.5833,
+      "elevation": 777
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1965-01-29",
+        "end": "2024-12-05"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16041",
+    "name": {
+      "en": "Tarvisio / Plezzo di Tarvisio"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": "16041",
+      "icao": null
+    },
+    "location": {
+      "latitude": 46.5056,
+      "longitude": 13.5833,
+      "elevation": 777
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16044",
+    "name": {
+      "en": "Udine / Campoformido"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": "16044",
+      "icao": "LIPD"
+    },
+    "location": {
+      "latitude": 46.0333,
+      "longitude": 13.1833,
+      "elevation": 93
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": "1966-01-04",
+        "end": "1999-03-30"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": 1967,
+        "end": 1980
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16045",
+    "name": {
+      "en": "Udine / Rivolto"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": "16045",
+      "icao": "LIPI"
+    },
+    "location": {
+      "latitude": 45.9833,
+      "longitude": 13.0333,
+      "elevation": 51
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1958-04-14",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1958-04-14",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1973,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16046",
+    "name": {
+      "en": "Udine Rivolto / Villac\u00e1ccia"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": "16046",
+      "icao": null
+    },
+    "location": {
+      "latitude": 45.9753,
+      "longitude": 13.0486,
+      "elevation": 52
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16052",
+    "name": {
+      "en": "Pian Rosa"
+    },
+    "country": "IT",
+    "region": "AO",
+    "identifiers": {
+      "national": null,
+      "wmo": "16052",
+      "icao": "LIMH"
+    },
+    "location": {
+      "latitude": 45.9333,
+      "longitude": 7.7,
+      "elevation": 3480
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1965-01-29",
+        "end": "2025-12-31"
+      },
+      "daily": {
+        "start": "1965-04-28",
+        "end": "2025-08-21"
+      },
+      "monthly": {
+        "start": 1966,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1991,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16054",
+    "name": {
+      "en": "Aosta"
+    },
+    "country": "IT",
+    "region": "VD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16054",
+      "icao": null
+    },
+    "location": {
+      "latitude": 45.7333,
+      "longitude": 7.35,
+      "elevation": 547
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16055",
+    "name": {
+      "en": "Senin"
+    },
+    "country": "IT",
+    "region": "AO",
+    "identifiers": {
+      "national": null,
+      "wmo": "16055",
+      "icao": null
+    },
+    "location": {
+      "latitude": 45.73,
+      "longitude": 7.35,
+      "elevation": 547
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16058",
+    "name": {
+      "en": "Bousson"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16058",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.9339,
+      "longitude": 6.8222,
+      "elevation": 1399
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2025-06-09"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2022-06-01"
+      },
+      "daily": {
+        "start": "2005-08-21",
+        "end": "2022-01-16"
+      },
+      "monthly": {
+        "start": 2021,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16059",
+    "name": {
+      "en": "Torino / Caselle"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16059",
+      "icao": "LIMF"
+    },
+    "location": {
+      "latitude": 45.2167,
+      "longitude": 7.65,
+      "elevation": 301
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1964-08-11",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-21",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16060",
+    "name": {
+      "en": "Torino / Altessano"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16060",
+      "icao": null
+    },
+    "location": {
+      "latitude": 45.1306,
+      "longitude": 7.6175,
+      "elevation": 276
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2024-02-05"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2021-01-27"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2021-01-26"
+      },
+      "monthly": {
+        "start": 2016,
+        "end": 2018
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16061",
+    "name": {
+      "en": "Torino / Bric Della Croce"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16061",
+      "icao": "LIMK"
+    },
+    "location": {
+      "latitude": 45.0333,
+      "longitude": 7.7333,
+      "elevation": 709
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-05-06",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1975,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16064",
+    "name": {
+      "en": "Novara / Cameri"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16064",
+      "icao": "LIMN"
+    },
+    "location": {
+      "latitude": 45.5167,
+      "longitude": 8.6667,
+      "elevation": 178
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1966-09-23",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1966-09-24",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1967,
+        "end": 2016
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16066",
+    "name": {
+      "en": "Milano / Malpensa"
+    },
+    "country": "IT",
+    "region": "LM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16066",
+      "icao": "LIMC"
+    },
+    "location": {
+      "latitude": 45.6167,
+      "longitude": 8.7333,
+      "elevation": 234
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1965-02-04",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-17",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16067",
+    "name": {
+      "en": "Gallarate / Cavaria con Premezzo"
+    },
+    "country": "IT",
+    "region": "LM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16067",
+      "icao": null
+    },
+    "location": {
+      "latitude": 45.6478,
+      "longitude": 8.8136,
+      "elevation": 237
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16068",
+    "name": {
+      "en": "Casale Monferrato / Terranova"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16068",
+      "icao": null
+    },
+    "location": {
+      "latitude": 45.1128,
+      "longitude": 8.4536,
+      "elevation": 119
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2023-08-14"
+      },
+      "hourly": {
+        "start": "2006-02-16",
+        "end": "2020-08-05"
+      },
+      "daily": {
+        "start": "2006-03-02",
+        "end": "2020-07-29"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16072",
+    "name": {
+      "en": "Monte Bisbino"
+    },
+    "country": "IT",
+    "region": "LM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16072",
+      "icao": "LIMO"
+    },
+    "location": {
+      "latitude": 45.8667,
+      "longitude": 9.0667,
+      "elevation": 1319
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2007-02-27"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16076",
+    "name": {
+      "en": "Bergamo / Orio Al Serio"
+    },
+    "country": "IT",
+    "region": "LM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16076",
+      "icao": "LIME"
+    },
+    "location": {
+      "latitude": 45.6667,
+      "longitude": 9.7,
+      "elevation": 238
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1966-09-08",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-02",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2011,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16080",
+    "name": {
+      "en": "Milano / Linate"
+    },
+    "country": "IT",
+    "region": "LM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16080",
+      "icao": "LIML"
+    },
+    "location": {
+      "latitude": 45.4333,
+      "longitude": 9.2833,
+      "elevation": 107
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1931-01-04",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-02",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 1949,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2000
+      }
+    }
+  },
+  {
+    "id": "16081",
+    "name": {
+      "en": "Milano Linate"
+    },
+    "country": "IT",
+    "region": "LM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16081",
+      "icao": null
+    },
+    "location": {
+      "latitude": 45.46,
+      "longitude": 9.2583,
+      "elevation": 107
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2022-01-08"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2018-12-31"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2018-12-16"
+      },
+      "monthly": {
+        "start": 2018,
+        "end": 2018
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16084",
+    "name": {
+      "en": "Piacenza"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16084",
+      "icao": "LIMS"
+    },
+    "location": {
+      "latitude": 44.9167,
+      "longitude": 9.7333,
+      "elevation": 134
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1966-09-14",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "1973-01-02",
+        "end": "2003-06-10"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16088",
+    "name": {
+      "en": "Brescia / Ghedi"
+    },
+    "country": "IT",
+    "region": "LM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16088",
+      "icao": "LIPL"
+    },
+    "location": {
+      "latitude": 45.4167,
+      "longitude": 10.2833,
+      "elevation": 102
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1966-09-04",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1966-09-27",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1967,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16089",
+    "name": {
+      "en": "Verona / Rivoltella"
+    },
+    "country": "IT",
+    "region": "VN",
+    "identifiers": {
+      "national": null,
+      "wmo": "16089",
+      "icao": null
+    },
+    "location": {
+      "latitude": 45.4644,
+      "longitude": 10.5553,
+      "elevation": 64
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2025-03-29"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2021-05-29"
+      },
+      "monthly": {
+        "start": 2016,
+        "end": 2019
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16090",
+    "name": {
+      "en": "Verona / Villafranca"
+    },
+    "country": "IT",
+    "region": "VN",
+    "identifiers": {
+      "national": null,
+      "wmo": "16090",
+      "icao": "LIPX"
+    },
+    "location": {
+      "latitude": 45.3833,
+      "longitude": 10.8667,
+      "elevation": 67
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1945-05-18",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1945-05-18",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1951,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16094",
+    "name": {
+      "en": "Vicenza"
+    },
+    "country": "IT",
+    "region": "VN",
+    "identifiers": {
+      "national": null,
+      "wmo": "16094",
+      "icao": "LIPT"
+    },
+    "location": {
+      "latitude": 45.5667,
+      "longitude": 11.5167,
+      "elevation": 39
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1966-09-04",
+        "end": "2015-01-16"
+      },
+      "daily": {
+        "start": "1973-01-14",
+        "end": "1978-05-29"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16095",
+    "name": {
+      "en": "Padova"
+    },
+    "country": "IT",
+    "region": "VN",
+    "identifiers": {
+      "national": null,
+      "wmo": "16095",
+      "icao": "LIPU"
+    },
+    "location": {
+      "latitude": 45.4,
+      "longitude": 11.85,
+      "elevation": 13
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-08"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16098",
+    "name": {
+      "en": "Treviso / Istrana"
+    },
+    "country": "IT",
+    "region": "VN",
+    "identifiers": {
+      "national": null,
+      "wmo": "16098",
+      "icao": "LIPS"
+    },
+    "location": {
+      "latitude": 45.6833,
+      "longitude": 12.1,
+      "elevation": 45
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1966-09-04",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1966-09-24",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1967,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16099",
+    "name": {
+      "en": "Treviso / S. Angelo"
+    },
+    "country": "IT",
+    "region": "VN",
+    "identifiers": {
+      "national": null,
+      "wmo": "16099",
+      "icao": "LIPH"
+    },
+    "location": {
+      "latitude": 45.65,
+      "longitude": 12.1833,
+      "elevation": 18
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1966-09-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-02",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 1987,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16101",
+    "name": {
+      "en": "Trieste"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": "16101",
+      "icao": null
+    },
+    "location": {
+      "latitude": 45.65,
+      "longitude": 13.75,
+      "elevation": 8
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1996-12-05",
+        "end": "2024-10-09"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2022-04-03"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2019
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16105",
+    "name": {
+      "en": "Venezia / Tessera"
+    },
+    "country": "IT",
+    "region": "VN",
+    "identifiers": {
+      "national": null,
+      "wmo": "16105",
+      "icao": "LIPZ"
+    },
+    "location": {
+      "latitude": 45.5,
+      "longitude": 12.3333,
+      "elevation": 2
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1961-03-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-14",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 1949,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2010
+      }
+    }
+  },
+  {
+    "id": "16107",
+    "name": {
+      "en": "Pontelagoscuro / Stiago"
+    },
+    "country": "IT",
+    "region": "VN",
+    "identifiers": {
+      "national": null,
+      "wmo": "16107",
+      "icao": null
+    },
+    "location": {
+      "latitude": 45.7611,
+      "longitude": 12.8569,
+      "elevation": 1
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-10-13",
+        "end": "2025-03-31"
+      },
+      "daily": {
+        "start": "2005-10-15",
+        "end": "2021-12-18"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16108",
+    "name": {
+      "en": "Ronchi Dei Legionari"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": "16108",
+      "icao": "LIPQ"
+    },
+    "location": {
+      "latitude": 45.8167,
+      "longitude": 13.4833,
+      "elevation": 12
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1974-04-27",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16110",
+    "name": {
+      "en": "Trieste"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": "16110",
+      "icao": "LIVT"
+    },
+    "location": {
+      "latitude": 45.65,
+      "longitude": 13.75,
+      "elevation": 8
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1932-10-20",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1965-04-28",
+        "end": "2025-08-02"
+      },
+      "monthly": {
+        "start": 1960,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16111",
+    "name": {
+      "en": "Monte Settepani / Caragna"
+    },
+    "country": "IT",
+    "region": "LG",
+    "identifiers": {
+      "national": null,
+      "wmo": "16111",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.2425,
+      "longitude": 8.2011,
+      "elevation": 1381
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2024-05-27"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2022-04-03"
+      },
+      "monthly": {
+        "start": 2018,
+        "end": 2020
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16113",
+    "name": {
+      "en": "Cuneo-Levaldigi"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16113",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.5392,
+      "longitude": 7.6125,
+      "elevation": 385
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16114",
+    "name": {
+      "en": "Mondovi"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16114",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.3833,
+      "longitude": 7.8167,
+      "elevation": 559
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1984-11-01",
+        "end": "2025-03-31"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16115",
+    "name": {
+      "en": "Monte Malanotte"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16115",
+      "icao": "LIMY"
+    },
+    "location": {
+      "latitude": 44.25,
+      "longitude": 7.8,
+      "elevation": 1741
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-06-08",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "2000-05-07",
+        "end": "2016-09-05"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16116",
+    "name": {
+      "en": "Govone"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16116",
+      "icao": "LIMQ"
+    },
+    "location": {
+      "latitude": 44.8,
+      "longitude": 8.1,
+      "elevation": 300
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16118",
+    "name": {
+      "en": "Novi Ligure"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16118",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.7667,
+      "longitude": 8.7833,
+      "elevation": 189
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16119",
+    "name": {
+      "en": "Passo Dei Giovi"
+    },
+    "country": "IT",
+    "region": "LG",
+    "identifiers": {
+      "national": null,
+      "wmo": "16119",
+      "icao": "LIMV"
+    },
+    "location": {
+      "latitude": 44.6333,
+      "longitude": 8.9333,
+      "elevation": 468
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2025-10-27"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16120",
+    "name": {
+      "en": "Genova / Sestri"
+    },
+    "country": "IT",
+    "region": "LG",
+    "identifiers": {
+      "national": null,
+      "wmo": "16120",
+      "icao": "LIMJ"
+    },
+    "location": {
+      "latitude": 44.4167,
+      "longitude": 8.85,
+      "elevation": 2
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1928-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-02",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2016,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16121",
+    "name": {
+      "en": "Genova / Oregina"
+    },
+    "country": "IT",
+    "region": "LG",
+    "identifiers": {
+      "national": null,
+      "wmo": "16121",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.4194,
+      "longitude": 8.9211,
+      "elevation": 44
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16122",
+    "name": {
+      "en": "Albenga"
+    },
+    "country": "IT",
+    "region": "LG",
+    "identifiers": {
+      "national": null,
+      "wmo": "16122",
+      "icao": "LIMG"
+    },
+    "location": {
+      "latitude": 44.05,
+      "longitude": 8.1167,
+      "elevation": 45
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16123",
+    "name": {
+      "en": "Chiavari / Caperana"
+    },
+    "country": "IT",
+    "region": "LG",
+    "identifiers": {
+      "national": null,
+      "wmo": "16123",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.3261,
+      "longitude": 9.3472,
+      "elevation": 29
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16124",
+    "name": {
+      "en": "Passo Della Cisa"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16124",
+      "icao": "LIMT"
+    },
+    "location": {
+      "latitude": 44.4333,
+      "longitude": 9.9333,
+      "elevation": 1039
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2024-02-16"
+      },
+      "daily": {
+        "start": "1991-10-05",
+        "end": "1992-03-07"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16125",
+    "name": {
+      "en": "Sarzana / Luni"
+    },
+    "country": "IT",
+    "region": "SP",
+    "identifiers": {
+      "national": null,
+      "wmo": "16125",
+      "icao": "LIQW"
+    },
+    "location": {
+      "latitude": 44.0833,
+      "longitude": 9.9833,
+      "elevation": 9
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-11-09",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16126",
+    "name": {
+      "en": "Passo Della Cisa / Giovi"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16126",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.5522,
+      "longitude": 8.9375,
+      "elevation": 487
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16127",
+    "name": {
+      "en": "Sarzana / Luni"
+    },
+    "country": "IT",
+    "region": "LG",
+    "identifiers": {
+      "national": null,
+      "wmo": "16127",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.0839,
+      "longitude": 9.9819,
+      "elevation": 8
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16128",
+    "name": {
+      "en": "Modena / Case Camillo"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16128",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.6428,
+      "longitude": 10.9492,
+      "elevation": 32
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16129",
+    "name": {
+      "en": "Isola Di Palmaria"
+    },
+    "country": "IT",
+    "region": "LG",
+    "identifiers": {
+      "national": null,
+      "wmo": "16129",
+      "icao": "LIQP"
+    },
+    "location": {
+      "latitude": 44.0333,
+      "longitude": 9.8333,
+      "elevation": 192
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2023-03-14"
+      },
+      "daily": {
+        "start": "1988-07-07",
+        "end": "2022-01-30"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16130",
+    "name": {
+      "en": "Parma / Fognano"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16130",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.8172,
+      "longitude": 10.2969,
+      "elevation": 50
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "2022-04-19",
+        "end": "2022-04-23"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16131",
+    "name": {
+      "en": "Parma Pannocchia"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16131",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.6833,
+      "longitude": 10.3125,
+      "elevation": 180
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16132",
+    "name": {
+      "en": "Bologna / Borgo Panigale"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16132",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.5275,
+      "longitude": 11.2886,
+      "elevation": 51
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2024-11-12"
+      },
+      "daily": {
+        "start": "2005-07-31",
+        "end": "2022-03-30"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16133",
+    "name": {
+      "en": "Ferrara / Fontana"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16133",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.8153,
+      "longitude": 11.6125,
+      "elevation": 9
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2025-03-23"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2022-03-16"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2019
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16134",
+    "name": {
+      "en": "Monte Cimone"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16134",
+      "icao": "LIVC"
+    },
+    "location": {
+      "latitude": 44.2,
+      "longitude": 10.7,
+      "elevation": 2165
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1965-02-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1951-01-01",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1951,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16135",
+    "name": {
+      "en": "Casalecchio / Monachino"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16135",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.0283,
+      "longitude": 11.0042,
+      "elevation": 1313
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16136",
+    "name": {
+      "en": "Passo Porretta"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16136",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.0167,
+      "longitude": 11.0,
+      "elevation": 1313
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16137",
+    "name": {
+      "en": "Spilamberto / San Pellegrino"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16137",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.5167,
+      "longitude": 11.0,
+      "elevation": 91
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16138",
+    "name": {
+      "en": "Ferrara"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16138",
+      "icao": "LIPF"
+    },
+    "location": {
+      "latitude": 44.8333,
+      "longitude": 11.6167,
+      "elevation": 10
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2025-12-18"
+      },
+      "daily": {
+        "start": "1988-07-05",
+        "end": "1995-09-26"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16140",
+    "name": {
+      "en": "Bologna / Borgo Panigale"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16140",
+      "icao": "LIPE"
+    },
+    "location": {
+      "latitude": 44.5333,
+      "longitude": 11.3,
+      "elevation": 36
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1964-08-11",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1974-04-27",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2011,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16141",
+    "name": {
+      "en": "Volano"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16141",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.8139,
+      "longitude": 12.2492,
+      "elevation": 3
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16142",
+    "name": {
+      "en": "Rifredo Mugello"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16142",
+      "icao": "LIQM"
+    },
+    "location": {
+      "latitude": 44.05,
+      "longitude": 11.3833,
+      "elevation": 882
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16143",
+    "name": {
+      "en": "Rolo / Casa Madonnina"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16143",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.8853,
+      "longitude": 10.8744,
+      "elevation": 21
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16144",
+    "name": {
+      "en": "S. Pietro Capofiume Molinella Bologna"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16144",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.65,
+      "longitude": 11.6167,
+      "elevation": 10
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16145",
+    "name": {
+      "en": "Punta Marina"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16145",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.4411,
+      "longitude": 12.2961,
+      "elevation": 5
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16146",
+    "name": {
+      "en": "Punta Marina"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16146",
+      "icao": "LIVM"
+    },
+    "location": {
+      "latitude": 44.45,
+      "longitude": 12.3,
+      "elevation": 2
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1966-01-04",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "2019-08-23",
+        "end": "2022-04-23"
+      },
+      "monthly": {
+        "start": 2020,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16147",
+    "name": {
+      "en": "Forli"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16147",
+      "icao": "LIPK"
+    },
+    "location": {
+      "latitude": 44.2,
+      "longitude": 12.0667,
+      "elevation": 27
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "1973-01-24",
+        "end": "2012-05-05"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16148",
+    "name": {
+      "en": "Cervia"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16148",
+      "icao": "LIPC"
+    },
+    "location": {
+      "latitude": 44.2167,
+      "longitude": 12.3,
+      "elevation": 6
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-01",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1973,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16149",
+    "name": {
+      "en": "Rimini"
+    },
+    "country": "IT",
+    "region": "ER",
+    "identifiers": {
+      "national": null,
+      "wmo": "16149",
+      "icao": "LIPR"
+    },
+    "location": {
+      "latitude": 44.0333,
+      "longitude": 12.6167,
+      "elevation": 12
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1945-04-08",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1945-04-08",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1967,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16153",
+    "name": {
+      "en": "Capo Mele"
+    },
+    "country": "IT",
+    "region": "LG",
+    "identifiers": {
+      "national": null,
+      "wmo": "16153",
+      "icao": "LIMU"
+    },
+    "location": {
+      "latitude": 43.95,
+      "longitude": 8.1667,
+      "elevation": 220
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1965-05-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1965-05-01",
+        "end": "2025-08-07"
+      },
+      "monthly": {
+        "start": 1966,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16154",
+    "name": {
+      "en": "Imperia"
+    },
+    "country": "IT",
+    "region": "LG",
+    "identifiers": {
+      "national": null,
+      "wmo": "16154",
+      "icao": null
+    },
+    "location": {
+      "latitude": 43.8833,
+      "longitude": 8.0333,
+      "elevation": 0
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16155",
+    "name": {
+      "en": "Isola Capraia / Capraia Isola"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16155",
+      "icao": null
+    },
+    "location": {
+      "latitude": 43.0514,
+      "longitude": 9.8442,
+      "elevation": 25
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16156",
+    "name": {
+      "en": "S. Giovanni Alla Vena / Fornacette"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16156",
+      "icao": null
+    },
+    "location": {
+      "latitude": 43.6833,
+      "longitude": 10.5833,
+      "elevation": 7
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16158",
+    "name": {
+      "en": "Pisa / S. Giusto"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16158",
+      "icao": "LIRP"
+    },
+    "location": {
+      "latitude": 43.6833,
+      "longitude": 10.3833,
+      "elevation": 2
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1944-11-24",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1944-11-24",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1945,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16164",
+    "name": {
+      "en": "Volterra"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16164",
+      "icao": "LIQV"
+    },
+    "location": {
+      "latitude": 43.4,
+      "longitude": 10.8667,
+      "elevation": 555
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2017-07-07"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16165",
+    "name": {
+      "en": "Volterra / Casa al Vento"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16165",
+      "icao": null
+    },
+    "location": {
+      "latitude": 43.4022,
+      "longitude": 10.8597,
+      "elevation": 555
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16168",
+    "name": {
+      "en": "Monte Argentario"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16168",
+      "icao": "LIQO"
+    },
+    "location": {
+      "latitude": 42.3833,
+      "longitude": 11.1667,
+      "elevation": 630
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-03"
+      },
+      "daily": {
+        "start": "1989-12-16",
+        "end": "2022-04-24"
+      },
+      "monthly": {
+        "start": 2007,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16170",
+    "name": {
+      "en": "Firenze / Peretola"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16170",
+      "icao": "LIRQ"
+    },
+    "location": {
+      "latitude": 43.8,
+      "longitude": 11.2,
+      "elevation": 40
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1931-01-02",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1976-05-11",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2016,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16171",
+    "name": {
+      "en": "Firenze / Peretola"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16171",
+      "icao": null
+    },
+    "location": {
+      "latitude": 43.7856,
+      "longitude": 11.2158,
+      "elevation": 17
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16172",
+    "name": {
+      "en": "Arezzo"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16172",
+      "icao": "LIQB"
+    },
+    "location": {
+      "latitude": 43.4667,
+      "longitude": 11.85,
+      "elevation": 248
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1978-09-14",
+        "end": "2025-05-18"
+      },
+      "daily": {
+        "start": "1990-03-16",
+        "end": "2022-04-03"
+      },
+      "monthly": {
+        "start": 2016,
+        "end": 2017
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16178",
+    "name": {
+      "en": "Frontone / Colombara"
+    },
+    "country": "IT",
+    "region": "MH",
+    "identifiers": {
+      "national": null,
+      "wmo": "16178",
+      "icao": null
+    },
+    "location": {
+      "latitude": 43.5172,
+      "longitude": 12.7278,
+      "elevation": 573
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16179",
+    "name": {
+      "en": "Frontone"
+    },
+    "country": "IT",
+    "region": "MH",
+    "identifiers": {
+      "national": null,
+      "wmo": "16179",
+      "icao": "LIVF"
+    },
+    "location": {
+      "latitude": 43.5167,
+      "longitude": 12.7333,
+      "elevation": 570
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-07-17",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1975,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16181",
+    "name": {
+      "en": "Perugia"
+    },
+    "country": "IT",
+    "region": "UM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16181",
+      "icao": "LIRZ"
+    },
+    "location": {
+      "latitude": 43.0833,
+      "longitude": 12.5,
+      "elevation": 208
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1967-11-06",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "2006-07-08",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2020,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16182",
+    "name": {
+      "en": "Perugia S Egido / Ospedalicchio"
+    },
+    "country": "IT",
+    "region": "UM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16182",
+      "icao": null
+    },
+    "location": {
+      "latitude": 43.0925,
+      "longitude": 12.5047,
+      "elevation": 204
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16190",
+    "name": {
+      "en": "Ancona / Poggio"
+    },
+    "country": "IT",
+    "region": "MH",
+    "identifiers": {
+      "national": null,
+      "wmo": "16190",
+      "icao": null
+    },
+    "location": {
+      "latitude": 43.6114,
+      "longitude": 13.5253,
+      "elevation": 141
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1949-04-03",
+        "end": "2024-03-14"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2021-08-08"
+      },
+      "monthly": {
+        "start": 1949,
+        "end": 2020
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16191",
+    "name": {
+      "en": "Falconara"
+    },
+    "country": "IT",
+    "region": "MH",
+    "identifiers": {
+      "national": null,
+      "wmo": "16191",
+      "icao": "LIPY"
+    },
+    "location": {
+      "latitude": 43.6167,
+      "longitude": 13.3667,
+      "elevation": 12
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1945-04-14",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1945-05-02",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 1979,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2010
+      }
+    }
+  },
+  {
+    "id": "16192",
+    "name": {
+      "en": "Loreto / Montarice"
+    },
+    "country": "IT",
+    "region": "MH",
+    "identifiers": {
+      "national": null,
+      "wmo": "16192",
+      "icao": null
+    },
+    "location": {
+      "latitude": 43.43,
+      "longitude": 13.6036,
+      "elevation": 196
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2023-06-22"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2021-06-13"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16194",
+    "name": {
+      "en": "Villa Potenza"
+    },
+    "country": "IT",
+    "region": "MC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16194",
+      "icao": "LIPM"
+    },
+    "location": {
+      "latitude": 43.3,
+      "longitude": 13.45,
+      "elevation": 320
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16197",
+    "name": {
+      "en": "M. Calamita"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16197",
+      "icao": "LIRJ"
+    },
+    "location": {
+      "latitude": 42.7333,
+      "longitude": 10.4,
+      "elevation": 396
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16198",
+    "name": {
+      "en": "Isola D`elba / Miniera Calamita"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16198",
+      "icao": null
+    },
+    "location": {
+      "latitude": 42.7311,
+      "longitude": 10.3956,
+      "elevation": 396
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16204",
+    "name": {
+      "en": "Radicofani"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16204",
+      "icao": "LIQR"
+    },
+    "location": {
+      "latitude": 42.9,
+      "longitude": 11.7667,
+      "elevation": 816
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2023-03-08"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2020-02-28"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16206",
+    "name": {
+      "en": "Grosseto"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16206",
+      "icao": "LIRS"
+    },
+    "location": {
+      "latitude": 42.75,
+      "longitude": 11.0667,
+      "elevation": 5
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1944-12-11",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1944-12-11",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1964,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16210",
+    "name": {
+      "en": "Furbara / Vaccina"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16210",
+      "icao": null
+    },
+    "location": {
+      "latitude": 41.9969,
+      "longitude": 12.0164,
+      "elevation": 11
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16212",
+    "name": {
+      "en": "S. Teresa / Susak"
+    },
+    "country": "IT",
+    "region": null,
+    "identifiers": {
+      "national": null,
+      "wmo": "16212",
+      "icao": null
+    },
+    "location": {
+      "latitude": 44.4167,
+      "longitude": 14.1667,
+      "elevation": 5
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16214",
+    "name": {
+      "en": "Civitavecchia"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16214",
+      "icao": "LIQJ"
+    },
+    "location": {
+      "latitude": 42.0333,
+      "longitude": 11.8333,
+      "elevation": 3
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2025-05-18"
+      },
+      "daily": {
+        "start": "2006-11-22",
+        "end": "2022-03-31"
+      },
+      "monthly": {
+        "start": 2016,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16215",
+    "name": {
+      "en": "Civitavecchia / Villaggio del Fanciullo"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16215",
+      "icao": null
+    },
+    "location": {
+      "latitude": 42.0328,
+      "longitude": 11.8331,
+      "elevation": 3
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16216",
+    "name": {
+      "en": "Viterbo"
+    },
+    "country": "IT",
+    "region": "VT",
+    "identifiers": {
+      "national": null,
+      "wmo": "16216",
+      "icao": "LIRV"
+    },
+    "location": {
+      "latitude": 42.4333,
+      "longitude": 12.05,
+      "elevation": 300
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1944-07-01",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "1975-02-17",
+        "end": "1997-10-26"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16217",
+    "name": {
+      "en": "Orte / San Valentino"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16217",
+      "icao": null
+    },
+    "location": {
+      "latitude": 42.4714,
+      "longitude": 12.3422,
+      "elevation": 74
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16218",
+    "name": {
+      "en": "Viterbo / Bullicame"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16218",
+      "icao": null
+    },
+    "location": {
+      "latitude": 42.4408,
+      "longitude": 12.0578,
+      "elevation": 309
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2022-04-25"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2019-04-17"
+      },
+      "daily": {
+        "start": "2005-08-02",
+        "end": "2018-03-07"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2018
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16219",
+    "name": {
+      "en": "Monte Terminillo"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16219",
+      "icao": "LIRK"
+    },
+    "location": {
+      "latitude": 42.4667,
+      "longitude": 12.9833,
+      "elevation": 1874
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1965-02-01",
+        "end": "2026-03-06"
+      },
+      "daily": {
+        "start": "1965-04-28",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1966,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16221",
+    "name": {
+      "en": "Rieti"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16221",
+      "icao": "LIQN"
+    },
+    "location": {
+      "latitude": 42.4167,
+      "longitude": 12.85,
+      "elevation": 389
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-12-13",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "2016-08-25",
+        "end": "2017-01-20"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16223",
+    "name": {
+      "en": "Vigna Di Valle"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16223",
+      "icao": null
+    },
+    "location": {
+      "latitude": 42.0814,
+      "longitude": 12.2117,
+      "elevation": 265
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16224",
+    "name": {
+      "en": "Vigna Di Valle"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16224",
+      "icao": "LIRB"
+    },
+    "location": {
+      "latitude": 42.0833,
+      "longitude": 12.2167,
+      "elevation": 262
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2025-05-18"
+      },
+      "daily": {
+        "start": "1954-10-02",
+        "end": "2025-08-23"
+      },
+      "monthly": {
+        "start": 1960,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16226",
+    "name": {
+      "en": "L`aquila / Coppito"
+    },
+    "country": "IT",
+    "region": "AB",
+    "identifiers": {
+      "national": null,
+      "wmo": "16226",
+      "icao": null
+    },
+    "location": {
+      "latitude": 42.3756,
+      "longitude": 13.3272,
+      "elevation": 668
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16227",
+    "name": {
+      "en": "Fucino"
+    },
+    "country": "IT",
+    "region": "AB",
+    "identifiers": {
+      "national": null,
+      "wmo": "16227",
+      "icao": null
+    },
+    "location": {
+      "latitude": 41.8833,
+      "longitude": 13.5833,
+      "elevation": 655
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16228",
+    "name": {
+      "en": "Preturo"
+    },
+    "country": "IT",
+    "region": "AB",
+    "identifiers": {
+      "national": null,
+      "wmo": "16228",
+      "icao": null
+    },
+    "location": {
+      "latitude": 42.3667,
+      "longitude": 13.3,
+      "elevation": 665
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16229",
+    "name": {
+      "en": "Gran Sasso Mountain Range / Gran Sasso Mtn Rng / San Massimo"
+    },
+    "country": "IT",
+    "region": "AB",
+    "identifiers": {
+      "national": null,
+      "wmo": "16229",
+      "icao": "LIQI"
+    },
+    "location": {
+      "latitude": 42.45,
+      "longitude": 13.7,
+      "elevation": 2138
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": "1990-02-08",
+        "end": "2009-06-01"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16230",
+    "name": {
+      "en": "Pescara"
+    },
+    "country": "IT",
+    "region": "AB",
+    "identifiers": {
+      "national": null,
+      "wmo": "16230",
+      "icao": "LIBP"
+    },
+    "location": {
+      "latitude": 42.4333,
+      "longitude": 14.2,
+      "elevation": 10
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1965-02-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1974-03-28",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 1960,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2010
+      }
+    }
+  },
+  {
+    "id": "16231",
+    "name": {
+      "en": "S. Giovanni Teatino / San Silvestro"
+    },
+    "country": "IT",
+    "region": "AB",
+    "identifiers": {
+      "national": null,
+      "wmo": "16231",
+      "icao": null
+    },
+    "location": {
+      "latitude": 42.4189,
+      "longitude": 14.2114,
+      "elevation": 179
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16232",
+    "name": {
+      "en": "Termoli"
+    },
+    "country": "IT",
+    "region": "ML",
+    "identifiers": {
+      "national": null,
+      "wmo": "16232",
+      "icao": "LIBT"
+    },
+    "location": {
+      "latitude": 42.0,
+      "longitude": 15.0,
+      "elevation": 16
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2025-05-18"
+      },
+      "daily": {
+        "start": "1975-03-17",
+        "end": "2025-06-05"
+      },
+      "monthly": {
+        "start": 1988,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16233",
+    "name": {
+      "en": "Guidonia / Le Casette"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16233",
+      "icao": null
+    },
+    "location": {
+      "latitude": 41.9886,
+      "longitude": 12.7375,
+      "elevation": 89
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16234",
+    "name": {
+      "en": "Guidonia"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16234",
+      "icao": "LIRG"
+    },
+    "location": {
+      "latitude": 42.0,
+      "longitude": 12.7333,
+      "elevation": 88
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1966-09-23",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16235",
+    "name": {
+      "en": "Roma / Urbe"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16235",
+      "icao": "LIRU"
+    },
+    "location": {
+      "latitude": 41.95,
+      "longitude": 12.5,
+      "elevation": 18
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "1974-06-03",
+        "end": "2007-07-01"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16238",
+    "name": {
+      "en": "Rome Centocelle"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16238",
+      "icao": null
+    },
+    "location": {
+      "latitude": 41.8681,
+      "longitude": 12.5578,
+      "elevation": 52
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16239",
+    "name": {
+      "en": "Roma / Ciampino"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16239",
+      "icao": "LIRA"
+    },
+    "location": {
+      "latitude": 41.7833,
+      "longitude": 12.5833,
+      "elevation": 129
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1951-10-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1951-01-01",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1951,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16240",
+    "name": {
+      "en": "Rome"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16240",
+      "icao": null
+    },
+    "location": {
+      "latitude": 41.9,
+      "longitude": 12.4833,
+      "elevation": 95
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16242",
+    "name": {
+      "en": "Roma Fiumicino"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16242",
+      "icao": "LIRF"
+    },
+    "location": {
+      "latitude": 41.8,
+      "longitude": 12.2333,
+      "elevation": 2
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1965-07-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-02",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 1949,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2010
+      }
+    }
+  },
+  {
+    "id": "16243",
+    "name": {
+      "en": "Latina"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16243",
+      "icao": "LIRL"
+    },
+    "location": {
+      "latitude": 41.55,
+      "longitude": 12.9,
+      "elevation": 25
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1944-03-01",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "1980-03-16",
+        "end": "2001-06-24"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16244",
+    "name": {
+      "en": "Frosinone"
+    },
+    "country": "IT",
+    "region": "FR",
+    "identifiers": {
+      "national": null,
+      "wmo": "16244",
+      "icao": "LIRH"
+    },
+    "location": {
+      "latitude": 41.6333,
+      "longitude": 13.3,
+      "elevation": 180
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "1974-06-07",
+        "end": "2000-05-31"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16245",
+    "name": {
+      "en": "Pratica Di Mare"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16245",
+      "icao": "LIRE"
+    },
+    "location": {
+      "latitude": 41.65,
+      "longitude": 12.45,
+      "elevation": 6
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1966-09-23",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1966-09-28",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1967,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16247",
+    "name": {
+      "en": "Tevere A Ripetta / Borgo Carso"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16247",
+      "icao": null
+    },
+    "location": {
+      "latitude": 41.5447,
+      "longitude": 12.9106,
+      "elevation": 25
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16249",
+    "name": {
+      "en": "Cape Circeo / Colonia Elena"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16249",
+      "icao": "LIQT"
+    },
+    "location": {
+      "latitude": 41.2508,
+      "longitude": 13.1186,
+      "elevation": 2
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2021-03-15"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2018-03-07"
+      },
+      "daily": {
+        "start": "2005-07-31",
+        "end": "2016-02-08"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16252",
+    "name": {
+      "en": "Campobasso"
+    },
+    "country": "IT",
+    "region": "CB",
+    "identifiers": {
+      "national": null,
+      "wmo": "16252",
+      "icao": "LIBS"
+    },
+    "location": {
+      "latitude": 41.5667,
+      "longitude": 14.65,
+      "elevation": 793
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1965-02-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1965-05-01",
+        "end": "2025-08-20"
+      },
+      "monthly": {
+        "start": 1966,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16253",
+    "name": {
+      "en": "Grazzanise"
+    },
+    "country": "IT",
+    "region": "CM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16253",
+      "icao": "LIRM"
+    },
+    "location": {
+      "latitude": 41.05,
+      "longitude": 14.0667,
+      "elevation": 9
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1944-03-31",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1944-04-01",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1944,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16258",
+    "name": {
+      "en": "Monte S. Angelo"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16258",
+      "icao": "LIBE"
+    },
+    "location": {
+      "latitude": 41.7,
+      "longitude": 15.95,
+      "elevation": 838
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2004-11-11",
+        "end": "2025-03-31"
+      },
+      "daily": {
+        "start": "1951-11-07",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1960,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16259",
+    "name": {
+      "en": "S. Samuele Di Caferio / Torre Giulia"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16259",
+      "icao": null
+    },
+    "location": {
+      "latitude": 41.25,
+      "longitude": 16.05,
+      "elevation": 32
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16260",
+    "name": {
+      "en": "Foggia / Pozzarsogno"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16260",
+      "icao": "LIBF"
+    },
+    "location": {
+      "latitude": 41.4333,
+      "longitude": 15.5333,
+      "elevation": 80
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1957-07-01",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "2011-05-24",
+        "end": "2011-09-13"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16261",
+    "name": {
+      "en": "Amendola"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16261",
+      "icao": "LIBA"
+    },
+    "location": {
+      "latitude": 41.5333,
+      "longitude": 15.7167,
+      "elevation": 57
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1944-01-31",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1944-02-03",
+        "end": "2022-04-24"
+      },
+      "monthly": {
+        "start": 1944,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16262",
+    "name": {
+      "en": "Trevico / Orneta"
+    },
+    "country": "IT",
+    "region": "CM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16262",
+      "icao": null
+    },
+    "location": {
+      "latitude": 41.0469,
+      "longitude": 15.2319,
+      "elevation": 1092
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16263",
+    "name": {
+      "en": "Trevico"
+    },
+    "country": "IT",
+    "region": "CM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16263",
+      "icao": "LIRT"
+    },
+    "location": {
+      "latitude": 41.05,
+      "longitude": 15.2333,
+      "elevation": 1085
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1990-01-31",
+        "end": "2021-08-16"
+      },
+      "monthly": {
+        "start": 2019,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16266",
+    "name": {
+      "en": "Vieste / Lupetto"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16266",
+      "icao": null
+    },
+    "location": {
+      "latitude": 41.8881,
+      "longitude": 16.1647,
+      "elevation": 3
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2025-03-27"
+      },
+      "daily": {
+        "start": "2005-08-01",
+        "end": "2022-04-03"
+      },
+      "monthly": {
+        "start": 2018,
+        "end": 2018
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16270",
+    "name": {
+      "en": "Bari / Palese Macchie"
+    },
+    "country": "IT",
+    "region": "BA",
+    "identifiers": {
+      "national": null,
+      "wmo": "16270",
+      "icao": "LIBD"
+    },
+    "location": {
+      "latitude": 41.1333,
+      "longitude": 16.7833,
+      "elevation": 34
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1943-12-07",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1943-12-08",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 1945,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16271",
+    "name": {
+      "en": "Bari / Carbonara di Bari"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16271",
+      "icao": null
+    },
+    "location": {
+      "latitude": 41.1206,
+      "longitude": 16.8836,
+      "elevation": 10
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2023-05-23"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2022-04-03"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16280",
+    "name": {
+      "en": "Ponza"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16280",
+      "icao": "LIQZ"
+    },
+    "location": {
+      "latitude": 40.9167,
+      "longitude": 12.95,
+      "elevation": 184
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1965-02-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1965-04-28",
+        "end": "2025-06-18"
+      },
+      "monthly": {
+        "start": 1966,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16281",
+    "name": {
+      "en": "Ponza / Santa Maria"
+    },
+    "country": "IT",
+    "region": "LZ",
+    "identifiers": {
+      "national": null,
+      "wmo": "16281",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.9,
+      "longitude": 12.95,
+      "elevation": 184
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16288",
+    "name": {
+      "en": "Caserta / Sala"
+    },
+    "country": "IT",
+    "region": "CM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16288",
+      "icao": null
+    },
+    "location": {
+      "latitude": 41.0708,
+      "longitude": 14.3236,
+      "elevation": 61
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2025-03-31"
+      },
+      "daily": {
+        "start": "2005-08-02",
+        "end": "2022-04-03"
+      },
+      "monthly": {
+        "start": 2018,
+        "end": 2018
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16289",
+    "name": {
+      "en": "Napoli / Capodichino"
+    },
+    "country": "IT",
+    "region": "CM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16289",
+      "icao": "LIRN"
+    },
+    "location": {
+      "latitude": 40.85,
+      "longitude": 14.3,
+      "elevation": 88
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "2005-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "2005-04-23",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 1960,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2000
+      }
+    }
+  },
+  {
+    "id": "16292",
+    "name": {
+      "en": "Pontecagnano / Faiano"
+    },
+    "country": "IT",
+    "region": "CM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16292",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.6225,
+      "longitude": 14.9108,
+      "elevation": 38
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16294",
+    "name": {
+      "en": "Capri"
+    },
+    "country": "IT",
+    "region": "CM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16294",
+      "icao": "LIQC"
+    },
+    "location": {
+      "latitude": 40.55,
+      "longitude": 14.2,
+      "elevation": 160
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2022-04-22"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16295",
+    "name": {
+      "en": "Capri / Marina Grande"
+    },
+    "country": "IT",
+    "region": "CM",
+    "identifiers": {
+      "national": null,
+      "wmo": "16295",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.55,
+      "longitude": 14.2,
+      "elevation": 161
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16300",
+    "name": {
+      "en": "Potenza"
+    },
+    "country": "IT",
+    "region": "BC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16300",
+      "icao": "LIBZ"
+    },
+    "location": {
+      "latitude": 40.6333,
+      "longitude": 15.8,
+      "elevation": 823
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1965-02-01",
+        "end": "2007-02-13"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16310",
+    "name": {
+      "en": "Capo Palinuro"
+    },
+    "country": "IT",
+    "region": "SA",
+    "identifiers": {
+      "national": null,
+      "wmo": "16310",
+      "icao": "LIQK"
+    },
+    "location": {
+      "latitude": 40.0167,
+      "longitude": 15.2833,
+      "elevation": 184
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1964-08-11",
+        "end": "2024-12-31"
+      },
+      "daily": {
+        "start": "1964-08-11",
+        "end": "2025-04-30"
+      },
+      "monthly": {
+        "start": 1964,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16312",
+    "name": {
+      "en": "Gioia Del Colle"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16312",
+      "icao": "LIBV"
+    },
+    "location": {
+      "latitude": 40.7667,
+      "longitude": 16.9333,
+      "elevation": 345
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1944-02-29",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1944-03-01",
+        "end": "2022-04-24"
+      },
+      "monthly": {
+        "start": 2015,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16314",
+    "name": {
+      "en": "Matera / Martella"
+    },
+    "country": "IT",
+    "region": "BC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16314",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.6753,
+      "longitude": 16.6561,
+      "elevation": 496
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2025-03-31"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2022-04-01"
+      },
+      "monthly": {
+        "start": 2016,
+        "end": 2017
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16316",
+    "name": {
+      "en": "Latronico"
+    },
+    "country": "IT",
+    "region": "BC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16316",
+      "icao": "LIBU"
+    },
+    "location": {
+      "latitude": 40.0833,
+      "longitude": 16.0167,
+      "elevation": 888
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2025-05-18"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2012-04-17"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16317",
+    "name": {
+      "en": "Latronico / Masuldo"
+    },
+    "country": "IT",
+    "region": "BC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16317",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.0875,
+      "longitude": 16.0136,
+      "elevation": 895
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16318",
+    "name": {
+      "en": "Martina Franca(iafb) / Masseria Orimini"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16318",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.6428,
+      "longitude": 17.2061,
+      "elevation": 413
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-09-15",
+        "end": "2023-08-12"
+      },
+      "daily": {
+        "start": "2005-08-01",
+        "end": "2019-11-20"
+      },
+      "monthly": {
+        "start": 2019,
+        "end": 2019
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16320",
+    "name": {
+      "en": "Brindisi"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16320",
+      "icao": "LIBR"
+    },
+    "location": {
+      "latitude": 40.65,
+      "longitude": 17.95,
+      "elevation": 15
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1943-11-29",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1943-11-30",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1943,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16324",
+    "name": {
+      "en": "Grottaglie"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16324",
+      "icao": "LIBG"
+    },
+    "location": {
+      "latitude": 40.5167,
+      "longitude": 17.4,
+      "elevation": 64
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1943-09-27",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "1943-09-28",
+        "end": "1990-12-26"
+      },
+      "monthly": {
+        "start": 1944,
+        "end": 1945
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16325",
+    "name": {
+      "en": "Marina Di Ginosa"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16325",
+      "icao": "LIBH"
+    },
+    "location": {
+      "latitude": 40.4333,
+      "longitude": 16.8833,
+      "elevation": 2
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1967-03-17",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1967-03-18",
+        "end": "2025-08-23"
+      },
+      "monthly": {
+        "start": 1967,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16332",
+    "name": {
+      "en": "Lecce"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16332",
+      "icao": "LIBN"
+    },
+    "location": {
+      "latitude": 40.2333,
+      "longitude": 18.15,
+      "elevation": 48
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1943-12-31",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1944-01-01",
+        "end": "2022-04-24"
+      },
+      "monthly": {
+        "start": 1944,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16333",
+    "name": {
+      "en": "Lecce / Collemeto"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16333",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.2383,
+      "longitude": 18.1386,
+      "elevation": 47
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2021-12-18"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2018-12-11"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2018-09-12"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2018
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16334",
+    "name": {
+      "en": "Palascia / Porto Badisco"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16334",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.1108,
+      "longitude": 18.5122,
+      "elevation": 79
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2025-05-15"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2022-05-07"
+      },
+      "daily": {
+        "start": "2005-09-16",
+        "end": "2022-04-03"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16336",
+    "name": {
+      "en": "Bonifati / Cittadella del Capo"
+    },
+    "country": "IT",
+    "region": "CI",
+    "identifiers": {
+      "national": null,
+      "wmo": "16336",
+      "icao": null
+    },
+    "location": {
+      "latitude": 39.5847,
+      "longitude": 15.8908,
+      "elevation": 484
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16337",
+    "name": {
+      "en": "Bonifati"
+    },
+    "country": "IT",
+    "region": "CI",
+    "identifiers": {
+      "national": null,
+      "wmo": "16337",
+      "icao": "LIBW"
+    },
+    "location": {
+      "latitude": 39.5833,
+      "longitude": 15.8833,
+      "elevation": 484
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1965-02-01",
+        "end": "2025-03-31"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16342",
+    "name": {
+      "en": "Punta Alice / Madonna di Mare"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16342",
+      "icao": null
+    },
+    "location": {
+      "latitude": 39.3986,
+      "longitude": 17.1528,
+      "elevation": 3
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16344",
+    "name": {
+      "en": "Monte Scuro"
+    },
+    "country": "IT",
+    "region": "CI",
+    "identifiers": {
+      "national": null,
+      "wmo": "16344",
+      "icao": "LIBQ"
+    },
+    "location": {
+      "latitude": 39.3333,
+      "longitude": 16.4,
+      "elevation": 1710
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1974-10-15",
+        "end": "2026-02-28"
+      },
+      "monthly": {
+        "start": 1989,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16345",
+    "name": {
+      "en": "Monte Scuro / Camigliatello Silano"
+    },
+    "country": "IT",
+    "region": "CI",
+    "identifiers": {
+      "national": null,
+      "wmo": "16345",
+      "icao": null
+    },
+    "location": {
+      "latitude": 39.3311,
+      "longitude": 16.3964,
+      "elevation": 1669
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16350",
+    "name": {
+      "en": "Crotone"
+    },
+    "country": "IT",
+    "region": "CI",
+    "identifiers": {
+      "national": null,
+      "wmo": "16350",
+      "icao": "LIBC"
+    },
+    "location": {
+      "latitude": 39.0,
+      "longitude": 17.0667,
+      "elevation": 155
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1957-07-01",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "2006-07-16",
+        "end": "2017-12-01"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16351",
+    "name": {
+      "en": "Crotnoe / San Pietro"
+    },
+    "country": "IT",
+    "region": "CI",
+    "identifiers": {
+      "national": null,
+      "wmo": "16351",
+      "icao": null
+    },
+    "location": {
+      "latitude": 38.9886,
+      "longitude": 17.0789,
+      "elevation": 154
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16360",
+    "name": {
+      "en": "S. Maria Di Leuca"
+    },
+    "country": "IT",
+    "region": "PU",
+    "identifiers": {
+      "national": null,
+      "wmo": "16360",
+      "icao": "LIBY"
+    },
+    "location": {
+      "latitude": 39.8167,
+      "longitude": 18.35,
+      "elevation": 104
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1965-02-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1965-05-06",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1966,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16362",
+    "name": {
+      "en": "Lamezia Terme"
+    },
+    "country": "IT",
+    "region": "CI",
+    "identifiers": {
+      "national": null,
+      "wmo": "16362",
+      "icao": "LICA"
+    },
+    "location": {
+      "latitude": 38.9,
+      "longitude": 16.25,
+      "elevation": 15
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1977-11-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1989-12-14",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2020,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16364",
+    "name": {
+      "en": "Serralta Di San Vit / Macri"
+    },
+    "country": "IT",
+    "region": "CI",
+    "identifiers": {
+      "national": null,
+      "wmo": "16364",
+      "icao": null
+    },
+    "location": {
+      "latitude": 38.7556,
+      "longitude": 16.3683,
+      "elevation": 996
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2024-04-17"
+      },
+      "daily": {
+        "start": "2005-10-18",
+        "end": "2022-04-03"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16365",
+    "name": {
+      "en": "Catanzaro / Siano"
+    },
+    "country": "IT",
+    "region": "CI",
+    "identifiers": {
+      "national": null,
+      "wmo": "16365",
+      "icao": null
+    },
+    "location": {
+      "latitude": 38.9053,
+      "longitude": 16.5953,
+      "elevation": 332
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2025-03-21"
+      },
+      "hourly": {
+        "start": "2006-07-11",
+        "end": "2022-03-15"
+      },
+      "daily": {
+        "start": "2015-12-11",
+        "end": "2022-01-26"
+      },
+      "monthly": {
+        "start": 2016,
+        "end": 2019
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16400",
+    "name": {
+      "en": "Ustica"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16400",
+      "icao": "LICU"
+    },
+    "location": {
+      "latitude": 38.7,
+      "longitude": 13.1833,
+      "elevation": 250
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1957-07-01",
+        "end": "2025-05-18"
+      },
+      "daily": {
+        "start": "1957-07-01",
+        "end": "2025-08-09"
+      },
+      "monthly": {
+        "start": 1957,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16401",
+    "name": {
+      "en": "Ustica / Marina"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16401",
+      "icao": null
+    },
+    "location": {
+      "latitude": 38.7075,
+      "longitude": 13.1783,
+      "elevation": 242
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16405",
+    "name": {
+      "en": "Palermo / Punta Raisi"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16405",
+      "icao": "LICJ"
+    },
+    "location": {
+      "latitude": 38.1833,
+      "longitude": 13.1,
+      "elevation": 21
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1964-08-11",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-01-09",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2018,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16409",
+    "name": {
+      "en": "Palermo Boccadifalc / Boccadifalco"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16409",
+      "icao": null
+    },
+    "location": {
+      "latitude": 38.1119,
+      "longitude": 13.3117,
+      "elevation": 120
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16410",
+    "name": {
+      "en": "Palermo Boccadifalco"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16410",
+      "icao": "LICP"
+    },
+    "location": {
+      "latitude": 38.1,
+      "longitude": 13.3,
+      "elevation": 107
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": "1943-08-07",
+        "end": "2009-01-11"
+      },
+      "daily": {
+        "start": "1943-08-07",
+        "end": "2009-01-11"
+      },
+      "monthly": {
+        "start": 1943,
+        "end": 2008
+      },
+      "normals": {
+        "start": 1981,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16415",
+    "name": {
+      "en": "Isola Di Salina"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16415",
+      "icao": null
+    },
+    "location": {
+      "latitude": 38.5833,
+      "longitude": 14.8667,
+      "elevation": 46
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1984-05-01",
+        "end": "2025-03-19"
+      },
+      "daily": {
+        "start": "1988-08-31",
+        "end": "2020-11-21"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2018
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16416",
+    "name": {
+      "en": "Isola Stromboli / Piscit\u00e0"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16416",
+      "icao": null
+    },
+    "location": {
+      "latitude": 38.8025,
+      "longitude": 15.2342,
+      "elevation": 75
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2025-03-31"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2022-04-03"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16420",
+    "name": {
+      "en": "Messina"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16420",
+      "icao": "LICF"
+    },
+    "location": {
+      "latitude": 38.2,
+      "longitude": 15.55,
+      "elevation": 59
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1931-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1957-07-01",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1957,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16422",
+    "name": {
+      "en": "Reggio Calabria"
+    },
+    "country": "IT",
+    "region": "CI",
+    "identifiers": {
+      "national": null,
+      "wmo": "16422",
+      "icao": "LICR"
+    },
+    "location": {
+      "latitude": 38.0667,
+      "longitude": 15.65,
+      "elevation": 11
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1976-08-01",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2021,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16429",
+    "name": {
+      "en": "Trapani / Birgi"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16429",
+      "icao": "LICT"
+    },
+    "location": {
+      "latitude": 37.9167,
+      "longitude": 12.5,
+      "elevation": 7
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1965-02-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1965-04-29",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1961,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16434",
+    "name": {
+      "en": "Prizzi"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16434",
+      "icao": "LICX"
+    },
+    "location": {
+      "latitude": 37.7167,
+      "longitude": 13.4333,
+      "elevation": 1034
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16435",
+    "name": {
+      "en": "Prizzi / Filaga"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16435",
+      "icao": null
+    },
+    "location": {
+      "latitude": 37.7228,
+      "longitude": 13.4281,
+      "elevation": 1034
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16436",
+    "name": {
+      "en": "Sciacca / San Carlo"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16436",
+      "icao": null
+    },
+    "location": {
+      "latitude": 37.5136,
+      "longitude": 13.1267,
+      "elevation": 124
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1943-10-10",
+        "end": "2025-03-31"
+      },
+      "daily": {
+        "start": "1943-10-11",
+        "end": "2021-11-22"
+      },
+      "monthly": {
+        "start": 1943,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16442",
+    "name": {
+      "en": "Gibilmanna / Santuario di Gibilmanna"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16442",
+      "icao": null
+    },
+    "location": {
+      "latitude": 37.9908,
+      "longitude": 14.0269,
+      "elevation": 997
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2024-01-06"
+      },
+      "hourly": {
+        "start": "2005-08-31",
+        "end": "2020-12-28"
+      },
+      "daily": {
+        "start": "2005-09-08",
+        "end": "2020-12-27"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2019
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16450",
+    "name": {
+      "en": "Enna"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16450",
+      "icao": "LICE"
+    },
+    "location": {
+      "latitude": 37.5667,
+      "longitude": 14.2833,
+      "elevation": 940
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2025-05-18"
+      },
+      "daily": {
+        "start": "1973-08-09",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1989,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16453",
+    "name": {
+      "en": "Gela"
+    },
+    "country": "IT",
+    "region": "CL",
+    "identifiers": {
+      "national": null,
+      "wmo": "16453",
+      "icao": "LICL"
+    },
+    "location": {
+      "latitude": 37.0833,
+      "longitude": 14.2167,
+      "elevation": 11
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1943-09-02",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1943-09-03",
+        "end": "1943-10-01"
+      },
+      "monthly": {
+        "start": 2019,
+        "end": 2019
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16459",
+    "name": {
+      "en": "Catania / Sigonella"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16459",
+      "icao": "LICZ"
+    },
+    "location": {
+      "latitude": 37.4,
+      "longitude": 14.9167,
+      "elevation": 22
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1943-08-10",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1943-08-11",
+        "end": "2026-02-28"
+      },
+      "monthly": {
+        "start": 1960,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16460",
+    "name": {
+      "en": "Catania / Fontanarossa"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16460",
+      "icao": "LICC"
+    },
+    "location": {
+      "latitude": 37.4667,
+      "longitude": 15.05,
+      "elevation": 11
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1943-10-28",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1943-10-29",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 1949,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2000
+      }
+    }
+  },
+  {
+    "id": "16464",
+    "name": {
+      "en": "Siracusa / Ciane"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16464",
+      "icao": null
+    },
+    "location": {
+      "latitude": 37.0661,
+      "longitude": 15.2794,
+      "elevation": 1
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2024-10-29"
+      },
+      "daily": {
+        "start": "2005-08-03",
+        "end": "2022-04-03"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16465",
+    "name": {
+      "en": "Mezzo Gregorio / Testa dell\u2019Acqua"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16465",
+      "icao": null
+    },
+    "location": {
+      "latitude": 36.9658,
+      "longitude": 14.9578,
+      "elevation": 638
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2023-09-04"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2021-11-21"
+      },
+      "monthly": {
+        "start": 2020,
+        "end": 2020
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16469",
+    "name": {
+      "en": "Cape Spartivento / Spropolo"
+    },
+    "country": "IT",
+    "region": "CI",
+    "identifiers": {
+      "national": null,
+      "wmo": "16469",
+      "icao": null
+    },
+    "location": {
+      "latitude": 37.9258,
+      "longitude": 16.0606,
+      "elevation": 117
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2025-05-06"
+      },
+      "hourly": {
+        "start": "1974-06-01",
+        "end": "2022-04-28"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2021-11-15"
+      },
+      "monthly": {
+        "start": 2016,
+        "end": 2018
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16470",
+    "name": {
+      "en": "Pantelleria"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16470",
+      "icao": "LICG"
+    },
+    "location": {
+      "latitude": 36.8167,
+      "longitude": 11.9667,
+      "elevation": 191
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1943-06-20",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1943-06-21",
+        "end": "2007-05-13"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16471",
+    "name": {
+      "en": "Pantellaria / Kamma"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16471",
+      "icao": null
+    },
+    "location": {
+      "latitude": 36.8131,
+      "longitude": 11.9636,
+      "elevation": 184
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16480",
+    "name": {
+      "en": "Cozzo Spadaro"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16480",
+      "icao": "LICO"
+    },
+    "location": {
+      "latitude": 36.6833,
+      "longitude": 15.1333,
+      "elevation": 46
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1966-01-01",
+        "end": "2025-05-18"
+      },
+      "daily": {
+        "start": "1966-01-01",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1966,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16490",
+    "name": {
+      "en": "Lampedusa"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16490",
+      "icao": "LICD"
+    },
+    "location": {
+      "latitude": 35.5,
+      "longitude": 12.6,
+      "elevation": 16
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1966-01-04",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1977-06-12",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2020,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16491",
+    "name": {
+      "en": "Lampedusa / Linosa"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": "16491",
+      "icao": null
+    },
+    "location": {
+      "latitude": 35.5017,
+      "longitude": 12.6247,
+      "elevation": 49
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16504",
+    "name": {
+      "en": "Porto Torres / Platamona"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16504",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.8392,
+      "longitude": 8.4053,
+      "elevation": 6
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16506",
+    "name": {
+      "en": "Guardiavecchia"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16506",
+      "icao": "LIEG"
+    },
+    "location": {
+      "latitude": 41.2167,
+      "longitude": 9.4,
+      "elevation": 158
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": "1970-10-01",
+        "end": "2002-10-29"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16520",
+    "name": {
+      "en": "Alghero"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16520",
+      "icao": "LIEA"
+    },
+    "location": {
+      "latitude": 40.6333,
+      "longitude": 8.2833,
+      "elevation": 23
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1957-07-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1973-05-09",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 1978,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2010
+      }
+    }
+  },
+  {
+    "id": "16522",
+    "name": {
+      "en": "Capo Caccia"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16522",
+      "icao": "LIEH"
+    },
+    "location": {
+      "latitude": 40.5667,
+      "longitude": 8.1667,
+      "elevation": 200
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1975-07-17",
+        "end": "2024-12-31"
+      },
+      "daily": {
+        "start": "1975-09-01",
+        "end": "2024-12-30"
+      },
+      "monthly": {
+        "start": 1975,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16523",
+    "name": {
+      "en": "Capo Caccia / Porto Conte Torre Nuova"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16523",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.5669,
+      "longitude": 8.1589,
+      "elevation": 203
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16524",
+    "name": {
+      "en": "Macomer / Mulargia"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16524",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.2556,
+      "longitude": 8.7358,
+      "elevation": 585
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16531",
+    "name": {
+      "en": "Olbia / Costa Smeralda"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16531",
+      "icao": "LIEO"
+    },
+    "location": {
+      "latitude": 40.9,
+      "longitude": 9.5167,
+      "elevation": 11
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1969-11-17",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1974-05-04",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2011,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16532",
+    "name": {
+      "en": "Monte Limbara / Nuchis"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16532",
+      "icao": null
+    },
+    "location": {
+      "latitude": 40.8525,
+      "longitude": 9.1764,
+      "elevation": 1362
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16538",
+    "name": {
+      "en": "Fonni"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16538",
+      "icao": "LIEN"
+    },
+    "location": {
+      "latitude": 40.1167,
+      "longitude": 9.25,
+      "elevation": 1022
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1973-03-01",
+        "end": "2016-10-15"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16539",
+    "name": {
+      "en": "Capo Frasca"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16539",
+      "icao": "LIEF"
+    },
+    "location": {
+      "latitude": 39.75,
+      "longitude": 8.4667,
+      "elevation": 89
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1966-01-04",
+        "end": "2025-04-01"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16541",
+    "name": {
+      "en": "Perdasdefogu"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16541",
+      "icao": "LIEP"
+    },
+    "location": {
+      "latitude": 39.6667,
+      "longitude": 9.4333,
+      "elevation": 608
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2025-04-01"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16542",
+    "name": {
+      "en": "Capo S. Lorenzo"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16542",
+      "icao": "LIEL"
+    },
+    "location": {
+      "latitude": 39.5,
+      "longitude": 9.6333,
+      "elevation": 4
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2025-04-01"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16543",
+    "name": {
+      "en": "Capo S Lorenzo / Quirra"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16543",
+      "icao": null
+    },
+    "location": {
+      "latitude": 39.4975,
+      "longitude": 9.6306,
+      "elevation": 2
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16545",
+    "name": {
+      "en": "Perdasdefogu / Taquisara"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16545",
+      "icao": null
+    },
+    "location": {
+      "latitude": 39.6739,
+      "longitude": 9.4414,
+      "elevation": 608
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16546",
+    "name": {
+      "en": "Decimomannu"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16546",
+      "icao": "LIED"
+    },
+    "location": {
+      "latitude": 39.35,
+      "longitude": 8.9667,
+      "elevation": 29
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1966-09-23",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1966-09-23",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1966,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16548",
+    "name": {
+      "en": "Carloforte"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16548",
+      "icao": null
+    },
+    "location": {
+      "latitude": 39.1333,
+      "longitude": 8.3167,
+      "elevation": 14
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16549",
+    "name": {
+      "en": "Isola Di Carloforte"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16549",
+      "icao": null
+    },
+    "location": {
+      "latitude": 39.1333,
+      "longitude": 8.3167,
+      "elevation": 12
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16550",
+    "name": {
+      "en": "Capo Bellavista"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16550",
+      "icao": "LIEB"
+    },
+    "location": {
+      "latitude": 39.9333,
+      "longitude": 9.7167,
+      "elevation": 138
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1966-01-04",
+        "end": "2024-12-31"
+      },
+      "daily": {
+        "start": "1951-01-01",
+        "end": "2024-12-29"
+      },
+      "monthly": {
+        "start": 1951,
+        "end": 2021
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16560",
+    "name": {
+      "en": "Cagliari / Elmas"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16560",
+      "icao": "LIEE"
+    },
+    "location": {
+      "latitude": 39.25,
+      "longitude": 9.0667,
+      "elevation": 4
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2018-01-28",
+        "end": "2026-03-20"
+      },
+      "hourly": {
+        "start": "1943-11-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1943-11-01",
+        "end": "2025-08-24"
+      },
+      "monthly": {
+        "start": 1943,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 2020
+      }
+    }
+  },
+  {
+    "id": "16564",
+    "name": {
+      "en": "Capo Carbonara"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16564",
+      "icao": "LIEC"
+    },
+    "location": {
+      "latitude": 39.1,
+      "longitude": 9.5167,
+      "elevation": 116
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "2009-05-03",
+        "end": "2020-03-08"
+      },
+      "monthly": {
+        "start": 2014,
+        "end": 2020
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "16565",
+    "name": {
+      "en": "Capo Carbonara / San St\u00e8fano"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16565",
+      "icao": null
+    },
+    "location": {
+      "latitude": 39.1039,
+      "longitude": 9.5136,
+      "elevation": 117
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16570",
+    "name": {
+      "en": "Teulada / Sant'Anna Arresi"
+    },
+    "country": "IT",
+    "region": "SD",
+    "identifiers": {
+      "national": null,
+      "wmo": "16570",
+      "icao": null
+    },
+    "location": {
+      "latitude": 38.9892,
+      "longitude": 8.66,
+      "elevation": 50
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16582",
+    "name": {
+      "en": "Baggio"
+    },
+    "country": "IT",
+    "region": "TV",
+    "identifiers": {
+      "national": null,
+      "wmo": "16582",
+      "icao": null
+    },
+    "location": {
+      "latitude": 45.7,
+      "longitude": 11.85,
+      "elevation": 15
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "16585",
+    "name": {
+      "en": "Macchiareddu"
+    },
+    "country": "IT",
+    "region": "CA",
+    "identifiers": {
+      "national": null,
+      "wmo": "16585",
+      "icao": null
+    },
+    "location": {
+      "latitude": 39.25,
+      "longitude": 9.05,
+      "elevation": 17
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": null,
+        "end": null
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": null,
+        "end": null
+      }
+    }
+  },
+  {
+    "id": "KQHK0",
+    "name": {
+      "en": "Aviano / La Roiata"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "KQHK"
+    },
+    "location": {
+      "latitude": 46.0333,
+      "longitude": 12.6,
+      "elevation": 128
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2024-03-16"
+      },
+      "hourly": {
+        "start": "2020-02-03",
+        "end": "2021-03-08"
+      },
+      "daily": {
+        "start": "2020-02-04",
+        "end": "2021-03-07"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "KQLQ0",
+    "name": {
+      "en": "Naples / Poggioreale"
+    },
+    "country": "IT",
+    "region": "CM",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "KQLQ"
+    },
+    "location": {
+      "latitude": 40.85,
+      "longitude": 14.28,
+      "elevation": 27
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-01",
+        "end": "2024-04-27"
+      },
+      "hourly": {
+        "start": "2020-02-03",
+        "end": "2021-04-19"
+      },
+      "daily": {
+        "start": "2020-02-04",
+        "end": "2021-04-18"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "KQNS0",
+    "name": {
+      "en": "Sigonella / Cuccumella"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "KQNS"
+    },
+    "location": {
+      "latitude": 37.4,
+      "longitude": 14.9333,
+      "elevation": 22
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": "1979-01-01",
+        "end": "2004-09-30"
+      },
+      "daily": {
+        "start": "1984-12-02",
+        "end": "2004-04-08"
+      },
+      "monthly": {
+        "start": 1985,
+        "end": 2000
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "LIAP0",
+    "name": {
+      "en": "L'Aquila / Preturo / San Vittorino"
+    },
+    "country": "IT",
+    "region": "AB",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "LIAP"
+    },
+    "location": {
+      "latitude": 42.3799,
+      "longitude": 13.3092,
+      "elevation": 674
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "1989-12-04"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "LICB0",
+    "name": {
+      "en": "Comiso"
+    },
+    "country": "IT",
+    "region": "SC",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "LICB"
+    },
+    "location": {
+      "latitude": 36.9333,
+      "longitude": 14.6,
+      "elevation": 220
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-02",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2005-07-27",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "2005-07-30",
+        "end": "2022-04-25"
+      },
+      "monthly": {
+        "start": 2020,
+        "end": 2022
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "LIER0",
+    "name": {
+      "en": "Fenosu / Oristano (Sardinia) / Palmas Arborea"
+    },
+    "country": "IT",
+    "region": "OR",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "LIER"
+    },
+    "location": {
+      "latitude": 39.8964,
+      "longitude": 8.6417,
+      "elevation": 9
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": "1970-10-01",
+        "end": "1975-12-09"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "LIMA0",
+    "name": {
+      "en": "Torino / Collegno"
+    },
+    "country": "IT",
+    "region": "PM",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "LIMA"
+    },
+    "location": {
+      "latitude": 45.0864,
+      "longitude": 7.6034,
+      "elevation": 287
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-02",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "2008-05-19",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "LIMW0",
+    "name": {
+      "en": "Aosta / Pollein"
+    },
+    "country": "IT",
+    "region": "VD",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "LIMW"
+    },
+    "location": {
+      "latitude": 45.7394,
+      "longitude": 7.362,
+      "elevation": 546
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-02",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1984-07-01",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": "1988-08-07",
+        "end": "2022-04-24"
+      },
+      "monthly": {
+        "start": 2017,
+        "end": 2018
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "LIPG0",
+    "name": {
+      "en": "Gorizia (it-Afb) / Miren"
+    },
+    "country": "IT",
+    "region": "FV",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "LIPG"
+    },
+    "location": {
+      "latitude": 45.9,
+      "longitude": 13.6,
+      "elevation": 63
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": "1973-11-22",
+        "end": "1984-05-12"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "LIQD0",
+    "name": {
+      "en": "Passo Dellaporretta / Porretta Pass / San Momme"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "LIQD"
+    },
+    "location": {
+      "latitude": 44.0333,
+      "longitude": 10.9333,
+      "elevation": 932
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": "1990-10-18",
+        "end": "1994-08-16"
+      },
+      "daily": {
+        "start": "1991-04-03",
+        "end": "1994-04-19"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "LIQS0",
+    "name": {
+      "en": "Siena"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "LIQS"
+    },
+    "location": {
+      "latitude": 43.3167,
+      "longitude": 11.35,
+      "elevation": 322
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": null,
+        "end": null
+      },
+      "hourly": {
+        "start": "1944-10-04",
+        "end": "1945-01-16"
+      },
+      "daily": {
+        "start": "1944-10-05",
+        "end": "1945-01-15"
+      },
+      "monthly": {
+        "start": 1944,
+        "end": 1944
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "LIRI0",
+    "name": {
+      "en": "Salerno / Bellizzi"
+    },
+    "country": "IT",
+    "region": "CM",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "LIRI"
+    },
+    "location": {
+      "latitude": 40.6167,
+      "longitude": 14.9167,
+      "elevation": 40
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-02",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1993-01-29",
+        "end": "2026-03-09"
+      },
+      "daily": {
+        "start": null,
+        "end": null
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "LIRX0",
+    "name": {
+      "en": "Monte Calamita / Pareti"
+    },
+    "country": "IT",
+    "region": "TC",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "LIRX"
+    },
+    "location": {
+      "latitude": 42.73,
+      "longitude": 10.38,
+      "elevation": 297
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-02",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1973-01-01",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1991-04-04",
+        "end": "1994-12-24"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  },
+  {
+    "id": "LIVE0",
+    "name": {
+      "en": "Passo Resia / Resia Pass"
+    },
+    "country": "IT",
+    "region": "TT",
+    "identifiers": {
+      "national": null,
+      "wmo": null,
+      "icao": "LIVE"
+    },
+    "location": {
+      "latitude": 46.8333,
+      "longitude": 10.5,
+      "elevation": 1800
+    },
+    "timezone": "Europe/Rome",
+    "inventory": {
+      "model": {
+        "start": "2021-01-02",
+        "end": "2026-03-19"
+      },
+      "hourly": {
+        "start": "1987-03-26",
+        "end": "2026-03-10"
+      },
+      "daily": {
+        "start": "1991-03-15",
+        "end": "2022-04-24"
+      },
+      "monthly": {
+        "start": null,
+        "end": null
+      },
+      "normals": {
+        "start": 1961,
+        "end": 1990
+      }
+    }
+  }
+]

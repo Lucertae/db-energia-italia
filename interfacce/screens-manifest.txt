@@ -1,0 +1,21 @@
+﻿OPS DESK - cattura interfacce
+Data: 2026-07-09 03:03:51
+Attesa pre-cattura: 40s
+Cartella: C:\Users\jecho\Desktop\terminal\interfacce
+
+Pagine:
+  01-ops.png - OPS - desk operativo / sessioni
+  02-markets.png - MKT - mercati / indici
+  03-fx.png - FX - cross valutari ECB
+  04-energy.png - NRG - energia / power
+  05-companies.png - CO - companies / DCF
+  06-production.png - PRD - produzione / supply
+  07-moon.png - LUNA - fasi lunari
+  08-corr.png - COR - correlazioni
+  09-crypto.png - CRY - crypto spot/funding
+  10-risk.png - RSK - rischio sistemico
+  11-countries.png - GEO - mappa paesi
+  12-ships.png - AIS - navi / chokepoints
+  13-sole.png - SUN - attivita solare
+  14-catalog.png - CAT - catalogo serie dati
+  15-weather.png - MET - meteo hub / layer

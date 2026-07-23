@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CATEGORIA'/>
+		<variable name='ATTO_DI_CONCESSIONE'/>
+		<variable name='IMPORTO_EROGATO'/>
+		<variable name='UNITA_DI_MISURA'/>
+		<variable name='MESE_DI_EROGAZIONE'/>
+		<variable name='ANNO_DI_EROGAZIONE'/>
+	</head>
+	<results>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03466590407</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03466590407</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>AGRIENERGY SOCIETA' AGRICOLA SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>1</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>79176.57</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ECV1402</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03466590407</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>03466590407</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>AGRIENERGY SOCIETA' AGRICOLA SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>4</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>15907.32</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ECV1402</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01010240339</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01010240339</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>DIUSA RENDERING SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>9</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>55644.48</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ECV0926</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>10236451000</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>10236451000</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENEL GREEN POWER SPA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>1</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>198358.56</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ECV1551</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>05617841001</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>05617841001</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ENEL PRODUZIONE S.P.A.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>685331.96</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ECV0049</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02093140925</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>SARLUX SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>11</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2021</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>3321467.02</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ECV0111</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>CERTIFICATI VERDI</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

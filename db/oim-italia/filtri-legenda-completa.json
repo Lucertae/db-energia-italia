@@ -1,0 +1,754 @@
+{
+  "meta": {
+    "fonte": "Open Infrastructure Map (openinframap.org) + OpenStreetMap",
+    "riferimento_codice": "https://github.com/openinframap/openinframap",
+    "categorie": 10,
+    "voci": 75,
+    "uso": "Catalogo filtri massimi per import in DB vettoriale (PostGIS). Ogni voce ha tag OSM, tabelle Imposm OIM e predicato SQL di classificazione.",
+    "layer_ui_oim": ["Power", "Telecoms", "Oil & Natural Gas", "Other Pipelines", "Water"]
+  },
+  "categorie": [
+    {
+      "id": "linee_elettriche",
+      "label_it": "Linee elettriche",
+      "label_en": "Power Lines",
+      "layer_oim": "Power",
+      "geometrie": ["LineString"],
+      "imposm_tables": ["power_line", "power_circuit_relation"],
+      "osm_base": {
+        "power": ["line", "minor_line", "cable", "minor_cable"],
+        "also": ["construction:power", "disused:power"]
+      },
+      "voci": [
+        {
+          "id": "lt_10kv",
+          "label_it": "< 10 kV",
+          "filter": {
+            "sql": "frequency IS DISTINCT FROM '0' AND (frequency IS NULL OR frequency IN ('','50','60') OR frequency::numeric IN (50,60)) AND COALESCE(convert_voltage(voltage),0) < 10000",
+            "note": "Scala OIM: sotto soglia 10 kV; esclude HVDC e trazione"
+          }
+        },
+        {
+          "id": "ge_10kv",
+          "label_it": "≥ 10 kV",
+          "filter": {
+            "sql": "NOT hvdc AND NOT traction AND COALESCE(convert_voltage(voltage),0) >= 10000 AND COALESCE(convert_voltage(voltage),0) < 25000"
+          }
+        },
+        {
+          "id": "ge_25kv",
+          "label_it": "≥ 25 kV",
+          "filter": {
+            "sql": "NOT hvdc AND NOT traction AND COALESCE(convert_voltage(voltage),0) >= 25000 AND COALESCE(convert_voltage(voltage),0) < 52000"
+          }
+        },
+        {
+          "id": "ge_52kv",
+          "label_it": "≥ 52 kV",
+          "filter": {
+            "sql": "NOT hvdc AND NOT traction AND COALESCE(convert_voltage(voltage),0) >= 52000 AND COALESCE(convert_voltage(voltage),0) < 132000"
+          }
+        },
+        {
+          "id": "ge_132kv",
+          "label_it": "≥ 132 kV",
+          "filter": {
+            "sql": "NOT hvdc AND NOT traction AND COALESCE(convert_voltage(voltage),0) >= 132000 AND COALESCE(convert_voltage(voltage),0) < 220000"
+          }
+        },
+        {
+          "id": "ge_220kv",
+          "label_it": "≥ 220 kV",
+          "filter": {
+            "sql": "NOT hvdc AND NOT traction AND COALESCE(convert_voltage(voltage),0) >= 220000 AND COALESCE(convert_voltage(voltage),0) < 310000"
+          }
+        },
+        {
+          "id": "ge_310kv",
+          "label_it": "≥ 310 kV",
+          "filter": {
+            "sql": "NOT hvdc AND NOT traction AND COALESCE(convert_voltage(voltage),0) >= 310000 AND COALESCE(convert_voltage(voltage),0) < 550000"
+          }
+        },
+        {
+          "id": "ge_550kv",
+          "label_it": "≥ 550 kV",
+          "filter": {
+            "sql": "NOT hvdc AND NOT traction AND COALESCE(convert_voltage(voltage),0) >= 550000"
+          }
+        },
+        {
+          "id": "hvdc",
+          "label_it": "HVDC",
+          "filter": {
+            "sql": "frequency IS NOT NULL AND frequency <> '' AND frequency::numeric = 0",
+            "osm": { "frequency": "0" }
+          }
+        },
+        {
+          "id": "trazione",
+          "label_it": "Trazione (< 50 Hz)",
+          "filter": {
+            "sql": "frequency IS NOT NULL AND frequency <> '' AND frequency::numeric NOT IN (0, 50, 60)",
+            "note": "OIM: frequenza presente e diversa da 50/60 (e non HVDC)"
+          }
+        },
+        {
+          "id": "sotterranea",
+          "label_it": "Sotterranea",
+          "filter": {
+            "sql": "location IN ('underground','underwater') OR tunnel IS TRUE OR (type IN ('cable','minor_cable') AND COALESCE(location,'') = '')",
+            "osm": {
+              "location": ["underground", "underwater"],
+              "tunnel": "yes",
+              "power": ["cable", "minor_cable"]
+            },
+            "note": "Flag ortogonale alla tensione: una linea può essere sia ≥220kV sia sotterranea"
+          }
+        },
+        {
+          "id": "matricola_linea",
+          "label_it": "Matricola linea",
+          "filter": {
+            "sql": "ref IS NOT NULL AND ref <> ''",
+            "osm": { "ref": "*" },
+            "note": "Etichetta/simbolo su linee con ref; non è un tipo geometrico separato"
+          }
+        }
+      ]
+    },
+    {
+      "id": "centrali_elettriche",
+      "label_it": "Centrali elettriche",
+      "label_en": "Power Plants",
+      "layer_oim": "Power",
+      "geometrie": ["Polygon"],
+      "imposm_tables": ["power_plant", "power_plant_relation"],
+      "osm_base": { "power": ["plant"], "also": ["construction:power"] },
+      "campo_classificazione": "plant:source",
+      "voci": [
+        {
+          "id": "carbone",
+          "label_it": "Carbone",
+          "filter": { "osm": { "plant:source": "coal" }, "sql": "source = 'coal'" }
+        },
+        {
+          "id": "geotermico",
+          "label_it": "Geotermico",
+          "filter": { "osm": { "plant:source": "geothermal" }, "sql": "source = 'geothermal'" }
+        },
+        {
+          "id": "idroelettrico",
+          "label_it": "Idroelettrico",
+          "filter": { "osm": { "plant:source": "hydro" }, "sql": "source = 'hydro'" }
+        },
+        {
+          "id": "nucleare",
+          "label_it": "Nucleare",
+          "filter": { "osm": { "plant:source": "nuclear" }, "sql": "source = 'nuclear'" }
+        },
+        {
+          "id": "gas_petrolio",
+          "label_it": "Gas/Petrolio",
+          "filter": {
+            "osm": { "plant:source": ["oil", "gas", "diesel"] },
+            "sql": "source IN ('oil','gas','diesel')"
+          }
+        },
+        {
+          "id": "solare",
+          "label_it": "Solare",
+          "filter": { "osm": { "plant:source": "solar" }, "sql": "source = 'solar'" }
+        },
+        {
+          "id": "eolico",
+          "label_it": "Eolico",
+          "filter": { "osm": { "plant:source": "wind" }, "sql": "source = 'wind'" }
+        },
+        {
+          "id": "biomassa",
+          "label_it": "Biomassa",
+          "filter": { "osm": { "plant:source": "biomass" }, "sql": "source = 'biomass'" }
+        },
+        {
+          "id": "termovalorizzatore",
+          "label_it": "Termovalorizzatore",
+          "filter": { "osm": { "plant:source": "waste" }, "sql": "source = 'waste'" }
+        },
+        {
+          "id": "batterie",
+          "label_it": "Batterie",
+          "filter": { "osm": { "plant:source": "battery" }, "sql": "source = 'battery'" }
+        },
+        {
+          "id": "other_unknown",
+          "label_it": "Other/Unknown",
+          "filter": {
+            "sql": "source IS NULL OR source = '' OR source NOT IN ('coal','geothermal','hydro','nuclear','oil','gas','diesel','solar','wind','biomass','waste','battery')"
+          }
+        }
+      ]
+    },
+    {
+      "id": "generatori",
+      "label_it": "Generatori",
+      "label_en": "Power Generators",
+      "layer_oim": "Power",
+      "geometrie": ["Point", "Polygon"],
+      "imposm_tables": ["power_generator"],
+      "osm_base": { "power": ["generator"], "also": ["construction:power"] },
+      "voci": [
+        {
+          "id": "turbina_eolica",
+          "label_it": "Turbina eolica",
+          "filter": {
+            "osm": { "generator:source": "wind" },
+            "sql": "source = 'wind'"
+          }
+        },
+        {
+          "id": "pannello_solare",
+          "label_it": "Pannello solare",
+          "filter": {
+            "osm": { "generator:source": "solar" },
+            "sql": "source = 'solar' AND GeometryType(geometry) IN ('POLYGON','MULTIPOLYGON')",
+            "note": "Area/poligono (pannello)"
+          }
+        },
+        {
+          "id": "pannello_solare_nodo",
+          "label_it": "Pannello solare (nodo)",
+          "filter": {
+            "osm": { "generator:source": "solar" },
+            "sql": "source = 'solar' AND GeometryType(geometry) IN ('POINT','MULTIPOINT')",
+            "note": "Nodo/punto"
+          }
+        },
+        {
+          "id": "generatore_altro",
+          "label_it": "Generatore (altro)",
+          "filter": {
+            "sql": "COALESCE(source,'') NOT IN ('wind','solar')"
+          }
+        }
+      ]
+    },
+    {
+      "id": "supporti_linee",
+      "label_it": "Supporti per linee elettriche",
+      "label_en": "Power Line Supports",
+      "layer_oim": "Power",
+      "geometrie": ["Point", "LineString"],
+      "imposm_tables": ["power_tower"],
+      "osm_base": { "power": ["tower", "pole", "portal"] },
+      "voci": [
+        {
+          "id": "torre_traliccio",
+          "label_it": "Torre/traliccio",
+          "filter": {
+            "osm": { "power": ["tower", "portal"] },
+            "sql": "type IN ('tower','portal') AND COALESCE(transition,false) IS NOT TRUE"
+          }
+        },
+        {
+          "id": "traliccio_transizione",
+          "label_it": "Traliccio di transizione",
+          "filter": {
+            "osm": { "power": "tower", "location:transition": "yes" },
+            "sql": "type IN ('tower','portal') AND transition IS TRUE"
+          }
+        },
+        {
+          "id": "palo_elettrico",
+          "label_it": "Palo elettrico",
+          "filter": {
+            "osm": { "power": "pole" },
+            "sql": "type = 'pole' AND COALESCE(transition,false) IS NOT TRUE"
+          }
+        },
+        {
+          "id": "palo_transizione",
+          "label_it": "Palo di transizione",
+          "filter": {
+            "osm": { "power": "pole", "location:transition": "yes" },
+            "sql": "type = 'pole' AND transition IS TRUE"
+          }
+        }
+      ]
+    },
+    {
+      "id": "apparecchiature_manovra",
+      "label_it": "Apparecchiature di manovra",
+      "label_en": "Switchgear",
+      "layer_oim": "Power",
+      "geometrie": ["Point", "Polygon"],
+      "imposm_tables": ["power_switchgear", "power_substation"],
+      "osm_base": {
+        "power": ["switch", "transformer", "compensator", "converter", "insulator", "terminal"]
+      },
+      "voci": [
+        {
+          "id": "trasformatore",
+          "label_it": "Trasformatore",
+          "filter": {
+            "osm": { "power": "transformer" },
+            "sql": "type = 'transformer' AND COALESCE(transformer_type,'') NOT IN ('current','potential') AND NOT (voltage_tertiary IS NOT NULL OR windings::int = 3)"
+          }
+        },
+        {
+          "id": "trasformatore_3",
+          "label_it": "Trasformatore a 3 avvolgimenti",
+          "filter": {
+            "osm": { "power": "transformer", "windings": "3" },
+            "sql": "type = 'transformer' AND (voltage_tertiary IS NOT NULL OR windings::int = 3)"
+          }
+        },
+        {
+          "id": "current_transformer",
+          "label_it": "Current transformer",
+          "filter": {
+            "osm": { "power": "transformer", "transformer": "current" },
+            "sql": "type = 'transformer' AND transformer_type = 'current'"
+          }
+        },
+        {
+          "id": "potential_transformer",
+          "label_it": "Potential transformer",
+          "filter": {
+            "osm": { "power": "transformer", "transformer": "potential" },
+            "sql": "type = 'transformer' AND transformer_type = 'potential'"
+          }
+        },
+        {
+          "id": "sezionatore",
+          "label_it": "Sezionatore",
+          "filter": {
+            "osm": { "power": "switch", "switch": "disconnector" },
+            "sql": "type = 'switch' AND switch = 'disconnector'"
+          }
+        },
+        {
+          "id": "interruttore",
+          "label_it": "Interruttore",
+          "filter": {
+            "osm": { "power": "switch", "switch": "circuit_breaker" },
+            "sql": "type = 'switch' AND switch = 'circuit_breaker'"
+          }
+        },
+        {
+          "id": "organo_manovra_generico",
+          "label_it": "Organo di manovra (generico)",
+          "filter": {
+            "osm": { "power": "switch" },
+            "sql": "type = 'switch' AND COALESCE(switch,'') NOT IN ('disconnector','circuit_breaker')"
+          }
+        },
+        {
+          "id": "reattanza_serie",
+          "label_it": "Reattanza serie",
+          "filter": {
+            "osm": { "power": "compensator", "compensator": "series_reactor" },
+            "sql": "type = 'series_reactor' OR compensator = 'series_reactor'"
+          }
+        },
+        {
+          "id": "reattanza_shunt",
+          "label_it": "Reattanza shunt",
+          "filter": {
+            "osm": { "power": "compensator", "compensator": "shunt_reactor" },
+            "sql": "type = 'shunt_reactor' OR compensator = 'shunt_reactor'"
+          }
+        },
+        {
+          "id": "condensatore_serie",
+          "label_it": "Condensatore serie",
+          "filter": {
+            "osm": { "power": "compensator", "compensator": "series_capacitor" },
+            "sql": "type = 'series_capacitor' OR compensator = 'series_capacitor'"
+          }
+        },
+        {
+          "id": "condensatore_shunt",
+          "label_it": "Condensatore shunt",
+          "filter": {
+            "osm": { "power": "compensator", "compensator": "shunt_capacitor" },
+            "sql": "type = 'shunt_capacitor' OR compensator = 'shunt_capacitor'"
+          }
+        },
+        {
+          "id": "filtro",
+          "label_it": "Filtro",
+          "filter": {
+            "osm": { "power": "compensator", "compensator": "filter" },
+            "sql": "type = 'filter' OR compensator = 'filter'"
+          }
+        },
+        {
+          "id": "compensatore_altro",
+          "label_it": "Compensatore (altro)",
+          "filter": {
+            "osm": { "power": "compensator" },
+            "sql": "type = 'compensator' AND COALESCE(compensator,type) NOT IN ('series_reactor','shunt_reactor','series_capacitor','shunt_capacitor','filter')"
+          }
+        },
+        {
+          "id": "conversione_dc",
+          "label_it": "Sottostazione di conversione DC",
+          "filter": {
+            "osm": { "power": ["converter", "substation"], "substation": "converter" },
+            "sql": "type = 'converter' OR substation = 'converter'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "telecomunicazioni",
+      "label_it": "Telecomunicazioni",
+      "label_en": "Telecoms",
+      "layer_oim": "Telecoms",
+      "geometrie": ["LineString", "Point", "Polygon"],
+      "imposm_tables": [
+        "telecom_cable",
+        "telecom_building",
+        "mast",
+        "street_cabinet",
+        "telecom_location",
+        "telecom_antenna",
+        "utility_pole"
+      ],
+      "voci": [
+        {
+          "id": "cavo",
+          "label_it": "Cavo",
+          "filter": {
+            "osm": { "communication": ["line", "cable"] },
+            "sql": "TRUE",
+            "imposm_table": "telecom_cable"
+          }
+        },
+        {
+          "id": "torre_palo_telecom",
+          "label_it": "Torre/palo",
+          "filter": {
+            "osm": {
+              "man_made": ["mast", "tower", "communications_tower"],
+              "tower:type": "communication"
+            },
+            "imposm_table": "mast"
+          }
+        },
+        {
+          "id": "datacenter",
+          "label_it": "Datacenter",
+          "filter": {
+            "osm": {
+              "building": ["data_center", "data_centre"],
+              "telecom": ["data_center", "data_centre"]
+            },
+            "sql": "type IN ('data_center','data_centre')"
+          }
+        },
+        {
+          "id": "centrale_telefonica",
+          "label_it": "Centrale telefonica",
+          "filter": {
+            "osm": {
+              "building": "telephone_exchange",
+              "telecom": ["central_office", "exchange"],
+              "office": "telecommunication",
+              "man_made": "telephone_office"
+            },
+            "sql": "type IN ('exchange','telephone_office','telephone_exchange','central_office','telecommunication')"
+          }
+        },
+        {
+          "id": "armadio",
+          "label_it": "Armadio",
+          "filter": {
+            "osm": { "man_made": "street_cabinet" },
+            "imposm_table": "street_cabinet",
+            "sql": "COALESCE(utility,'') IN ('','telecom','telecommunications') OR utility IS NULL"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gas",
+      "label_it": "Gas",
+      "label_en": "Gas",
+      "layer_oim": "Oil & Natural Gas",
+      "geometrie": ["LineString"],
+      "imposm_tables": ["pipeline"],
+      "osm_base": {
+        "man_made": "pipeline",
+        "substance": ["gas", "natural_gas", "cng", "lpg", "lng"]
+      },
+      "voci": [
+        {
+          "id": "gas_tx_dn700",
+          "label_it": "Transmission >= DN 700",
+          "filter": {
+            "sql": "substance IN ('gas','natural_gas','cng','lpg','lng') AND usage = 'transmission' AND diameter::numeric >= 700"
+          }
+        },
+        {
+          "id": "gas_tx_dn300",
+          "label_it": "Transmission >= DN 300",
+          "filter": {
+            "sql": "substance IN ('gas','natural_gas','cng','lpg','lng') AND usage = 'transmission' AND diameter::numeric >= 300 AND diameter::numeric < 700"
+          }
+        },
+        {
+          "id": "gas_tx_lt_dn300",
+          "label_it": "Transmission < DN 300",
+          "filter": {
+            "sql": "substance IN ('gas','natural_gas','cng','lpg','lng') AND usage = 'transmission' AND (diameter IS NULL OR diameter::numeric < 300)"
+          }
+        },
+        {
+          "id": "gas_dist_high",
+          "label_it": "Distribution High Pressure",
+          "filter": {
+            "sql": "substance IN ('gas','natural_gas','cng','lpg','lng') AND COALESCE(usage,'') <> 'transmission' AND (pressure = 'high' OR pressure::numeric >= 1)"
+          }
+        },
+        {
+          "id": "gas_dist_intermediate",
+          "label_it": "Distribution Intermediate Pressure",
+          "filter": {
+            "sql": "substance IN ('gas','natural_gas','cng','lpg','lng') AND COALESCE(usage,'') <> 'transmission' AND NOT (pressure = 'high' OR NULLIF(pressure,'')::numeric >= 1) AND (pressure = 'intermediate' OR pressure::numeric >= 0.1)"
+          }
+        },
+        {
+          "id": "gas_dist_low",
+          "label_it": "Distribution Low Pressure",
+          "filter": {
+            "sql": "substance IN ('gas','natural_gas','cng','lpg','lng') AND COALESCE(usage,'') <> 'transmission' AND NOT (pressure = 'high' OR NULLIF(pressure,'')::numeric >= 1) AND NOT (pressure = 'intermediate' OR NULLIF(pressure,'')::numeric >= 0.1)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "petrolio",
+      "label_it": "Petrolio",
+      "label_en": "Petroleum",
+      "layer_oim": "Oil & Natural Gas",
+      "geometrie": ["LineString", "Polygon", "Point"],
+      "imposm_tables": ["pipeline", "petroleum_site", "petroleum_well", "offshore_platform"],
+      "voci": [
+        {
+          "id": "petrolio_oil",
+          "label_it": "Petrolio",
+          "filter": {
+            "osm": { "man_made": "pipeline", "substance": "oil" },
+            "sql": "substance = 'oil'"
+          }
+        },
+        {
+          "id": "prodotti_intermedi",
+          "label_it": "Prodotti intermedi del petrolio",
+          "filter": {
+            "osm": {
+              "man_made": "pipeline",
+              "substance": ["ngl", "y-grade", "hydrocarbons", "condensate", "naphtha"]
+            },
+            "sql": "substance IN ('ngl','y-grade','hydrocarbons','condensate','naphtha')"
+          }
+        },
+        {
+          "id": "carburante",
+          "label_it": "Carburante",
+          "filter": {
+            "osm": { "man_made": "pipeline", "substance": "fuel" },
+            "sql": "substance = 'fuel'"
+          }
+        },
+        {
+          "id": "idrogeno",
+          "label_it": "Idrogeno",
+          "filter": {
+            "osm": { "man_made": "pipeline", "substance": "hydrogen" },
+            "sql": "substance = 'hydrogen'"
+          }
+        },
+        {
+          "id": "infrastrutture_petrolifere",
+          "label_it": "Infrastrutture petrolifere",
+          "filter": {
+            "osm": {
+              "industrial": [
+                "oil",
+                "fracking",
+                "oil_storage",
+                "petroleum_terminal",
+                "hydrocarbons",
+                "oil sands",
+                "oil_sands",
+                "gas",
+                "gas_storage",
+                "natural_gas",
+                "wellsite",
+                "well_cluster",
+                "refinery"
+              ],
+              "pipeline": "substation",
+              "man_made": ["petroleum_well", "oil_well", "offshore_platform"]
+            },
+            "imposm_tables": ["petroleum_site", "petroleum_well", "offshore_platform"]
+          }
+        }
+      ]
+    },
+    {
+      "id": "acqua",
+      "label_it": "Acqua",
+      "label_en": "Water",
+      "layer_oim": "Water",
+      "geometrie": ["LineString", "Polygon", "Point"],
+      "imposm_tables": [
+        "pipeline",
+        "pressurised_waterway",
+        "water_treatment_plant",
+        "wastewater_plant",
+        "pumping_station",
+        "water_reservoir",
+        "water_well",
+        "water_tower"
+      ],
+      "voci": [
+        {
+          "id": "acqua_dolce",
+          "label_it": "Acqua dolce",
+          "filter": {
+            "osm": { "substance": ["water", "rainwater"] },
+            "sql": "substance IN ('water','rainwater')"
+          }
+        },
+        {
+          "id": "acqua_calda",
+          "label_it": "Acqua calda",
+          "filter": {
+            "osm": { "substance": "hot_water" },
+            "sql": "substance = 'hot_water'"
+          }
+        },
+        {
+          "id": "vapore",
+          "label_it": "Vapore",
+          "filter": {
+            "osm": { "substance": "steam" },
+            "sql": "substance = 'steam'"
+          }
+        },
+        {
+          "id": "acque_reflue",
+          "label_it": "Acque reflue",
+          "filter": {
+            "osm": { "substance": ["wastewater", "sewage", "waterwaste"] },
+            "sql": "substance IN ('wastewater','sewage','waterwaste')"
+          }
+        },
+        {
+          "id": "impianto_trattamento_acque",
+          "label_it": "Impianto trattamento acque",
+          "filter": {
+            "osm": { "man_made": ["water_works", "desalination_plant"] },
+            "imposm_table": "water_treatment_plant"
+          }
+        },
+        {
+          "id": "stazione_pompaggio_acque",
+          "label_it": "Stazione pompaggio acque",
+          "filter": {
+            "osm": { "man_made": "pumping_station", "substance": "water" },
+            "sql": "substance = 'water'",
+            "imposm_table": "pumping_station"
+          }
+        },
+        {
+          "id": "impianto_depurazione",
+          "label_it": "Impianto di depurazione",
+          "filter": {
+            "osm": { "man_made": "wastewater_plant" },
+            "imposm_table": "wastewater_plant"
+          }
+        },
+        {
+          "id": "stazione_pompaggio_reflui",
+          "label_it": "Stazione pompaggio reflui",
+          "filter": {
+            "osm": { "man_made": "pumping_station", "substance": "sewage" },
+            "sql": "substance = 'sewage'",
+            "imposm_table": "pumping_station"
+          }
+        },
+        {
+          "id": "stazione_pompaggio_altro",
+          "label_it": "Stazione di pompaggio (altro)",
+          "filter": {
+            "osm": { "man_made": "pumping_station" },
+            "sql": "COALESCE(substance,'') NOT IN ('water','sewage')",
+            "imposm_table": "pumping_station"
+          }
+        }
+      ]
+    },
+    {
+      "id": "other_pipelines",
+      "label_it": "Other Pipelines",
+      "label_en": "Other Pipelines",
+      "layer_oim": "Other Pipelines",
+      "geometrie": ["LineString"],
+      "imposm_tables": ["pipeline"],
+      "osm_base": { "man_made": "pipeline" },
+      "note": "Pipeline con substance non gas/petrolio/acqua (resto)",
+      "voci": [
+        {
+          "id": "oxygen",
+          "label_it": "Oxygen",
+          "filter": {
+            "osm": { "substance": "oxygen" },
+            "sql": "substance = 'oxygen'"
+          }
+        },
+        {
+          "id": "co2",
+          "label_it": "CO2",
+          "filter": {
+            "osm": { "substance": "carbon_dioxide" },
+            "sql": "substance = 'carbon_dioxide'"
+          }
+        },
+        {
+          "id": "nitrogen",
+          "label_it": "Nitrogen",
+          "filter": {
+            "osm": { "substance": "nitrogen" },
+            "sql": "substance = 'nitrogen'"
+          }
+        },
+        {
+          "id": "beer",
+          "label_it": "Beer",
+          "filter": {
+            "osm": { "substance": "beer" },
+            "sql": "substance = 'beer'"
+          }
+        },
+        {
+          "id": "altro_pipeline",
+          "label_it": "Altro",
+          "filter": {
+            "sql": "substance NOT IN ('gas','natural_gas','cng','lpg','lng','oil','fuel','ngl','y-grade','hydrocarbons','condensate','naphtha','hydrogen','water','rainwater','hot_water','wastewater','sewage','waterwaste','steam','oxygen','carbon_dioxide','nitrogen','beer') OR substance IS NULL OR substance = ''",
+            "note": "Catch-all OIM other_pipeline_unknown"
+          }
+        }
+      ]
+    }
+  ],
+  "helper_sql": {
+    "hvdc": "frequency IS NOT NULL AND frequency <> '' AND NULLIF(frequency,'')::numeric = 0",
+    "traction": "frequency IS NOT NULL AND frequency <> '' AND NULLIF(frequency,'')::numeric NOT IN (0,50,60)",
+    "convert_voltage_note": "OIM usa convert_voltage() su stringhe tipo '132000;220000' → prendere il max in volt"
+  }
+}

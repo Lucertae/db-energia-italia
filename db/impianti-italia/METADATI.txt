@@ -1,0 +1,82 @@
+================================================================================
+METADATI — Impianti di generazione Italia
+================================================================================
+Aggiornato: 2026-07-23
+Path:       db/impianti-italia/
+Volume:     78.4 MB   |   file dati catalogati: 11
+
+--------------------------------------------------------------------------------
+1. DESCRIZIONE
+--------------------------------------------------------------------------------
+Inventari impianti/centrali da fonti aperte complementari (non Atlaimpianti GSE).
+
+--------------------------------------------------------------------------------
+2. REFRESH
+--------------------------------------------------------------------------------
+python db/scripts/harvest_impianti_complementari.py
+
+--------------------------------------------------------------------------------
+3. DATASET (cosa / quanto / copertura)
+--------------------------------------------------------------------------------
+[wikidata]  status=ok
+  path:    sources/wikidata
+  cosa:    Centrali/asset da Wikidata
+  geo:     IT
+  tempo:   n/d   |  granularità: snapshot
+  quanto:  343 righe (file campione), 4 file, 617.7 KB
+  unità:   n. impianti
+  fonte:   Wikidata  |  licenza: CC0
+
+[wri_gppd]  status=ok
+  path:    sources/wri_gppd
+  cosa:    WRI Global Power Plant Database — IT
+  geo:     IT
+  tempo:   n/d   |  granularità: snapshot
+  quanto:  396 righe (file campione), 2 file, 12.1 MB
+  unità:   MW, fuel
+  fonte:   WRI  |  licenza: CC-BY
+
+[gem]  status=ok
+  path:    sources/gem
+  cosa:    Global Energy Monitor trackers IT
+  geo:     IT
+  tempo:   n/d   |  granularità: snapshot
+  quanto:  1996 righe (file campione), 2 file, 24.5 MB
+  unità:   MW
+  fonte:   GEM  |  licenza: CC-BY 4.0
+
+[osm]  status=ok
+  path:    sources/osm
+  cosa:    OSM power plant/generator (Overpass)
+  geo:     IT
+  tempo:   n/d   |  granularità: snapshot
+  quanto:  103905 righe (file campione), 2 file, 41.1 MB
+  unità:   elementi OSM
+  fonte:   OpenStreetMap  |  licenza: ODbL
+
+[poweratlas]  status=ok
+  path:    sources/poweratlas
+  cosa:    Power Atlas impianti IT
+  geo:     IT
+  tempo:   2003–2006   |  granularità: snapshot
+  quanto:  104 righe (file campione), 1 file, 11.3 KB
+  unità:   —
+  fonte:   PowerAtlas  |  licenza: termini PowerAtlas
+
+--------------------------------------------------------------------------------
+4. CATALOGO MACHINE-READABLE
+--------------------------------------------------------------------------------
+Vedi catalog.csv nello stesso folder (rigenerate con:
+  python db/scripts/build_metadata_catalogs.py
+
+--------------------------------------------------------------------------------
+5. LICENZE
+--------------------------------------------------------------------------------
+Wikidata CC0; WRI GPPD CC-BY; OSM ODbL; GEM CC-BY 4.0; PowerAtlas termini propri.
+
+--------------------------------------------------------------------------------
+6. BUCHI NOTI
+--------------------------------------------------------------------------------
+GSE Atlaimpianti georiferito: solo download manuale UI.
+
+================================================================================

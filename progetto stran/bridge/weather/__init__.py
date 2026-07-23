@@ -1,0 +1,1 @@
+"""Weather → economy bridge modules."""

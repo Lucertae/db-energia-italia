@@ -1,0 +1,10 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+mercati-italia,gme_mgp,sources/gme,Esiti MGP e altri mercati GME (ZIP/CSV storici),IT zone,2004,2026,orario/giornaliero,,53,614327303,€/MWh,GME,GME,ok
+mercati-italia,prezzi_live,sources/prezzi_live,"Snapshot prezzi live (DA zone, Ember, ARERA, SISEN, EUA)",IT,2015,2024,rolling ~90g / indici,10776,12,7794672,"€/MWh, €/l",multi,open,ok
+mercati-italia,agsi,sources/agsi,Stoccaggio gas Italia (GIE AGSI) paese + entities,IT,2016,2026,giornaliero,4219,38,19031383,TWh / %,GIE AGSI,GIE,ok
+mercati-italia,alsi,sources/alsi,Terminali GNL Italia (GIE ALSI),IT,2023,2026,giornaliero,4214,37,21119795,GWh,GIE ALSI,GIE,ok
+mercati-italia,entsog_snam,sources/entsog_snam,Flussi gas fisici SNAM/ENTSOG,IT punti,2022,2023,giornaliero/mensile,5110,24,27670550,kWh/d,ENTSOG,ENTSOG,ok
+mercati-italia,snam_opendata,sources/snam_opendata,Materiali open data SNAM,IT,,,misto,,0,0,,SNAM,open,empty
+mercati-italia,gse,sources/gse,Incentivi/certificati GSE open data,IT,2018,2018,annuale/misto,3,325,841412257,,GSE,open,ok
+mercati-italia,ember,sources/ember,Serie mercato elettrico Ember,IT,2015,2026,giornaliero/orario,6040,10,124592959,"€/MWh, MW",Ember,CC-BY,ok
+mercati-italia,ets_eua,sources/ets_eua,Aste EUA EEX + contesto carbon OWID,EU/IT,1990,2024,asta/annuale,175,13,24907946,€/t,EEX/OWID,open,ok

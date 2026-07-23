@@ -1,0 +1,5 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+imprese-energia-italia,arera_operatori,sources/arera_operatori,Anagrafe operatori,IT,2026,2026,snapshot,,1,3755962,operatori,ARERA,open,ok
+imprese-energia-italia,arera_vend_ee,sources/arera_vend_ee,Venditori elettricità,IT,2026,2026,snapshot,,1,95208,venditori,ARERA,open,ok
+imprese-energia-italia,arera_vend_gas,sources/arera_vend_gas,Venditori gas,IT,2026,2026,snapshot,,1,78105,venditori,ARERA,open,ok
+imprese-energia-italia,derived,derived,Merge/derivati (es. arera_operatori_ALL),IT,,,snapshot,32068,9,18790409,,derivato,open,ok

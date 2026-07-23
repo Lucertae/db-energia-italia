@@ -1,0 +1,17 @@
+{
+  "a_produzione_ee": 25696,
+  "b_trasmissione_ee": 5,
+  "c_dispacciamento": 2,
+  "d_distribuzione_ee": 111,
+  "e_misura_ee": 173,
+  "f_ingrosso_ee": 588,
+  "h_tutela_ee": 99,
+  "i_libero_ee": 734,
+  "p_distribuzione_gas": 180,
+  "q_misura_gas": 193,
+  "r_ingrosso_gas": 523,
+  "s_tutela_gas": 130,
+  "t_libero_gas": 632,
+  "termica_produzione": 226,
+  "termica_distribuzione": 198
+}

@@ -1,0 +1,102 @@
+{
+  "built_at": "2026-07-15T22:39:02Z",
+  "rate_legs": {
+    "SOFR": 3.63,
+    "ECB_DFR": 2.25
+  },
+  "signals": [
+    {
+      "pair": "EURUSD",
+      "desk_id": "USD",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURJPY",
+      "desk_id": "JPY",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURGBP",
+      "desk_id": "GBP",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURBRL",
+      "desk_id": "BRL",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURZAR",
+      "desk_id": "ZAR",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURINR",
+      "desk_id": "INR",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURCNY",
+      "desk_id": "CNY",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURMXN",
+      "desk_id": "MXN",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURNOK",
+      "desk_id": "ENK",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURSEK",
+      "desk_id": "ESK",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURCAD",
+      "desk_id": "CAD",
+      "spot_eur_base": 1.4132,
+      "mom_63d_pct": 2.35
+    },
+    {
+      "pair": "EURNZD",
+      "desk_id": "NZD",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURCHF",
+      "desk_id": "CHF",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    },
+    {
+      "pair": "EURAUD",
+      "desk_id": "AUD",
+      "spot_eur_base": null,
+      "mom_63d_pct": null
+    }
+  ],
+  "top_momentum": [
+    {
+      "pair": "EURCAD",
+      "desk_id": "CAD",
+      "spot_eur_base": 1.4132,
+      "mom_63d_pct": 2.35
+    }
+  ],
+  "note": "Daily FRED/ECB \u2014 carry from rate diff; not live forward points."
+}

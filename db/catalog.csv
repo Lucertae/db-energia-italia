@@ -1,0 +1,87 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+consumi-italia,arera_domestici,sources/arera/domestici,Prelievi medi clienti domestici (regione/provincia),IT regioni/province,2021,2024,annuale,,19,835242766,kWh / clienti,ARERA,open data ARERA,ok
+consumi-italia,arera_non_domestici_ateco,sources/arera/non_domestici_ateco,Clienti non domestici BT per ATECO,IT,2021,2024,annuale,,13,174711013,clienti / kWh,ARERA,open data ARERA,ok
+consumi-italia,terna_bilanci,sources/terna/bilanci,Consumi elettrici finali per settore 1990–2024,IT,1990,2024,annuale,18,2,50106,GWh,ISPRA/Terna,open,ok
+consumi-italia,terna_total_load,sources/terna/total_load,Carico elettrico totale (API Terna),IT,2023,2026,orario/sub-orario,993188,1,65605264,MW,Terna API,Terna Developer,ok
+consumi-italia,terna_imcei,sources/terna/imcei,Indice mensile consumi energivori (IMCEI),IT,2015,2026,mensile,30429,1,1515344,indice,Terna API,Terna Developer,ok
+consumi-italia,terna_industry,sources/terna/industry_sector,Consumi industria provincia/ATECO,IT province,2015,2024,mensile,32208,1,2947459,GWh,Terna API,Terna Developer,ok
+consumi-italia,terna_services,sources/terna/services_sector,Consumi servizi (incl. PA),IT,2015,2024,mensile,36648,1,4509440,GWh,Terna API,Terna Developer,ok
+consumi-italia,terna_by_sector,sources/terna/electrical_energy_by_sector,Energia elettrica per settore,IT,2015,2024,mensile,4304,1,194233,GWh,Terna API,Terna Developer,ok
+consumi-italia,terna_by_type,sources/terna/electrical_energy_by_type,Energia elettrica per tipologia,IT,2015,2024,mensile,600,1,28132,GWh,Terna API,Terna Developer,ok
+consumi-italia,terna_capacity,sources/terna/installed_capacity,Capacità installata,IT,2021,2022,mensile,10,1,243,MW,Terna API,Terna Developer,ok
+consumi-italia,terna_res_capacity,sources/terna/renewable_source_capacity,Capacità rinnovabili per fonte,IT,2015,2024,mensile,11044,1,521804,MW,Terna API,Terna Developer,ok
+consumi-italia,eurostat_energy,sources/eurostat,"Bilanci, prezzi, trade, stock, SDG energia (geo=IT)",IT,2008,2025,annuale/mensile,162229,36,289258548,mix Eurostat,Eurostat,Eurostat,ok
+consumi-italia,mase_sisen,sources/mase,"Relazione energetica, SISEN prezzi/carburanti/BEN/gas",IT,1996,2026,settimanale/mensile/annuale,3194,1896,129553934,"€/l, tep, Sm3",MASE/SISEN,open,ok
+consumi-italia,ispra,sources/ispra,"FE, indicatori energia, report GHG",IT,1990,2025,annuale,,37,54135392,tCO2eq / FE,ISPRA,open,ok
+consumi-italia,worldbank_energy,sources/worldbank,Indicatori energetici WB Italia,IT,1990,2025,annuale,396,9,125898,mix,World Bank,CC-BY 4.0,ok
+consumi-italia,edgar_co2,sources/edgar,Estratto CO₂ EDGAR/OWID,IT,1990,2024,annuale,175,2,14451013,tCO2,OWID/EDGAR,CC-BY,ok
+consumi-italia,ghg,sources/ghg,Materiali GHG EEA/correlati,IT/EU,1990,2024,annuale,7520,2,497866,,EEA,open,ok
+consumi-italia,istat_admin,sources/istat,Confini/elenco comuni (supporto geografico),IT,,,statico,,2,39348703,,ISTAT,open,ok
+terna-italia,bilanci,sources/bilanci,Bilanci consumi elettrici per settore,IT,1990,2024,annuale,18,2,50106,GWh,ISPRA/Terna,open,ok
+terna-italia,total_load,sources/total_load,Carico totale,IT,2023,2026,orario,993188,1,65605264,MW,Terna API,Terna Developer,ok
+terna-italia,imcei,sources/imcei,IMCEI,IT,2015,2026,mensile,30429,1,1515344,indice,Terna API,Terna Developer,ok
+terna-italia,industry_sector,sources/industry_sector,Industria provincia/ATECO,IT,2015,2024,mensile,32208,1,2947459,GWh,Terna API,Terna Developer,ok
+terna-italia,services_sector,sources/services_sector,Servizi,IT,2015,2024,mensile,36648,1,4509440,GWh,Terna API,Terna Developer,ok
+terna-italia,by_sector,sources/electrical_energy_by_sector,Per settore,IT,2015,2024,mensile,4304,1,194233,GWh,Terna API,Terna Developer,ok
+terna-italia,by_type,sources/electrical_energy_by_type,Per tipologia,IT,2015,2024,mensile,600,1,28132,GWh,Terna API,Terna Developer,ok
+terna-italia,in_italy,sources/electrical_energy_in_italy,Serie nazionali,IT,2015,2023,mensile,108,1,1844,GWh,Terna API,Terna Developer,ok
+terna-italia,installed_capacity,sources/installed_capacity,Capacità installata,IT,2021,2022,mensile,10,1,243,MW,Terna API,Terna Developer,ok
+terna-italia,res_capacity,sources/renewable_source_capacity,Capacità FER,IT,2015,2024,mensile,11044,1,521804,MW,Terna API,Terna Developer,ok
+terna-italia,pdf_documenti,sources/pdf,"PDF Terna (report, piani, comunicati) — DA POPOLARE",IT,,,documentale,,0,0,PDF,Terna,termini Terna,planned
+terna-italia,incidenti_rete,sources/incidenti,Incidenti / eventi di rete (dati semantici) — DA POPOLARE,IT,,,evento,,0,0,"eventi, MW, durata",Terna,termini Terna,planned
+terna-italia,stato_rete,sources/stato_rete,"Stato della rete (asset, congestioni, indisponibilità) — DA POPOLARE",IT,,,snapshot/serie,,0,0,stato asset / MW,Terna,termini Terna,planned
+terna-italia,avanzamento_rete,sources/avanzamento_rete,"Avanzamento / sviluppo rete (piani, cantieri, opere) — DA POPOLARE",IT,,,progetto/milestone,,0,0,"opere, stato avanzamento",Terna,termini Terna,planned
+mercati-italia,gme_mgp,sources/gme,Esiti MGP e altri mercati GME (ZIP/CSV storici),IT zone,2004,2026,orario/giornaliero,,53,614327303,€/MWh,GME,GME,ok
+mercati-italia,prezzi_live,sources/prezzi_live,"Snapshot prezzi live (DA zone, Ember, ARERA, SISEN, EUA)",IT,2015,2024,rolling ~90g / indici,10776,12,7794672,"€/MWh, €/l",multi,open,ok
+mercati-italia,agsi,sources/agsi,Stoccaggio gas Italia (GIE AGSI) paese + entities,IT,2016,2026,giornaliero,4219,38,19031383,TWh / %,GIE AGSI,GIE,ok
+mercati-italia,alsi,sources/alsi,Terminali GNL Italia (GIE ALSI),IT,2023,2026,giornaliero,4214,37,21119795,GWh,GIE ALSI,GIE,ok
+mercati-italia,entsog_snam,sources/entsog_snam,Flussi gas fisici SNAM/ENTSOG,IT punti,2022,2023,giornaliero/mensile,5110,24,27670550,kWh/d,ENTSOG,ENTSOG,ok
+mercati-italia,snam_opendata,sources/snam_opendata,Materiali open data SNAM,IT,,,misto,,0,0,,SNAM,open,empty
+mercati-italia,gse,sources/gse,Incentivi/certificati GSE open data,IT,2018,2018,annuale/misto,3,325,841412257,,GSE,open,ok
+mercati-italia,ember,sources/ember,Serie mercato elettrico Ember,IT,2015,2026,giornaliero/orario,6040,10,124592959,"€/MWh, MW",Ember,CC-BY,ok
+mercati-italia,ets_eua,sources/ets_eua,Aste EUA EEX + contesto carbon OWID,EU/IT,1990,2024,asta/annuale,175,13,24907946,€/t,EEX/OWID,open,ok
+entsoe-italia,IT_national,data/IT,"Serie nazionali (load, gen, prices, balancing, …)",IT,2015,2015,orario/quarter,133052,1220,200306202,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_North,data/IT-North,Zona Nord,IT-North,2015,2015,orario,8664,192,50740033,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_Centre_North,data/IT-Centre-North,Zona Centro-Nord,IT-Centre-North,2015,2015,orario,8664,192,47587807,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_Centre_South,data/IT-Centre-South,Zona Centro-Sud,IT-Centre-South,2015,2015,orario,8664,190,49283359,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_South,data/IT-South,Zona Sud,IT-South,2015,2015,orario,8664,192,48397616,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_Sicily,data/IT-Sicily,Zona Sicilia,IT-Sicily,2015,2015,orario,8664,192,47922920,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_Sardinia,data/IT-Sardinia,Zona Sardegna,IT-Sardinia,2015,2015,orario,8664,192,47734780,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_Calabria,data/IT-Calabria,Zona Calabria,IT-Calabria,2015,2015,orario,0,192,31522782,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,crossborder,data/crossborder,Scambi/NTC/outage frontiere IT,IT borders,2015,2015,orario,8760,668,103496225,MW,ENTSO-E,ENTSO-E,ok
+meteo-italia,open_meteo_cities_hourly,sources/meteo,12 città — orario ricco (precip/rain/snow/vento/solare),12 città IT,2015,2026,orario,1074552,146,538963294,"°C, mm, cm, km/h, W/m2",Open-Meteo,Open-Meteo/ERA5,ok
+meteo-italia,open_meteo_cities_daily,sources/meteo_daily,12 città — giornaliero (sum precip/rain/snow),12 città IT,2015,2026,giornaliero,44773,137,15781245,"mm, cm, °C",Open-Meteo,Open-Meteo/ERA5,ok
+meteo-italia,open_meteo_zones_hourly,sources/open_meteo_zones,7 zone ENTSO — orario,7 zone,2015,2026,orario,101304,7,62301720,come città,Open-Meteo,Open-Meteo/ERA5,ok
+meteo-italia,open_meteo_zones_daily,sources/open_meteo_zones_daily,7 zone ENTSO — giornaliero,7 zone,2015,2026,giornaliero,4220,1,469037,"mm, °C",Open-Meteo,Open-Meteo/ERA5,ok
+meteo-italia,nasa_power_grid,sources/nasa_power_grid,Griglia nazionale ~1° daily (precip/temp/vento/solare),IT griglia ~81 punti,2015,2026,giornaliero,341577,83,50343411,"mm, °C, m/s, kWh/m2/d",NASA POWER,NASA POWER,ok
+meteo-italia,nasa_power_cities,sources/nasa_power_cities,12 città daily NASA POWER,12 città,2015,2026,giornaliero,50604,13,8687431,"mm, °C, …",NASA POWER,NASA POWER,ok
+meteo-italia,nasa_power_zones,sources/nasa_power_zones,7 zone ENTSO daily NASA POWER,7 zone,2015,2026,giornaliero,29519,8,5112788,"mm, °C, …",NASA POWER,NASA POWER,ok
+meteo-italia,meteostat_stations,sources/meteostat_stations,Stazioni osservative IT daily (~120),IT stazioni,2015,2026,giornaliero,852904,168,385659414,"°C, mm precip, snow mm, km/h",Meteostat,Meteostat,ok
+meteo-italia,open_meteo_grid,sources/open_meteo_grid,Tentativo griglia Open-Meteo (spesso vuoto/429),IT,,,giornaliero,,1,288,,Open-Meteo,Open-Meteo,partial
+socio-italia,eurostat_demo,sources/eurostat,Demografia/occupazione Eurostat (IT),IT / NUTS,2004,2025,annuale,3168,16,67638057,"persone, %",Eurostat,Eurostat,ok
+socio-italia,eurostat_gva,sources/eurostat_gva,"PIL/VA NACE a10/a64, GDP NUTS2–3, reddito famiglie",IT NUTS,1995,2025,annuale,13284,19,45423235,"M€, €/ab",Eurostat,Eurostat,ok
+socio-italia,worldbank,sources/worldbank,"Popolazione, GDP, lavoro, land area",IT,1990,2025,annuale,792,25,230786,mix,World Bank,CC-BY 4.0,ok
+socio-italia,istat,sources/istat,Comuni / estratti ISTAT,IT,,,misto,,2,39348703,,ISTAT,open,ok
+socio-italia,land_use,sources/land_use,"Land cover Eurostat, WB land %, confini ISTAT, geojson",IT,2005,2023,annuale/statico,77860,30,199536329,"km2, %",Eurostat/ISTAT/WB,open,ok
+socio-italia,mobility,sources/mobility,"Veicoli/traffico Eurostat, ISPRA flotta, MIT porti/aereo/patenti, OSM",IT,1993,2026,annuale/misto,98747,59,1840815732,"veicoli, pax",Eurostat/MIT/ISPRA,open,ok
+socio-italia,poverty,sources/poverty,Povertà/Gini/GNI (PIP + WB),IT,1991,2018,annuale,48,15,188442,"%, indice",OWID/WB,CC-BY,ok
+socio-italia,owid,sources/owid,Estratti OWID demografici/sociali,IT,,,annuale,,0,0,,OWID,CC-BY,empty
+impianti-italia,wikidata,sources/wikidata,Centrali/asset da Wikidata,IT,,,snapshot,343,4,617709,n. impianti,Wikidata,CC0,ok
+impianti-italia,wri_gppd,sources/wri_gppd,WRI Global Power Plant Database — IT,IT,,,snapshot,396,2,12083888,"MW, fuel",WRI,CC-BY,ok
+impianti-italia,gem,sources/gem,Global Energy Monitor trackers IT,IT,,,snapshot,1996,2,24534441,MW,GEM,CC-BY 4.0,ok
+impianti-italia,osm,sources/osm,OSM power plant/generator (Overpass),IT,,,snapshot,103905,2,41141297,elementi OSM,OpenStreetMap,ODbL,ok
+impianti-italia,poweratlas,sources/poweratlas,Power Atlas impianti IT,IT,2003,2006,snapshot,104,1,11326,,PowerAtlas,termini PowerAtlas,ok
+imprese-energia-italia,arera_operatori,sources/arera_operatori,Anagrafe operatori,IT,2026,2026,snapshot,,1,3755962,operatori,ARERA,open,ok
+imprese-energia-italia,arera_vend_ee,sources/arera_vend_ee,Venditori elettricità,IT,2026,2026,snapshot,,1,95208,venditori,ARERA,open,ok
+imprese-energia-italia,arera_vend_gas,sources/arera_vend_gas,Venditori gas,IT,2026,2026,snapshot,,1,78105,venditori,ARERA,open,ok
+imprese-energia-italia,derived,derived,Merge/derivati (es. arera_operatori_ALL),IT,,,snapshot,32068,9,18790409,,derivato,open,ok
+oim-italia,export_gpkg,export,"Export offline: GPKG, CSV feature/node/edge, stats",IT,,,snapshot,74735,7,818875517,geometrie,OSM via OIM,ODbL,ok
+oim-italia,pbf_data,data,Input/aree lavoro PBF (se presenti),IT,,,snapshot,,1,2212317827,,Geofabrik OSM,ODbL,optional
+oim-italia,legend,filtri-legenda-completa.json,Legenda categorie/voci OIM,—,,,statico,,1,26558,10 cat / 75 voci,OpenInfraMap,open,ok
+owid-italia,energy_data,sources/energy-data,Energy data Italy,IT,1990,2025,annuale,126,4,9859958,mix energia,OWID,CC-BY,ok
+owid-italia,co2_data,sources/co2-data,CO₂ Italy,IT,1990,2024,annuale,175,3,766436,tCO2,OWID,CC-BY,ok
+owid-italia,poverty_data,sources/poverty-data,Poverty/PIP Italy,IT,1991,2018,annuale,48,4,7898410,% / indici,OWID/PIP,CC-BY,ok
+owid-italia,covid,sources/covid-19-data,COVID-19 Italy,IT,2020,2024,giornaliero/annuale,1677,2,611893,,OWID,CC-BY,ok
+owid-italia,energy_use_products,sources/energy-use-products,Energy use by product,IT,,,annuale,,4,38119,,OWID,CC-BY,ok
+owid-italia,owid_datasets_scan,sources/owid-datasets,Scansione catalogo OWID + subset italy/,IT/world,1990,2017,snapshot,57,365,1949042,dataset,OWID,CC-BY,ok
+owid-energy-italia,redirect,.,Punta a owid-italia/sources/energy-data/,IT,,,—,1,4,2645,,OWID,CC-BY,legacy

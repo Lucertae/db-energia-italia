@@ -1,0 +1,65 @@
+[
+  {
+    "desk_id": "HUB",
+    "freq": "daily",
+    "n_total": 1351,
+    "n_valid": 1293,
+    "coverage_pct": 95.71,
+    "start": "2021-04-26",
+    "end": "2026-06-29",
+    "n_gaps": 58,
+    "max_gap_days": 2,
+    "n_outliers_mad": 0,
+    "vintage_mtime": "2026-07-07T17:00:08",
+    "loaded_from": "C:\\Users\\jecho\\Desktop\\terminal\\cache\\HUB.csv",
+    "warnings": []
+  },
+  {
+    "desk_id": "TTF",
+    "freq": "monthly",
+    "n_total": 62,
+    "n_valid": 62,
+    "coverage_pct": 100.0,
+    "start": "2021-04-01",
+    "end": "2026-05-01",
+    "n_gaps": 0,
+    "max_gap_days": 0,
+    "n_outliers_mad": 1,
+    "vintage_mtime": "2026-07-07T17:00:25",
+    "loaded_from": "C:\\Users\\jecho\\Desktop\\terminal\\cache\\TTF.csv",
+    "warnings": [
+      "1 MAD outliers (|z|>6)",
+      "monthly FRED proxy \u2014 not ICE TTF futures"
+    ]
+  },
+  {
+    "desk_id": "NGS",
+    "freq": "weekly",
+    "n_total": 861,
+    "n_valid": 861,
+    "coverage_pct": 100.0,
+    "start": "2010-01-01",
+    "end": "2026-06-26",
+    "n_gaps": 0,
+    "max_gap_days": 0,
+    "n_outliers_mad": 0,
+    "vintage_mtime": "2026-07-07T23:23:15",
+    "loaded_from": "C:\\Users\\jecho\\Desktop\\terminal\\cache\\NGS.csv",
+    "warnings": []
+  },
+  {
+    "desk_id": "VIX",
+    "freq": "daily",
+    "n_total": 1356,
+    "n_valid": 1336,
+    "coverage_pct": 98.53,
+    "start": "2021-04-26",
+    "end": "2026-07-06",
+    "n_gaps": 20,
+    "max_gap_days": 1,
+    "n_outliers_mad": 0,
+    "vintage_mtime": "2026-07-07T17:00:30",
+    "loaded_from": "C:\\Users\\jecho\\Desktop\\terminal\\cache\\VIX.csv",
+    "warnings": []
+  }
+]

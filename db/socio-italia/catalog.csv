@@ -1,0 +1,9 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+socio-italia,eurostat_demo,sources/eurostat,Demografia/occupazione Eurostat (IT),IT / NUTS,2004,2025,annuale,3168,16,67638057,"persone, %",Eurostat,Eurostat,ok
+socio-italia,eurostat_gva,sources/eurostat_gva,"PIL/VA NACE a10/a64, GDP NUTS2–3, reddito famiglie",IT NUTS,1995,2025,annuale,13284,19,45423235,"M€, €/ab",Eurostat,Eurostat,ok
+socio-italia,worldbank,sources/worldbank,"Popolazione, GDP, lavoro, land area",IT,1990,2025,annuale,792,25,230786,mix,World Bank,CC-BY 4.0,ok
+socio-italia,istat,sources/istat,Comuni / estratti ISTAT,IT,,,misto,,2,39348703,,ISTAT,open,ok
+socio-italia,land_use,sources/land_use,"Land cover Eurostat, WB land %, confini ISTAT, geojson",IT,2005,2023,annuale/statico,77860,30,199536329,"km2, %",Eurostat/ISTAT/WB,open,ok
+socio-italia,mobility,sources/mobility,"Veicoli/traffico Eurostat, ISPRA flotta, MIT porti/aereo/patenti, OSM",IT,1993,2026,annuale/misto,98747,59,1840815732,"veicoli, pax",Eurostat/MIT/ISPRA,open,ok
+socio-italia,poverty,sources/poverty,Povertà/Gini/GNI (PIP + WB),IT,1991,2018,annuale,48,15,188442,"%, indice",OWID/WB,CC-BY,ok
+socio-italia,owid,sources/owid,Estratti OWID demografici/sociali,IT,,,annuale,,0,0,,OWID,CC-BY,empty

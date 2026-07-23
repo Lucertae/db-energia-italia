@@ -1,0 +1,165 @@
+time,time_label,geo,geo_label,mot_nrg,mot_nrg_label,unit,unit_label,freq,freq_label,OBS_VALUE
+2013,2013,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,2769000
+2014,2014,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,2885597
+2015,2015,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,3031171
+2016,2016,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,3134643
+2017,2017,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,3249530
+2018,2018,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,3373396
+2019,2019,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,3568550
+2020,2020,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,3716808
+2021,2021,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,3891296
+2022,2022,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,4036762
+2023,2023,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,4209098
+2024,2024,IT,Italy,ALT,Alternative energy,NR,Number,A,Annual,4365090
+2013,2013,IT,Italy,DIE,Diesel,NR,Number,A,Annual,14932000
+2014,2014,IT,Italy,DIE,Diesel,NR,Number,A,Annual,15240069
+2015,2015,IT,Italy,DIE,Diesel,NR,Number,A,Annual,15669276
+2016,2016,IT,Italy,DIE,Diesel,NR,Number,A,Annual,16263957
+2017,2017,IT,Italy,DIE,Diesel,NR,Number,A,Annual,16900141
+2018,2018,IT,Italy,DIE,Diesel,NR,Number,A,Annual,17321593
+2019,2019,IT,Italy,DIE,Diesel,NR,Number,A,Annual,17486135
+2020,2020,IT,Italy,DIE,Diesel,NR,Number,A,Annual,17426703
+2021,2021,IT,Italy,DIE,Diesel,NR,Number,A,Annual,17197765
+2022,2022,IT,Italy,DIE,Diesel,NR,Number,A,Annual,17100357
+2023,2023,IT,Italy,DIE,Diesel,NR,Number,A,Annual,17039273
+2024,2024,IT,Italy,DIE,Diesel,NR,Number,A,Annual,16796038
+2013,2013,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,14930
+2014,2014,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,15237608
+2015,2015,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,15666309
+2016,2016,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,16260625
+2017,2017,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,16896736
+2018,2018,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,17316888
+2019,2019,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,17467776
+2020,2020,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,17385843
+2021,2021,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,17093277
+2022,2022,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,16928077
+2023,2023,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,16777000
+2024,2024,IT,Italy,DIE_X_HYB,Diesel (excluding hybrids)  ,NR,Number,A,Annual,16437562
+2013,2013,IT,Italy,ELC,Electricity,NR,Number,A,Annual,4500
+2014,2014,IT,Italy,ELC,Electricity,NR,Number,A,Annual,3430
+2015,2015,IT,Italy,ELC,Electricity,NR,Number,A,Annual,4584
+2016,2016,IT,Italy,ELC,Electricity,NR,Number,A,Annual,5743
+2017,2017,IT,Italy,ELC,Electricity,NR,Number,A,Annual,7560
+2018,2018,IT,Italy,ELC,Electricity,NR,Number,A,Annual,12156
+2019,2019,IT,Italy,ELC,Electricity,NR,Number,A,Annual,22728
+2020,2020,IT,Italy,ELC,Electricity,NR,Number,A,Annual,53079
+2021,2021,IT,Italy,ELC,Electricity,NR,Number,A,Annual,118034
+2022,2022,IT,Italy,ELC,Electricity,NR,Number,A,Annual,158131
+2023,2023,IT,Italy,ELC,Electricity,NR,Number,A,Annual,219540
+2024,2024,IT,Italy,ELC,Electricity,NR,Number,A,Annual,279607
+2013,2013,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,2000
+2014,2014,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,2461
+2015,2015,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,2967
+2016,2016,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,3332
+2017,2017,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,3405
+2018,2018,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,4705
+2019,2019,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,18359
+2020,2020,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,40860
+2021,2021,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,104488
+2022,2022,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,172280
+2023,2023,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,224377
+2024,2024,IT,Italy,ELC_DIE_HYB,Hybrid diesel-electric,NR,Number,A,Annual,315465
+2014,2014,IT,Italy,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,NR,Number,A,Annual,78
+2015,2015,IT,Italy,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,NR,Number,A,Annual,52
+2023,2023,IT,Italy,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,NR,Number,A,Annual,37896
+2024,2024,IT,Italy,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,NR,Number,A,Annual,43011
+2013,2013,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,41000
+2014,2014,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,59949
+2015,2015,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,82381
+2016,2016,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,117433
+2017,2017,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,174087
+2018,2018,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,239779
+2019,2019,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,316209
+2020,2020,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,501868
+2021,2021,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,927006
+2022,2022,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,1384340
+2023,2023,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,1734917
+2024,2024,IT,Italy,ELC_PET_HYB,Hybrid electric-petrol,NR,Number,A,Annual,2298150
+2014,2014,IT,Italy,ELC_PET_PI,Plug-in hybrid petrol-electric  ,NR,Number,A,Annual,123
+2015,2015,IT,Italy,ELC_PET_PI,Plug-in hybrid petrol-electric  ,NR,Number,A,Annual,839
+2023,2023,IT,Italy,ELC_PET_PI,Plug-in hybrid petrol-electric  ,NR,Number,A,Annual,214744
+2024,2024,IT,Italy,ELC_PET_PI,Plug-in hybrid petrol-electric  ,NR,Number,A,Annual,243726
+2013,2013,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,774000
+2014,2014,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,833668
+2015,2015,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,883190
+2016,2016,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,911246
+2017,2017,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,926704
+2018,2018,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,945184
+2019,2019,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,965340
+2020,2020,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,978832
+2021,2021,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,984964
+2022,2022,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,971583
+2023,2023,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,950500
+2024,2024,IT,Italy,GAS,Natural gas,NR,Number,A,Annual,925583
+2013,2013,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,0
+2014,2014,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,10
+2015,2015,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,11
+2016,2016,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,11
+2017,2017,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,11
+2018,2018,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,11
+2019,2019,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,28
+2020,2020,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,35
+2021,2021,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,45
+2022,2022,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,56
+2023,2023,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,58
+2024,2024,IT,Italy,HYD_FCELL,Hydrogen and fuel cells ,NR,Number,A,Annual,58
+2013,2013,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,1944000
+2014,2014,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,2042120
+2015,2015,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,2137078
+2016,2016,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,2211368
+2017,2017,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,2309020
+2018,2018,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,2409840
+2019,2019,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,2574287
+2020,2020,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,2678656
+2021,2021,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,2782057
+2022,2022,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,2900799
+2023,2023,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,3032796
+2024,2024,IT,Italy,LPG,Liquefied petroleum gases (LPG),NR,Number,A,Annual,3153648
+2013,2013,IT,Italy,OTH,Other,NR,Number,A,Annual,6000
+2014,2014,IT,Italy,OTH,Other,NR,Number,A,Annual,6369
+2015,2015,IT,Italy,OTH,Other,NR,Number,A,Annual,6308
+2016,2016,IT,Italy,OTH,Other,NR,Number,A,Annual,6286
+2017,2017,IT,Italy,OTH,Other,NR,Number,A,Annual,6246
+2018,2018,IT,Italy,OTH,Other,NR,Number,A,Annual,6216
+2019,2019,IT,Italy,OTH,Other,NR,Number,A,Annual,6195
+2020,2020,IT,Italy,OTH,Other,NR,Number,A,Annual,6206
+2021,2021,IT,Italy,OTH,Other,NR,Number,A,Annual,6196
+2022,2022,IT,Italy,OTH,Other,NR,Number,A,Annual,6193
+2023,2023,IT,Italy,OTH,Other,NR,Number,A,Annual,6204
+2024,2024,IT,Italy,OTH,Other,NR,Number,A,Annual,6194
+2013,2013,IT,Italy,PET,Petrol,NR,Number,A,Annual,19304000
+2014,2014,IT,Italy,PET,Petrol,NR,Number,A,Annual,18955087
+2015,2015,IT,Italy,PET,Petrol,NR,Number,A,Annual,18650786
+2016,2016,IT,Italy,PET,Petrol,NR,Number,A,Annual,18477538
+2017,2017,IT,Italy,PET,Petrol,NR,Number,A,Annual,18370650
+2018,2018,IT,Italy,PET,Petrol,NR,Number,A,Annual,18323181
+2019,2019,IT,Italy,PET,Petrol,NR,Number,A,Annual,18490547
+2020,2020,IT,Italy,PET,Petrol,NR,Number,A,Annual,18574363
+2021,2021,IT,Italy,PET,Petrol,NR,Number,A,Annual,18733662
+2022,2022,IT,Italy,PET,Petrol,NR,Number,A,Annual,19075917
+2023,2023,IT,Italy,PET,Petrol,NR,Number,A,Annual,19666808
+2024,2024,IT,Italy,PET,Petrol,NR,Number,A,Annual,20178631
+2013,2013,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,19264000
+2014,2014,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,18895138
+2015,2015,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,18568405
+2016,2016,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,18360105
+2017,2017,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,18196563
+2018,2018,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,18083402
+2019,2019,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,18174338
+2020,2020,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,18072495
+2021,2021,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,17806656
+2022,2022,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,17691577
+2023,2023,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,17717147
+2024,2024,IT,Italy,PET_X_HYB,Petrol (excluding hybrids)  ,NR,Number,A,Annual,17636755
+2013,2013,IT,Italy,TOTAL,Total,NR,Number,A,Annual,36963000
+2014,2014,IT,Italy,TOTAL,Total,NR,Number,A,Annual,37080753
+2015,2015,IT,Italy,TOTAL,Total,NR,Number,A,Annual,37351233
+2016,2016,IT,Italy,TOTAL,Total,NR,Number,A,Annual,37876138
+2017,2017,IT,Italy,TOTAL,Total,NR,Number,A,Annual,38520321
+2018,2018,IT,Italy,TOTAL,Total,NR,Number,A,Annual,39018170
+2019,2019,IT,Italy,TOTAL,Total,NR,Number,A,Annual,39545232
+2020,2020,IT,Italy,TOTAL,Total,NR,Number,A,Annual,39717874
+2021,2021,IT,Italy,TOTAL,Total,NR,Number,A,Annual,39822723
+2022,2022,IT,Italy,TOTAL,Total,NR,Number,A,Annual,40213061
+2023,2023,IT,Italy,TOTAL,Total,NR,Number,A,Annual,40915229
+2024,2024,IT,Italy,TOTAL,Total,NR,Number,A,Annual,41340516

@@ -1,0 +1,601 @@
+year,region,type,demand_GWh
+2015,Abruzzo,Saldo import/export,1614.952
+2015,Abruzzo,Fonti tradizionali,1351.7085
+2015,Abruzzo,Fonti rinnovabili,1331.14305166
+2015,Basilicata,Fonti tradizionali,406.29776
+2015,Basilicata,Saldo import/export,787.988
+2015,Basilicata,Fonti rinnovabili,1626.86829656
+2015,Calabria,Fonti tradizionali,9679.363
+2015,Calabria,Fonti rinnovabili,3342.113636279
+2015,Calabria,Saldo import/export,-8014.067
+2015,Campania,Fonti tradizionali,4991.038
+2015,Campania,Saldo import/export,8762.944
+2015,Campania,Fonti rinnovabili,3939.890184756
+2015,Emilia-Romagna,Fonti rinnovabili,4731.983098982
+2015,Emilia-Romagna,Fonti tradizionali,11735.023
+2015,Emilia-Romagna,Saldo import/export,11478.977
+2015,Friuli-Venezia Giulia,Saldo import/export,1956.9894
+2015,Friuli-Venezia Giulia,Fonti rinnovabili,1271.40122313
+2015,Friuli-Venezia Giulia,Fonti tradizionali,5425.803
+2015,Lazio,Fonti tradizionali,15058.422
+2015,Lazio,Fonti rinnovabili,2324.954879058
+2015,Lazio,Saldo import/export,5222.657
+2015,Liguria,Saldo import/export,747.70624
+2015,Liguria,Fonti rinnovabili,339.727622266
+2015,Liguria,Fonti tradizionali,4911.8457
+2015,Lombardia,Fonti tradizionali,24138.85
+2015,Lombardia,Fonti rinnovabili,6088.319082034
+2015,Lombardia,Saldo import/export,26640.05
+2015,Marche,Fonti rinnovabili,1417.482048265
+2015,Marche,Saldo import/export,5102.756
+2015,Marche,Fonti tradizionali,316.5839
+2015,Molise,Fonti rinnovabili,1012.113344037
+2015,Molise,Fonti tradizionali,1065.0488
+2015,Molise,Saldo import/export,-895.98
+2015,Piemonte,Saldo import/export,837.66406
+2015,Piemonte,Fonti rinnovabili,3523.24042734
+2015,Piemonte,Fonti tradizionali,13073.958
+2015,Puglia,Fonti rinnovabili,9578.719655377
+2015,Puglia,Saldo import/export,-17799.66
+2015,Puglia,Fonti tradizionali,26865.334
+2015,Sardegna,Fonti tradizionali,8233.848
+2015,Sardegna,Saldo import/export,-2749.344
+2015,Sardegna,Fonti rinnovabili,3114.822916724
+2015,Sicilia,Saldo import/export,-2173.5217
+2015,Sicilia,Fonti tradizionali,16673.18
+2015,Sicilia,Fonti rinnovabili,4569.980216227
+2015,Toscana,Fonti rinnovabili,7478.427447286
+2015,Toscana,Fonti tradizionali,7274.7876
+2015,Toscana,Saldo import/export,5548.468
+2015,Trentino-Alto Adige,Fonti rinnovabili,804.8792597
+2015,Trentino-Alto Adige,Saldo import/export,-4066.371
+2015,Trentino-Alto Adige,Fonti tradizionali,1078.1138
+2015,Umbria,Fonti rinnovabili,768.24542899
+2015,Umbria,Fonti tradizionali,256.468
+2015,Umbria,Saldo import/export,3099.004
+2015,Valle d'Aosta,Saldo import/export,-2422.8665
+2015,Valle d'Aosta,Fonti tradizionali,3.121493
+2015,Valle d'Aosta,Fonti rinnovabili,42.2626778
+2015,Veneto,Fonti tradizionali,10482.4
+2015,Veneto,Saldo import/export,12699.436
+2015,Veneto,Fonti rinnovabili,3785.90693308
+2016,Abruzzo,Saldo import/export,1529.1616
+2016,Abruzzo,Fonti rinnovabili,1342.7513003
+2016,Abruzzo,Fonti tradizionali,1872.3418
+2016,Basilicata,Fonti tradizionali,354.4119
+2016,Basilicata,Fonti rinnovabili,2183.80275137
+2016,Basilicata,Saldo import/export,208.80032
+2016,Calabria,Fonti tradizionali,11217.065
+2016,Calabria,Saldo import/export,-9916.554
+2016,Calabria,Fonti rinnovabili,3939.204824404
+2016,Campania,Saldo import/export,7473.1396
+2016,Campania,Fonti rinnovabili,4440.047826393
+2016,Campania,Fonti tradizionali,5458.744
+2016,Emilia-Romagna,Fonti tradizionali,15973.928
+2016,Emilia-Romagna,Saldo import/export,7314.4414
+2016,Emilia-Romagna,Fonti rinnovabili,4574.700779369
+2016,Friuli-Venezia Giulia,Fonti rinnovabili,1212.810764044
+2016,Friuli-Venezia Giulia,Saldo import/export,-115.63543
+2016,Friuli-Venezia Giulia,Fonti tradizionali,7453.807
+2016,Lazio,Fonti rinnovabili,2169.78166634
+2016,Lazio,Saldo import/export,3298.6072
+2016,Lazio,Fonti tradizionali,16565.926
+2016,Liguria,Fonti rinnovabili,329.650164997
+2016,Liguria,Saldo import/export,24.553205
+2016,Liguria,Fonti tradizionali,5607.728
+2016,Lombardia,Fonti tradizionali,24378.428
+2016,Lombardia,Saldo import/export,25926.244
+2016,Lombardia,Fonti rinnovabili,6143.766868242
+2016,Marche,Fonti tradizionali,331.1594
+2016,Marche,Saldo import/export,5099.6416
+2016,Marche,Fonti rinnovabili,1371.197300493
+2016,Molise,Saldo import/export,-853.92
+2016,Molise,Fonti rinnovabili,1050.33933269
+2016,Molise,Fonti tradizionali,1008.49493
+2016,Piemonte,Fonti tradizionali,14464.822
+2016,Piemonte,Fonti rinnovabili,3433.108550883
+2016,Piemonte,Saldo import/export,916.8786
+2016,Puglia,Saldo import/export,-14879.478
+2016,Puglia,Fonti rinnovabili,9936.0115866772
+2016,Puglia,Fonti tradizionali,23786.162
+2016,Sardegna,Fonti rinnovabili,3291.461814195
+2016,Sardegna,Fonti tradizionali,7898.37
+2016,Sardegna,Saldo import/export,-2816.1338
+2016,Sicilia,Fonti tradizionali,14425.876
+2016,Sicilia,Saldo import/export,-814.5473
+2016,Sicilia,Fonti rinnovabili,4942.387385435
+2016,Toscana,Fonti rinnovabili,7460.656775801
+2016,Toscana,Fonti tradizionali,8494.856
+2016,Toscana,Saldo import/export,3517.6438
+2016,Trentino-Alto Adige,Saldo import/export,-3825.1055
+2016,Trentino-Alto Adige,Fonti rinnovabili,788.8640006
+2016,Trentino-Alto Adige,Fonti tradizionali,1075.3318
+2016,Umbria,Saldo import/export,2948.3516
+2016,Umbria,Fonti rinnovabili,744.89972416
+2016,Umbria,Fonti tradizionali,370.7196
+2016,Valle d'Aosta,Saldo import/export,-1953.2026
+2016,Valle d'Aosta,Fonti tradizionali,13.678574
+2016,Valle d'Aosta,Fonti rinnovabili,41.982348
+2016,Veneto,Fonti tradizionali,9594.896
+2016,Veneto,Fonti rinnovabili,3747.649972097
+2016,Veneto,Saldo import/export,13943.54
+2017,Abruzzo,Fonti rinnovabili,1434.79727418
+2017,Abruzzo,Saldo import/export,1564.2667
+2017,Abruzzo,Fonti tradizionali,1968.188
+2017,Basilicata,Saldo import/export,-98.80386
+2017,Basilicata,Fonti rinnovabili,2621.24247233
+2017,Basilicata,Fonti tradizionali,383.01825
+2017,Calabria,Saldo import/export,-11529.647
+2017,Calabria,Fonti tradizionali,13075.6045
+2017,Calabria,Fonti rinnovabili,3808.866104447
+2017,Campania,Saldo import/export,7712.511
+2017,Campania,Fonti rinnovabili,4610.149862701
+2017,Campania,Fonti tradizionali,5475.5083
+2017,Emilia-Romagna,Fonti tradizionali,17244.682
+2017,Emilia-Romagna,Saldo import/export,6775.213
+2017,Emilia-Romagna,Fonti rinnovabili,4833.563643512
+2017,Friuli-Venezia Giulia,Fonti rinnovabili,1258.06220933
+2017,Friuli-Venezia Giulia,Saldo import/export,321.02863
+2017,Friuli-Venezia Giulia,Fonti tradizionali,7641.669
+2017,Lazio,Fonti rinnovabili,2449.458398381
+2017,Lazio,Saldo import/export,3423.3037
+2017,Lazio,Fonti tradizionali,16907.02
+2017,Liguria,Fonti rinnovabili,297.904237143
+2017,Liguria,Saldo import/export,465.7319
+2017,Liguria,Fonti tradizionali,5379.155
+2017,Lombardia,Fonti rinnovabili,6322.527590166
+2017,Lombardia,Saldo import/export,24122.24
+2017,Lombardia,Fonti tradizionali,29299.87
+2017,Marche,Saldo import/export,4151.3936
+2017,Marche,Fonti rinnovabili,1531.644082986
+2017,Marche,Fonti tradizionali,1316.2438
+2017,Molise,Fonti tradizionali,1715.6134
+2017,Molise,Saldo import/export,-1541.0667
+2017,Molise,Fonti rinnovabili,1105.071559966
+2017,Piemonte,Fonti rinnovabili,3510.194128887
+2017,Piemonte,Saldo import/export,-2411.6824
+2017,Piemonte,Fonti tradizionali,18330.482
+2017,Puglia,Fonti rinnovabili,10456.731098495
+2017,Puglia,Saldo import/export,-12799.038
+2017,Puglia,Fonti tradizionali,21108.65
+2017,Sardegna,Saldo import/export,-3574.0417
+2017,Sardegna,Fonti rinnovabili,3185.774641538
+2017,Sardegna,Fonti tradizionali,8826.204
+2017,Sicilia,Fonti rinnovabili,4915.691256582
+2017,Sicilia,Fonti tradizionali,11963.344
+2017,Sicilia,Saldo import/export,2371.1692
+2017,Toscana,Fonti tradizionali,9103.463
+2017,Toscana,Saldo import/export,3663.8445
+2017,Toscana,Fonti rinnovabili,7403.029352294
+2017,Trentino-Alto Adige,Saldo import/export,-2442.1377
+2017,Trentino-Alto Adige,Fonti rinnovabili,829.8184263
+2017,Trentino-Alto Adige,Fonti tradizionali,1060.8218
+2017,Umbria,Fonti tradizionali,396.1227
+2017,Umbria,Fonti rinnovabili,812.88917283
+2017,Umbria,Saldo import/export,3070.049
+2017,Valle d'Aosta,Fonti tradizionali,20.967382
+2017,Valle d'Aosta,Fonti rinnovabili,39.91856
+2017,Valle d'Aosta,Saldo import/export,-1684.8213
+2017,Veneto,Fonti tradizionali,8792.741
+2017,Veneto,Fonti rinnovabili,3829.839918643
+2017,Veneto,Saldo import/export,16201.237
+2018,Abruzzo,Saldo import/export,1200.0
+2018,Abruzzo,Fonti rinnovabili,1240.86136393
+2018,Abruzzo,Fonti tradizionali,2000.0
+2018,Basilicata,Fonti rinnovabili,2700.28803436
+2018,Basilicata,Saldo import/export,-334.9
+2018,Basilicata,Fonti tradizionali,400.0
+2018,Calabria,Fonti tradizionali,12000.0
+2018,Calabria,Saldo import/export,-10783.391
+2018,Calabria,Fonti rinnovabili,3701.248002247
+2018,Campania,Fonti tradizionali,5100.0
+2018,Campania,Fonti rinnovabili,4500.716427032
+2018,Campania,Saldo import/export,7587.154
+2018,Emilia-Romagna,Fonti rinnovabili,4801.042874532
+2018,Emilia-Romagna,Fonti tradizionali,15500.0
+2018,Emilia-Romagna,Saldo import/export,8663.5
+2018,Friuli-Venezia Giulia,Saldo import/export,-282.87405
+2018,Friuli-Venezia Giulia,Fonti tradizionali,7695.7
+2018,Friuli-Venezia Giulia,Fonti rinnovabili,1401.820635217
+2018,Lazio,Saldo import/export,5083.3
+2018,Lazio,Fonti rinnovabili,2401.302341579
+2018,Lazio,Fonti tradizionali,14300.0
+2018,Liguria,Saldo import/export,846.13763
+2018,Liguria,Fonti tradizionali,4875.3
+2018,Liguria,Fonti rinnovabili,390.264863744
+2018,Lombardia,Saldo import/export,19346.604
+2018,Lombardia,Fonti tradizionali,33074.3
+2018,Lombardia,Fonti rinnovabili,6310.293586007
+2018,Marche,Saldo import/export,5147.1943
+2018,Marche,Fonti rinnovabili,1300.585659478
+2018,Marche,Fonti tradizionali,400.0
+2018,Molise,Fonti rinnovabili,1000.289068546
+2018,Molise,Saldo import/export,-1344.9
+2018,Molise,Fonti tradizionali,1500.0
+2018,Piemonte,Fonti tradizionali,18200.0
+2018,Piemonte,Fonti rinnovabili,3307.831635147
+2018,Piemonte,Saldo import/export,-3479.7034
+2018,Puglia,Fonti tradizionali,19200.0
+2018,Puglia,Fonti rinnovabili,9300.004545791
+2018,Puglia,Saldo import/export,-10175.038
+2018,Sardegna,Fonti rinnovabili,3000.415785787
+2018,Sardegna,Fonti tradizionali,8800.0
+2018,Sardegna,Saldo import/export,-3161.862
+2018,Sicilia,Saldo import/export,3148.3955
+2018,Sicilia,Fonti tradizionali,10400.0
+2018,Sicilia,Fonti rinnovabili,5200.12492912
+2018,Toscana,Fonti tradizionali,7500.0
+2018,Toscana,Fonti rinnovabili,7300.763212791
+2018,Toscana,Saldo import/export,5164.807
+2018,Trentino-Alto Adige,Saldo import/export,-4671.5
+2018,Trentino-Alto Adige,Fonti rinnovabili,809.7569672
+2018,Trentino-Alto Adige,Fonti tradizionali,1100.0
+2018,Umbria,Fonti tradizionali,700.0
+2018,Umbria,Saldo import/export,2387.4
+2018,Umbria,Fonti rinnovabili,701.77231737
+2018,Valle d'Aosta,Saldo import/export,-2341.3704
+2018,Valle d'Aosta,Fonti tradizionali,0.0
+2018,Valle d'Aosta,Fonti rinnovabili,3.4965583
+2018,Veneto,Fonti rinnovabili,3904.169768321
+2018,Veneto,Fonti tradizionali,8700.0
+2018,Veneto,Saldo import/export,15427.237
+2019,Abruzzo,Saldo import/export,286.8654
+2019,Abruzzo,Fonti rinnovabili,1492.64136933
+2019,Abruzzo,Fonti tradizionali,3059.1958
+2019,Basilicata,Fonti tradizionali,459.50632
+2019,Basilicata,Saldo import/export,-725.414
+2019,Basilicata,Fonti rinnovabili,3350.086709271
+2019,Calabria,Saldo import/export,-12376.222
+2019,Calabria,Fonti tradizionali,13300.833
+2019,Calabria,Fonti rinnovabili,3894.169451075
+2019,Campania,Fonti rinnovabili,4920.616021087
+2019,Campania,Fonti tradizionali,6451.3975
+2019,Campania,Saldo import/export,6159.9634
+2019,Emilia-Romagna,Saldo import/export,6199.985
+2019,Emilia-Romagna,Fonti rinnovabili,5002.189603036
+2019,Emilia-Romagna,Fonti tradizionali,17670.914
+2019,Friuli-Venezia Giulia,Saldo import/export,1405.6262
+2019,Friuli-Venezia Giulia,Fonti tradizionali,5900.0
+2019,Friuli-Venezia Giulia,Fonti rinnovabili,1401.718704116
+2019,Lazio,Saldo import/export,9246.294
+2019,Lazio,Fonti rinnovabili,2470.064975844
+2019,Lazio,Fonti tradizionali,10307.497
+2019,Liguria,Fonti tradizionali,3144.6296
+2019,Liguria,Saldo import/export,2655.762
+2019,Liguria,Fonti rinnovabili,308.30540931
+2019,Lombardia,Fonti rinnovabili,6356.76209626
+2019,Lombardia,Saldo import/export,20584.498
+2019,Lombardia,Fonti tradizionali,31316.637
+2019,Marche,Fonti tradizionali,358.90533
+2019,Marche,Saldo import/export,5179.241
+2019,Marche,Fonti rinnovabili,1424.603426141
+2019,Molise,Saldo import/export,-1994.448
+2019,Molise,Fonti rinnovabili,1071.48873502
+2019,Molise,Fonti tradizionali,2139.2473
+2019,Piemonte,Saldo import/export,-4515.934
+2019,Piemonte,Fonti tradizionali,18943.482
+2019,Piemonte,Fonti rinnovabili,3465.940015863
+2019,Puglia,Fonti tradizionali,18710.744
+2019,Puglia,Saldo import/export,-10369.447
+2019,Puglia,Fonti rinnovabili,10069.510282854
+2019,Sardegna,Fonti tradizionali,8900.0
+2019,Sardegna,Saldo import/export,-3628.5093
+2019,Sardegna,Fonti rinnovabili,3500.312645424
+2019,Sicilia,Saldo import/export,2772.3157
+2019,Sicilia,Fonti tradizionali,10600.0
+2019,Sicilia,Fonti rinnovabili,5300.188327807
+2019,Toscana,Fonti tradizionali,8500.0
+2019,Toscana,Saldo import/export,4156.358
+2019,Toscana,Fonti rinnovabili,7400.734977692
+2019,Trentino-Alto Adige,Fonti tradizionali,1100.0
+2019,Trentino-Alto Adige,Fonti rinnovabili,809.8594178
+2019,Trentino-Alto Adige,Saldo import/export,-4768.3276
+2019,Umbria,Saldo import/export,1936.3694
+2019,Umbria,Fonti tradizionali,1600.0
+2019,Umbria,Fonti rinnovabili,701.30171545
+2019,Valle d'Aosta,Saldo import/export,-1934.9442
+2019,Valle d'Aosta,Fonti tradizionali,0.0
+2019,Valle d'Aosta,Fonti rinnovabili,3.1034062
+2019,Veneto,Fonti tradizionali,7000.0
+2019,Veneto,Saldo import/export,16685.273
+2019,Veneto,Fonti rinnovabili,3904.299930048
+2020,Abruzzo,Fonti tradizionali,3762.19667261
+2020,Abruzzo,Fonti rinnovabili,1500.47710339
+2020,Abruzzo,Saldo import/export,-52.57502
+2020,Basilicata,Saldo import/export,-714.9089
+2020,Basilicata,Fonti tradizionali,656.260544095
+2020,Basilicata,Fonti rinnovabili,3144.290065905
+2020,Calabria,Fonti rinnovabili,3969.693634736
+2020,Calabria,Fonti tradizionali,12586.197855964
+2020,Calabria,Saldo import/export,-10437.58
+2020,Campania,Fonti rinnovabili,5272.805949969
+2020,Campania,Saldo import/export,6726.594
+2020,Campania,Fonti tradizionali,6278.141690031
+2020,Emilia-Romagna,Saldo import/export,5311.304
+2020,Emilia-Romagna,Fonti rinnovabili,5154.757535854
+2020,Emilia-Romagna,Fonti tradizionali,19339.478169146
+2020,Friuli-Venezia Giulia,Fonti tradizionali,5155.251416534
+2020,Friuli-Venezia Giulia,Saldo import/export,2253.0044
+2020,Friuli-Venezia Giulia,Fonti rinnovabili,1419.428457766
+2020,Lazio,Fonti tradizionali,9239.879494496001
+2020,Lazio,Saldo import/export,9853.645
+2020,Lazio,Fonti rinnovabili,2494.999145504
+2020,Liguria,Fonti rinnovabili,291.716848243
+2020,Liguria,Saldo import/export,3931.248
+2020,Liguria,Fonti tradizionali,1912.362047757
+2020,Lombardia,Fonti tradizionali,34654.195026292
+2020,Lombardia,Saldo import/export,15530.253
+2020,Lombardia,Fonti rinnovabili,6403.480303708
+2020,Marche,Fonti tradizionali,480.28578942599995
+2020,Marche,Fonti rinnovabili,1494.945757574
+2020,Marche,Saldo import/export,4815.044
+2020,Molise,Fonti rinnovabili,1016.37138671
+2020,Molise,Saldo import/export,-1769.3479
+2020,Molise,Fonti tradizionali,2076.29818329
+2020,Piemonte,Saldo import/export,-4462.465
+2020,Piemonte,Fonti tradizionali,19336.673906236
+2020,Piemonte,Fonti rinnovabili,3558.021061764
+2020,Puglia,Fonti rinnovabili,9881.98191141
+2020,Puglia,Saldo import/export,-11098.231
+2020,Puglia,Fonti tradizionali,19781.62618859
+2020,Sardegna,Fonti tradizionali,9065.079031021
+2020,Sardegna,Saldo import/export,-3301.6023
+2020,Sardegna,Fonti rinnovabili,3348.997628979
+2020,Sicilia,Fonti tradizionali,10524.98255481
+2020,Sicilia,Saldo import/export,3151.2844
+2020,Sicilia,Fonti rinnovabili,4827.36491519
+2020,Toscana,Fonti rinnovabili,7364.131022607
+2020,Toscana,Saldo import/export,3205.3726
+2020,Toscana,Fonti tradizionali,8519.822407393
+2020,Trentino-Alto Adige,Fonti rinnovabili,871.92188
+2020,Trentino-Alto Adige,Fonti tradizionali,1327.279051
+2020,Trentino-Alto Adige,Saldo import/export,-6664.8687
+2020,Umbria,Fonti rinnovabili,778.70546726
+2020,Umbria,Saldo import/export,2114.1914
+2020,Umbria,Fonti tradizionali,1371.40753134
+2020,Valle d'Aosta,Fonti tradizionali,55.672711
+2020,Valle d'Aosta,Fonti rinnovabili,46.42174
+2020,Valle d'Aosta,Saldo import/export,-2511.5112
+2020,Veneto,Fonti rinnovabili,4076.081959217
+2020,Veneto,Saldo import/export,16321.534
+2020,Veneto,Fonti tradizionali,6956.397328283
+2021,Abruzzo,Saldo import/export,107.39479
+2021,Abruzzo,Fonti rinnovabili,1481.3220069
+2021,Abruzzo,Fonti tradizionali,3548.4124431
+2021,Basilicata,Fonti rinnovabili,3345.383537577
+2021,Basilicata,Saldo import/export,-768.44525
+2021,Basilicata,Fonti tradizionali,606.553012423
+2021,Calabria,Fonti rinnovabili,4049.891241887
+2021,Calabria,Saldo import/export,-9022.752
+2021,Calabria,Fonti tradizionali,11436.496960113
+2021,Campania,Fonti tradizionali,6324.355390676
+2021,Campania,Saldo import/export,6941.7563
+2021,Campania,Fonti rinnovabili,5527.986219324
+2021,Emilia-Romagna,Fonti rinnovabili,5173.676992255
+2021,Emilia-Romagna,Saldo import/export,3264.9563
+2021,Emilia-Romagna,Fonti tradizionali,23445.810503745
+2021,Friuli-Venezia Giulia,Saldo import/export,3029.492
+2021,Friuli-Venezia Giulia,Fonti tradizionali,5006.586907123
+2021,Friuli-Venezia Giulia,Fonti rinnovabili,1394.240062477
+2021,Lazio,Saldo import/export,9943.688
+2021,Lazio,Fonti tradizionali,9938.109812674
+2021,Lazio,Fonti rinnovabili,2435.248667326
+2021,Liguria,Fonti tradizionali,2292.095945777
+2021,Liguria,Saldo import/export,3653.036
+2021,Liguria,Fonti rinnovabili,296.828959223
+2021,Lombardia,Fonti tradizionali,37958.24896864
+2021,Lombardia,Fonti rinnovabili,6345.89168236
+2021,Lombardia,Saldo import/export,17535.854
+2021,Marche,Saldo import/export,5283.1357
+2021,Marche,Fonti tradizionali,512.4458881479999
+2021,Marche,Fonti rinnovabili,1460.663745852
+2021,Molise,Saldo import/export,-1320.4371
+2021,Molise,Fonti tradizionali,1643.698433556
+2021,Molise,Fonti rinnovabili,1067.816776444
+2021,Piemonte,Saldo import/export,-3532.7632
+2021,Piemonte,Fonti tradizionali,20823.141936018
+2021,Piemonte,Fonti rinnovabili,3573.547225982
+2021,Puglia,Fonti rinnovabili,10500.726269685
+2021,Puglia,Fonti tradizionali,19762.363330315
+2021,Puglia,Saldo import/export,-10565.007
+2021,Sardegna,Saldo import/export,-2375.297
+2021,Sardegna,Fonti rinnovabili,3420.351720713
+2021,Sardegna,Fonti tradizionali,8242.233379287
+2021,Sicilia,Saldo import/export,3283.0442
+2021,Sicilia,Fonti rinnovabili,5435.157909032
+2021,Sicilia,Fonti tradizionali,10493.874620968
+2021,Toscana,Saldo import/export,3938.3796
+2021,Toscana,Fonti rinnovabili,7243.89461017
+2021,Toscana,Fonti tradizionali,8468.13002983
+2021,Trentino-Alto Adige,Saldo import/export,-4516.7373
+2021,Trentino-Alto Adige,Fonti rinnovabili,803.6531784
+2021,Trentino-Alto Adige,Fonti tradizionali,1379.4145716
+2021,Umbria,Saldo import/export,1912.8406
+2021,Umbria,Fonti tradizionali,1532.36593177
+2021,Umbria,Fonti rinnovabili,745.23039223
+2021,Valle d'Aosta,Fonti rinnovabili,44.6424847
+2021,Valle d'Aosta,Fonti tradizionali,59.124396299999546
+2021,Valle d'Aosta,Saldo import/export,-1843.3743
+2021,Veneto,Fonti tradizionali,7843.534470047
+2021,Veneto,Fonti rinnovabili,4102.697682093
+2021,Veneto,Saldo import/export,17841.047
+2022,Abruzzo,Fonti rinnovabili,1480.2005
+2022,Abruzzo,Saldo import/export,1100.0503
+2022,Abruzzo,Fonti tradizionali,2901.792534
+2022,Basilicata,Fonti tradizionali,603.75192
+2022,Basilicata,Saldo import/export,-972.40155
+2022,Basilicata,Fonti rinnovabili,3541.4889
+2022,Calabria,Fonti tradizionali,11176.994626
+2022,Calabria,Fonti rinnovabili,4062.3532
+2022,Calabria,Saldo import/export,-8681.157
+2022,Campania,Fonti rinnovabili,5417.5745
+2022,Campania,Saldo import/export,7243.822
+2022,Campania,Fonti tradizionali,6352.26523
+2022,Emilia-Romagna,Saldo import/export,4336.156
+2022,Emilia-Romagna,Fonti tradizionali,21972.862436
+2022,Emilia-Romagna,Fonti rinnovabili,5216.8603
+2022,Friuli-Venezia Giulia,Saldo import/export,1271.7471
+2022,Friuli-Venezia Giulia,Fonti tradizionali,7167.412394
+2022,Friuli-Venezia Giulia,Fonti rinnovabili,1368.1667
+2022,Lazio,Saldo import/export,9359.267
+2022,Lazio,Fonti tradizionali,10720.70588
+2022,Lazio,Fonti rinnovabili,2747.1442
+2022,Liguria,Fonti tradizionali,3215.23221597
+2022,Liguria,Saldo import/export,2760.8909
+2022,Liguria,Fonti rinnovabili,356.3895
+2022,Lombardia,Fonti tradizionali,39045.1556
+2022,Lombardia,Fonti rinnovabili,6610.562
+2022,Lombardia,Saldo import/export,18939.998
+2022,Marche,Fonti rinnovabili,1572.3597
+2022,Marche,Fonti tradizionali,476.73985745
+2022,Marche,Saldo import/export,5113.792
+2022,Molise,Fonti tradizionali,1378.143391
+2022,Molise,Fonti rinnovabili,977.4777
+2022,Molise,Saldo import/export,-987.66064
+2022,Piemonte,Fonti rinnovabili,3718.2527
+2022,Piemonte,Fonti tradizionali,19071.10742
+2022,Piemonte,Saldo import/export,1.6005695
+2022,Puglia,Fonti rinnovabili,10625.7103
+2022,Puglia,Fonti tradizionali,23613.682561
+2022,Puglia,Saldo import/export,-15153.715
+2022,Sardegna,Fonti tradizionali,9166.09622
+2022,Sardegna,Fonti rinnovabili,3505.0808
+2022,Sardegna,Saldo import/export,-3501.098
+2022,Sicilia,Saldo import/export,409.29498
+2022,Sicilia,Fonti rinnovabili,5525.0757
+2022,Sicilia,Fonti tradizionali,13449.531086
+2022,Toscana,Saldo import/export,4414.634
+2022,Toscana,Fonti tradizionali,8261.77527885
+2022,Toscana,Fonti rinnovabili,7081.3555
+2022,Trentino-Alto Adige,Fonti rinnovabili,779.9136
+2022,Trentino-Alto Adige,Saldo import/export,-976.41974
+2022,Trentino-Alto Adige,Fonti tradizionali,1287.313627
+2022,Umbria,Fonti tradizionali,1007.544388
+2022,Umbria,Fonti rinnovabili,759.8267
+2022,Umbria,Saldo import/export,2832.2642
+2022,Valle d'Aosta,Fonti rinnovabili,44.8891
+2022,Valle d'Aosta,Saldo import/export,-1352.7528
+2022,Valle d'Aosta,Fonti tradizionali,44.27929501
+2022,Veneto,Fonti tradizionali,9610.55330925
+2022,Veneto,Saldo import/export,16828.521
+2022,Veneto,Fonti rinnovabili,4172.161
+2023,Abruzzo,Saldo import/export,1132.6614
+2023,Abruzzo,Fonti tradizionali,2143.00121606
+2023,Abruzzo,Fonti rinnovabili,1614.58714394
+2023,Basilicata,Fonti tradizionali,576.093918693
+2023,Basilicata,Fonti rinnovabili,3922.043521307
+2023,Basilicata,Saldo import/export,-1613.7417
+2023,Calabria,Fonti tradizionali,9781.5731493
+2023,Calabria,Saldo import/export,-7775.139
+2023,Calabria,Fonti rinnovabili,3801.1662701
+2023,Campania,Saldo import/export,7553.9546
+2023,Campania,Fonti tradizionali,4698.650723323
+2023,Campania,Fonti rinnovabili,5907.853570677
+2023,Emilia-Romagna,Fonti tradizionali,18743.11858906
+2023,Emilia-Romagna,Saldo import/export,6069.9478
+2023,Emilia-Romagna,Fonti rinnovabili,5093.67048894
+2023,Friuli-Venezia Giulia,Saldo import/export,2302.3765
+2023,Friuli-Venezia Giulia,Fonti tradizionali,5064.927528966
+2023,Friuli-Venezia Giulia,Fonti rinnovabili,1300.070347734
+2023,Lazio,Fonti rinnovabili,2853.621356149
+2023,Lazio,Saldo import/export,12320.873
+2023,Lazio,Fonti tradizionali,6828.769943851
+2023,Liguria,Fonti rinnovabili,472.072327153
+2023,Liguria,Fonti tradizionali,1250.809542847
+2023,Liguria,Saldo import/export,4430.406
+2023,Lombardia,Fonti tradizionali,33077.494771417
+2023,Lombardia,Saldo import/export,19993.648
+2023,Lombardia,Fonti rinnovabili,6986.808057583
+2023,Marche,Fonti tradizionali,439.918846164
+2023,Marche,Saldo import/export,4625.032
+2023,Marche,Fonti rinnovabili,1618.130605836
+2023,Molise,Fonti rinnovabili,1094.56453502
+2023,Molise,Saldo import/export,-550.31726
+2023,Molise,Fonti tradizionali,753.77335498
+2023,Piemonte,Fonti tradizionali,17118.477132943
+2023,Piemonte,Fonti rinnovabili,3821.176282057
+2023,Piemonte,Saldo import/export,-864.1109
+2023,Puglia,Fonti tradizionali,17502.008242401
+2023,Puglia,Fonti rinnovabili,12030.685057599
+2023,Puglia,Saldo import/export,-10206.972
+2023,Sardegna,Saldo import/export,-3508.3206
+2023,Sardegna,Fonti rinnovabili,3894.584587593
+2023,Sardegna,Fonti tradizionali,7952.384772407
+2023,Sicilia,Saldo import/export,1443.4097
+2023,Sicilia,Fonti rinnovabili,5833.448966754
+2023,Sicilia,Fonti tradizionali,11545.573053246
+2023,Toscana,Fonti rinnovabili,7101.095929889
+2023,Toscana,Saldo import/export,4096.8745
+2023,Toscana,Fonti tradizionali,7810.153790111
+2023,Trentino-Alto Adige,Saldo import/export,-4177.6475
+2023,Trentino-Alto Adige,Fonti tradizionali,1290.2404277
+2023,Trentino-Alto Adige,Fonti rinnovabili,901.1911243
+2023,Umbria,Saldo import/export,2321.757
+2023,Umbria,Fonti rinnovabili,793.72299284
+2023,Umbria,Fonti tradizionali,900.0230291600002
+2023,Valle d'Aosta,Fonti tradizionali,54.027876200000456
+2023,Valle d'Aosta,Fonti rinnovabili,48.0297388
+2023,Valle d'Aosta,Saldo import/export,-2140.576
+2023,Veneto,Fonti tradizionali,7910.956863266
+2023,Veneto,Fonti rinnovabili,4441.424025834
+2023,Veneto,Saldo import/export,15797.397
+2024,Abruzzo,Fonti rinnovabili,1690.67615742
+2024,Abruzzo,Fonti tradizionali,2659.06647958
+2024,Abruzzo,Saldo import/export,1248.0818
+2024,Basilicata,Saldo import/export,-1149.0571
+2024,Basilicata,Fonti tradizionali,497.41595707
+2024,Basilicata,Fonti rinnovabili,3647.63560293
+2024,Calabria,Fonti tradizionali,9145.615092835
+2024,Calabria,Saldo import/export,-6898.6367
+2024,Calabria,Fonti rinnovabili,4154.812260165
+2024,Campania,Fonti rinnovabili,5795.840265567
+2024,Campania,Saldo import/export,4690.844
+2024,Campania,Fonti tradizionali,8185.187984433
+2024,Emilia-Romagna,Fonti rinnovabili,5359.258981698
+2024,Emilia-Romagna,Saldo import/export,8478.507
+2024,Emilia-Romagna,Fonti tradizionali,16346.652933302
+2024,Friuli-Venezia Giulia,Fonti tradizionali,3395.39851105
+2024,Friuli-Venezia Giulia,Saldo import/export,3341.3887
+2024,Friuli-Venezia Giulia,Fonti rinnovabili,1578.55823555
+2024,Lazio,Fonti tradizionali,5044.732201321
+2024,Lazio,Saldo import/export,13960.329
+2024,Lazio,Fonti rinnovabili,3832.129648679
+2024,Liguria,Fonti tradizionali,1468.856555163
+2024,Liguria,Saldo import/export,4137.133
+2024,Liguria,Fonti rinnovabili,514.264268837
+2024,Lombardia,Saldo import/export,16770.428
+2024,Lombardia,Fonti tradizionali,32275.960628253
+2024,Lombardia,Fonti rinnovabili,7581.651883747
+2024,Marche,Fonti tradizionali,475.6841637739999
+2024,Marche,Fonti rinnovabili,1730.052761226
+2024,Marche,Saldo import/export,5038.562
+2024,Molise,Saldo import/export,-984.0914
+2024,Molise,Fonti tradizionali,1415.820221189
+2024,Molise,Fonti rinnovabili,1016.850138811
+2024,Piemonte,Saldo import/export,-2409.194
+2024,Piemonte,Fonti tradizionali,15689.25969009
+2024,Piemonte,Fonti rinnovabili,4193.47218891
+2024,Puglia,Fonti tradizionali,14785.550590128
+2024,Puglia,Fonti rinnovabili,12353.048109872
+2024,Puglia,Saldo import/export,-7347.151
+2024,Sardegna,Fonti tradizionali,7824.16383411
+2024,Sardegna,Saldo import/export,-3110.2715
+2024,Sardegna,Fonti rinnovabili,4094.21014589
+2024,Sicilia,Fonti rinnovabili,6971.920614924
+2024,Sicilia,Saldo import/export,3427.954
+2024,Sicilia,Fonti tradizionali,8576.368495076
+2024,Toscana,Fonti rinnovabili,7201.457586632
+2024,Toscana,Saldo import/export,4169.9536
+2024,Toscana,Fonti tradizionali,7742.235083368
+2024,Trentino-Alto Adige,Fonti rinnovabili,1005.2616128
+2024,Trentino-Alto Adige,Fonti tradizionali,1377.8772752
+2024,Trentino-Alto Adige,Saldo import/export,-7771.0156
+2024,Umbria,Fonti tradizionali,1112.87013687
+2024,Umbria,Fonti rinnovabili,860.20610823
+2024,Umbria,Saldo import/export,2482.9746
+2024,Valle d'Aosta,Fonti rinnovabili,50.464785
+2024,Valle d'Aosta,Saldo import/export,-2798.0562
+2024,Valle d'Aosta,Fonti tradizionali,56.077841
+2024,Veneto,Saldo import/export,15720.918
+2024,Veneto,Fonti tradizionali,7665.563831929
+2024,Veneto,Fonti rinnovabili,4881.180661431

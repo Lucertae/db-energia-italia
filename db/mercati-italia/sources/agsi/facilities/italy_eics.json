@@ -1,0 +1,37 @@
+[
+  {
+    "kind": "company",
+    "eic": "21X0000000013651",
+    "name": "Edison Stoccaggio S.p.A."
+  },
+  {
+    "kind": "facility",
+    "eic": "21W000000000095N",
+    "name": "VGS Edison Stoccaggio (Collalto, Cellino, San Potito & Cotignola) - Historical data prior to 1 Mar 2025"
+  },
+  {
+    "kind": "company",
+    "eic": "59X4-IGSTORAGE-T",
+    "name": "IGS S.p.A."
+  },
+  {
+    "kind": "facility",
+    "eic": "59W-IGSTORAGE-0Q",
+    "name": "UGS Cornegliano"
+  },
+  {
+    "kind": "company",
+    "eic": "21X000000001250I",
+    "name": "Snam Stoccaggio SpA"
+  },
+  {
+    "kind": "facility",
+    "eic": "21Z000000000274I",
+    "name": "VGS HUB1 (Fiume Treste, Bordolano, Sabbioncello, Minerbio, Sergnano, Ripalta, Cortemaggiore, Brugherio, Settala)"
+  },
+  {
+    "kind": "company",
+    "eic": "21X-IT-A-A0A0A-7",
+    "name": "Stogit Adriatica S.p.A."
+  }
+]

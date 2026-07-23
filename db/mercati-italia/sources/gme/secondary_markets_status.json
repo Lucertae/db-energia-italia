@@ -1,0 +1,10 @@
+{
+  "status": "blocked_interactive",
+  "note": "Yearly DatiStorici ZIP only works for MGP. MI/MSD/MB require the Download UI (period XML zip) or authenticated API. Place manual exports under mi/, msd/, mb/.",
+  "ui": [
+    "https://www.mercatoelettrico.org/it-it/Home/Esiti/Elettricita/MI/Download/Download",
+    "https://www.mercatoelettrico.org/it-it/Home/Esiti/Elettricita/MSD/ExPost/Download/Download",
+    "https://www.mercatoelettrico.org/it-it/Home/Esiti/Elettricita/MSD/ExAnte/Download/Download"
+  ],
+  "zip_hits": []
+}

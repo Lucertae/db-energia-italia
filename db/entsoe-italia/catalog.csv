@@ -1,0 +1,10 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+entsoe-italia,IT_national,data/IT,"Serie nazionali (load, gen, prices, balancing, …)",IT,2015,2015,orario/quarter,133052,1220,200306202,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_North,data/IT-North,Zona Nord,IT-North,2015,2015,orario,8664,192,50740033,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_Centre_North,data/IT-Centre-North,Zona Centro-Nord,IT-Centre-North,2015,2015,orario,8664,192,47587807,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_Centre_South,data/IT-Centre-South,Zona Centro-Sud,IT-Centre-South,2015,2015,orario,8664,190,49283359,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_South,data/IT-South,Zona Sud,IT-South,2015,2015,orario,8664,192,48397616,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_Sicily,data/IT-Sicily,Zona Sicilia,IT-Sicily,2015,2015,orario,8664,192,47922920,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_Sardinia,data/IT-Sardinia,Zona Sardegna,IT-Sardinia,2015,2015,orario,8664,192,47734780,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,IT_Calabria,data/IT-Calabria,Zona Calabria,IT-Calabria,2015,2015,orario,0,192,31522782,"MW, €/MWh",ENTSO-E,ENTSO-E,ok
+entsoe-italia,crossborder,data/crossborder,Scambi/NTC/outage frontiere IT,IT borders,2015,2015,orario,8760,668,103496225,MW,ENTSO-E,ENTSO-E,ok

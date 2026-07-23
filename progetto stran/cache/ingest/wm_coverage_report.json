@@ -1,0 +1,297 @@
+{
+  "wm_layers": [
+    {
+      "key": "iranAttacks",
+      "label": "Iran Attacks"
+    },
+    {
+      "key": "hotspots",
+      "label": "Intel Hotspots"
+    },
+    {
+      "key": "conflicts",
+      "label": "Conflict Zones"
+    },
+    {
+      "key": "bases",
+      "label": "Military Bases"
+    },
+    {
+      "key": "nuclear",
+      "label": "Nuclear Sites"
+    },
+    {
+      "key": "irradiators",
+      "label": "Gamma Irradiators"
+    },
+    {
+      "key": "radiationWatch",
+      "label": "Radiation Watch"
+    },
+    {
+      "key": "spaceports",
+      "label": "Spaceports"
+    },
+    {
+      "key": "satellites",
+      "label": "Orbital Surveillance"
+    },
+    {
+      "key": "cables",
+      "label": "Undersea Cables"
+    },
+    {
+      "key": "pipelines",
+      "label": "Pipelines"
+    },
+    {
+      "key": "datacenters",
+      "label": "AI Data Centers"
+    },
+    {
+      "key": "military",
+      "label": "Military Activity"
+    },
+    {
+      "key": "ais",
+      "label": "Ship Traffic"
+    },
+    {
+      "key": "tradeRoutes",
+      "label": "Trade Routes"
+    },
+    {
+      "key": "flights",
+      "label": "Aviation"
+    },
+    {
+      "key": "protests",
+      "label": "Protests"
+    },
+    {
+      "key": "ucdpEvents",
+      "label": "Armed Conflict Events"
+    },
+    {
+      "key": "displacement",
+      "label": "Displacement Flows"
+    },
+    {
+      "key": "climate",
+      "label": "Climate Anomalies"
+    },
+    {
+      "key": "weather",
+      "label": "Weather Alerts"
+    },
+    {
+      "key": "outages",
+      "label": "Internet Disruptions"
+    },
+    {
+      "key": "cyberThreats",
+      "label": "Cyber Threats"
+    },
+    {
+      "key": "natural",
+      "label": "Natural Events"
+    },
+    {
+      "key": "fires",
+      "label": "Fires"
+    },
+    {
+      "key": "waterways",
+      "label": "Chokepoints"
+    },
+    {
+      "key": "economic",
+      "label": "Economic Centers"
+    },
+    {
+      "key": "minerals",
+      "label": "Critical Minerals"
+    },
+    {
+      "key": "gpsJamming",
+      "label": "GPS Jamming"
+    },
+    {
+      "key": "ciiChoropleth",
+      "label": "CII Instability"
+    },
+    {
+      "key": "resilienceScore",
+      "label": "Resilience"
+    },
+    {
+      "key": "dayNight",
+      "label": "Day/Night"
+    },
+    {
+      "key": "sanctions",
+      "label": "Sanctions"
+    },
+    {
+      "key": "startupHubs",
+      "label": "Startup Hubs"
+    },
+    {
+      "key": "techHQs",
+      "label": "Tech HQs"
+    },
+    {
+      "key": "accelerators",
+      "label": "Accelerators"
+    },
+    {
+      "key": "cloudRegions",
+      "label": "Cloud Regions"
+    },
+    {
+      "key": "techEvents",
+      "label": "Tech Events"
+    },
+    {
+      "key": "stockExchanges",
+      "label": "Stock Exchanges"
+    },
+    {
+      "key": "financialCenters",
+      "label": "Financial Centers"
+    },
+    {
+      "key": "centralBanks",
+      "label": "Central Banks"
+    },
+    {
+      "key": "commodityHubs",
+      "label": "Commodity Hubs"
+    },
+    {
+      "key": "gulfInvestments",
+      "label": "GCC Investments"
+    },
+    {
+      "key": "positiveEvents",
+      "label": "Positive Events"
+    },
+    {
+      "key": "kindness",
+      "label": "Acts of Kindness"
+    },
+    {
+      "key": "happiness",
+      "label": "World Happiness"
+    },
+    {
+      "key": "speciesRecovery",
+      "label": "Species Recovery"
+    },
+    {
+      "key": "renewableInstallations",
+      "label": "Clean Energy"
+    },
+    {
+      "key": "miningSites",
+      "label": "Mining Sites"
+    },
+    {
+      "key": "processingPlants",
+      "label": "Processing Plants"
+    },
+    {
+      "key": "commodityPorts",
+      "label": "Commodity Ports"
+    },
+    {
+      "key": "webcams",
+      "label": "Live Webcams"
+    },
+    {
+      "key": "diseaseOutbreaks",
+      "label": "Disease Outbreaks"
+    },
+    {
+      "key": "storageFacilities",
+      "label": "Storage Facilities"
+    },
+    {
+      "key": "fuelShortages",
+      "label": "Fuel Shortages"
+    },
+    {
+      "key": "liveTankers",
+      "label": "Live Tanker Positions"
+    }
+  ],
+  "rss_summary": {
+    "wm_total": 673,
+    "wm_concrete": 269,
+    "wm_gnews": 404,
+    "ours_concrete": 370,
+    "missing_concrete_rss": [
+      "RT",
+      "RT Russia"
+    ],
+    "gnews_gap_by_design": 404
+  },
+  "gaps": [
+    {
+      "item": "ucdpEvents",
+      "note": "UCDP GED conflict events API — not ingested"
+    },
+    {
+      "item": "iranAttacks / military events",
+      "note": "WM curated conflict registries — not ingested as API"
+    },
+    {
+      "item": "ais live",
+      "note": "AISStream / live vessel positions — we only have PortWatch daily aggregates"
+    },
+    {
+      "item": "flights full",
+      "note": "FAA ASWS, AviationStack, ICAO NOTAMs, Wingbits — we only have OpenSky EU bbox"
+    },
+    {
+      "item": "cyber fuller",
+      "note": "URLhaus, AlienVault OTX, AbuseIPDB, ransomware.live — we only have Feodo"
+    },
+    {
+      "item": "waterways/chokepoints live",
+      "note": "NGA warnings + AIS classifiers — we have PortWatch + desk CSV"
+    },
+    {
+      "item": "CII choropleth",
+      "note": "WM proprietary CII v8 service — no equivalent"
+    },
+    {
+      "item": "hotspots escalation",
+      "note": "WM hotspot registry + scoring — not replicated"
+    },
+    {
+      "item": "military bases overlays",
+      "note": "static WM geo registries — map UI assets, not our INGEST page"
+    },
+    {
+      "item": "pipelines / commodity geo",
+      "note": "static WM registries"
+    },
+    {
+      "item": "finance radar 29 exchanges",
+      "note": "WM finance service — we have sparse tickers (VIX, Coinbase, Binance)"
+    },
+    {
+      "item": "Google News topic feeds (~404)",
+      "note": "intentionally excluded (not concrete publishers)"
+    },
+    {
+      "item": "RT / RT Russia RSS",
+      "note": "removed (connection blocked here)"
+    },
+    {
+      "item": "cloudflare-outages live stream",
+      "note": "still points at Google News in our live_streams.json"
+    }
+  ]
+}

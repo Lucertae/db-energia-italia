@@ -1,0 +1,65 @@
+{
+  "built_at": "2026-07-15T22:39:12Z",
+  "source": "ops_desk_bridge",
+  "convention": {
+    "6E": "FRED DEXUSEU = USD per EUR (CME native)",
+    "6J/6B/6M/6C/6N": "FRED USD-leg (DEX*) = CME quote direction, NOT EUR-base cross"
+  },
+  "pysystemtrade_repo": "https://github.com/pst-group/pysystemtrade",
+  "instruments": [
+    {
+      "cme": "6E",
+      "pair_id": "EURUSD",
+      "export_mode": "cme_usd_per_eur",
+      "eur_base_last": 1.1438,
+      "file": "6E_daily_prices.csv",
+      "rows": 1298,
+      "last": 1.1438
+    },
+    {
+      "cme": "6J",
+      "pair_id": "EURJPY",
+      "export_mode": "cme_fred_leg",
+      "eur_base_last": 184.50637799999998,
+      "file": "6J_daily_prices.csv",
+      "rows": 1298,
+      "last": 161.31
+    },
+    {
+      "cme": "6B",
+      "pair_id": "EURGBP",
+      "export_mode": "cme_fred_leg",
+      "eur_base_last": 0.8522464793979583,
+      "file": "6B_daily_prices.csv",
+      "rows": 1298,
+      "last": 1.3421
+    },
+    {
+      "cme": "6M",
+      "pair_id": "EURMXN",
+      "export_mode": "cme_fred_leg",
+      "eur_base_last": 19.985846159999998,
+      "file": "6M_daily_prices.csv",
+      "rows": 1298,
+      "last": 17.4732
+    },
+    {
+      "cme": "6C",
+      "pair_id": "EURCAD",
+      "export_mode": "cme_fred_leg",
+      "eur_base_last": 1.6164181599999998,
+      "file": "6C_daily_prices.csv",
+      "rows": 1298,
+      "last": 1.4132
+    },
+    {
+      "cme": "6N",
+      "pair_id": "EURNZD",
+      "export_mode": "cme_fred_leg",
+      "eur_base_last": 1.980949082092137,
+      "file": "6N_daily_prices.csv",
+      "rows": 1298,
+      "last": 0.5774
+    }
+  ]
+}

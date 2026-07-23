@@ -1,0 +1,571 @@
+{
+  "/sg_dgsaie/ben/": [
+    {
+      "id": "0900fde8800b91f1",
+      "fileName": "BEN_1998.pdf",
+      "size": 106771
+    },
+    {
+      "id": "0900fde8800b9245",
+      "fileName": "BEN_1999.pdf",
+      "size": 103443
+    },
+    {
+      "id": "0900fde8800b9246",
+      "fileName": "BEN_2000.pdf",
+      "size": 119330
+    },
+    {
+      "id": "0900fde8800b8e6f",
+      "fileName": "BEN_2001.pdf",
+      "size": 128643
+    },
+    {
+      "id": "0900fde8800b8e79",
+      "fileName": "BEN_2002.pdf",
+      "size": 121775
+    },
+    {
+      "id": "0900fde8800b8e70",
+      "fileName": "BEN_2003.pdf",
+      "size": 118559
+    },
+    {
+      "id": "0900fde8800b8e7a",
+      "fileName": "BEN_2004.pdf",
+      "size": 211540
+    },
+    {
+      "id": "0900fde8800b8e83",
+      "fileName": "BEN_2005.pdf",
+      "size": 204734
+    },
+    {
+      "id": "0900fde8800b8e84",
+      "fileName": "BEN_2006.pdf",
+      "size": 204357
+    },
+    {
+      "id": "0900fde8800b9247",
+      "fileName": "BEN_2007.pdf",
+      "size": 251742
+    },
+    {
+      "id": "0900fde8800b8e7b",
+      "fileName": "BEN_2008.pdf",
+      "size": 197116
+    },
+    {
+      "id": "0900fde8800b8e8d",
+      "fileName": "BEN_2009.pdf",
+      "size": 204308
+    },
+    {
+      "id": "0900fde8800b9248",
+      "fileName": "BEN_2010.pdf",
+      "size": 205150
+    },
+    {
+      "id": "0900fde8800b9249",
+      "fileName": "BEN_2011.pdf",
+      "size": 204676
+    },
+    {
+      "id": "0900fde8800b8e85",
+      "fileName": "BEN_2012.pdf",
+      "size": 204911
+    },
+    {
+      "id": "0900fde8800b8e71",
+      "fileName": "BEN_2013.pdf",
+      "size": 205461
+    },
+    {
+      "id": "0900fde8800b91f2",
+      "fileName": "BEN_2014.pdf",
+      "size": 216907
+    },
+    {
+      "id": "0900fde8800b8e7c",
+      "fileName": "BEN_2015.pdf",
+      "size": 476892
+    },
+    {
+      "id": "0900fde8800b91f3",
+      "fileName": "BEN_2016.pdf",
+      "size": 175122
+    },
+    {
+      "id": "0900fde8800b8e8e",
+      "fileName": "BEN_2017.pdf",
+      "size": 175503
+    },
+    {
+      "id": "0900fde8800b924a",
+      "fileName": "BEN_2020.pdf",
+      "size": 358191
+    }
+  ],
+  "/sg_dgsaie/ben_eurostat/": [
+    {
+      "id": "0900fde8800b924b",
+      "fileName": "BEN_-_Italia_Metodologia_Eurostat_1990_-_2020.xlsb",
+      "size": 996946
+    },
+    {
+      "id": "0900fde8800b91f4",
+      "fileName": "Note_BEN_Eurostat_-_Edizione_2020.pdf",
+      "size": 211248
+    }
+  ],
+  "/sg_dgsaie/consumi_petroliferi/definitivi/": [
+    {
+      "id": "0900fde8800b9d40",
+      "fileName": "Consumi_Petroliferi_Definitivi_2002.xls",
+      "size": 40960
+    },
+    {
+      "id": "0900fde8800ba171",
+      "fileName": "Consumi_Petroliferi_Definitivi_2003.xls",
+      "size": 39936
+    },
+    {
+      "id": "0900fde8800b9d50",
+      "fileName": "Consumi_Petroliferi_Definitivi_2004.xls",
+      "size": 43008
+    },
+    {
+      "id": "0900fde8800ba172",
+      "fileName": "Consumi_Petroliferi_Definitivi_2005.xls",
+      "size": 42496
+    },
+    {
+      "id": "0900fde8800ba17a",
+      "fileName": "Consumi_Petroliferi_Definitivi_2006.xls",
+      "size": 41472
+    },
+    {
+      "id": "0900fde8800b9d4a",
+      "fileName": "Consumi_Petroliferi_Definitivi_2007.xls",
+      "size": 41984
+    },
+    {
+      "id": "0900fde8800ba17b",
+      "fileName": "Consumi_Petroliferi_Definitivi_2008.xls",
+      "size": 44544
+    },
+    {
+      "id": "0900fde8800b9d51",
+      "fileName": "Consumi_Petroliferi_Definitivi_2009.xls",
+      "size": 51200
+    },
+    {
+      "id": "0900fde8800ba17c",
+      "fileName": "Consumi_Petroliferi_Definitivi_2010.xls",
+      "size": 52736
+    },
+    {
+      "id": "0900fde8800b9d41",
+      "fileName": "Consumi_Petroliferi_Definitivi_2011.xls",
+      "size": 55296
+    },
+    {
+      "id": "0900fde8800ba181",
+      "fileName": "Consumi_Petroliferi_Definitivi_2012.xls",
+      "size": 55808
+    },
+    {
+      "id": "0900fde8800ba182",
+      "fileName": "Consumi_Petroliferi_Definitivi_2013.xls",
+      "size": 53760
+    },
+    {
+      "id": "0900fde8800b9d42",
+      "fileName": "Consumi_Petroliferi_Definitivi_2014.xls",
+      "size": 52224
+    },
+    {
+      "id": "0900fde8800b9d4b",
+      "fileName": "Consumi_Petroliferi_Definitivi_2015.xls",
+      "size": 53248
+    },
+    {
+      "id": "0900fde8800b9d4c",
+      "fileName": "Consumi_Petroliferi_Definitivi_2016.xls",
+      "size": 53248
+    },
+    {
+      "id": "0900fde8800ba187",
+      "fileName": "Consumi_Petroliferi_Definitivi_2017.xls",
+      "size": 57856
+    },
+    {
+      "id": "0900fde8800b9d4d",
+      "fileName": "Consumi_Petroliferi_Definitivi_2018.xls",
+      "size": 59392
+    },
+    {
+      "id": "0900fde8800ba188",
+      "fileName": "Consumi_Petroliferi_Definitivi_2019.xls",
+      "size": 59904
+    },
+    {
+      "id": "0900fde8800b9d58",
+      "fileName": "Consumi_Petroliferi_Definitivi_2020.xlsx",
+      "size": 32491
+    },
+    {
+      "id": "0900fde8800b9d52",
+      "fileName": "Consumi_Petroliferi_Definitivi_2021.xlsx",
+      "size": 32612
+    },
+    {
+      "id": "0900fde8800ba183",
+      "fileName": "Consumi_Petroliferi_Definitivi_2022.xlsx",
+      "size": 33860
+    },
+    {
+      "id": "0900fde8800bc94c",
+      "fileName": "Consumi_Petroliferi_Definitivi_2023.xlsx",
+      "size": 94046
+    },
+    {
+      "id": "0900fde8800d5eb9",
+      "fileName": "Consumi_Petroliferi_Definitivi_2024.xlsx",
+      "size": 31278
+    },
+    {
+      "id": "0900fde8800e07e4",
+      "fileName": "Consumi_Petroliferi_Definitivi_2025.xlsx",
+      "size": 30156
+    }
+  ],
+  "/sg_dgsaie/consumi_petroliferi/preconsuntivi/2024/": [
+    {
+      "id": "0900fde8800ba2ea",
+      "fileName": "Consumi_Petroliferi_2024_03.xls",
+      "size": 181760
+    },
+    {
+      "id": "0900fde8800ba1a7",
+      "fileName": "Consumi_Petrolio_2024_01.xls",
+      "size": 199680
+    },
+    {
+      "id": "0900fde8800ba1af",
+      "fileName": "Consumi_Petrolio_2024_02.xls",
+      "size": 207360
+    },
+    {
+      "id": "0900fde8800bc19c",
+      "fileName": "Consumi_Petrolio_2024_04.xls",
+      "size": 206848
+    },
+    {
+      "id": "0900fde8800bce6e",
+      "fileName": "Consumi_Petrolio_2024_05.xls",
+      "size": 193536
+    },
+    {
+      "id": "0900fde8800bd5b1",
+      "fileName": "Consumi_Petrolio_2024_06.xls",
+      "size": 210432
+    },
+    {
+      "id": "0900fde8800bd9eb",
+      "fileName": "Consumi_Petrolio_2024_07.xls",
+      "size": 185344
+    },
+    {
+      "id": "0900fde8800bdb6a",
+      "fileName": "Consumi_Petrolio_2024_08.xls",
+      "size": 210432
+    },
+    {
+      "id": "0900fde8800be63a",
+      "fileName": "Consumi_Petrolio_2024_09.xls",
+      "size": 210944
+    },
+    {
+      "id": "0900fde8800bf517",
+      "fileName": "Consumi_Petrolio_2024_10.xls",
+      "size": 210432
+    },
+    {
+      "id": "0900fde8800bfd1a",
+      "fileName": "Consumi_Petrolio_2024_11.xls",
+      "size": 185344
+    },
+    {
+      "id": "0900fde8800c1154",
+      "fileName": "Consumi_Petrolio_2024_12.xls",
+      "size": 210432
+    }
+  ],
+  "/sg_dgsaie/consumi_petroliferi/preconsuntivi/2025/": [
+    {
+      "id": "0900fde8800c3249",
+      "fileName": "Consumi_Petrolio_2025_01.xls",
+      "size": 190976
+    },
+    {
+      "id": "0900fde8800c452b",
+      "fileName": "Consumi_Petrolio_2025_02.xls",
+      "size": 211456
+    },
+    {
+      "id": "0900fde8800c562d",
+      "fileName": "Consumi_Petrolio_2025_03.xls",
+      "size": 183296
+    },
+    {
+      "id": "0900fde8800c633d",
+      "fileName": "Consumi_Petrolio_2025_04.xls",
+      "size": 205824
+    },
+    {
+      "id": "0900fde8800c75b4",
+      "fileName": "Consumi_Petrolio_2025_05.xls",
+      "size": 188416
+    },
+    {
+      "id": "0900fde8800c8ca3",
+      "fileName": "Consumi_Petrolio_2025_06.xls",
+      "size": 205824
+    },
+    {
+      "id": "0900fde8800ca509",
+      "fileName": "Consumi_Petrolio_2025_07.xls",
+      "size": 215552
+    },
+    {
+      "id": "0900fde8800cb654",
+      "fileName": "Consumi_Petrolio_2025_08.xls",
+      "size": 190464
+    },
+    {
+      "id": "0900fde8800cd1d7",
+      "fileName": "Consumi_Petrolio_2025_09.xls",
+      "size": 215552
+    },
+    {
+      "id": "0900fde8800cf754",
+      "fileName": "Consumi_Petrolio_2025_10.xls",
+      "size": 209408
+    },
+    {
+      "id": "0900fde8800d2f58",
+      "fileName": "Consumi_Petrolio_2025_11.xls",
+      "size": 216064
+    },
+    {
+      "id": "0900fde8800d47be",
+      "fileName": "Consumi_Petrolio_2025_12.xls",
+      "size": 184320
+    }
+  ],
+  "/sg_dgsaie/consumi_petroliferi/preconsuntivi/2026/": [
+    {
+      "id": "0900fde8800d6501",
+      "fileName": "Consumi_Petrolio_2026_01.xls",
+      "size": 210944
+    },
+    {
+      "id": "0900fde8800d831e",
+      "fileName": "Consumi_Petrolio_2026_02.xls",
+      "size": 192512
+    },
+    {
+      "id": "0900fde8800e018c",
+      "fileName": "Consumi_Petrolio_2026_03.xls",
+      "size": 209920
+    },
+    {
+      "id": "0900fde8800e1734",
+      "fileName": "Consumi_Petrolio_2026_04.xls",
+      "size": 209408
+    },
+    {
+      "id": "0900fde8800e31af",
+      "fileName": "Consumi_Petrolio_2026_05.xls",
+      "size": 209408
+    },
+    {
+      "id": "0900fde8800e3e90",
+      "fileName": "Consumi_Petrolio_2026_06.xls",
+      "size": 209408
+    }
+  ],
+  "/sg_dgsaie/gas_naturale/importazioni/": [
+    {
+      "id": "0900fde8800b9e26",
+      "fileName": "ImportazioniGasAnnualiPerPaeseDiOrigine_1990-2021.xlsx",
+      "size": 16132
+    },
+    {
+      "id": "0900fde8800b9e1b",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2002-2009.xls",
+      "size": 46080
+    },
+    {
+      "id": "0900fde8800b9e1a",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2010.xls",
+      "size": 23552
+    },
+    {
+      "id": "0900fde8800b9e0b",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2011.xls",
+      "size": 21504
+    },
+    {
+      "id": "0900fde8800b9e25",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2012.xls",
+      "size": 20992
+    },
+    {
+      "id": "0900fde8800ba20b",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2013.xls",
+      "size": 31232
+    },
+    {
+      "id": "0900fde8800ba20c",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2014.xlsx",
+      "size": 15481
+    },
+    {
+      "id": "0900fde8800b9e1c",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2015.xls",
+      "size": 35840
+    },
+    {
+      "id": "0900fde8800ba20d",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2016.xlsx",
+      "size": 14070
+    },
+    {
+      "id": "0900fde8800b9e11",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2017.xlsx",
+      "size": 15617
+    },
+    {
+      "id": "0900fde8800b9e2b",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2018.xlsx",
+      "size": 15067
+    },
+    {
+      "id": "0900fde8800b9e1d",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2019.xlsx",
+      "size": 17177
+    },
+    {
+      "id": "0900fde8800ba20e",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2020.xlsx",
+      "size": 15973
+    },
+    {
+      "id": "0900fde8800b9e13",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2021.xlsx",
+      "size": 16336
+    },
+    {
+      "id": "0900fde8800bcf29",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2022.xlsx",
+      "size": 20843
+    },
+    {
+      "id": "0900fde8800bcf6e",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2022_rev1.xlsx",
+      "size": 20880
+    },
+    {
+      "id": "0900fde8800d97b1",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2023.xlsx",
+      "size": 21307
+    },
+    {
+      "id": "0900fde8800d9bcd",
+      "fileName": "ImportazioniGasMensiliPerPaeseDiOrigine_2024.xlsx",
+      "size": 21728
+    },
+    {
+      "id": "0900fde8800b9e12",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2002-2009.xls",
+      "size": 36352
+    },
+    {
+      "id": "0900fde8800b9e27",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2010.xls",
+      "size": 24576
+    },
+    {
+      "id": "0900fde8800b9e14",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2011.xls",
+      "size": 21504
+    },
+    {
+      "id": "0900fde8800b9e15",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2013.xls",
+      "size": 30720
+    },
+    {
+      "id": "0900fde8800b9e34",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2014.xlsx",
+      "size": 13448
+    },
+    {
+      "id": "0900fde8800b9e1e",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2015.xls",
+      "size": 29696
+    },
+    {
+      "id": "0900fde8800b9e2c",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2016.xlsx",
+      "size": 12619
+    },
+    {
+      "id": "0900fde8800b9e1f",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2017.xlsx",
+      "size": 13463
+    },
+    {
+      "id": "0900fde8800b9e3e",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2018.xlsx",
+      "size": 13439
+    },
+    {
+      "id": "0900fde8800b9e2e",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2019.xlsx",
+      "size": 14269
+    },
+    {
+      "id": "0900fde8800b9e2d",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2020.xlsx",
+      "size": 13697
+    },
+    {
+      "id": "0900fde8800b9e3f",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2021.xlsx",
+      "size": 13784
+    },
+    {
+      "id": "0900fde8800bcf06",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2022.xlsx",
+      "size": 15413
+    },
+    {
+      "id": "0900fde8800bcf65",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2022_rev1.xlsx",
+      "size": 14794
+    },
+    {
+      "id": "0900fde8800d9bbb",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2023.xlsx",
+      "size": 15277
+    },
+    {
+      "id": "0900fde8800d9bc4",
+      "fileName": "ImportazioniGasMensiliPerPuntoIngresso_2024.xlsx",
+      "size": 14431
+    }
+  ]
+}

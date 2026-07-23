@@ -1,0 +1,8 @@
+{
+  "built_at": "2026-07-15T22:39:40Z",
+  "desks_ok": 0,
+  "log": [
+    "PDE: no ID-AEP \u2014 API 401 or empty; drop CSV in cache/weather/netztransparenz/IdAep/ or check ds.netztransparenz.de access"
+  ],
+  "api": "https://ds.netztransparenz.de/api/v1/data/IdAep"
+}

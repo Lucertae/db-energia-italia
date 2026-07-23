@@ -1,0 +1,70 @@
+# Secrets / credentials — NEVER commit
+*.key
+*.credentials
+*.token
+*.pem
+.env
+.env.*
+!**/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Cursor / local agent noise
+.cursor/
+agent-transcripts/
+
+# Temp harvest leftovers
+**/_tmp/
+**/*.part
+**/*.tmp
+**/harvest.log
+
+# Rust / build (silice etc.)
+**/target/
+**/*.rlib
+**/*.rmeta
+
+# Docker volumes / local DB state
+**/pgdata/
+**/*.sql.gz
+
+# --- GitHub hard limit 100 MB: exclude oversized local data ---
+# Regenerable via harvest scripts; keep METADATI/catalog/README in repo.
+**/*.osm.pbf
+**/*.pbf
+**/*.gpkg
+**/*.dump
+
+# OIM heavy exports (regenerate with build_italia.py)
+db/oim-italia/data/
+db/oim-italia/export/oim_feature.csv
+db/oim-italia/export/oim_italia.gpkg
+db/oim-italia/export/oim_italia.dump
+
+# Huge ARERA zips
+db/consumi-italia/sources/arera/**/*.zip
+
+# MIT patenti (hundreds of MB each)
+db/socio-italia/sources/mobility/mit_opendata/patenti_*.csv
+db/socio-italia/sources/mobility/mit_opendata/patenti_*.csv.zip
+
+# Very large meteo merges (cities hourly full)
+db/meteo-italia/sources/meteo/italy_cities_hourly_*.csv
+db/meteo-italia/sources/meteostat_stations/italy_stations_daily_2015_present.csv
+
+# Compressed Eurostat dumps
+**/*.csv.gz

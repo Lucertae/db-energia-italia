@@ -1,0 +1,68 @@
+================================================================================
+METADATI — Imprese / operatori energia Italia
+================================================================================
+Aggiornato: 2026-07-23
+Path:       db/imprese-energia-italia/
+Volume:     22.7 MB   |   file dati catalogati: 12
+
+--------------------------------------------------------------------------------
+1. DESCRIZIONE
+--------------------------------------------------------------------------------
+Elenchi operatori e venditori energia da registri ARERA (open data).
+
+--------------------------------------------------------------------------------
+2. REFRESH
+--------------------------------------------------------------------------------
+Vedi script in imprese-energia-italia/ (harvest_arera.py, build_txt_massivo.py)
+
+--------------------------------------------------------------------------------
+3. DATASET (cosa / quanto / copertura)
+--------------------------------------------------------------------------------
+[arera_operatori]  status=ok
+  path:    sources/arera_operatori
+  cosa:    Anagrafe operatori
+  geo:     IT
+  tempo:   2026–2026   |  granularità: snapshot
+  quanto:  1 file, 3.8 MB
+  unità:   operatori
+  fonte:   ARERA  |  licenza: open
+
+[arera_vend_ee]  status=ok
+  path:    sources/arera_vend_ee
+  cosa:    Venditori elettricità
+  geo:     IT
+  tempo:   2026–2026   |  granularità: snapshot
+  quanto:  1 file, 95.2 KB
+  unità:   venditori
+  fonte:   ARERA  |  licenza: open
+
+[arera_vend_gas]  status=ok
+  path:    sources/arera_vend_gas
+  cosa:    Venditori gas
+  geo:     IT
+  tempo:   2026–2026   |  granularità: snapshot
+  quanto:  1 file, 78.1 KB
+  unità:   venditori
+  fonte:   ARERA  |  licenza: open
+
+[derived]  status=ok
+  path:    derived
+  cosa:    Merge/derivati (es. arera_operatori_ALL)
+  geo:     IT
+  tempo:   n/d   |  granularità: snapshot
+  quanto:  32068 righe (file campione), 9 file, 18.8 MB
+  unità:   —
+  fonte:   derivato  |  licenza: open
+
+--------------------------------------------------------------------------------
+4. CATALOGO MACHINE-READABLE
+--------------------------------------------------------------------------------
+Vedi catalog.csv nello stesso folder (rigenerate con:
+  python db/scripts/build_metadata_catalogs.py
+
+--------------------------------------------------------------------------------
+5. LICENZE
+--------------------------------------------------------------------------------
+ARERA open data.
+
+================================================================================

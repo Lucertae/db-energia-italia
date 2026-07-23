@@ -1,0 +1,1004 @@
+{
+  "version": 1,
+  "updated": "2026-07-15",
+  "description": "Live API streams — World Monitor parity (RSS+GN catalogs separate); 100 streams",
+  "streams": [
+    {
+      "id": "usgs-quakes",
+      "name": "USGS Earthquakes M4.5+",
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson",
+      "type": "geojson",
+      "sector": "NATURAL",
+      "refresh_sec": 300,
+      "origin": "earthquake.usgs.gov"
+    },
+    {
+      "id": "gdacs-rss",
+      "name": "GDACS Disaster Alerts",
+      "url": "https://www.gdacs.org/xml/rss.xml",
+      "type": "rss",
+      "sector": "NATURAL",
+      "refresh_sec": 300,
+      "origin": "gdacs.org"
+    },
+    {
+      "id": "gdacs-api",
+      "name": "GDACS Event List",
+      "url": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH",
+      "type": "json",
+      "sector": "NATURAL",
+      "refresh_sec": 300,
+      "origin": "gdacs.org"
+    },
+    {
+      "id": "noaa-alerts",
+      "name": "NOAA Weather Alerts",
+      "url": "https://api.weather.gov/alerts/active?status=actual&message_type=alert",
+      "type": "geojson",
+      "sector": "NATURAL",
+      "refresh_sec": 900,
+      "origin": "api.weather.gov"
+    },
+    {
+      "id": "nasa-eonet",
+      "name": "NASA EONET Natural Events",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&limit=25",
+      "type": "json",
+      "sector": "NATURAL",
+      "refresh_sec": 900,
+      "origin": "eonet.gsfc.nasa.gov"
+    },
+    {
+      "id": "nasa-firms",
+      "name": "NASA EONET Fires",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events?category=wildfires&status=open&limit=15",
+      "type": "json",
+      "sector": "NATURAL",
+      "refresh_sec": 1800,
+      "origin": "eonet.gsfc.nasa.gov",
+      "note": "EONET wildfire events (FIRMS proxy)"
+    },
+    {
+      "id": "gdelt-summary",
+      "name": "GDELT Conflict Pulse",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=geopolitics&mode=ArtList&maxrecords=15&format=json",
+      "type": "json",
+      "sector": "GEO",
+      "refresh_sec": 900,
+      "origin": "api.gdeltproject.org"
+    },
+    {
+      "id": "opensky-eu",
+      "name": "OpenSky Aircraft EU",
+      "url": "https://opensky-network.org/api/states/all?lamin=35&lomin=-12&lamax=62&lomax=28",
+      "type": "json",
+      "sector": "TRANSPORT",
+      "refresh_sec": 60,
+      "origin": "opensky-network.org"
+    },
+    {
+      "id": "coingecko-global",
+      "name": "CoinGecko Global Market",
+      "url": "https://api.coingecko.com/api/v3/global",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 120,
+      "origin": "api.coingecko.com"
+    },
+    {
+      "id": "coingecko-markets",
+      "name": "CoinGecko Top Markets",
+      "url": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 120,
+      "origin": "api.coingecko.com"
+    },
+    {
+      "id": "polymarket",
+      "name": "Polymarket Active Markets",
+      "url": "https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=12",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "gamma-api.polymarket.com"
+    },
+    {
+      "id": "reliefweb-rss",
+      "name": "ReliefWeb Disasters",
+      "url": "https://reliefweb.int/disasters/rss.xml",
+      "type": "rss",
+      "sector": "HUMANITARIAN",
+      "refresh_sec": 600,
+      "origin": "reliefweb.int"
+    },
+    {
+      "id": "cloudflare-outages",
+      "name": "Cloud Outages (RSS)",
+      "url": "https://www.cloudflarestatus.com/history.rss",
+      "type": "rss",
+      "sector": "CYBER",
+      "refresh_sec": 900,
+      "origin": "cloudflarestatus.com",
+      "note": "Cloudflare status RSS (replaced Google News query)"
+    },
+    {
+      "id": "acled-conflicts",
+      "name": "ACLED Conflicts",
+      "url": "https://api.acleddata.com/acled/read",
+      "type": "json",
+      "sector": "CONFLICT",
+      "refresh_sec": 1800,
+      "origin": "api.acleddata.com",
+      "env_key": "ACLED_API_KEY",
+      "optional": true
+    },
+    {
+      "id": "defillama-tvl",
+      "name": "DeFiLlama Total TVL",
+      "url": "https://api.llama.fi/v2/chains",
+      "type": "json",
+      "sector": "CRYPTO",
+      "refresh_sec": 600,
+      "origin": "api.llama.fi",
+      "ref": "mkt"
+    },
+    {
+      "id": "defillama-fees",
+      "name": "DeFiLlama Protocol Fees 24h",
+      "url": "https://api.llama.fi/overview/fees?excludeTotalDataChart=true&excludeTotalDataChartBreakdown=true",
+      "type": "json",
+      "sector": "CRYPTO",
+      "refresh_sec": 3600,
+      "origin": "api.llama.fi",
+      "ref": "mkt"
+    },
+    {
+      "id": "crypto-fng",
+      "name": "Crypto Fear & Greed",
+      "url": "https://api.alternative.me/fng/?limit=1",
+      "type": "json",
+      "sector": "CRYPTO",
+      "refresh_sec": 3600,
+      "origin": "alternative.me",
+      "ref": "pftui"
+    },
+    {
+      "id": "cnn-fear-greed",
+      "name": "CNN Fear & Greed Index",
+      "url": "https://production.dataviz.cnn.io/index/fearandgreed/graphdata",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 3600,
+      "origin": "dataviz.cnn.io",
+      "ref": "triphopp",
+      "headers": {
+        "Referer": "https://edition.cnn.com/markets/fear-and-greed"
+      }
+    },
+    {
+      "id": "binance-funding-btc",
+      "name": "Binance BTC Funding",
+      "url": "https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT",
+      "type": "json",
+      "sector": "CRYPTO",
+      "refresh_sec": 300,
+      "origin": "fapi.binance.com",
+      "ref": "mkt"
+    },
+    {
+      "id": "binance-funding-eth",
+      "name": "Binance ETH Funding",
+      "url": "https://fapi.binance.com/fapi/v1/premiumIndex?symbol=ETHUSDT",
+      "type": "json",
+      "sector": "CRYPTO",
+      "refresh_sec": 300,
+      "origin": "fapi.binance.com",
+      "ref": "mkt"
+    },
+    {
+      "id": "binance-oi-btc",
+      "name": "Binance BTC Open Interest",
+      "url": "https://fapi.binance.com/fapi/v1/openInterest?symbol=BTCUSDT",
+      "type": "json",
+      "sector": "CRYPTO",
+      "refresh_sec": 300,
+      "origin": "fapi.binance.com",
+      "ref": "mkt"
+    },
+    {
+      "id": "binance-oi-eth",
+      "name": "Binance ETH Open Interest",
+      "url": "https://fapi.binance.com/fapi/v1/openInterest?symbol=ETHUSDT",
+      "type": "json",
+      "sector": "CRYPTO",
+      "refresh_sec": 300,
+      "origin": "fapi.binance.com",
+      "ref": "mkt"
+    },
+    {
+      "id": "worldbank-cpi-us",
+      "name": "World Bank US CPI Inflation",
+      "url": "https://api.worldbank.org/v2/country/US/indicator/FP.CPI.TOTL.ZG?format=json&per_page=1",
+      "type": "json",
+      "sector": "MACRO",
+      "refresh_sec": 86400,
+      "origin": "api.worldbank.org",
+      "ref": "pftui"
+    },
+    {
+      "id": "openmeteo-london",
+      "name": "Open-Meteo London",
+      "url": "https://api.open-meteo.com/v1/forecast?latitude=51.5&longitude=-0.12&current=temperature_2m,wind_speed_10m,precipitation",
+      "type": "json",
+      "sector": "WEATHER",
+      "refresh_sec": 1800,
+      "origin": "api.open-meteo.com",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "openmeteo-houston",
+      "name": "Open-Meteo Houston",
+      "url": "https://api.open-meteo.com/v1/forecast?latitude=29.76&longitude=-95.37&current=temperature_2m,wind_speed_10m,precipitation",
+      "type": "json",
+      "sector": "WEATHER",
+      "refresh_sec": 1800,
+      "origin": "api.open-meteo.com",
+      "ref": "energy-monitor"
+    },
+    {
+      "id": "mempool-fees",
+      "name": "Mempool.space BTC Fees",
+      "url": "https://mempool.space/api/v1/fees/recommended",
+      "type": "json",
+      "sector": "CRYPTO",
+      "refresh_sec": 300,
+      "origin": "mempool.space",
+      "ref": "mkt"
+    },
+    {
+      "id": "usgs-quakes-25",
+      "name": "USGS Earthquakes M2.5+",
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson",
+      "type": "geojson",
+      "sector": "NATURAL",
+      "refresh_sec": 300,
+      "origin": "earthquake.usgs.gov"
+    },
+    {
+      "id": "opensanctions-datasets",
+      "name": "OpenSanctions Dataset Index",
+      "url": "https://api.opensanctions.org/datasets",
+      "type": "json",
+      "sector": "COMPLIANCE",
+      "refresh_sec": 86400,
+      "origin": "api.opensanctions.org",
+      "ref": "opensanctions"
+    },
+    {
+      "id": "gie-agsi-storage",
+      "name": "GIE EU Gas Storage Overview",
+      "url": "https://agsi.gie.eu/api/data/overview",
+      "type": "json",
+      "sector": "ENERGY",
+      "refresh_sec": 3600,
+      "origin": "agsi.gie.eu",
+      "ref": "obsyd",
+      "note": "OBSYD gas balance source"
+    },
+    {
+      "id": "fraunhofer-de-mix",
+      "name": "Fraunhofer DE Generation Mix",
+      "url": "https://energy-charts.info/charts/renewable_share/chart.json?country=de&cdn=cdn",
+      "type": "json",
+      "sector": "ENERGY",
+      "refresh_sec": 900,
+      "origin": "energy-charts.info",
+      "ref": "obsyd"
+    },
+    {
+      "id": "yahoo-vix",
+      "name": "Yahoo Finance VIX",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EVIX?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 600,
+      "origin": "query1.finance.yahoo.com",
+      "ref": "blackdesk"
+    },
+    {
+      "id": "sec-edgar-recent",
+      "name": "SEC EDGAR Recent Filings",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&count=20&output=atom",
+      "type": "rss",
+      "sector": "FINANCE",
+      "refresh_sec": 1800,
+      "origin": "sec.gov",
+      "ref": "stockstui"
+    },
+    {
+      "id": "coinbase-btc-ticker",
+      "name": "Coinbase BTC-USD Ticker",
+      "url": "https://api.exchange.coinbase.com/products/BTC-USD/ticker",
+      "type": "json",
+      "sector": "CRYPTO",
+      "refresh_sec": 60,
+      "origin": "api.exchange.coinbase.com",
+      "ref": "mkt"
+    },
+    {
+      "id": "feodo-tracker",
+      "name": "Feodo Tracker IOC",
+      "url": "https://feodotracker.abuse.ch/downloads/ipblocklist.json",
+      "type": "json",
+      "sector": "CYBER",
+      "refresh_sec": 3600,
+      "origin": "feodotracker.abuse.ch",
+      "ref": "world_monitor"
+    },
+    {
+      "id": "faa-asws",
+      "name": "FAA ASWS Airport Status",
+      "url": "https://nasstatus.faa.gov/api/airport-status-information",
+      "type": "xml",
+      "sector": "TRANSPORT",
+      "refresh_sec": 300,
+      "origin": "nasstatus.faa.gov",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "opensky-us",
+      "name": "OpenSky Aircraft CONUS",
+      "url": "https://opensky-network.org/api/states/all?lamin=24&lomin=-125&lamax=50&lomax=-66",
+      "type": "json",
+      "sector": "TRANSPORT",
+      "refresh_sec": 60,
+      "origin": "opensky-network.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "opensky-mena",
+      "name": "OpenSky Aircraft MENA",
+      "url": "https://opensky-network.org/api/states/all?lamin=12&lomin=25&lamax=42&lomax=60",
+      "type": "json",
+      "sector": "TRANSPORT",
+      "refresh_sec": 60,
+      "origin": "opensky-network.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "opensky-asia",
+      "name": "OpenSky Aircraft East Asia",
+      "url": "https://opensky-network.org/api/states/all?lamin=0&lomin=95&lamax=45&lomax=145",
+      "type": "json",
+      "sector": "TRANSPORT",
+      "refresh_sec": 60,
+      "origin": "opensky-network.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "ais-stream-optional",
+      "name": "AISStream Live (API key)",
+      "url": "https://stream.aisstream.io/v0/stream",
+      "type": "ws",
+      "sector": "MARITIME",
+      "refresh_sec": 30,
+      "origin": "aisstream.io",
+      "env_key": "AISSTREAM_API_KEY",
+      "optional": true,
+      "note": "WebSocket API — skipped without AISSTREAM_API_KEY",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "gdelt-geo-conflict",
+      "name": "GDELT DOC Conflict",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=conflict%20OR%20war%20OR%20missile&mode=ArtList&maxrecords=20&format=json",
+      "type": "json",
+      "sector": "CONFLICT",
+      "refresh_sec": 900,
+      "origin": "api.gdeltproject.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "gdelt-geo-protest",
+      "name": "GDELT DOC Protest",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=protest%20OR%20riot&mode=ArtList&maxrecords=20&format=json",
+      "type": "json",
+      "sector": "CONFLICT",
+      "refresh_sec": 900,
+      "origin": "api.gdeltproject.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "ucdp-ged-optional",
+      "name": "UCDP GED Events (API key)",
+      "url": "https://ucdpapi.pcr.uu.se/api/gedevents/23.1",
+      "type": "json",
+      "sector": "CONFLICT",
+      "refresh_sec": 86400,
+      "origin": "ucdpapi.pcr.uu.se",
+      "env_key": "UCDP_ACCESS_TOKEN",
+      "optional": true,
+      "note": "Requires UCDP API token",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "urlhaus-recent",
+      "name": "URLhaus Recent Malicious URLs",
+      "url": "https://urlhaus.abuse.ch/downloads/csv_recent/",
+      "type": "csv",
+      "sector": "CYBER",
+      "refresh_sec": 3600,
+      "origin": "urlhaus.abuse.ch",
+      "ref": "worldmonitor",
+      "insecure_ssl": true
+    },
+    {
+      "id": "ransomware-live",
+      "name": "Ransomware.live Victims",
+      "url": "https://ransomware.live/rss.xml",
+      "type": "rss",
+      "sector": "CYBER",
+      "refresh_sec": 1800,
+      "origin": "ransomware.live",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "feodo-recommended",
+      "name": "Feodo Tracker Recommended",
+      "url": "https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.json",
+      "type": "json",
+      "sector": "CYBER",
+      "refresh_sec": 3600,
+      "origin": "feodotracker.abuse.ch",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "cloudflare-status",
+      "name": "Cloudflare Status History",
+      "url": "https://www.cloudflarestatus.com/history.rss",
+      "type": "rss",
+      "sector": "CYBER",
+      "refresh_sec": 900,
+      "origin": "cloudflarestatus.com",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "aws-status",
+      "name": "AWS Service Status",
+      "url": "https://status.aws.amazon.com/rss/all.rss",
+      "type": "rss",
+      "sector": "CYBER",
+      "refresh_sec": 900,
+      "origin": "status.aws.amazon.com",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "azure-status",
+      "name": "Azure Status Feed",
+      "url": "https://azure.status.microsoft/en-us/status/feed/",
+      "type": "rss",
+      "sector": "CYBER",
+      "refresh_sec": 900,
+      "origin": "azure.status.microsoft",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "uk-fcdo-travel",
+      "name": "UK FCDO Travel Advice",
+      "url": "https://www.gov.uk/foreign-travel-advice.atom",
+      "type": "atom",
+      "sector": "GEO",
+      "refresh_sec": 3600,
+      "origin": "gov.uk",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "who-news",
+      "name": "WHO News",
+      "url": "https://www.who.int/rss-feeds/news-english.xml",
+      "type": "rss",
+      "sector": "HUMANITARIAN",
+      "refresh_sec": 3600,
+      "origin": "who.int",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "ecdc-news",
+      "name": "ECDC News",
+      "url": "https://www.ecdc.europa.eu/en/taxonomy/term/2942/feed",
+      "type": "rss",
+      "sector": "HUMANITARIAN",
+      "refresh_sec": 3600,
+      "origin": "ecdc.europa.eu",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "cdc-travel",
+      "name": "CDC Travel Notices",
+      "url": "https://tools.cdc.gov/api/v2/resources/media/132609.rss",
+      "type": "rss",
+      "sector": "HUMANITARIAN",
+      "refresh_sec": 3600,
+      "origin": "cdc.gov",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "disease-sh-global",
+      "name": "disease.sh Global Cases",
+      "url": "https://disease.sh/v3/covid-19/all",
+      "type": "json",
+      "sector": "HUMANITARIAN",
+      "refresh_sec": 3600,
+      "origin": "disease.sh",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "celestrak-stations",
+      "name": "CelesTrak Space Stations TLE",
+      "url": "https://celestrak.org/NORAD/elements/gp.php?GROUP=stations&FORMAT=json",
+      "type": "json",
+      "sector": "SPACE",
+      "refresh_sec": 3600,
+      "origin": "celestrak.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "celestrak-active",
+      "name": "CelesTrak Active Satellites (sample)",
+      "url": "https://celestrak.org/NORAD/elements/gp.php?GROUP=active&FORMAT=json",
+      "type": "json",
+      "sector": "SPACE",
+      "refresh_sec": 7200,
+      "origin": "celestrak.org",
+      "ref": "worldmonitor",
+      "note": "Large catalog — parser samples first objects"
+    },
+    {
+      "id": "yahoo-sp500",
+      "name": "Yahoo S&P 500",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "yahoo-nasdaq",
+      "name": "Yahoo NASDAQ",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-dji",
+      "name": "Yahoo Dow Jones",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-ftse",
+      "name": "Yahoo FTSE 100",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTSE?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-dax",
+      "name": "Yahoo DAX",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGDAXI?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-cac",
+      "name": "Yahoo CAC 40",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFCHI?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-nikkei",
+      "name": "Yahoo Nikkei 225",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EN225?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-hsi",
+      "name": "Yahoo Hang Seng",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EHSI?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-sse",
+      "name": "Yahoo Shanghai Composite",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/000001.SS?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-kospi",
+      "name": "Yahoo KOSPI",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-bse",
+      "name": "Yahoo BSE Sensex",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EBSESN?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-asx",
+      "name": "Yahoo ASX 200",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EAXJO?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-bvsp",
+      "name": "Yahoo Bovespa",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EBVSP?interval=1d&range=5d",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-brent",
+      "name": "Yahoo Brent Crude",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/BZ%3DF?interval=1d&range=5d",
+      "type": "json",
+      "sector": "ENERGY",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "yahoo-wti",
+      "name": "Yahoo WTI Crude",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?interval=1d&range=5d",
+      "type": "json",
+      "sector": "ENERGY",
+      "refresh_sec": 300,
+      "origin": "query1.finance.yahoo.com"
+    },
+    {
+      "id": "bis-policy-rates",
+      "name": "BIS Central Bank Policy Rates",
+      "url": "https://stats.bis.org/api/v1/data/WS_CBPOL/all/all?format=csv",
+      "type": "csv",
+      "sector": "FINANCE",
+      "refresh_sec": 86400,
+      "origin": "stats.bis.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "yahoo-fin-news",
+      "name": "Yahoo Finance Top Stories",
+      "url": "https://finance.yahoo.com/rss/topfinstories",
+      "type": "rss",
+      "sector": "FINANCE",
+      "refresh_sec": 900,
+      "origin": "finance.yahoo.com"
+    },
+    {
+      "id": "usgs-significant",
+      "name": "USGS Significant Quakes Week",
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson",
+      "type": "geojson",
+      "sector": "NATURAL",
+      "refresh_sec": 600,
+      "origin": "earthquake.usgs.gov"
+    },
+    {
+      "id": "wm-feodo-ipblock",
+      "name": "Feodo Tracker IP blocklist",
+      "url": "https://feodotracker.abuse.ch/downloads/ipblocklist.json",
+      "type": "json",
+      "sector": "CYBER",
+      "refresh_sec": 3600,
+      "origin": "feodotracker.abuse.ch",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-c2intel-ipc2s",
+      "name": "C2IntelFeeds IPC2s 30d",
+      "url": "https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/IPC2s-30day.csv",
+      "type": "csv",
+      "sector": "CYBER",
+      "refresh_sec": 3600,
+      "origin": "github.com",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-nga-broadcast-warn",
+      "name": "NGA MSI broadcast warnings",
+      "url": "https://msi.nga.mil/api/publications/broadcast-warn?output=json&status=A",
+      "type": "json",
+      "sector": "MARITIME",
+      "refresh_sec": 1800,
+      "origin": "msi.nga.mil",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-oref-alerts",
+      "name": "Israel OREF live alerts",
+      "url": "https://www.oref.org.il/WarningMessages/alert/alerts.json",
+      "type": "json",
+      "sector": "GEO",
+      "refresh_sec": 60,
+      "origin": "oref.org.il",
+      "ref": "worldmonitor",
+      "insecure_ssl": true
+    },
+    {
+      "id": "wm-gpsjam",
+      "name": "GPSJam interference",
+      "url": "https://gpsjam.org/data",
+      "type": "json",
+      "sector": "GEO",
+      "refresh_sec": 3600,
+      "origin": "gpsjam.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-safecast",
+      "name": "Safecast radiation",
+      "url": "https://api.safecast.org/measurements.json?distance=50000&limit=50",
+      "type": "json",
+      "sector": "NATURAL",
+      "refresh_sec": 1800,
+      "origin": "api.safecast.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-unhcr-pop",
+      "name": "UNHCR population",
+      "url": "https://api.unhcr.org/population/v1/population/?limit=20&page=1",
+      "type": "json",
+      "sector": "HUMANITARIAN",
+      "refresh_sec": 86400,
+      "origin": "api.unhcr.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-nsidc-seaice",
+      "name": "NSIDC sea ice daily",
+      "url": "https://noaadata.apps.nsidc.org/NOAA/G02135/north/daily/data/N_seaice_extent_daily_v4.0.csv",
+      "type": "csv",
+      "sector": "CLIMATE",
+      "refresh_sec": 86400,
+      "origin": "nsidc.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-noaa-co2-mlo",
+      "name": "NOAA Mauna Loa CO2 daily",
+      "url": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_daily_mlo.txt",
+      "type": "csv",
+      "sector": "CLIMATE",
+      "refresh_sec": 86400,
+      "origin": "gml.noaa.gov",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-carbonbrief-rss",
+      "name": "Carbon Brief RSS",
+      "url": "https://www.carbonbrief.org/feed",
+      "type": "rss",
+      "sector": "CLIMATE",
+      "refresh_sec": 3600,
+      "origin": "carbonbrief.org",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-copernicus-rss",
+      "name": "Copernicus Climate RSS",
+      "url": "https://climate.copernicus.eu/rss.xml",
+      "type": "rss",
+      "sector": "CLIMATE",
+      "refresh_sec": 3600,
+      "origin": "climate.copernicus.eu",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-nasa-eo-rss",
+      "name": "NASA Earth Observatory RSS",
+      "url": "https://earthobservatory.nasa.gov/feeds/earth-observatory.rss",
+      "type": "rss",
+      "sector": "CLIMATE",
+      "refresh_sec": 3600,
+      "origin": "earthobservatory.nasa.gov",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-flightglobal-rss",
+      "name": "FlightGlobal RSS",
+      "url": "https://www.flightglobal.com/rss",
+      "type": "rss",
+      "sector": "TRANSPORT",
+      "refresh_sec": 3600,
+      "origin": "flightglobal.com",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-simpleflying-rss",
+      "name": "Simple Flying RSS",
+      "url": "https://simpleflying.com/feed/",
+      "type": "rss",
+      "sector": "TRANSPORT",
+      "refresh_sec": 3600,
+      "origin": "simpleflying.com",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-aerotime-rss",
+      "name": "AeroTime RSS",
+      "url": "https://aerotime.aero/feed",
+      "type": "rss",
+      "sector": "TRANSPORT",
+      "refresh_sec": 3600,
+      "origin": "aerotime.aero",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-outbreak-rss",
+      "name": "Outbreak News Today",
+      "url": "https://outbreaknewstoday.com/feed/",
+      "type": "rss",
+      "sector": "HUMANITARIAN",
+      "refresh_sec": 3600,
+      "origin": "outbreaknewstoday.com",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-state-travel-rss",
+      "name": "US State Dept travel advisories",
+      "url": "https://travel.state.gov/_res/rss/TAsTWs.xml",
+      "type": "rss",
+      "sector": "GEO",
+      "refresh_sec": 3600,
+      "origin": "travel.state.gov",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-coinpaprika",
+      "name": "CoinPaprika tickers",
+      "url": "https://api.coinpaprika.com/v1/tickers?limit=20",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "api.coinpaprika.com",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-portwatch-ports",
+      "name": "IMF PortWatch daily ports",
+      "url": "https://services9.arcgis.com/weJ1QsnbMYJlCHdG/arcgis/rest/services/Daily_Ports_Data/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=50",
+      "type": "json",
+      "sector": "MARITIME",
+      "refresh_sec": 3600,
+      "origin": "arcgis.com",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-portwatch-disrupt",
+      "name": "IMF PortWatch disruptions",
+      "url": "https://services9.arcgis.com/weJ1QsnbMYJlCHdG/arcgis/rest/services/portwatch_disruptions_database/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=50",
+      "type": "json",
+      "sector": "MARITIME",
+      "refresh_sec": 3600,
+      "origin": "arcgis.com",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-pizzint-dash",
+      "name": "PizzINT dashboard",
+      "url": "https://www.pizzint.watch/api/dashboard-data",
+      "type": "json",
+      "sector": "GEO",
+      "refresh_sec": 900,
+      "origin": "pizzint.watch",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-treasury-mts",
+      "name": "US Treasury MTS table 9",
+      "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/mts/mts_table_9?page[size]=10",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 86400,
+      "origin": "fiscaldata.treasury.gov",
+      "ref": "worldmonitor"
+    },
+    {
+      "id": "wm-aviationstack",
+      "name": "AviationStack flights",
+      "url": "https://api.aviationstack.com/v1/flights",
+      "type": "json",
+      "sector": "TRANSPORT",
+      "refresh_sec": 600,
+      "origin": "api.aviationstack.com",
+      "ref": "worldmonitor",
+      "env_key": "AVIATIONSTACK_API_KEY",
+      "optional": true
+    },
+    {
+      "id": "wm-otx-export",
+      "name": "OTX indicators export",
+      "url": "https://otx.alienvault.com/api/v1/indicators/export",
+      "type": "json",
+      "sector": "CYBER",
+      "refresh_sec": 3600,
+      "origin": "otx.alienvault.com",
+      "ref": "worldmonitor",
+      "env_key": "OTX_API_KEY",
+      "optional": true
+    },
+    {
+      "id": "wm-abuseipdb",
+      "name": "AbuseIPDB blacklist",
+      "url": "https://api.abuseipdb.com/api/v2/blacklist",
+      "type": "json",
+      "sector": "CYBER",
+      "refresh_sec": 3600,
+      "origin": "api.abuseipdb.com",
+      "ref": "worldmonitor",
+      "env_key": "ABUSEIPDB_API_KEY",
+      "optional": true
+    },
+    {
+      "id": "wm-finnhub-quote",
+      "name": "Finnhub SPY quote",
+      "url": "https://finnhub.io/api/v1/quote?symbol=SPY",
+      "type": "json",
+      "sector": "FINANCE",
+      "refresh_sec": 300,
+      "origin": "finnhub.io",
+      "ref": "worldmonitor",
+      "env_key": "FINNHUB_API_KEY",
+      "optional": true
+    },
+    {
+      "id": "wm-firms-map",
+      "name": "NASA FIRMS VIIRS CSV (MAP_KEY)",
+      "url": "https://firms.modaps.eosdis.nasa.gov/api/area/csv",
+      "type": "csv",
+      "sector": "NATURAL",
+      "refresh_sec": 3600,
+      "origin": "firms.modaps.eosdis.nasa.gov",
+      "ref": "worldmonitor",
+      "env_key": "NASA_FIRMS_MAP_KEY",
+      "optional": true,
+      "note": "Append /MAP_KEY/world/VIIRS_SNPP_NRT/1 to url in harvester when key set"
+    }
+  ]
+}

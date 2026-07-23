@@ -1,0 +1,281 @@
+{
+  "version": 1,
+  "updated": "2026-07-12",
+  "title": "Accumulo energetico",
+  "subtitle": "Tecnologie e infrastrutture di stoccaggio per vettore energetico",
+  "intro": "L'accumulo non produce energia: la trasforma nel tempo (carica/scarica, stockpile, buffer). Collega fonti variabili (solare, eolico) a domanda costante, gestisce picchi, riserve strategiche e arbitraggio. Ogni tecnologia ha vettore, durata tipica e ruolo di sistema diversi.",
+  "category_legend": {
+    "electricity": "Elettricita",
+    "gas": "Gas e idrogeno",
+    "liquids": "Liquidi e carburanti",
+    "solids": "Solidi e biomassa",
+    "heat": "Calore"
+  },
+  "category_order": ["electricity", "gas", "liquids", "solids", "heat"],
+  "items": [
+    {
+      "id": "phes_storage",
+      "category": "electricity",
+      "label_it": "Idroelettrico a pompaggio (modalita accumulo)",
+      "timescale": "Ore - giorni",
+      "role": "Grande capacita, bilanciamento rete, riserva rotante",
+      "links": "Complementa hydro_pumped_gen in produzione",
+      "meteo": "Disponibilita acqua bacino superiore; evaporazione; piene/siccita.",
+      "legal": "Autorizzazione accumulo; vincoli diga e ambiente; mercati capacita/ancillary.",
+      "ops": "Cicli carica/scarica; usura turbine reversibili; manutenzione dighe."
+    },
+    {
+      "id": "bess_liion",
+      "category": "electricity",
+      "label_it": "Batterie elettrochimiche (Li-ion / LFP / NMC)",
+      "timescale": "Minuti - ore",
+      "role": "FCR, arbitraggio, integrazione rinnovabili, backup",
+      "links": "Solare, eolico, picchi domanda",
+      "meteo": "Temperatura ambiente su efficienza e degrado; raffreddamento rack.",
+      "legal": "Autorizzazione impianto; norme incendio/sicurezza batterie; grid code connessione.",
+      "ops": "BMS, sostituzione moduli, degrado capacita 2-5%/anno; fire suppression."
+    },
+    {
+      "id": "bess_flow",
+      "category": "electricity",
+      "label_it": "Batterie a flusso (vanadio, zinco-bromo, ecc.)",
+      "timescale": "Ore - giorni",
+      "role": "Stoccaggio lungo durata, microgrid, stabilizzazione",
+      "links": "Rinnovabili, siti industriali isolati",
+      "meteo": "Temperatura elettroliti; minore sensibilita vs Li-ion su cicli profondi.",
+      "legal": "Gestione elettroliti chimici; autorizzazione impianto; REACH class fluids.",
+      "ops": "Manutenzione pompe/stack; ricarica elettroliti; footprint maggiore."
+    },
+    {
+      "id": "caes",
+      "category": "electricity",
+      "label_it": "Aria compressa (CAES)",
+      "timescale": "Ore",
+      "role": "Grande scala, servizi di sistema, storage bulk",
+      "links": "Rete eolica notturna, surplus off-peak",
+      "meteo": "Temperatura su efficienza compressione/espansione.",
+      "legal": "Autorizzazione caverna/surface plant; norme pressione e sicurezza.",
+      "ops": "Manutenzione turbine/compressori; perdite aria; cicli giornalieri."
+    },
+    {
+      "id": "flywheel",
+      "category": "electricity",
+      "label_it": "Volani / flywheel",
+      "timescale": "Secondi - minuti",
+      "role": "Frequenza, power quality, UPS industriale",
+      "links": "Stabilizzazione rete, data center, fabbriche",
+      "meteo": "Trascurabile.",
+      "legal": "Norme sicurezza rotore ad alta velocita; connessione rete.",
+      "ops": "Cuscinetti magnetici/vuoto; sostituzione componenti meccanici."
+    },
+    {
+      "id": "gravity_storage",
+      "category": "electricity",
+      "label_it": "Accumulo a gravita (blocchi, shaft)",
+      "timescale": "Ore",
+      "role": "Storage bulk emergente, arbitraggio",
+      "links": "Surplus rinnovabile",
+      "meteo": "Vento su strutture esterne; gelo su meccanismi.",
+      "legal": "Autorizzazione sito; vincoli territoriali; norme gru/cantiere.",
+      "ops": "Usura argani/cavi; manutenzione meccanica; tecnologia in scaling."
+    },
+    {
+      "id": "supercap",
+      "category": "electricity",
+      "label_it": "Supercondensatori / ultracap",
+      "timescale": "Secondi",
+      "role": "Picchi potenza, recupero frenata, smoothing rapido",
+      "links": "Trasporti, reti, ibrido con batterie",
+      "meteo": "Temperatura su ESR.",
+      "legal": "Standard prodotto; integrazione sistema.",
+      "ops": "Cicli quasi illimitati; degrado lento; bassa energia specifica."
+    },
+    {
+      "id": "ugs_depleted",
+      "category": "gas",
+      "label_it": "Stoccaggio gas sotterraneo — giacimenti esauriti",
+      "timescale": "Giorni - mesi (stagionale)",
+      "role": "Riserva inverno, buffer domanda, sicurezza approvvigionamento",
+      "links": "natural_gas, lng",
+      "meteo": "Temperatura su pressione; domanda stagionale.",
+      "legal": "Concessione stoccaggio; norme sicurezza pozzi; mercato gas.",
+      "ops": "Iniezione/estrazione; monitoraggio integrita; manutenzione compressori."
+    },
+    {
+      "id": "ugs_cavern",
+      "category": "gas",
+      "label_it": "Stoccaggio gas — caverne di sale",
+      "timescale": "Giorni - mesi",
+      "role": "Alta velocita iniezione/estrazione, trading gas",
+      "links": "natural_gas, hub gas",
+      "meteo": "Domanda stagionale; meno meteo diretto.",
+      "legal": "Concessione caverna; norme leaching e stabilita.",
+      "ops": "Cicli rapidi; usura compressori; ispezioni caverna."
+    },
+    {
+      "id": "lng_tank",
+      "category": "gas",
+      "label_it": "Serbatoi LNG criogenici",
+      "timescale": "Giorni - settimane",
+      "role": "Buffer import/export, peak shaving, navi bunker",
+      "links": "lng",
+      "meteo": "Temperatura ambiente su boil-off; vento su terminali.",
+      "legal": "Autorizzazione terminale; norme IMO/SIGTTO; distanze sicurezza.",
+      "ops": "Boil-off gas recovery; ricondizionamento; manutenzione criogenica."
+    },
+    {
+      "id": "linepack",
+      "category": "gas",
+      "label_it": "Linepack reti gas (buffer in condotta)",
+      "timescale": "Ore - giorni",
+      "role": "Bilanciamento pressione rete, smoothing transito",
+      "links": "natural_gas, pipeline networks",
+      "meteo": "Temperatura su densita gas; domanda riscaldamento.",
+      "legal": "Contratti trasporto; regolazione TSO/DSO gas.",
+      "ops": "Gestione pressione; pigging; monitoraggio fughe."
+    },
+    {
+      "id": "h2_compressed",
+      "category": "gas",
+      "label_it": "Idrogeno compresso (350/700 bar)",
+      "timescale": "Ore - giorni",
+      "role": "Mobilita, buffer industriale, stazione rifornimento",
+      "links": "hydrogen_green, hydrogen_blue",
+      "meteo": "Temperatura su pressione effettiva.",
+      "legal": "Norme stoccaggio H2; distanze sicurezza; certificazione origine.",
+      "ops": "Ricertificazione serbatoi; compressori; perdite per diffusione."
+    },
+    {
+      "id": "h2_liquid",
+      "category": "gas",
+      "label_it": "Idrogeno liquido (LH2)",
+      "timescale": "Giorni - settimane",
+      "role": "Densita elevata, spazio, navi, lanciatori",
+      "links": "hydrogen_green",
+      "meteo": "Minimo; boil-off significativo.",
+      "legal": "Norme criogeniche; trasporto speciale.",
+      "ops": "Perdite boil-off; liquefazione energivora; manutenzione criogenica."
+    },
+    {
+      "id": "h2_lohc",
+      "category": "gas",
+      "label_it": "Idrogeno in vettori (LOHC, NH3, metanolo)",
+      "timescale": "Settimane - mesi",
+      "role": "Stoccaggio/trasporto H2 senza criogenia",
+      "links": "ammonia, methanol, hydrogen_green",
+      "meteo": "Temperatura su reazione binding/release.",
+      "legal": "REACH; norme chimica industriale; certificazione catena H2.",
+      "ops": "Catalizzatori de/idrogenazione; perdite conversione; supply chain."
+    },
+    {
+      "id": "spr_crude",
+      "category": "liquids",
+      "label_it": "Riserve strategiche petrolio greggio",
+      "timescale": "Mesi - anni",
+      "role": "Sicurezza approvvigionamento, shock geopolitici",
+      "links": "oil_crude",
+      "meteo": "Temperatura su viscosita; umidita su tank farm.",
+      "legal": "Obblighi IEA/membro; norme stoccaggio sotterraneo/superficie.",
+      "ops": "Rotazione stock; blending; ispezioni tank; pompe."
+    },
+    {
+      "id": "tank_farm_products",
+      "category": "liquids",
+      "label_it": "Tank farm prodotti raffinati",
+      "timescale": "Giorni - mesi",
+      "role": "Buffer logistico, trading, distribuzione",
+      "links": "oil_products",
+      "meteo": "Caldo su evaporazione; gelo su distillati.",
+      "legal": "Norme Seveso/EPA class; ADR trasporto; antincendio.",
+      "ops": "Turnover stock; calibrazione; manutenzione valvole/pompe."
+    },
+    {
+      "id": "biofuel_storage",
+      "category": "liquids",
+      "label_it": "Stoccaggio biocarburanti (etanolo, biodiesel, HVO)",
+      "timescale": "Giorni - mesi",
+      "role": "Mandati blending, supply chain agricola",
+      "links": "biofuels_liquid",
+      "meteo": "Umidita su degradazione; temperatura su ossidazione.",
+      "legal": "RED/sustainability traceability; norme depositi.",
+      "ops": "Controllo qualita; separazione acqua; rinnovo stock."
+    },
+    {
+      "id": "coal_stockpile",
+      "category": "solids",
+      "label_it": "Stockpile carbone (centrali/miniere)",
+      "timescale": "Settimane - mesi",
+      "role": "Buffer combustibile, continuita generazione",
+      "links": "coal_bituminous, coal_lignite",
+      "meteo": "Pioggia su umidita/PCI; vento su polveri; siccita rischio autoignizione.",
+      "legal": "Gestione polveri; norme deposito combustibile; incendio.",
+      "ops": "Rimozione auto-combustione; trasporto convogliatori; rotazione pile."
+    },
+    {
+      "id": "biomass_silo",
+      "category": "solids",
+      "label_it": "Silos biomassa (pellet, cippato, legna)",
+      "timescale": "Giorni - mesi",
+      "role": "Stagionalita raccolta, continuita caldaia",
+      "links": "biomass_modern, biomass_traditional",
+      "meteo": "Umidita su muffe e degrado; pioggia su stoccaggio outdoor.",
+      "legal": "Norme deposito combustibile; tracciabilita FSC/PEFC.",
+      "ops": "Essiccazione; monitoraggio temperatura pile; trattamento infestanti."
+    },
+    {
+      "id": "coke_yard",
+      "category": "solids",
+      "label_it": "Deposito coke metallurgico",
+      "timescale": "Giorni - settimane",
+      "role": "Buffer acciaierie, continuita alto forno",
+      "links": "coal_coke",
+      "meteo": "Pioggia su umidita; vento dispersione polveri.",
+      "legal": "Norme deposito industriale; emissioni PM.",
+      "ops": "Copertura parziale; recupero sottoprodotti; logistica navi/treni."
+    },
+    {
+      "id": "dh_accumulator",
+      "category": "heat",
+      "label_it": "Accumulo acqua calda (district heating)",
+      "timescale": "Ore - giorni",
+      "role": "Picco termico, integrazione CHP e rinnovabili",
+      "links": "waste_heat, geothermal, biomass_modern",
+      "meteo": "Temperatura esterna su domanda riscaldamento.",
+      "legal": "Autorizzazione impianto termico; norme rete teleriscaldamento.",
+      "ops": "Isolamento serbatoio; stratificazione; manutenzione scambiatori."
+    },
+    {
+      "id": "molten_salt",
+      "category": "heat",
+      "label_it": "Sale fuso (TES per CSP)",
+      "timescale": "Ore - notte",
+      "role": "Produzione elettrica notturna da solare CSP",
+      "links": "solar_thermal_csp",
+      "meteo": "Perdite termiche dipendono da temperatura ambiente.",
+      "legal": "Autorizzazione impianto termoelettrico; norme fluidi caldi.",
+      "ops": "Manutenzione serbatoi TES; corrosione sali; freeze protection."
+    },
+    {
+      "id": "pcm_storage",
+      "category": "heat",
+      "label_it": "Accumulo a cambiamento di fase (PCM)",
+      "timescale": "Ore",
+      "role": "Buffer termico edifici, HVAC, processo",
+      "links": "solar_thermal_flat, ambient_heat",
+      "meteo": "Profilo temperatura giornaliero.",
+      "legal": "Norme materiali edilizia; refrigeranti se ibrido.",
+      "ops": "Degrado cicli PCM; scambiatori; dimensionamento latente."
+    },
+    {
+      "id": "borehole_seasonal",
+      "category": "heat",
+      "label_it": "Accumulo termico stagionale (borehole / suolo)",
+      "timescale": "Mesi - stagioni",
+      "role": "Solar thermal estate -> inverno, heat pump support",
+      "links": "solar_thermal_flat, geothermal, ambient_heat",
+      "meteo": "Stagionalita solare e domanda termica.",
+      "legal": "Autorizzazione perforazioni; vincoli falda.",
+      "ops": "Bilancio termico annuale; monitoraggio temperature campo."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "country": "FR",
+  "desk_id": "PFR",
+  "source": "entsoe query_installed_generation_capacity",
+  "wind_mw_by_year": {
+    "2021": 17226.9,
+    "2022": 19535.5,
+    "2023": 21335.4,
+    "2024": 22704.1,
+    "2025": 23935.3,
+    "2026": 25200.0
+  },
+  "built_at": "2026-07-15T22:39:37Z"
+}

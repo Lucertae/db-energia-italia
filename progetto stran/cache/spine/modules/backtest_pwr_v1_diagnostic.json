@@ -1,0 +1,114 @@
+{
+  "built_at": "2026-07-15T21:53:16Z",
+  "signal_id": "PWR-01-v1-diagnostic",
+  "doc": "docs/backtest-target-artifact.md",
+  "test_case": "wrong_target_spurious_signal",
+  "results": [
+    {
+      "desk": "PDE",
+      "zone": "BER",
+      "A_contemporaneous_wind_vs_P_D": {
+        "hypothesis": "wind \u2191 \u2192 P(D) \u2193 (same-day merit order)",
+        "ic": -0.2346,
+        "t_nw": -7.319,
+        "n": 1871,
+        "mean_P_D": {
+          "n": 1871,
+          "mean": 121.12104,
+          "std": 89.33989
+        }
+      },
+      "B_v1_target_wind_vs_delta_D1": {
+        "hypothesis": "wind \u2191 \u2192 \u0394(D+1) \u2191 (v1 \u2014 WRONG timing/target)",
+        "ic": 0.1882,
+        "t_nw": 8.148,
+        "n": 1869,
+        "mean_delta": {
+          "n": 1869,
+          "mean": 0.01849,
+          "std": 40.498
+        }
+      },
+      "C_level_P_D1_controlling_P_D": {
+        "hypothesis": "partial effect of wind on P(D+1) | P(D)",
+        "coef_x_partial": 5.6461,
+        "ic_partial": 0.1425,
+        "t_partial": 6.222,
+        "n": 1869
+      },
+      "artifact_confirmed": true,
+      "interpretation": "Mechanical artifact: high wind lowers P(D), inflating \u0394(D+1)=P(D+1)\u2212P(D). Positive IC on delta is reflection of contemporaneous effect, not forecast edge."
+    },
+    {
+      "desk": "PFR",
+      "zone": "PAR",
+      "A_contemporaneous_wind_vs_P_D": {
+        "hypothesis": "wind \u2191 \u2192 P(D) \u2193 (same-day merit order)",
+        "ic": -0.1375,
+        "t_nw": -3.832,
+        "n": 1871,
+        "mean_P_D": {
+          "n": 1871,
+          "mean": 119.72693,
+          "std": 108.03175
+        }
+      },
+      "B_v1_target_wind_vs_delta_D1": {
+        "hypothesis": "wind \u2191 \u2192 \u0394(D+1) \u2191 (v1 \u2014 WRONG timing/target)",
+        "ic": 0.1095,
+        "t_nw": 4.86,
+        "n": 1869,
+        "mean_delta": {
+          "n": 1869,
+          "mean": 0.00246,
+          "std": 33.18894
+        }
+      },
+      "C_level_P_D1_controlling_P_D": {
+        "hypothesis": "partial effect of wind on P(D+1) | P(D)",
+        "coef_x_partial": 2.8681,
+        "ic_partial": 0.0903,
+        "t_partial": 3.917,
+        "n": 1869
+      },
+      "artifact_confirmed": true,
+      "interpretation": "Mechanical artifact: high wind lowers P(D), inflating \u0394(D+1)=P(D+1)\u2212P(D). Positive IC on delta is reflection of contemporaneous effect, not forecast edge."
+    },
+    {
+      "desk": "PIT",
+      "zone": "MIL",
+      "A_contemporaneous_wind_vs_P_D": {
+        "hypothesis": "wind \u2191 \u2192 P(D) \u2193 (same-day merit order)",
+        "ic": -0.022,
+        "t_nw": -0.82,
+        "n": 1871,
+        "mean_P_D": {
+          "n": 1871,
+          "mean": 159.82845,
+          "std": 98.9797
+        }
+      },
+      "B_v1_target_wind_vs_delta_D1": {
+        "hypothesis": "wind \u2191 \u2192 \u0394(D+1) \u2191 (v1 \u2014 WRONG timing/target)",
+        "ic": -0.0476,
+        "t_nw": -2.169,
+        "n": 1869,
+        "mean_delta": {
+          "n": 1869,
+          "mean": 0.03864,
+          "std": 23.05959
+        }
+      },
+      "C_level_P_D1_controlling_P_D": {
+        "hypothesis": "partial effect of wind on P(D+1) | P(D)",
+        "coef_x_partial": -1.1581,
+        "ic_partial": -0.0506,
+        "t_partial": -2.187,
+        "n": 1869
+      },
+      "artifact_confirmed": false,
+      "interpretation": "Pattern differs from canonical artifact \u2014 inspect manually."
+    }
+  ],
+  "all_desks_artifact": false
+}

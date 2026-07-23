@@ -1,0 +1,26 @@
+{
+  "finished_at": "2026-07-22T07:05:55.625143Z",
+  "data_root": "C:\\Users\\jecho\\Desktop\\terminal\\db\\entsoe-italia\\data",
+  "zones": {
+    "IT": "10YIT-GRTN-----B",
+    "IT-North": "10Y1001A1001A73I",
+    "IT-Centre-North": "10Y1001A1001A70O",
+    "IT-Centre-South": "10Y1001A1001A71M",
+    "IT-South": "10Y1001A1001A788",
+    "IT-Sicily": "10Y1001A1001A74G",
+    "IT-Sardinia": "10Y1001A1001A75E",
+    "IT-Calabria": "10Y1001C--00096J"
+  },
+  "neighbours": {
+    "FR": "10YFR-RTE------C",
+    "CH": "10YCH-SWISSGRIDZ",
+    "AT": "10YAT-APG------L",
+    "SI": "10YSI-ELES-----O",
+    "GR": "10YGR-HTSO-----Y",
+    "MT": "10Y1001A1001A93C",
+    "ME": "10YCS-CG-TSO---S"
+  },
+  "start_year": 2015,
+  "csv_files": 2358,
+  "bytes": 626991726
+}

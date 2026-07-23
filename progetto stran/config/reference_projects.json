@@ -1,0 +1,681 @@
+{
+  "version": 3,
+  "updated": "2026-07-10",
+  "catalog_root": "../reference-projects",
+  "description": "30 progetti open source Bloomberg / ops desk — catalogo UI + fonti dati per STRAN",
+  "projects": [
+    {
+      "num": 1,
+      "id": "world_monitor",
+      "name": "World Monitor",
+      "demo": "https://worldmonitor.app",
+      "category": "ops_geo",
+      "desk_sector": "GEO",
+      "integration": "partial",
+      "desk_role": "RSS 626+ feed, 56 map layers, AIS, GDELT, live APIs — import via import_wm_feeds.py",
+      "data_sources": "../reference-projects/data-sources/01-world-monitor.md",
+      "project_card": "../reference-projects/projects/01-world-monitor.md",
+      "harvest": [
+        "intel_feeds",
+        "live_streams"
+      ],
+      "ops": {
+        "data_mode": "mixed",
+        "needs_map": true,
+        "map_kind": "globe",
+        "refresh_sec": 60,
+        "refresh_label": "API 30s–15min · RSS 15–60min · 56 layer map"
+      },
+      "data_portal": "https://www.worldmonitor.app/docs/data-sources",
+      "data_portal_label": "WM data catalog"
+    },
+    {
+      "num": 2,
+      "id": "globeops",
+      "name": "GlobeOps",
+      "demo": "https://globeops.cloud/",
+      "category": "ops_geo",
+      "desk_sector": "GEO",
+      "integration": "partial",
+      "desk_role": "97 RSS + 7 API live, CRT terminal UI — feed-sources.ts in intel harvest",
+      "data_sources": "../reference-projects/data-sources/02-globeops.md",
+      "project_card": "../reference-projects/projects/02-globeops.md",
+      "harvest": [
+        "intel_feeds",
+        "live_streams"
+      ],
+      "ops": {
+        "data_mode": "mixed",
+        "needs_map": true,
+        "map_kind": "globe",
+        "refresh_sec": 60,
+        "refresh_label": "7 API live 30s–15min · 97 RSS · ASCII map"
+      },
+      "data_portal": "https://globeops.cloud/",
+      "data_portal_label": "GlobeOps live desk"
+    },
+    {
+      "num": 3,
+      "id": "energy_monitor",
+      "name": "Energy Monitor",
+      "demo": "https://energy.worldmonitor.app/",
+      "category": "ops_energy",
+      "desk_sector": "ENERGY",
+      "integration": "partial",
+      "desk_role": "Fork WM energy variant — pipeline, AIS, chokepoint, commodity",
+      "data_sources": "../reference-projects/data-sources/03-energy-monitor.md",
+      "project_card": "../reference-projects/projects/03-energy-monitor.md",
+      "harvest": [
+        "live_streams"
+      ],
+      "ops": {
+        "data_mode": "mixed",
+        "needs_map": true,
+        "map_kind": "globe",
+        "refresh_sec": 60,
+        "refresh_label": "WM energy variant · AIS/commodity 1–15min"
+      },
+      "data_portal": "https://energy.worldmonitor.app/",
+      "data_portal_label": "Energy Monitor"
+    },
+    {
+      "num": 4,
+      "id": "oriza",
+      "name": "Oriza",
+      "category": "commodity",
+      "desk_sector": "ENERGY",
+      "integration": "reference",
+      "desk_role": "Commodity desk gas/crude/metals — RSS EIA, scrape patterns",
+      "data_sources": "../reference-projects/data-sources/04-oriza.md",
+      "project_card": "../reference-projects/projects/04-oriza.md",
+      "ops": {
+        "data_mode": "mixed",
+        "needs_map": true,
+        "map_kind": "workspace",
+        "refresh_sec": 900,
+        "refresh_label": "RSS 15min · scrape batch · weather demo"
+      },
+      "data_portal": "https://www.eia.gov/opendata/",
+      "data_portal_label": "EIA Open Data + commodity RSS"
+    },
+    {
+      "num": 5,
+      "id": "fincept_terminal",
+      "name": "Fincept Terminal",
+      "category": "desktop_bloomberg",
+      "desk_sector": "FX",
+      "integration": "reference",
+      "desk_role": "Qt6 desktop Bloomberg-like — 100+ connector pattern",
+      "data_sources": "../reference-projects/data-sources/05-fincept-terminal.md",
+      "project_card": "../reference-projects/projects/05-fincept-terminal.md",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": true,
+        "map_kind": "workspace",
+        "refresh_sec": 5,
+        "refresh_label": "Streaming per connector (API keys)"
+      },
+      "data_portal": "https://fincept.co/",
+      "data_portal_label": "Fincept connectors & data API"
+    },
+    {
+      "num": 6,
+      "id": "typhoon_terminal",
+      "name": "TyphooN Terminal",
+      "category": "desktop_trading",
+      "desk_sector": "FX",
+      "integration": "reference",
+      "desk_role": "Rust egui GPU charting, Alpaca + Kraken",
+      "data_sources": "../reference-projects/data-sources/06-typhoon-terminal.md",
+      "project_card": "../reference-projects/projects/06-typhoon-terminal.md",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": false,
+        "map_kind": "chart",
+        "refresh_sec": 1,
+        "refresh_label": "WebSocket tick · GPU charts"
+      },
+      "data_portal": "https://docs.alpaca.markets/",
+      "data_portal_label": "Alpaca + Kraken market APIs"
+    },
+    {
+      "num": 7,
+      "id": "openbook",
+      "name": "OpenBook",
+      "category": "orderflow",
+      "desk_sector": "FX",
+      "integration": "reference",
+      "desk_role": "Binance Futures order book heatmap — microstructure UI",
+      "data_sources": "../reference-projects/data-sources/07-openbook.md",
+      "project_card": "../reference-projects/projects/07-openbook.md",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": true,
+        "map_kind": "orderbook",
+        "refresh_sec": 1,
+        "refresh_label": "Binance Futures WS @100ms depth"
+      },
+      "data_portal": "https://developers.binance.com/docs/derivatives/usds-margined-futures/websocket-market-streams",
+      "data_portal_label": "Binance Futures WebSocket depth"
+    },
+    {
+      "num": 8,
+      "id": "rs_trader",
+      "name": "rs_trader",
+      "category": "workflow_trading",
+      "desk_sector": "FX",
+      "integration": "reference",
+      "desk_role": "Rust Iced modular panels, Binance + CSV/Parquet",
+      "data_sources": "../reference-projects/data-sources/08-rs-trader.md",
+      "project_card": "../reference-projects/projects/08-rs-trader.md",
+      "ops": {
+        "data_mode": "mixed",
+        "needs_map": false,
+        "map_kind": "workspace",
+        "refresh_sec": 1,
+        "refresh_label": "Live tick or CSV/Parquet replay"
+      },
+      "data_portal": "https://finance.yahoo.com/",
+      "data_portal_label": "Yahoo Finance + CSV/Parquet replay"
+    },
+    {
+      "num": 9,
+      "id": "blackdesk",
+      "name": "Blackdesk",
+      "category": "tui_research",
+      "desk_sector": "FX",
+      "integration": "reference",
+      "desk_role": "Go Bubble Tea keyboard-first research terminal",
+      "data_sources": "../reference-projects/data-sources/09-blackdesk.md",
+      "project_card": "../reference-projects/projects/09-blackdesk.md",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": false,
+        "map_kind": "tui",
+        "refresh_sec": 60,
+        "refresh_label": "Yahoo poll · keyboard TUI"
+      },
+      "data_portal": "https://finance.yahoo.com/",
+      "data_portal_label": "Yahoo Finance poll"
+    },
+    {
+      "num": 10,
+      "id": "mkt",
+      "name": "mkt",
+      "category": "tui_markets",
+      "desk_sector": "FX",
+      "integration": "partial",
+      "desk_role": "TUI no-key: Coinbase, Yahoo, FRED, DeFiLlama, Binance funding/OI",
+      "data_sources": "../reference-projects/data-sources/10-mkt.md",
+      "project_card": "../reference-projects/projects/10-mkt.md",
+      "harvest": [
+        "ref_free_feeds",
+        "live_streams"
+      ],
+      "ops": {
+        "data_mode": "live",
+        "needs_map": false,
+        "map_kind": "tui",
+        "refresh_sec": 5,
+        "refresh_label": "Coinbase WS · REST 1–5min · no API key"
+      },
+      "data_portal": "https://docs.cloud.coinbase.com/advanced-trade-api/docs/welcome",
+      "data_portal_label": "Coinbase WS + Yahoo + FRED + DeFiLlama"
+    },
+    {
+      "num": 11,
+      "id": "wickra_terminal",
+      "name": "wickra-terminal",
+      "demo": "https://live.wickra.org/",
+      "category": "tui_web_trading",
+      "desk_sector": "FX",
+      "integration": "reference",
+      "desk_role": "TUI or web renderer, 514 indicators streaming",
+      "data_sources": "../reference-projects/data-sources/11-wickra-terminal.md",
+      "project_card": "../reference-projects/projects/11-wickra-terminal.md",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": false,
+        "map_kind": "chart",
+        "refresh_sec": 1,
+        "refresh_label": "514 indicators stream · TUI or web"
+      },
+      "data_portal": "https://api.binance.com/",
+      "data_portal_label": "Exchange REST/WS (514 indicators)"
+    },
+    {
+      "num": 12,
+      "id": "stockstui",
+      "name": "stocksTUI",
+      "category": "tui_python",
+      "desk_sector": "FX",
+      "integration": "reference",
+      "desk_role": "Python Textual — Yahoo, FRED, options",
+      "data_sources": "../reference-projects/data-sources/12-stockstui.md",
+      "project_card": "../reference-projects/projects/12-stockstui.md",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": false,
+        "map_kind": "tui",
+        "refresh_sec": 60,
+        "refresh_label": "yfinance + FRED poll"
+      },
+      "data_portal": "https://fred.stlouisfed.org/docs/api/fred/",
+      "data_portal_label": "yfinance + FRED API"
+    },
+    {
+      "num": 13,
+      "id": "pftui",
+      "name": "pftui",
+      "demo": "https://pftui.com/",
+      "category": "tui_portfolio",
+      "desk_sector": "FX",
+      "integration": "partial",
+      "desk_role": "19+ data sources — COT, Fear&Greed, Polymarket",
+      "data_sources": "../reference-projects/data-sources/13-pftui.md",
+      "project_card": "../reference-projects/projects/13-pftui.md",
+      "harvest": [
+        "ref_free_feeds",
+        "live_streams"
+      ],
+      "ops": {
+        "data_mode": "live",
+        "needs_map": false,
+        "map_kind": "workspace",
+        "refresh_sec": 300,
+        "refresh_label": "19 sources · poll 5–60min · web dashboard"
+      },
+      "data_portal": "https://pftui.com/",
+      "data_portal_label": "19 providers (Yahoo, CoinGecko, CFTC…)"
+    },
+    {
+      "num": 14,
+      "id": "openterminalui",
+      "name": "OpenTerminalUI",
+      "category": "web_fullstack",
+      "desk_sector": "FX",
+      "integration": "reference",
+      "desk_role": "Bloomberg/Refinitiv shell — multi-chart, OMS, AI agent",
+      "data_sources": "../reference-projects/data-sources/14-openterminalui.md",
+      "project_card": "../reference-projects/projects/14-openterminalui.md",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": false,
+        "map_kind": "workspace",
+        "refresh_sec": 60,
+        "refresh_label": "Multi-chart shell · provider poll"
+      },
+      "data_portal": "https://finance.yahoo.com/",
+      "data_portal_label": "Multi-provider market data shell"
+    },
+    {
+      "num": 15,
+      "id": "triphopp_bloomberg",
+      "name": "triphopp Bloomberg",
+      "category": "web_selfhosted",
+      "desk_sector": "FX",
+      "integration": "partial",
+      "desk_role": "Next.js + FastAPI keyboard desk — macro, portfolio, options routers",
+      "data_sources": "../reference-projects/data-sources/15-triphopp-bloomberg.md",
+      "project_card": "../reference-projects/projects/15-triphopp-bloomberg.md",
+      "harvest": [
+        "ref_free_feeds",
+        "live_streams"
+      ],
+      "ops": {
+        "data_mode": "live",
+        "needs_map": false,
+        "map_kind": "workspace",
+        "refresh_sec": 60,
+        "refresh_label": "FastAPI routers · macro/portfolio poll"
+      },
+      "data_portal": "https://fred.stlouisfed.org/",
+      "data_portal_label": "FastAPI routers · macro/FRED/yfinance"
+    },
+    {
+      "num": 16,
+      "id": "feremabraz_bloomberg",
+      "name": "feremabraz Bloomberg",
+      "category": "web_clone",
+      "desk_sector": "FX",
+      "integration": "reference",
+      "desk_role": "UI clone — simulated data only",
+      "data_sources": "../reference-projects/data-sources/16-feremabraz-bloomberg.md",
+      "project_card": "../reference-projects/projects/16-feremabraz-bloomberg.md",
+      "ops": {
+        "data_mode": "static",
+        "needs_map": false,
+        "map_kind": "chart",
+        "refresh_sec": null,
+        "refresh_label": "Simulated data only · no live feed"
+      },
+      "data_portal": "https://finance.yahoo.com/",
+      "data_portal_label": "Simulated demo · Yahoo-style quotes"
+    },
+    {
+      "num": 17,
+      "id": "openbb",
+      "name": "OpenBB",
+      "demo": "https://pro.openbb.co",
+      "category": "data_platform",
+      "desk_sector": "FX",
+      "integration": "partial",
+      "desk_role": "ODP providers — yfinance, SEC, FRED, EIA, IMF, MCP",
+      "data_sources": "../reference-projects/data-sources/17-openbb.md",
+      "project_card": "../reference-projects/projects/17-openbb.md",
+      "harvest": [
+        "ref_free_feeds"
+      ],
+      "ops": {
+        "data_mode": "mixed",
+        "needs_map": false,
+        "map_kind": "workspace",
+        "refresh_sec": 300,
+        "refresh_label": "Provider-dependent · EOD to intraday"
+      },
+      "data_portal": "https://docs.openbb.co/",
+      "data_portal_label": "OpenBB Platform providers"
+    },
+    {
+      "num": 18,
+      "id": "egui_charts",
+      "name": "egui-charts",
+      "demo": "https://userfrm.github.io/egui-charts/",
+      "category": "chart_lib",
+      "desk_sector": "UI",
+      "integration": "reference",
+      "desk_role": "Rust chart library — future stack beyond GDI",
+      "data_sources": "../reference-projects/data-sources/18-egui-charts.md",
+      "project_card": "../reference-projects/projects/18-egui-charts.md",
+      "ops": {
+        "data_mode": "library",
+        "needs_map": false,
+        "map_kind": "library",
+        "refresh_sec": null,
+        "refresh_label": "Host app defines data + refresh"
+      },
+      "data_portal": "https://userfrm.github.io/egui-charts/",
+      "data_portal_label": "Host app defines feeds"
+    },
+    {
+      "num": 19,
+      "id": "obsyd",
+      "name": "OBSYD",
+      "demo": "https://obsyd.dev",
+      "category": "energy_eu",
+      "desk_sector": "ENERGY",
+      "integration": "partial",
+      "desk_role": "EU power desk ENTSO-E + Fraunhofer + GIE gas — anomaly radar",
+      "data_sources": "../reference-projects/data-sources/19-obsyd.md",
+      "project_card": "../reference-projects/projects/19-obsyd.md",
+      "harvest": [
+        "live_streams"
+      ],
+      "data_source_id": "obsyd",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": true,
+        "map_kind": "energy",
+        "refresh_sec": 3600,
+        "refresh_label": "ENTSO-E hourly DA · GIE gas daily · flows"
+      },
+      "data_portal": "https://obsyd.dev/api/docs",
+      "data_portal_label": "ENTSO-E · Fraunhofer · GIE gas API"
+    },
+    {
+      "num": 20,
+      "id": "gridstatus",
+      "name": "gridstatus",
+      "demo": "https://www.gridstatus.io",
+      "category": "energy_us",
+      "desk_sector": "ENERGY",
+      "integration": "adapter_off",
+      "desk_role": "US ISO LMP/load — adapter gridstatus_harvest (off)",
+      "data_sources": "../reference-projects/data-sources/20-gridstatus.md",
+      "project_card": "../reference-projects/projects/20-gridstatus.md",
+      "data_source_id": "gridstatus",
+      "module_id": "gridstatus_harvest",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": false,
+        "map_kind": "energy",
+        "refresh_sec": 300,
+        "refresh_label": "US ISO LMP/load · publish 5–60min"
+      },
+      "data_portal": "https://www.gridstatus.io/",
+      "data_portal_label": "US/Canada ISO + EIA"
+    },
+    {
+      "num": 21,
+      "id": "electricitymaps",
+      "name": "Electricity Maps",
+      "demo": "https://app.electricitymaps.com",
+      "category": "energy_global",
+      "desk_sector": "ENERGY",
+      "integration": "reference",
+      "desk_role": "379 zone parsers, carbon intensity, ENTSOE parser",
+      "data_sources": "../reference-projects/data-sources/21-electricitymaps.md",
+      "project_card": "../reference-projects/projects/21-electricitymaps.md",
+      "data_source_id": "electricitymaps",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": true,
+        "map_kind": "globe",
+        "refresh_sec": 900,
+        "refresh_label": "TSO parsers · carbon map 5–15min"
+      },
+      "data_portal": "https://app.electricitymaps.com/map/live",
+      "data_portal_label": "379 zones · TSO parsers"
+    },
+    {
+      "num": 22,
+      "id": "herbie",
+      "name": "Herbie",
+      "category": "weather_nwp",
+      "desk_sector": "WEATHER",
+      "integration": "adapter_off",
+      "desk_role": "NWP GRIB HRRR/GFS/ECMWF — adapter herbie_harvest (off)",
+      "data_sources": "../reference-projects/data-sources/22-herbie.md",
+      "project_card": "../reference-projects/projects/22-herbie.md",
+      "data_source_id": "herbie",
+      "module_id": "herbie_harvest",
+      "ops": {
+        "data_mode": "batch",
+        "needs_map": false,
+        "map_kind": "none",
+        "refresh_sec": null,
+        "refresh_label": "NWP model cycles 1–6h · GRIB download"
+      },
+      "data_portal": "https://nomads.ncep.noaa.gov/",
+      "data_portal_label": "NOAA NOMADS/NODD GRIB"
+    },
+    {
+      "num": 23,
+      "id": "global_fishing_watch",
+      "name": "Global Fishing Watch",
+      "demo": "https://globalfishingwatch.org/map/",
+      "category": "maritime",
+      "desk_sector": "MARITIME",
+      "integration": "reference",
+      "desk_role": "AIS fishing effort, encounters, SAR — complements PortWatch",
+      "data_sources": "../reference-projects/data-sources/23-global-fishing-watch.md",
+      "project_card": "../reference-projects/projects/23-global-fishing-watch.md",
+      "data_source_id": "global_fishing_watch",
+      "env_key": "GFW_API_TOKEN",
+      "ops": {
+        "data_mode": "batch",
+        "needs_map": true,
+        "map_kind": "maritime",
+        "refresh_sec": 86400,
+        "refresh_label": "AIS grid · ~5 day lag · 4Wings API"
+      },
+      "data_portal": "https://globalfishingwatch.org/our-apis/",
+      "data_portal_label": "GFW 4Wings AIS API"
+    },
+    {
+      "num": 24,
+      "id": "tar1090",
+      "name": "tar1090",
+      "demo": "https://adsb.lol/",
+      "category": "aviation",
+      "desk_sector": "TRANSPORT",
+      "integration": "reference",
+      "desk_role": "ADS-B web UI — complements OpenSky live stream",
+      "data_sources": "../reference-projects/data-sources/24-tar1090.md",
+      "project_card": "../reference-projects/projects/24-tar1090.md",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": true,
+        "map_kind": "adsb",
+        "refresh_sec": 2,
+        "refresh_label": "readsb/dump1090 push · 1–2s tracks"
+      },
+      "data_portal": "https://adsb.lol/",
+      "data_portal_label": "ADS-B readsb · adsb.lol aggregate"
+    },
+    {
+      "num": 25,
+      "id": "opensanctions",
+      "name": "OpenSanctions",
+      "demo": "https://www.opensanctions.org",
+      "category": "compliance",
+      "desk_sector": "COMPLIANCE",
+      "integration": "partial",
+      "desk_role": "OFAC/EU/UN sanctions + PEP — yente API",
+      "data_sources": "../reference-projects/data-sources/25-opensanctions.md",
+      "project_card": "../reference-projects/projects/25-opensanctions.md",
+      "harvest": [
+        "live_streams"
+      ],
+      "data_source_id": "opensanctions",
+      "ops": {
+        "data_mode": "batch",
+        "needs_map": false,
+        "map_kind": "none",
+        "refresh_sec": 86400,
+        "refresh_label": "Daily crawler · yente API on query"
+      },
+      "data_portal": "https://www.opensanctions.org/docs/api/",
+      "data_portal_label": "OFAC/EU/UN sanctions · yente API"
+    },
+    {
+      "num": 26,
+      "id": "spiderfoot",
+      "name": "SpiderFoot",
+      "demo": "http://www.spiderfoot.net",
+      "category": "osint",
+      "desk_sector": "CYBER",
+      "integration": "reference",
+      "desk_role": "200+ OSINT modules — entity recon automation",
+      "data_sources": "../reference-projects/data-sources/26-spiderfoot.md",
+      "project_card": "../reference-projects/projects/26-spiderfoot.md",
+      "data_source_id": "spiderfoot",
+      "ops": {
+        "data_mode": "on_demand",
+        "needs_map": true,
+        "map_kind": "graph",
+        "refresh_sec": null,
+        "refresh_label": "OSINT scan per target · 200+ modules"
+      },
+      "data_portal": "https://www.spiderfoot.net/documentation/",
+      "data_portal_label": "200+ OSINT modules"
+    },
+    {
+      "num": 27,
+      "id": "intelowl",
+      "name": "IntelOwl",
+      "demo": "https://intelowl.honeynet.org",
+      "category": "threat_intel",
+      "desk_sector": "CYBER",
+      "integration": "reference",
+      "desk_role": "500+ analyzers — IOC enrichment parallel API",
+      "data_sources": "../reference-projects/data-sources/27-intelowl.md",
+      "project_card": "../reference-projects/projects/27-intelowl.md",
+      "data_source_id": "intelowl",
+      "ops": {
+        "data_mode": "on_demand",
+        "needs_map": false,
+        "map_kind": "workspace",
+        "refresh_sec": null,
+        "refresh_label": "Analyzer run per IOC submit"
+      },
+      "data_portal": "https://intelowlproject.github.io/docs/",
+      "data_portal_label": "500+ threat intel analyzers"
+    },
+    {
+      "num": 28,
+      "id": "rotki",
+      "name": "Rotki",
+      "demo": "https://rotki.com",
+      "category": "portfolio",
+      "desk_sector": "CRYPTO",
+      "integration": "reference",
+      "desk_role": "Self-hosted on-chain + exchange portfolio accounting",
+      "data_sources": "../reference-projects/data-sources/28-rotki.md",
+      "project_card": "../reference-projects/projects/28-rotki.md",
+      "data_source_id": "rotki",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": false,
+        "map_kind": "workspace",
+        "refresh_sec": 300,
+        "refresh_label": "Exchange/on-chain sync · ~5min"
+      },
+      "data_portal": "https://docs.rotki.com/",
+      "data_portal_label": "Exchange + on-chain sync"
+    },
+    {
+      "num": 29,
+      "id": "pysystemtrade",
+      "name": "pysystemtrade",
+      "category": "fx_systematic",
+      "desk_sector": "FX",
+      "integration": "integrated",
+      "desk_role": "Carver systematic futures — export module ON",
+      "data_sources": "../reference-projects/data-sources/29-pysystemtrade.md",
+      "project_card": "../reference-projects/projects/29-pysystemtrade.md",
+      "data_source_id": "pysystemtrade",
+      "module_id": "pysystemtrade_export",
+      "desk_export_dir": "cache/exports/pysystemtrade",
+      "ops": {
+        "data_mode": "mixed",
+        "needs_map": false,
+        "map_kind": "chart",
+        "refresh_sec": 86400,
+        "refresh_label": "Daily futures bars · IB live optional"
+      },
+      "data_portal": "https://www.interactivebrokers.com/en/trading/ib-api.php",
+      "data_portal_label": "IB live + Quandl/CSV futures"
+    },
+    {
+      "num": 30,
+      "id": "hummingbot",
+      "name": "Hummingbot",
+      "demo": "https://hummingbot.org",
+      "category": "crypto_execution",
+      "desk_sector": "CRYPTO",
+      "integration": "reference",
+      "desk_role": "47 exchange connectors — market making pattern",
+      "data_sources": "../reference-projects/data-sources/30-hummingbot.md",
+      "project_card": "../reference-projects/projects/30-hummingbot.md",
+      "data_source_id": "hummingbot",
+      "ops": {
+        "data_mode": "live",
+        "needs_map": false,
+        "map_kind": "none",
+        "refresh_sec": 1,
+        "refresh_label": "47 CEX/DEX connectors · WS order book"
+      },
+      "data_portal": "https://hummingbot.org/exchanges/",
+      "data_portal_label": "47 CEX/DEX connectors"
+    }
+  ],
+  "ops_schema": {
+    "data_mode": "live | mixed | batch | static | on_demand | library",
+    "needs_map": "true if primary UI requires geo/spatial map canvas",
+    "map_kind": "globe | maritime | adsb | energy | chart | orderbook | workspace | graph | tui | none | library",
+    "refresh_sec": "typical poll interval seconds; null = on-demand or N/A",
+    "refresh_label": "human-readable refresh summary"
+  },
+  "link_policy": "data_portal + data_sources catalog — no GitHub repo links in desk/catalog"
+}

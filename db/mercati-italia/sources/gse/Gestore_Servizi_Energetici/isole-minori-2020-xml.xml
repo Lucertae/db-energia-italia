@@ -1,0 +1,567 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'/>
+		<variable name='CATEGORIA'/>
+		<variable name='ATTO_DI_CONCESSIONE'/>
+		<variable name='IMPORTO_EROGATO'/>
+		<variable name='UNITA_DI_MISURA'/>
+		<variable name='MESE_DI_EROGAZIONE'/>
+		<variable name='ANNO_DI_EROGAZIONE'/>
+	</head>
+	<results>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>ARNO' LJUBA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>439.84</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000016</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CAMINITA GAETANO ANTONINO</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>154.5</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000042</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CAMPO CATERINA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>323.29</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000018</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CASERTA GIACOMO GIOVANNI</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>236.65</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000056</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>CONSIGLIO GIUSEPPE</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>672.83</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000034</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>FOGO CLAUDIO</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>954.01</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000065</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02050140843</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02050140843</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>G.S.T.- GESTIONE SERVIZI TURISTICI - S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1170.93</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000029</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>GIARDINA MARIA PIA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>127.49</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000048</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>GIARDINO GIANFRANCO</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>160.56</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000043</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02080200849</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02080200849</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>GUITGIA TOURIST SERVICE S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>362.39</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000027</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02080200849</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>02080200849</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>GUITGIA TOURIST SERVICE S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>3732.44</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000039</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>LICCIARDI MARIA VENERE</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>206.76</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000013</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01715880843</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01715880843</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>MED H CUPOLA BIANCA RESORT SRL</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1953.06</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000024</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>NATALE CARLO</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>179.67</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000051</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>PALMISANO ANGELA</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>374.73</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000022</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>PALMISANO LITTERIO SABINO</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>439.89</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000021</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01527380818</literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>01527380818</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>PANTELLERIA CLUB S.R.L.</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>583.15</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000009</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>POLICARDI FORTUNATO</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>12</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>1016.83</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000012</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='PARTITA_IVA_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal></literal>
+			</binding>
+			<binding name='CODICE_FISCALE_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>*************</literal>
+			</binding>
+			<binding name='NOMINATIVO_DEL_SOGGETTO_BENEFICIARIO'>
+				<literal>TRANCHINA GIUSEPPE</literal>
+			</binding>
+			<binding name='MESE_DI_EROGAZIONE'>
+				<literal>7</literal>
+			</binding>
+			<binding name='UNITA_DI_MISURA'>
+				<literal>euro</literal>
+			</binding>
+			<binding name='ANNO_DI_EROGAZIONE'>
+				<literal>2020</literal>
+			</binding>
+			<binding name='IMPORTO_EROGATO'>
+				<literal>128.91</literal>
+			</binding>
+			<binding name='ATTO_DI_CONCESSIONE'>
+				<literal>ISMIN0000000044</literal>
+			</binding>
+			<binding name='CATEGORIA'>
+				<literal>ISOLE MINORI</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

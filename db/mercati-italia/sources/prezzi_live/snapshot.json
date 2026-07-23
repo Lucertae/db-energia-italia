@@ -1,0 +1,34 @@
+{
+  "updated_at": "2026-07-22T23:27:25.931908+00:00",
+  "feeds": {
+    "entsoe_day_ahead": {
+      "path": "mercati-italia\\sources\\prezzi_live\\electricity\\entsoe_day_ahead_it_zones_rolling.csv",
+      "rows": 60438,
+      "latest": "2026-07-23 23:45:00+02:00"
+    },
+    "ember_daily": {
+      "path": "mercati-italia\\sources\\prezzi_live\\electricity\\ember_italy_wholesale_daily.csv",
+      "rows": 10776,
+      "latest": "2024-10-31"
+    },
+    "arera_indici": {
+      "path": "mercati-italia\\sources\\prezzi_live\\gas_indices\\arera_indici_latest.csv",
+      "rows": 78,
+      "latest": "202606"
+    },
+    "sisen_weekly_prices_all.csv": {
+      "path": "mercati-italia\\sources\\prezzi_live\\fuels\\sisen_weekly_prices_all.csv",
+      "rows": 6792,
+      "latest": "2026-07-20"
+    },
+    "sisen_monthly_prices_all.csv": {
+      "path": "mercati-italia\\sources\\prezzi_live\\fuels\\sisen_monthly_prices_all.csv",
+      "rows": 3194,
+      "latest": "2026"
+    },
+    "eex_eua_auction": {
+      "path": "mercati-italia\\sources\\prezzi_live\\carbon\\eex_eua_auction_latest.xlsx",
+      "latest": "2026"
+    }
+  }
+}

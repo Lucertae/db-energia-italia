@@ -1,0 +1,1 @@
+"""pysystemtrade data adapter."""

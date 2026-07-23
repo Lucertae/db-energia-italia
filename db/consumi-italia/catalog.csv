@@ -1,0 +1,19 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+consumi-italia,arera_domestici,sources/arera/domestici,Prelievi medi clienti domestici (regione/provincia),IT regioni/province,2021,2024,annuale,,19,835242766,kWh / clienti,ARERA,open data ARERA,ok
+consumi-italia,arera_non_domestici_ateco,sources/arera/non_domestici_ateco,Clienti non domestici BT per ATECO,IT,2021,2024,annuale,,13,174711013,clienti / kWh,ARERA,open data ARERA,ok
+consumi-italia,terna_bilanci,sources/terna/bilanci,Consumi elettrici finali per settore 1990–2024,IT,1990,2024,annuale,18,2,50106,GWh,ISPRA/Terna,open,ok
+consumi-italia,terna_total_load,sources/terna/total_load,Carico elettrico totale (API Terna),IT,2023,2026,orario/sub-orario,993188,1,65605264,MW,Terna API,Terna Developer,ok
+consumi-italia,terna_imcei,sources/terna/imcei,Indice mensile consumi energivori (IMCEI),IT,2015,2026,mensile,30429,1,1515344,indice,Terna API,Terna Developer,ok
+consumi-italia,terna_industry,sources/terna/industry_sector,Consumi industria provincia/ATECO,IT province,2015,2024,mensile,32208,1,2947459,GWh,Terna API,Terna Developer,ok
+consumi-italia,terna_services,sources/terna/services_sector,Consumi servizi (incl. PA),IT,2015,2024,mensile,36648,1,4509440,GWh,Terna API,Terna Developer,ok
+consumi-italia,terna_by_sector,sources/terna/electrical_energy_by_sector,Energia elettrica per settore,IT,2015,2024,mensile,4304,1,194233,GWh,Terna API,Terna Developer,ok
+consumi-italia,terna_by_type,sources/terna/electrical_energy_by_type,Energia elettrica per tipologia,IT,2015,2024,mensile,600,1,28132,GWh,Terna API,Terna Developer,ok
+consumi-italia,terna_capacity,sources/terna/installed_capacity,Capacità installata,IT,2021,2022,mensile,10,1,243,MW,Terna API,Terna Developer,ok
+consumi-italia,terna_res_capacity,sources/terna/renewable_source_capacity,Capacità rinnovabili per fonte,IT,2015,2024,mensile,11044,1,521804,MW,Terna API,Terna Developer,ok
+consumi-italia,eurostat_energy,sources/eurostat,"Bilanci, prezzi, trade, stock, SDG energia (geo=IT)",IT,2008,2025,annuale/mensile,162229,36,289258548,mix Eurostat,Eurostat,Eurostat,ok
+consumi-italia,mase_sisen,sources/mase,"Relazione energetica, SISEN prezzi/carburanti/BEN/gas",IT,1996,2026,settimanale/mensile/annuale,3194,1896,129553934,"€/l, tep, Sm3",MASE/SISEN,open,ok
+consumi-italia,ispra,sources/ispra,"FE, indicatori energia, report GHG",IT,1990,2025,annuale,,37,54135392,tCO2eq / FE,ISPRA,open,ok
+consumi-italia,worldbank_energy,sources/worldbank,Indicatori energetici WB Italia,IT,1990,2025,annuale,396,9,125898,mix,World Bank,CC-BY 4.0,ok
+consumi-italia,edgar_co2,sources/edgar,Estratto CO₂ EDGAR/OWID,IT,1990,2024,annuale,175,2,14451013,tCO2,OWID/EDGAR,CC-BY,ok
+consumi-italia,ghg,sources/ghg,Materiali GHG EEA/correlati,IT/EU,1990,2024,annuale,7520,2,497866,,EEA,open,ok
+consumi-italia,istat_admin,sources/istat,Confini/elenco comuni (supporto geografico),IT,,,statico,,2,39348703,,ISTAT,open,ok

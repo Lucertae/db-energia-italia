@@ -1,0 +1,28 @@
+[
+  {
+    "url": "https://sisen.mase.gov.it/dgsaie/assets/index.js",
+    "bytes": 697,
+    "head": "<!DOCTYPE html><html lang=it><head><meta charset=utf-8><meta name=viewport content=\"width=device-width,initial-scale=1\"><meta name=theme-color content=#000000><meta name=description content=\"Web site "
+  },
+  {
+    "url": "https://sisen.mase.gov.it/api/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://sisen.mase.gov.it/dgsaie/api/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://sisen.mase.gov.it/dgsaie/open-data",
+    "bytes": 697,
+    "head": "<!DOCTYPE html><html lang=it><head><meta charset=utf-8><meta name=viewport content=\"width=device-width,initial-scale=1\"><meta name=theme-color content=#000000><meta name=description content=\"Web site "
+  },
+  {
+    "url": "https://sisen.mase.gov.it/backend/api/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://api.sisen.mase.gov.it/",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  }
+]

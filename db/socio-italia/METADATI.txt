@@ -1,0 +1,111 @@
+================================================================================
+METADATI — Socio-economico Italia
+================================================================================
+Aggiornato: 2026-07-23
+Path:       db/socio-italia/
+Volume:     2.19 GB   |   file dati catalogati: 166
+
+--------------------------------------------------------------------------------
+1. DESCRIZIONE
+--------------------------------------------------------------------------------
+Driver di domanda: popolazione, PIL/VA settoriale e NUTS, uso suolo, mobilità/traffico, povertà/reddito (OWID/WB).
+
+--------------------------------------------------------------------------------
+2. REFRESH
+--------------------------------------------------------------------------------
+python db/scripts/harvest_socio_italia.py
+python db/scripts/harvest_territorio_mobilita.py
+python db/scripts/harvest_ispra_mit_mobility.py
+
+--------------------------------------------------------------------------------
+3. DATASET (cosa / quanto / copertura)
+--------------------------------------------------------------------------------
+[eurostat_demo]  status=ok
+  path:    sources/eurostat
+  cosa:    Demografia/occupazione Eurostat (IT)
+  geo:     IT / NUTS
+  tempo:   2004–2025   |  granularità: annuale
+  quanto:  3168 righe (file campione), 16 file, 67.6 MB
+  unità:   persone, %
+  fonte:   Eurostat  |  licenza: Eurostat
+
+[eurostat_gva]  status=ok
+  path:    sources/eurostat_gva
+  cosa:    PIL/VA NACE a10/a64, GDP NUTS2–3, reddito famiglie
+  geo:     IT NUTS
+  tempo:   1995–2025   |  granularità: annuale
+  quanto:  13284 righe (file campione), 19 file, 45.4 MB
+  unità:   M€, €/ab
+  fonte:   Eurostat  |  licenza: Eurostat
+
+[worldbank]  status=ok
+  path:    sources/worldbank
+  cosa:    Popolazione, GDP, lavoro, land area
+  geo:     IT
+  tempo:   1990–2025   |  granularità: annuale
+  quanto:  792 righe (file campione), 25 file, 230.8 KB
+  unità:   mix
+  fonte:   World Bank  |  licenza: CC-BY 4.0
+
+[istat]  status=ok
+  path:    sources/istat
+  cosa:    Comuni / estratti ISTAT
+  geo:     IT
+  tempo:   n/d   |  granularità: misto
+  quanto:  2 file, 39.3 MB
+  unità:   —
+  fonte:   ISTAT  |  licenza: open
+
+[land_use]  status=ok
+  path:    sources/land_use
+  cosa:    Land cover Eurostat, WB land %, confini ISTAT, geojson
+  geo:     IT
+  tempo:   2005–2023   |  granularità: annuale/statico
+  quanto:  77860 righe (file campione), 30 file, 199.5 MB
+  unità:   km2, %
+  fonte:   Eurostat/ISTAT/WB  |  licenza: open
+
+[mobility]  status=ok
+  path:    sources/mobility
+  cosa:    Veicoli/traffico Eurostat, ISPRA flotta, MIT porti/aereo/patenti, OSM
+  geo:     IT
+  tempo:   1993–2026   |  granularità: annuale/misto
+  quanto:  98747 righe (file campione), 59 file, 1.84 GB
+  unità:   veicoli, pax
+  fonte:   Eurostat/MIT/ISPRA  |  licenza: open
+
+[poverty]  status=ok
+  path:    sources/poverty
+  cosa:    Povertà/Gini/GNI (PIP + WB)
+  geo:     IT
+  tempo:   1991–2018   |  granularità: annuale
+  quanto:  48 righe (file campione), 15 file, 188.4 KB
+  unità:   %, indice
+  fonte:   OWID/WB  |  licenza: CC-BY
+
+[owid]  status=empty
+  path:    sources/owid
+  cosa:    Estratti OWID demografici/sociali
+  geo:     IT
+  tempo:   n/d   |  granularità: annuale
+  quanto:  0 file, 0 B
+  unità:   —
+  fonte:   OWID  |  licenza: CC-BY
+
+--------------------------------------------------------------------------------
+4. CATALOGO MACHINE-READABLE
+--------------------------------------------------------------------------------
+Vedi catalog.csv nello stesso folder (rigenerate con:
+  python db/scripts/build_metadata_catalogs.py
+
+--------------------------------------------------------------------------------
+5. LICENZE
+--------------------------------------------------------------------------------
+Eurostat, World Bank, ISTAT, OWID, MIT open data, ISPRA.
+
+--------------------------------------------------------------------------------
+6. BUCHI NOTI
+--------------------------------------------------------------------------------
+ISTAT SDMX a volte SSL fail; Corine CLC raster richiede download CLMS manuale.
+
+================================================================================

@@ -1,0 +1,7 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+owid-italia,energy_data,sources/energy-data,Energy data Italy,IT,1990,2025,annuale,126,4,9859958,mix energia,OWID,CC-BY,ok
+owid-italia,co2_data,sources/co2-data,CO₂ Italy,IT,1990,2024,annuale,175,3,766436,tCO2,OWID,CC-BY,ok
+owid-italia,poverty_data,sources/poverty-data,Poverty/PIP Italy,IT,1991,2018,annuale,48,4,7898410,% / indici,OWID/PIP,CC-BY,ok
+owid-italia,covid,sources/covid-19-data,COVID-19 Italy,IT,2020,2024,giornaliero/annuale,1677,2,611893,,OWID,CC-BY,ok
+owid-italia,energy_use_products,sources/energy-use-products,Energy use by product,IT,,,annuale,,4,38119,,OWID,CC-BY,ok
+owid-italia,owid_datasets_scan,sources/owid-datasets,Scansione catalogo OWID + subset italy/,IT/world,1990,2017,snapshot,57,365,1949042,dataset,OWID,CC-BY,ok

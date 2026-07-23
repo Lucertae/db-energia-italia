@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "description": "Free RSS from reference desk projects — verified, no API keys",
+  "feeds": [
+    {
+      "name": "MarketWatch Top Stories",
+      "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
+      "category": "stran-finance",
+      "ref": "mkt"
+    },
+    {
+      "name": "CNBC Markets",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "category": "stran-finance",
+      "ref": "mkt"
+    },
+    {
+      "name": "Yahoo Finance Top",
+      "url": "https://finance.yahoo.com/rss/topfinstories",
+      "category": "stran-finance",
+      "ref": "mkt"
+    },
+    {
+      "name": "Federal Reserve Press",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "category": "stran-regulatory",
+      "ref": "openbb"
+    },
+    {
+      "name": "SEC EDGAR Current Filings",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&count=40&output=atom",
+      "category": "stran-regulatory",
+      "ref": "mkt"
+    },
+    {
+      "name": "ECB Press Releases",
+      "url": "https://www.ecb.europa.eu/rss/press.html",
+      "category": "stran-regulatory",
+      "ref": "openbb"
+    },
+    {
+      "name": "BLS Economic News",
+      "url": "https://www.bls.gov/feed/bls_latest.rss",
+      "category": "stran-macro",
+      "ref": "pftui"
+    },
+    {
+      "name": "ReliefWeb Updates",
+      "url": "https://reliefweb.int/updates/rss.xml",
+      "category": "stran-humanitarian",
+      "ref": "globeops"
+    },
+    {
+      "name": "OilPrice.com",
+      "url": "https://oilprice.com/rss/main",
+      "category": "stran-energy",
+      "ref": "globeops"
+    },
+    {
+      "name": "Rigzone",
+      "url": "https://www.rigzone.com/news/rss/rigzone_latest.aspx",
+      "category": "stran-energy",
+      "ref": "globeops"
+    },
+    {
+      "name": "ArXiv Quant Finance",
+      "url": "https://export.arxiv.org/rss/q-fin",
+      "category": "stran-finance",
+      "ref": "triphopp"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+================================================================================
+METADATI — Mercati energia Italia
+================================================================================
+Aggiornato: 2026-07-23
+Path:       db/mercati-italia/
+Volume:     1.68 GB   |   file dati catalogati: 512
+
+--------------------------------------------------------------------------------
+1. DESCRIZIONE
+--------------------------------------------------------------------------------
+Mercati elettrici e gas: GME MGP, ENTSOG/SNAM, GIE AGSI/ALSI, GSE incentivi, Ember, EUA EEX, snapshot prezzi live.
+
+--------------------------------------------------------------------------------
+2. REFRESH
+--------------------------------------------------------------------------------
+python db/mercati-italia/scripts/harvest_all.py
+python db/scripts/harvest_prezzi_live.py
+python db/scripts/harvest_gie_agsi.py
+
+--------------------------------------------------------------------------------
+3. DATASET (cosa / quanto / copertura)
+--------------------------------------------------------------------------------
+[gme_mgp]  status=ok
+  path:    sources/gme
+  cosa:    Esiti MGP e altri mercati GME (ZIP/CSV storici)
+  geo:     IT zone
+  tempo:   2004–2026   |  granularità: orario/giornaliero
+  quanto:  53 file, 614.3 MB
+  unità:   €/MWh
+  fonte:   GME  |  licenza: GME
+
+[prezzi_live]  status=ok
+  path:    sources/prezzi_live
+  cosa:    Snapshot prezzi live (DA zone, Ember, ARERA, SISEN, EUA)
+  geo:     IT
+  tempo:   2015–2024   |  granularità: rolling ~90g / indici
+  quanto:  10776 righe (file campione), 12 file, 7.8 MB
+  unità:   €/MWh, €/l
+  fonte:   multi  |  licenza: open
+
+[agsi]  status=ok
+  path:    sources/agsi
+  cosa:    Stoccaggio gas Italia (GIE AGSI) paese + entities
+  geo:     IT
+  tempo:   2016–2026   |  granularità: giornaliero
+  quanto:  4219 righe (file campione), 38 file, 19.0 MB
+  unità:   TWh / %
+  fonte:   GIE AGSI  |  licenza: GIE
+
+[alsi]  status=ok
+  path:    sources/alsi
+  cosa:    Terminali GNL Italia (GIE ALSI)
+  geo:     IT
+  tempo:   2023–2026   |  granularità: giornaliero
+  quanto:  4214 righe (file campione), 37 file, 21.1 MB
+  unità:   GWh
+  fonte:   GIE ALSI  |  licenza: GIE
+
+[entsog_snam]  status=ok
+  path:    sources/entsog_snam
+  cosa:    Flussi gas fisici SNAM/ENTSOG
+  geo:     IT punti
+  tempo:   2022–2023   |  granularità: giornaliero/mensile
+  quanto:  5110 righe (file campione), 24 file, 27.7 MB
+  unità:   kWh/d
+  fonte:   ENTSOG  |  licenza: ENTSOG
+
+[snam_opendata]  status=empty
+  path:    sources/snam_opendata
+  cosa:    Materiali open data SNAM
+  geo:     IT
+  tempo:   n/d   |  granularità: misto
+  quanto:  0 file, 0 B
+  unità:   —
+  fonte:   SNAM  |  licenza: open
+
+[gse]  status=ok
+  path:    sources/gse
+  cosa:    Incentivi/certificati GSE open data
+  geo:     IT
+  tempo:   2018–2018   |  granularità: annuale/misto
+  quanto:  3 righe (file campione), 325 file, 841.4 MB
+  unità:   —
+  fonte:   GSE  |  licenza: open
+
+[ember]  status=ok
+  path:    sources/ember
+  cosa:    Serie mercato elettrico Ember
+  geo:     IT
+  tempo:   2015–2026   |  granularità: giornaliero/orario
+  quanto:  6040 righe (file campione), 10 file, 124.6 MB
+  unità:   €/MWh, MW
+  fonte:   Ember  |  licenza: CC-BY
+
+[ets_eua]  status=ok
+  path:    sources/ets_eua
+  cosa:    Aste EUA EEX + contesto carbon OWID
+  geo:     EU/IT
+  tempo:   1990–2024   |  granularità: asta/annuale
+  quanto:  175 righe (file campione), 13 file, 24.9 MB
+  unità:   €/t
+  fonte:   EEX/OWID  |  licenza: open
+
+--------------------------------------------------------------------------------
+4. CATALOGO MACHINE-READABLE
+--------------------------------------------------------------------------------
+Vedi catalog.csv nello stesso folder (rigenerate con:
+  python db/scripts/build_metadata_catalogs.py
+
+--------------------------------------------------------------------------------
+5. LICENZE
+--------------------------------------------------------------------------------
+GME, GIE, ENTSOG, GSE, Ember, EEX termini rispettivi.
+
+--------------------------------------------------------------------------------
+6. BUCHI NOTI
+--------------------------------------------------------------------------------
+GME MI/MSD/MB e Anno2007 spesso incompleti; Atlaimpianti solo UI.
+
+================================================================================

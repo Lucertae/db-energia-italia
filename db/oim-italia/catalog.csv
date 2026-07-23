@@ -1,0 +1,4 @@
+package,dataset,path,description,geo,time_start,time_end,granularity,rows_or_records,n_files,bytes,unit_notes,source,license,status
+oim-italia,export_gpkg,export,"Export offline: GPKG, CSV feature/node/edge, stats",IT,,,snapshot,74735,7,818875517,geometrie,OSM via OIM,ODbL,ok
+oim-italia,pbf_data,data,Input/aree lavoro PBF (se presenti),IT,,,snapshot,,1,2212317827,,Geofabrik OSM,ODbL,optional
+oim-italia,legend,filtri-legenda-completa.json,Legenda categorie/voci OIM,—,,,statico,,1,26558,10 cat / 75 voci,OpenInfraMap,open,ok

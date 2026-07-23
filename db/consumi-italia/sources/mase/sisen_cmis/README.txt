@@ -1,0 +1,3 @@
+SISEN/DGSAIE CMIS harvest via /api/v1/cmis/documents?folder=...
+Source: https://sisen.mase.gov.it/dgsaie/
+License: IODL 2.0

@@ -1,0 +1,8 @@
+entsoe.key
+.env
+logs/
+__pycache__/
+*.pyc
+data/**/*.parquet
+data/**/*.csv
+!data/.gitkeep

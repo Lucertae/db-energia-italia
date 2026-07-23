@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GO2FDE7B9A",
+    "name": "Arms Control",
+    "url": "https://www.armscontrol.org/act/rss.xml",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "WM23C27BE1",
+    "name": "Asharq Business",
+    "url": "https://english.aawsat.com/rss.xml",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "WM718C2B15",
+    "name": "Both Sides of Table",
+    "url": "https://bothsidesofthetable.com/feed/",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "GO85F9D667",
+    "name": "Brookings",
+    "url": "https://www.brookings.edu/feed/",
+    "error": "no parseable RSS/Atom items"
+  },
+  {
+    "id": "GO5CAF5440",
+    "name": "CFR",
+    "url": "https://www.cfr.org/rss/feed.xml",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "WMD750A297",
+    "name": "CISA",
+    "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "GO0958E426",
+    "name": "Chatham House",
+    "url": "https://www.chathamhouse.org/rss/publications.xml",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ST84F3004D",
+    "name": "Council of the EU",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/rss/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "STD048933D",
+    "name": "EEAS News",
+    "url": "https://www.eeas.europa.eu/eeas/rss_en",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "GO09157312",
+    "name": "Energy Voice",
+    "url": "https://www.energyvoice.com/feed/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "GO4E487AE9",
+    "name": "Euractiv",
+    "url": "https://www.euractiv.com/section/all/feed/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ST40468AEF",
+    "name": "IEA News",
+    "url": "https://www.iea.org/feeds/news.xml",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "GO83D133A2",
+    "name": "IISS",
+    "url": "https://www.iiss.org/online-analysis/rss/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "GO9C142E1C",
+    "name": "ISS Africa",
+    "url": "https://issafrica.org/iss-today/feed",
+    "error": "no parseable RSS/Atom items"
+  },
+  {
+    "id": "WM014E7189",
+    "name": "Indian Express",
+    "url": "https://indianexpress.com/feed/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "WMBE29F288",
+    "name": "Japan Today",
+    "url": "https://japantoday.com/feed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "WM48AD312D",
+    "name": "KrASIA",
+    "url": "https://kr-asia.com/feed/",
+    "error": "no parseable RSS/Atom items"
+  },
+  {
+    "id": "GOA7E58C72",
+    "name": "Maritime Exec",
+    "url": "https://www.maritime-executive.com/rss",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "GO0592F182",
+    "name": "Mining Weekly",
+    "url": "https://www.miningweekly.com/rss",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "WM5DCA39A8",
+    "name": "NFX Essays",
+    "url": "https://www.nfx.com/feed.xml",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "WMC5563538",
+    "name": "News24",
+    "url": "https://feeds.news24.com/articles/news24/TopStories/rss",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "GO92E79FF3",
+    "name": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/rss/feed/nar",
+    "error": "no parseable RSS/Atom items"
+  },
+  {
+    "id": "STDF977490",
+    "name": "OPEC Press",
+    "url": "https://www.opec.org/opec_web/staticfiles_txt/rss/news.xml",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "WM2CB6D54C",
+    "name": "PitchBook News",
+    "url": "https://pitchbook.com/news/rss",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "WM74AFB771",
+    "name": "Primicias",
+    "url": "https://www.primicias.ec/feed/",
+    "error": "no parseable RSS/Atom items"
+  },
+  {
+    "id": "GO39566D0C",
+    "name": "RAND",
+    "url": "https://www.rand.org/pubs/research_reports.rss",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "WM54E3CF70",
+    "name": "RAND",
+    "url": "https://www.rand.org/blog.rss",
+    "error": "no parseable RSS/Atom items"
+  },
+  {
+    "id": "WM7A880DDC",
+    "name": "Rigzone",
+    "url": "https://www.rigzone.com/news/rss.asp",
+    "error": "no parseable RSS/Atom items"
+  },
+  {
+    "id": "GO194AFF85",
+    "name": "S&P Commodities",
+    "url": "https://www.spglobal.com/commodityinsights/en/rss-feed/all.rss",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "id": "ST4828AF06",
+    "name": "SEC EDGAR Current Filings",
+    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&count=40&output=atom",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "WM28022C7F",
+    "name": "Singularity Hub",
+    "url": "https://singularityhub.com/feed/",
+    "error": "no parseable RSS/Atom items"
+  },
+  {
+    "id": "WMD1C2DB8C",
+    "name": "Stimson Center",
+    "url": "https://www.stimson.org/feed/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "WM0B8E32A7",
+    "name": "Techstars Blog",
+    "url": "https://www.techstars.com/the-line/feed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "GO0AE8ED80",
+    "name": "UNHCR",
+    "url": "https://www.unhcr.org/rss.xml",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "WM65F63780",
+    "name": "Vanguard Nigeria",
+    "url": "https://www.vanguardngr.com/feed/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "GOC12E8AAD",
+    "name": "VolcanoDisc",
+    "url": "https://www.volcanodiscovery.com/news/rss.xml",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

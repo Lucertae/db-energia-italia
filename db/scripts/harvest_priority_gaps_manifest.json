@@ -1,0 +1,756 @@
+[
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/cms/documents/5d6f1085b4d5f20821af55764e647671.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\prezzi_storici_indici.csv",
+    "status": "ok",
+    "bytes": 4561
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_7/PO_Offerte_E_PLACET_20260722.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20260722.csv",
+    "status": "ok",
+    "bytes": 379427
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_7/PO_Offerte_G_PLACET_20260722.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20260722.csv",
+    "status": "ok",
+    "bytes": 516957
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_7/PO_Offerte_D_MLIBERO_20260722.xml",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_D_MLIBERO_20260722.xml",
+    "status": "ok",
+    "bytes": 166504
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_7/PO_Offerte_E_MLIBERO_20260722.xml",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_MLIBERO_20260722.xml",
+    "status": "ok",
+    "bytes": 20700282
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerteML/2026_7/PO_Offerte_G_MLIBERO_20260722.xml",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_MLIBERO_20260722.xml",
+    "status": "ok",
+    "bytes": 13149394
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_7/PO_Parametri_E_20260722.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_E_20260722.csv",
+    "status": "ok",
+    "bytes": 9912
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_7/PO_Parametri_G_20260722.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_G_20260722.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_7/PO_Parametri_Mercato_Libero_E_20260722.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_E_20260722.csv",
+    "status": "ok",
+    "bytes": 9912
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_7/PO_Parametri_Mercato_Libero_G_20260722.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_G_20260722.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_6/PO_Offerte_E_PLACET_20260601.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20260601.csv",
+    "status": "ok",
+    "bytes": 368717
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_6/PO_Offerte_G_PLACET_20260601.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20260601.csv",
+    "status": "ok",
+    "bytes": 514083
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_6/PO_Parametri_E_20260601.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_E_20260601.csv",
+    "status": "ok",
+    "bytes": 9912
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_6/PO_Parametri_G_20260601.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_G_20260601.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_6/PO_Parametri_Mercato_Libero_E_20260601.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_E_20260601.csv",
+    "status": "ok",
+    "bytes": 9912
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_6/PO_Parametri_Mercato_Libero_G_20260601.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_G_20260601.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_5/PO_Offerte_E_PLACET_20260501.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20260501.csv",
+    "status": "ok",
+    "bytes": 347424
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_5/PO_Offerte_G_PLACET_20260501.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20260501.csv",
+    "status": "ok",
+    "bytes": 485327
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_5/PO_Parametri_E_20260501.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_E_20260501.csv",
+    "status": "ok",
+    "bytes": 9912
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_5/PO_Parametri_G_20260501.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_G_20260501.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_5/PO_Parametri_Mercato_Libero_E_20260501.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_E_20260501.csv",
+    "status": "ok",
+    "bytes": 9912
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_5/PO_Parametri_Mercato_Libero_G_20260501.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_G_20260501.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_4/PO_Offerte_E_PLACET_20260401.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20260401.csv",
+    "status": "ok",
+    "bytes": 261292
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_4/PO_Offerte_G_PLACET_20260401.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20260401.csv",
+    "status": "ok",
+    "bytes": 355638
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_4/PO_Parametri_E_20260401.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_E_20260401.csv",
+    "status": "ok",
+    "bytes": 9912
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_4/PO_Parametri_G_20260401.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_G_20260401.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_4/PO_Parametri_Mercato_Libero_E_20260401.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_E_20260401.csv",
+    "status": "ok",
+    "bytes": 9912
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_4/PO_Parametri_Mercato_Libero_G_20260401.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_G_20260401.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_3/PO_Offerte_E_PLACET_20260301.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20260301.csv",
+    "status": "ok",
+    "bytes": 304495
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_3/PO_Offerte_G_PLACET_20260301.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20260301.csv",
+    "status": "ok",
+    "bytes": 395317
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_3/PO_Parametri_E_20260301.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_E_20260301.csv",
+    "status": "ok",
+    "bytes": 9913
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_3/PO_Parametri_G_20260301.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_G_20260301.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_3/PO_Parametri_Mercato_Libero_E_20260301.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_E_20260301.csv",
+    "status": "ok",
+    "bytes": 9913
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_3/PO_Parametri_Mercato_Libero_G_20260301.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_G_20260301.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_2/PO_Offerte_E_PLACET_20260201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20260201.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_2/PO_Offerte_E_PLACET_20260215.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20260215.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_2/PO_Offerte_E_PLACET_20260228.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20260228.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_2/PO_Offerte_G_PLACET_20260201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20260201.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_2/PO_Offerte_G_PLACET_20260215.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20260215.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_2/PO_Offerte_G_PLACET_20260228.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20260228.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_2/PO_Parametri_E_20260201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_E_20260201.csv",
+    "status": "ok",
+    "bytes": 9913
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_2/PO_Parametri_G_20260201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_G_20260201.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_2/PO_Parametri_Mercato_Libero_E_20260201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_E_20260201.csv",
+    "status": "ok",
+    "bytes": 9913
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_2/PO_Parametri_Mercato_Libero_G_20260201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_G_20260201.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_1/PO_Offerte_E_PLACET_20260101.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20260101.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_1/PO_Offerte_E_PLACET_20260115.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20260115.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_1/PO_Offerte_E_PLACET_20260128.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20260128.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_1/PO_Offerte_G_PLACET_20260101.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20260101.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_1/PO_Offerte_G_PLACET_20260115.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20260115.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2026_1/PO_Offerte_G_PLACET_20260128.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20260128.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_1/PO_Parametri_E_20260101.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_E_20260101.csv",
+    "status": "ok",
+    "bytes": 9913
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2026_1/PO_Parametri_G_20260101.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_G_20260101.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_1/PO_Parametri_Mercato_Libero_E_20260101.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_E_20260101.csv",
+    "status": "ok",
+    "bytes": 9913
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2026_1/PO_Parametri_Mercato_Libero_G_20260101.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_G_20260101.csv",
+    "status": "ok",
+    "bytes": 6643
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2025_12/PO_Offerte_E_PLACET_20251201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20251201.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2025_12/PO_Offerte_E_PLACET_20251215.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20251215.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2025_12/PO_Offerte_E_PLACET_20251228.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_E_PLACET_20251228.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2025_12/PO_Offerte_G_PLACET_20251201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20251201.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2025_12/PO_Offerte_G_PLACET_20251215.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20251215.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/offerte/2025_12/PO_Offerte_G_PLACET_20251228.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Offerte_G_PLACET_20251228.csv",
+    "status": "fail:HTTP Error 404: "
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2025_12/PO_Parametri_E_20251201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_E_20251201.csv",
+    "status": "ok",
+    "bytes": 9912
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametri/2025_12/PO_Parametri_G_20251201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_G_20251201.csv",
+    "status": "ok",
+    "bytes": 6642
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2025_12/PO_Parametri_Mercato_Libero_E_20251201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_E_20251201.csv",
+    "status": "ok",
+    "bytes": 9912
+  },
+  {
+    "url": "https://www.ilportaleofferte.it/portaleOfferte/resources/opendata/csv/parametriML/2025_12/PO_Parametri_Mercato_Libero_G_20251201.csv",
+    "path": "consumi-italia\\sources\\arera\\portale_offerte\\PO_Parametri_Mercato_Libero_G_20251201.csv",
+    "status": "ok",
+    "bytes": 6642
+  },
+  {
+    "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/nrg_cb_oil/?format=SDMX-CSV&compressed=true",
+    "path": "consumi-italia\\_tmp\\nrg_cb_oil.csv.gz",
+    "status": "ok",
+    "bytes": 34719868
+  },
+  {
+    "dataset": "nrg_cb_oil",
+    "path": "consumi-italia\\sources\\eurostat\\nrg_cb_oil_italy.csv",
+    "status": "ok",
+    "rows": 224509
+  },
+  {
+    "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/nrg_ind_peih/?format=SDMX-CSV&compressed=true",
+    "path": "consumi-italia\\_tmp\\nrg_ind_peih.csv.gz",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://ec.europa.eu/eurostat/databrowser-backend/api/extraction/1.0/LIVE/false/sdmx/csv/nrg_ind_peih?i&compressed=true",
+    "path": "consumi-italia\\_tmp\\nrg_ind_peih.csv.gz",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://emissioni.sina.isprambiente.it/wp-content/uploads/2023/07/Indicatori-di-efficienza-energetica-in-Italia-Anno-2023_web.pdf",
+    "path": "consumi-italia\\sources\\ispra\\Indicatori-di-efficienza-energetica-in-Italia-Anno-2023_web.pdf",
+    "status": "ok",
+    "bytes": 1080900
+  },
+  {
+    "url": "https://emissioni.sina.isprambiente.it/wp-content/uploads/2023/10/Indicatori-di-efficienza-energetica-in-Italia-Anno-2023_web.pdf",
+    "path": "consumi-italia\\sources\\ispra\\Indicatori-di-efficienza-energetica-in-Italia-Anno-2023_web.pdf",
+    "status": "skip",
+    "bytes": 1080900
+  },
+  {
+    "url": "https://emissioni.sina.isprambiente.it/wp-content/uploads/2024/02/FE_energia_elettrica_2023-V1.xlsx",
+    "path": "consumi-italia\\sources\\ispra\\FE_energia_elettrica_2023-V1.xlsx",
+    "status": "ok",
+    "bytes": 1164240
+  },
+  {
+    "url": "https://emissioni.sina.isprambiente.it/wp-content/uploads/2024/07/EF-combustion-2022.xlsx",
+    "path": "consumi-italia\\sources\\ispra\\EF-combustion-2022.xlsx",
+    "status": "ok",
+    "bytes": 188022
+  },
+  {
+    "url": "https://emissioni.sina.isprambiente.it/wp-content/uploads/2024/07/FE-offroad_2022.xlsx",
+    "path": "consumi-italia\\sources\\ispra\\FE-offroad_2022.xlsx",
+    "status": "ok",
+    "bytes": 124414
+  },
+  {
+    "url": "https://emissioni.sina.isprambiente.it/wp-content/uploads/2024/10/Indicatori-di-efficienza-energetica-in-Italia-Anno-2024.pdf",
+    "path": "consumi-italia\\sources\\ispra\\Indicatori-di-efficienza-energetica-in-Italia-Anno-2024.pdf",
+    "status": "ok",
+    "bytes": 1080428
+  },
+  {
+    "url": "https://emissioni.sina.isprambiente.it/wp-content/uploads/2024/10/Rapp-404-2024_-Energy-and-Decarbonization_2024.pdf",
+    "path": "consumi-italia\\sources\\ispra\\Rapp-404-2024_-Energy-and-Decarbonization_2024.pdf",
+    "status": "ok",
+    "bytes": 21434096
+  },
+  {
+    "url": "https://files.ember-energy.org/public-downloads/european_wholesale_electricity_price_data_monthly.csv",
+    "path": "mercati-italia\\sources\\ember\\european_wholesale_electricity_price_data_monthly.csv",
+    "status": "ok",
+    "bytes": 94675
+  },
+  {
+    "url": "https://files.ember-energy.org/public-downloads/european_wholesale_electricity_price_data_daily.csv",
+    "path": "mercati-italia\\sources\\ember\\european_wholesale_electricity_price_data_daily.csv",
+    "status": "ok",
+    "bytes": 2880589
+  },
+  {
+    "url": "https://files.ember-energy.org/public-downloads/yearly_full_release_long_format.csv",
+    "path": "mercati-italia\\sources\\ember\\yearly_full_release_long_format.csv",
+    "status": "skip",
+    "bytes": 49079981
+  },
+  {
+    "url": "https://files.ember-energy.org/public-downloads/monthly_full_release_long_format.csv",
+    "path": "mercati-italia\\sources\\ember\\monthly_full_release_long_format.csv",
+    "status": "skip",
+    "bytes": 70337486
+  },
+  {
+    "url": "https://files.ember-energy.org/public-downloads/latest_generation_monthly.csv",
+    "path": "mercati-italia\\sources\\ember\\latest_generation_monthly.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/emission-spot-primary-market-auction-report-2018-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2018-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/Emission_Spot_Primary_Market_Auction_Report_2018.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\Emission_Spot_Primary_Market_Auction_Report_2018.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/Global/Content/Downloads/Trading/Environmentals/emission-spot-primary-market-auction-report-2018-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2018-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/emission-spot-primary-market-auction-report-2019-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2019-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/Emission_Spot_Primary_Market_Auction_Report_2019.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\Emission_Spot_Primary_Market_Auction_Report_2019.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/Global/Content/Downloads/Trading/Environmentals/emission-spot-primary-market-auction-report-2019-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2019-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/emission-spot-primary-market-auction-report-2020-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2020-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/Emission_Spot_Primary_Market_Auction_Report_2020.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\Emission_Spot_Primary_Market_Auction_Report_2020.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/Global/Content/Downloads/Trading/Environmentals/emission-spot-primary-market-auction-report-2020-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2020-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/emission-spot-primary-market-auction-report-2021-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2021-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/Emission_Spot_Primary_Market_Auction_Report_2021.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\Emission_Spot_Primary_Market_Auction_Report_2021.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/Global/Content/Downloads/Trading/Environmentals/emission-spot-primary-market-auction-report-2021-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2021-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/emission-spot-primary-market-auction-report-2022-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2022-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/Emission_Spot_Primary_Market_Auction_Report_2022.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\Emission_Spot_Primary_Market_Auction_Report_2022.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/Global/Content/Downloads/Trading/Environmentals/emission-spot-primary-market-auction-report-2022-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2022-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/emission-spot-primary-market-auction-report-2023-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2023-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/Emission_Spot_Primary_Market_Auction_Report_2023.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\Emission_Spot_Primary_Market_Auction_Report_2023.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/Global/Content/Downloads/Trading/Environmentals/emission-spot-primary-market-auction-report-2023-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2023-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/emission-spot-primary-market-auction-report-2024-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2024-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/Emission_Spot_Primary_Market_Auction_Report_2024.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\Emission_Spot_Primary_Market_Auction_Report_2024.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/Global/Content/Downloads/Trading/Environmentals/emission-spot-primary-market-auction-report-2024-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2024-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/emission-spot-primary-market-auction-report-2025-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2025-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/Emission_Spot_Primary_Market_Auction_Report_2025.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\Emission_Spot_Primary_Market_Auction_Report_2025.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/Global/Content/Downloads/Trading/Environmentals/emission-spot-primary-market-auction-report-2025-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2025-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/emission-spot-primary-market-auction-report-2026-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2026-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/EEX/Downloads/Trading/Environmentals/Emission_Spot_Primary_Market_Auction_Report/Emission_Spot_Primary_Market_Auction_Report_2026.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\Emission_Spot_Primary_Market_Auction_Report_2026.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.eex.com/fileadmin/Global/Content/Downloads/Trading/Environmentals/emission-spot-primary-market-auction-report-2026-data.xlsx",
+    "path": "mercati-italia\\sources\\ets_eua\\emission-spot-primary-market-auction-report-2026-data.xlsx",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://eea.europa.eu/data-and-maps/data/european-union-emissions-trading-scheme-18/download",
+    "path": "mercati-italia\\sources\\ets_eua\\eea_ets_landing.html",
+    "status": "fail:HTML instead of file"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Storage&from=2021-01-01&to=2021-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_storage_2021.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Injection&from=2021-01-01&to=2021-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_injection_2021.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Withdrawal&from=2021-01-01&to=2021-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_withdrawal_2021.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Storage&from=2022-01-01&to=2022-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_storage_2022.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Injection&from=2022-01-01&to=2022-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_injection_2022.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Withdrawal&from=2022-01-01&to=2022-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_withdrawal_2022.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Storage&from=2023-01-01&to=2023-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_storage_2023.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Injection&from=2023-01-01&to=2023-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_injection_2023.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Withdrawal&from=2023-01-01&to=2023-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_withdrawal_2023.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Storage&from=2024-01-01&to=2024-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_storage_2024.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Injection&from=2024-01-01&to=2024-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_injection_2024.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Withdrawal&from=2024-01-01&to=2024-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_withdrawal_2024.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Storage&from=2025-01-01&to=2025-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_storage_2025.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Injection&from=2025-01-01&to=2025-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_injection_2025.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Withdrawal&from=2025-01-01&to=2025-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_withdrawal_2025.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Storage&from=2026-01-01&to=2026-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_storage_2026.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Injection&from=2026-01-01&to=2026-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_injection_2026.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://transparency.entsog.eu/api/v1/operationaldatas.csv?indicator=Withdrawal&from=2026-01-01&to=2026-12-31&periodType=day&timezone=CET&limit=-1&countryKey=IT",
+    "path": "mercati-italia\\sources\\entsog_snam\\italy_withdrawal_2026.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://alsi.gie.eu/api",
+    "path": "mercati-italia\\sources\\alsi\\alsi_api_probe.json",
+    "status": "ok",
+    "bytes": 120
+  },
+  {
+    "url": "https://alsi.gie.eu/api/about",
+    "path": "mercati-italia\\sources\\alsi\\alsi_about.json",
+    "status": "ok",
+    "bytes": 210309
+  },
+  {
+    "url": "https://agsi.gie.eu/api/about",
+    "path": "mercati-italia\\sources\\alsi\\agsi_about_refresh.json",
+    "status": "ok",
+    "bytes": 558652
+  },
+  {
+    "dataset": "meteo_zone_IT-North",
+    "path": "meteo-italia\\sources\\open_meteo_zones\\IT-North_hourly.csv",
+    "status": "ok",
+    "rows": 101304
+  },
+  {
+    "dataset": "meteo_zone_IT-Centre-North",
+    "path": "meteo-italia\\sources\\open_meteo_zones\\IT-Centre-North_hourly.csv",
+    "status": "ok",
+    "rows": 101304
+  },
+  {
+    "dataset": "meteo_zone_IT-Centre-South",
+    "path": "meteo-italia\\sources\\open_meteo_zones\\IT-Centre-South_hourly.csv",
+    "status": "ok",
+    "rows": 101304
+  },
+  {
+    "dataset": "meteo_zone_IT-South",
+    "path": "meteo-italia\\sources\\open_meteo_zones\\IT-South_hourly.csv",
+    "status": "ok",
+    "rows": 101304
+  },
+  {
+    "dataset": "meteo_zone_IT-Sicily",
+    "path": "meteo-italia\\sources\\open_meteo_zones\\IT-Sicily_hourly.csv",
+    "status": "ok",
+    "rows": 101304
+  },
+  {
+    "dataset": "meteo_zone_IT-Sardinia",
+    "path": "meteo-italia\\sources\\open_meteo_zones\\IT-Sardinia_hourly.csv",
+    "status": "ok",
+    "rows": 101304
+  },
+  {
+    "dataset": "meteo_zone_IT-Calabria",
+    "path": "meteo-italia\\sources\\open_meteo_zones\\IT-Calabria_hourly.csv",
+    "status": "ok",
+    "rows": 101304
+  },
+  {
+    "url": "https://www.eea.europa.eu/data-and-maps/data/national-emissions-reported-to-the-unfccc-and-to-the-eu-greenhouse-gas-monitoring-mechanism-20/national-greenhouse-gas-inventories-ipcc-common-reporting-format-sector-classification/greenhouse-gas-emissions-under-the-unfccc.csv/at_download/file",
+    "path": "consumi-italia\\sources\\ghg\\eea_unfccc_ghg.csv",
+    "status": "fail:HTTP Error 404: Not Found"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "n": 25542,
+  "cols": [
+    "time",
+    "time_label",
+    "geo",
+    "geo_label",
+    "na_item",
+    "na_item_label",
+    "unit",
+    "unit_label",
+    "freq",
+    "freq_label",
+    "OBS_VALUE"
+  ]
+}

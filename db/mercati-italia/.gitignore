@@ -1,0 +1,5 @@
+# Credentials — never commit
+gie.key
+*.credentials
+*.key
+!entsoe.key.example

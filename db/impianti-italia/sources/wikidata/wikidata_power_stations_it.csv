@@ -1,0 +1,344 @@
+qid,name,lat,lon,capacity_mw,fuel,operator,commissioning,wikipedia_it
+Q3664542,centrale idroelettrica Taccani,45.612611111,9.521319444,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Taccani
+Q3664543,centrale idroelettrica di Albosaggia,,,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Albosaggia
+Q3664541,centrale idroelettrica Semenza,45.687838,9.452341,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Semenza
+Q3664546,centrale idroelettrica di Ardenno,,,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Ardenno
+Q3664547,centrale idroelettrica di Arsa,45.991606,8.290027,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Arsa
+Q3664544,centrale idroelettrica di Andonno-Roccavione,44.294527777,7.446055555,65,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Andonno-Roccavione
+Q3664545,centrale idroelettrica di Anzuno,46.091575,8.275607,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Anzuno
+Q3664550,centrale idroelettrica di Aymavilles,,,,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Aymavilles
+Q3664551,centrale idroelettrica di Balma-Quittengo,,,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Balma-Quittengo
+Q3664548,centrale idroelettrica di Ascoli Porta Romana,42.855609,13.565835,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Ascoli_Porta_Romana
+Q3664549,centrale idroelettrica di Avise,45.7055,7.145361111,126,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Avise
+Q3664554,Centrale idroelettrica di Brolo,45.859379,8.390079,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Brolo
+Q3664555,centrale idroelettrica di Brossasco,44.56783889,7.35331944,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Brossasco
+Q3664553,centrale idroelettrica di Braulio,46.51483,10.4041,19,,A2A,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Braulio
+Q3664558,centrale idroelettrica di Capodacqua,42.76942,13.29344,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Capodacqua
+Q3664559,centrale idroelettrica di Capodiponte,42.815874,13.504791,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Capodiponte
+Q3664556,Centrale idroelettrica di Bognanco-Dagliano,46.120987,8.232965,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Bognanco-Dagliano
+Q3664557,centrale idroelettrica di Bussolengo,45.4785,10.8425,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Bussolengo
+Q3664562,centrale idroelettrica di Châtillon,,,,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Ch%C3%A2tillon
+Q3664563,Centrale idroelettrica di Covalou,45.774361111,7.595111111,,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Covalou
+Q3664560,centrale idroelettrica di Casteldelfino,44.586525,7.06437222,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Casteldelfino
+Q3664561,centrale idroelettrica di Castellano,42.843594,13.556753,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Castellano
+Q3664566,centrale idroelettrica di Farneta,44.361953,10.5790739,,,Enel Produzione,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Farneta
+Q3664567,centrale idroelettrica di Fedio-Demonte,44.32946389,7.26705556,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Fedio-Demonte
+Q3664564,centrale idroelettrica di Crego,46.246772,8.331979,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Crego
+Q3664565,centrale idroelettrica di Demonte,44.31485278,7.27141944,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Demonte
+Q3664570,centrale idroelettrica di Fucine,45.23163333,7.36585278,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Fucine
+Q3664571,centrale idroelettrica di Grosio,46.29193316,10.266192392,428,,A2A,1956-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Grosio
+Q3664568,centrale idroelettrica di Fervento,45.84223611,8.07566111,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Fervento
+Q3664569,centrale idroelettrica di Gressoney,,,,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Gressoney
+Q3664574,centrale idroelettrica di Issime,,,,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Issime
+Q3664575,centrale idroelettrica di La Stanga,,,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_La_Stanga
+Q3664572,centrale idroelettrica di Isollaz,,,,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Isollaz
+Q3664573,centrale idroelettrica di Isorella,,,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Isorella
+Q3664578,centrale termoelettrica di Moncalieri,44.99285,7.67555278,754,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Moncalieri
+Q3664579,centrale idroelettrica di Montjovet,45.720027777,7.66725,50,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Montjovet
+Q3664576,centrale idroelettrica di Ligonchio e Predare,44.314815,10.344796,,,,1950-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Ligonchio_e_Predare
+Q3664577,centrale idroelettrica di Lovero,,,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Lovero
+Q3664582,centrale idroelettrica di Piaganini,42.56115,13.56353,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Piaganini
+Q3664583,Centrale idroelettrica di Pallanzeno,46.04789167,8.25907222,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Pallanzeno
+Q3664580,centrale idroelettrica di Montorio,42.585825,13.70896944,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Montorio
+Q3664581,centrale idroelettrica di Morasco,46.4279,8.39092,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Morasco
+Q3664586,centrale idroelettrica di Premadio,46.486444444,10.351361111,226,,,1953-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Premadio
+Q3664587,centrale idroelettrica di Provvidenza,42.51124,13.41059,,,Enel,1940-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Provvidenza
+Q3664584,centrale idroelettrica di Piova-Castellamonte,,,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Piova-Castellamonte
+Q3664585,centrale idroelettrica di Pont Ventoux-Susa,45.137055555,7.032472222,150,,,1995-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Pont_Ventoux-Susa
+Q3664590,centrale idroelettrica di Santa Caterina,,,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Santa_Caterina
+Q3664591,centrale idroelettrica di San Damiano Macra,44.48744444,7.24623889,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_San_Damiano_Macra
+Q3664588,centrale idroelettrica di Quart,,,,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Quart
+Q3664589,centrale idroelettrica di Rusià,45.31541944,7.37939167,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Rusi%C3%A0
+Q3664594,centrale idroelettrica di San Mauro Torinese,,,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_San_Mauro_Torinese
+Q3664595,centrale idroelettrica di Scandarello,42.64148,13.27028,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Scandarello
+Q3664592,centrale idroelettrica di San Giacomo,42.537805555,13.556388888,490,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_San_Giacomo
+Q3664593,centrale idroelettrica di San Fiorano,46.050111111,10.351444444,272,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_San_Fiorano
+Q3664598,centrale idroelettrica di Signayes,45.753664,7.317334,,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Signayes
+Q3664599,centrale idroelettrica di Stazzona,46.213667,10.15,30,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Stazzona
+Q3664596,centrale idroelettrica di Sendren,,,,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Sendren
+Q3664597,centrale idroelettrica di Soverzene,46.2009,12.3025,214,,Società Adriatica di Elettricità,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Soverzene
+Q3664602,centrale idroelettrica di Venamartello,42.793814,13.430059,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Venamartello
+Q3664603,centrale idroelettrica di Venaus,45.162055555,7.007888888,230,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Venaus
+Q3664601,centrale idroelettrica di Torrite,44.100666666,10.383027777,81,,,1941-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Torrite
+Q3664604,centrale idroelettrica di Verampio,46.24226,8.32451,54,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Verampio
+Q3664605,centrale idroelettrica di Zuino,,,,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Zuino
+Q3664638,"centrale termoelettrica ""Alessandro Volta""",42.3583234,11.5363892,3600,,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_%22Alessandro_Volta%22
+Q3664639,"centrale termoelettrica ""Andrea Palladio""",45.4305635,12.2467364,871,,,1974-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_termoelettrica_%22Andrea_Palladio%22
+Q3664636,Centrale solare termodinamica Archimede,37.1390489,15.2158928,700,,,,https://it.wikipedia.org/wiki/Centrale_solare_termodinamica_Archimede
+Q3664637,centrale termica e cabina apparati centrali,43.78165,11.24496,,,,1935-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_termica_e_cabina_apparati_centrali
+Q3664642,centrale termoelettrica EniPower di Brindisi,40.629214,18.0029016,1170,,EniPower,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_EniPower_di_Brindisi
+Q3664640,centrale termoelettrica Edipower di Brindisi,40.6438532,17.9789503,640,,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_Edipower_di_Brindisi
+Q3664641,"centrale termoelettrica ""Eugenio Montale""",44.11083333,9.87444444,520,,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_%22Eugenio_Montale%22
+Q3664647,centrale termoelettrica di Nera Montoro,42.497091666,12.480719444,,,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_di_Nera_Montoro
+Q3664644,centrale termoelettrica Santa Barbara,43.56431389,11.47807778,391,,Enel,1955-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_termoelettrica_Santa_Barbara
+Q3664645,centrale termoelettrica Marzocco,43.567603,10.311141,310,,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_Marzocco
+Q3664650,centrale termoelettrica di Turbigo,45.5202,8.7424,1280,,,1928-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_termoelettrica_di_Turbigo
+Q3664648,centrale termoelettrica di Porto Tolle,44.956483,12.4877946,2640,olio combustibile,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_di_Porto_Tolle
+Q3664649,centrale termoelettrica di Torrevaldaliga Nord,42.127432,11.758437,1845,,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_di_Torrevaldaliga_Nord
+Q3895583,parco eolico di Castiglione Messer Marino,41.877368,14.425191,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Castiglione_Messer_Marino
+Q3895581,parco eolico dei Poggi Alti,42.74499444,11.38613056,,,,,https://it.wikipedia.org/wiki/Parco_eolico_dei_Poggi_Alti
+Q3895586,parco eolico di Fraine,41.889445,14.467176,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Fraine
+Q3895587,parco eolico di Monteferrante,41.947568,14.397175,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Monteferrante
+Q3895584,parco eolico di Cocullo,42.049016,13.784899,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Cocullo
+Q3895585,parco eolico di Collarmele,42.07341,13.64553,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Collarmele
+Q3895590,parco eolico di Roccaspinalveti,41.906445,14.450819,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Roccaspinalveti
+Q3895591,parco eolico di Roio del Sangro,41.902063,14.390682,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Roio_del_Sangro
+Q3895588,parco eolico di Montazzoli,41.92079,14.401676,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Montazzoli
+Q3895589,parco eolico di Montemignaio,43.717601,11.587189,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Montemignaio
+Q3895592,parco eolico di Schiavi di Abruzzo,41.836354,14.483888,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Schiavi_di_Abruzzo
+Q3895593,parco eolico di Tocco da Casauria,42.206418,13.903684,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Tocco_da_Casauria
+Q3895611,parco fotovoltaico di Sticciano,42.9594,11.13345,,,,,https://it.wikipedia.org/wiki/Parco_fotovoltaico_di_Sticciano
+Q3984489,Termovalorizzatore di Acerra,40.978473,14.384058,99,,A2A,2009-03-01T00:00:00Z,https://it.wikipedia.org/wiki/Termovalorizzatore_di_Acerra
+Q4138183,Centrale idroelettrica del Ponale,45.88313611,10.83803333,,,,1925-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_del_Ponale
+Q7371716,parco fotovoltaico di Rovigo,45.03583333,11.57222222,70.6,,MEMC Electronic Materials,,https://it.wikipedia.org/wiki/Parco_fotovoltaico_di_Rovigo
+Q11971440,"Centrale termoelettrica ""Galileo Ferraris""",45.25206,8.19393,746,,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_%22Galileo_Ferraris%22
+Q11995737,Centrale di Piombino,42.956888,10.6032173,1280,,Enel,1977-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_Enel_di_Piombino
+Q12008789,Centrale termoelettrica di Vado Ligure,44.2758371,8.4308229,760,,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_di_Vado_Ligure
+Q14646095,centrale idroelettrica di Roncovalgrande,46.06944444,8.73194444,1000,,,1968-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Roncovalgrande
+Q16538823,centrale del Mercure,39.982163888,16.021294444,34,,,1965-11-14T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_del_Mercure
+Q16538832,centrale di cogenerazione di Bolgiano,45.4152217,9.2843654,66,,EniPower,,https://it.wikipedia.org/wiki/Centrale_di_cogenerazione_di_Bolgiano
+Q16538850,centrale idroelettrica Molino di Poleo,45.72859,11.32687,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Molino_di_Poleo
+Q16538852,Centrale idroelettrica di Devero,46.32153889,8.25541944,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Devero
+Q16538860,"centrale termoelettrica ""Giuseppe Volpi""",45.4592672,12.2305008,126,,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_%22Giuseppe_Volpi%22
+Q17624546,centrale idroelettrica di Piano della Rocca,44.0046981,10.5440581,,,Enel Produzione,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Piano_della_Rocca
+Q17761941,centrale termoelettrica di Cassano d'Adda,45.51152778,9.51,748,,A2A,1961-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_termoelettrica_di_Cassano_d%27Adda
+Q1619540,Q1619540,46.79859,11.66793,,,,,
+Q2551197,centrale di Cardano,46.495,11.396,121,,Societá Idroelettrica dell'Isarco,1926-01-01T00:00:00Z,
+Q3664600,centrale idroelettrica di Telessio,45.483583333,7.372583333,,,,,
+Q4721980,Alfonsine Solar Park,44.56666667,11.98333333,,,,,
+Q5058285,Cellino San Marco Solar Park,40.46666667,17.96666667,,,,,
+Q5340183,Centrale idroelettrica di Edolo,46.17083333,10.34777778,950,,,,
+Q7232212,Portoscuso Wind Farm,,,,,,,
+Q7241025,centrale idroelettrica di Presenzano,41.38138889,14.09027778,985,,,1991-01-01T00:00:00Z,
+Q7419045,Sant'Alberto Solar Park,44.51666667,12.15,,,,,
+Q7453211,Serenissima Solar Park,44.94305556,11.65333333,,,,,
+Q11957609,Altomonte power plant,39.7114538,16.2153375,808,,,,
+Q11963002,Q11963002,,,,,,,
+Q11963074,Candela power plant,41.2018337,15.4762816,401,,,,
+Q11968742,Ferrera Erbognone power plant,45.0994374,8.866788,1006,,EniPower,,
+Q11983644,Leini power plant,45.1625228,7.7502805,385,,,,
+Q11989857,Monfalcone power plant,,,315,,,,
+Q11995675,Pietrafitta power plant,42.995278,12.199444,365,,,,
+Q11998022,Rizziconi Power Station,38.4450477,15.9901339,760,,,,
+Q11998472,centrale termoelettrica di Rossano,39.6214124,16.6075052,1738,,,,
+Q11999586,Sarlux power plant,39.0780953,9.0222279,590,,,,
+Q11999654,Scandale power plant,39.1022191,17.0326764,821,,,,
+Q12003920,Sulcis power plant,39.1963096,8.4004104,432,,,,
+Q12005579,centrale termoelettrica Ettore Maiorana,37.9684762,13.7517929,1052,,,,
+Q12007122,Centrale termoelettrica Torrevaldaliga Sud,42.124492,11.761901,1180,,,,
+Q12007183,centrale termoelettrica di Torviscosa,45.8168889,13.2891118,867,,,,
+Q17772520,centrale termoelettrica Fiume Santo,40.847838888,8.30515,534,,,,
+Q17776176,centrale termoelettrica di Gissi,42.0504149,14.5635387,840,,A2A,,
+Q18745015,Q18745015,39.192444444,16.724777777,,,,,
+Q19298796,Capriati hydroelectric power station,41.476305555,14.128222222,113,,,1963-01-01T00:00:00Z,
+Q19375845,Isab Energy,37.1317066,15.2010495,576,,,,
+Q19378684,Centrale Termoelletrica di La Casella,45.090568,9.4798937,1476,,,,
+Q19380053,Livorno Ferraris power plant,45.2377183,8.1925848,776,,EP Produzione,,
+Q19381036,Centrale di Marghera Levante,45.4460714,12.2553162,753,,,,
+Q19381523,Q19381523,,,,,,,
+Q19381733,Modugno power plant,41.1028328,16.7557275,810,,,,
+Q19384929,Ostiglia power plant,45.0599482,11.1380397,1123,,EP Produzione,,
+Q19385545,Ponti sul Mincio power plant,45.3999035,10.7142408,381,,,,
+Q19386285,Enipower Ravenna power plant,44.4485512,12.2374445,961,,EniPower,,
+Q19387537,Centrale di San Filippo del Mela,38.2029957,15.285212,960,,A2A,,
+Q19388252,Sermide power plant,45.0266584,11.2511304,1151,,,,
+Q19391999,centrale di Tavazzano,45.332976,9.43526,1970,,EP Produzione,,
+Q30092492,Centrale Edison,45.542817,9.2517509,,,,,
+Q30252550,parco eolico di Sedini,40.8558574,8.7701797,,,,,
+Q30253156,parco eolico di Florinas,40.6191,8.645897,,,,,
+Q30320986,parco eolico di Tula,40.760391,8.960209,,,,,
+Q30321744,parco eolico di Campeda,40.399346,8.797871,,,,,
+Q30329354,parco eolico di Buddusò e Alà dei Sardi,40.6742589,9.2623329,,,,,
+Q34599854,impianto dell'Armalunga,45.05522,9.71445,,,,,
+Q47492014,parco eolico di Ploaghe,40.712785,8.75399,,,,,
+Q47492034,parco eolico di Fiume Santo,40.8397394,8.2924032,,,,,
+Q47538509,parco eolico di Macchiareddu,39.2029943,8.9775467,,,,,
+Q47538517,parco eolico del Medio Campidano,39.592858,8.671389,,,,,
+Q47538571,parco eolico di Aggius-Bortigiadas-Viddalba,40.9188959,8.994112,,,,,
+Q47538576,parco eolico di Ulassai,39.7003191,9.518795,,,,,
+Q51879620,centrale idroelettrica di San Floriano,46.290666666,11.246222222,180,,,1952-01-01T00:00:00Z,
+Q54872964,ex stazione Bellini,40.8502542,14.2444228,,,,,
+Q55378800,centrale idroelettrica Guida,38.484325,16.453545,,,,,
+Q56247635,centrale idroelettrica di Vizzola Ticino,45.6266,8.6822,,,,1901-01-01T00:00:00Z,
+Q56258315,Centrale idroelettrica Umberto I (Area ex Lanerossi),45.7147,11.3488,,,,,
+Q56258316,Centrale termica (Area ex Lanerossi),45.7138,11.35174,,,,,
+Q56357636,Q56357636,46.342638888,13.067,172.8,,,1955-01-01T00:00:00Z,
+Q56357637,Q56357637,46.427305555,12.785972222,62.1,,,1941-01-01T00:00:00Z,
+Q56357647,Q56357647,46.304527777,9.376916666,172.6,,,,
+Q56357645,Q56357645,46.310527777,9.399916666,66.9,,,,
+Q56357659,centrale idroelettrica di Ponte Gardena,46.604,11.531861111,55,,,1936-01-01T00:00:00Z,
+Q56357674,Q56357674,46.717888888,11.668611111,90,,,1936-01-01T00:00:00Z,
+Q56357675,Seled Glorenza hydroelectric power station,46.673972222,10.575972222,102,,,1939-01-01T00:00:00Z,
+Q56357686,Lasa hydroelectric power station,46.611027777,10.708333333,64,,,1954-01-01T00:00:00Z,
+Q56357684,Castelbello hydroelectric power station,46.622722222,10.914833333,87,,,1939-01-01T00:00:00Z,
+Q56357698,centrale idroelettrica di Cogolo,46.366027777,10.689305555,98.3,,,1926-01-01T00:00:00Z,
+Q56357717,Centrale idroelettrica di Mezzocorona,46.219416666,11.105527777,54,,,1926-01-01T00:00:00Z,
+Q56357749,centrale di Torbole,45.883055555,10.883083333,110,,,,
+Q56357786,centrale idroelettrica di Cimego,45.922861111,10.627638888,220,,,1953-01-01T00:00:00Z,
+Q56357785,centrale di Malga Boazzo,46.007916666,10.512111111,95,,,1955-01-01T00:00:00Z,
+Q56357788,centrale idroelettrica di Sonico,46.171,10.347916666,60,,Edison,,
+Q56357793,Q56357793,46.066027777,10.351222222,72,,,,
+Q56357798,Q56357798,46.152777777,10.085138888,66.8,,,1943-01-01T00:00:00Z,
+Q56357796,Q56357796,46.14075,10.12325,66,,,1953-01-01T00:00:00Z,
+Q56357818,Q56357818,46.304,9.928694444,,,,1961-01-01T00:00:00Z,
+Q56357819,Q56357819,46.091916666,9.89075,,,,1930-01-01T00:00:00Z,
+Q56357816,Q56357816,46.159916666,9.924638888,152.4,,,1922-01-01T00:00:00Z,
+Q56357822,centrale di Sondrio,46.173361111,9.888166666,148,,,,
+Q56357820,centrale di Lanzada,46.268388888,9.876611111,,,,,
+Q56357843,Gargnano hydroelectric power station,45.703833333,10.686083333,137,,,1959-01-01T00:00:00Z,
+Q56357841,Q56357841,46.170111111,9.646361111,56.7,,,1962-01-01T00:00:00Z,
+Q56357861,Fadalto hydroelectric power station,46.069277777,12.331388888,220,,,1920-01-01T00:00:00Z,
+Q56357865,Q56357865,46.0365,12.303944444,65,,,1921-01-01T00:00:00Z,
+Q56357886,Q56357886,46.279277777,8.353527777,71,,,1925-01-01T00:00:00Z,
+Q56357909,centrale idroelettrica Valpelline,45.824666666,7.333055555,130,,,,
+Q56357994,Q56357994,42.384222222,12.913472222,,,,1938-01-01T00:00:00Z,
+Q56357998,Q56357998,42.551333333,12.696694444,326,,,1926-01-01T00:00:00Z,
+Q56358010,Q56358010,42.656416666,12.235833333,108,,,1959-01-01T00:00:00Z,
+Q56358008,Q56358008,42.551388888,12.671611111,68,,,,
+Q56358015,Q56358015,42.598805555,13.704166666,120.9,,,,
+Q56358016,Q56358016,41.9615,14.348611111,57,,,1950-01-01T00:00:00Z,
+Q56358096,Q56358096,40.130416666,15.510833333,60,,,1954-01-01T00:00:00Z,
+Q56358121,Q56358121,39.183416666,16.834277777,50.5,,,,
+Q56358137,Mucone 1 hydroelectric power station,39.47275,16.407222222,101,,,,
+Q56358140,Mucone 2 hydroelectric power station,39.476472222,16.291222222,54,,,,
+Q56358177,Guadalami hydroelectric power station,37.955638888,13.279472222,80,,,,
+Q56358183,Taloro hydroelectric power station,40.127055555,9.140722222,240,,,,
+Q56404458,Galleto hydroelectric power station,,,295,,,,
+Q56580070,ex centralina idroelettrica,46.052634369,11.398108903,,,,,
+Q57315764,centrale idroelettrica Buzzi,45.83475,8.65012,,,,,
+Q57333646,Centrale idroelettrica di Pozzolago,46.165722222,11.232416666,,,,,
+Q58188365,centrale idroelettrica Malga Mare,,,,,,,
+Q60333113,Impianto idroelettrico di San Colombano,45.880269444,11.06205,,,,,
+Q67465217,centrale idroelettrica di Bertonico,45.232028,9.648847,,,,,
+Q68294848,Centrale Termica,45.459711,7.87293,,,,,
+Q81803591,centrale di Turbigo Inferiore,45.52793,8.72168,,,,,
+Q84704932,centrale della Lanca,45.95989,8.50924,,,,,
+Q86211699,centrale idroelettrica di Naturno,46.65182,10.99306,175,,,,
+Q97170317,centrale elettrica di Sparanise,41.17792,14.11297,760,,,2002-01-01T00:00:00Z,
+Q97179280,centrale termoelettrica di Jesi,43.5532972,13.2851961,140,,,,
+Q97179314,Q97179314,40.931944,14.385,100,,,,
+Q97179325,Q97179325,40.978333,14.3825,107.5,,,,
+Q97179358,Q97179358,44.594167,7.484722,120,,,,
+Q97179370,Voghera power plant,45.0299624,8.9722177,381,,,,
+Q97179416,Q97179416,41.476111,13.751944,100,,,,
+Q97179445,Porto Corsini power plant,44.4837505,12.2651786,704,,,,
+Q97179513,centrale termoelettrica di San Quirico,44.9289537,10.3051147,132,,,,
+Q97179542,Q97179542,45.619444,13.783056,180,,,,
+Q97179578,centrale termoelettrica di Simeri Crichi,38.8757461,16.6571815,885,,,,
+Q97179583,Q97179583,42.323611,14.377778,104,,,,
+Q97179591,centrale di Cogenerazione di Teverola,41.009167,14.228056,150,,,,
+Q97179605,centrale di Teverola,41.0087995,14.2293873,404,,,,
+Q97179613,Q97179613,41.956667,14.996389,100,,,,
+Q97179623,centrale termoelettrica di Terni,42.5545108,12.6172936,95,,,,
+Q97179662,Q97179662,44.860556,11.586944,150,,,,
+Q97179670,centrale termoelettrica di Ferrara,44.8638925,11.5939412,761,,,,
+Q97182168,centrale di Aprilia,41.5616876,12.6334137,787,,,,
+Q97182174,centrale di Bertonico-Turano Lodigiano,45.2267313,9.6373594,800,,,,
+Q97182233,centrale di mantova,45.1496149,10.8348938,812,,EniPower,,
+Q97182241,Q97182241,41.066389,15.711944,,,,,
+Q97182273,Centrale Napoli Levante,40.8341188,14.300959,400,,,,
+Q97182292,Centrale di Piacenza,45.0553157,9.7082419,806,,,,
+Q97182336,Q97182336,45.052222,9.507222,180,,,,
+Q97182374,centrale di Termoli,41.9369638,15.0004202,769,,,,
+Q97182385,Q97182385,41.810278,12.421111,19,,,,
+Q97182406,Trapani power plant,37.8770184,12.5896955,212,,EP Produzione,,
+Q97277641,centrale termoelettrica di Bussi sul Tirino,42.2001416,13.8396862,122,,,,
+Q97277661,Centrale termoelettrica di Chivasso,45.1855684,7.9011776,1123,,,,
+Q97277727,Q97277727,45.456944,8.649722,100,,,,
+Q97277739,Porcari Sondel Power Plant,43.823611,10.602222,100,,Edison,1996-01-01T00:00:00Z,
+Q97277749,Roselectra,43.381429,10.4485613,386,,,,
+Q97277761,centrale di San Severo,41.6267494,15.4235192,419,,,,
+Q97277795,Q97277795,43.641111,13.379722,282,,,,
+Q100705202,Larderello geothermal power plant,43.231888,10.884598,,,,,
+Q106083690,ex centrale del Battiferro,44.520699,11.333326,,,,1850-01-01T00:00:00Z,
+Q106777461,Rosen,43.3819319,10.449543,325,,,,
+Q107179764,Kraftwerk Marling,46.660505,11.143184,,,,,
+Q107227000,centrale idroelettrica di Muccia,43.0871,13.1104,,,,,
+Q107232714,centrale idroelettrica di Caoria,46.20410171,11.662480509,,,,,
+Q107636622,centrale Enel Bagnore 3,42.841802636,11.558572546,,,,2001-01-01T00:00:00Z,
+Q110937244,parco eolico di Taranto,,,,,,,
+Q112137306,centrale elettrica via Gatti 15,45.65554,9.264785,,,,,
+Q112137609,Palazzina Elettroadda SPA,45.741525,9.424092,,,,,
+Q112138131,Cabina di conversione elettrica Montedison,45.428973,9.099562,,,,,
+Q112138215,Centrale elettrica Orobia,45.866159,9.413363,,,,,
+Q112138559,Centrale idroelettrica Cornelli,45.496508,8.772065,,,,,
+Q112139781,Cabina elettrica Conti (ex),45.585779,9.280294,,,,,
+Q112624352,Termovalorizzatore di Brescia,45.51158,10.21085,,,,1998-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Termovalorizzatore_di_Brescia
+Q116421638,Termovalorizzatore di San Vittore,41.437744,13.896527,,,,2002-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Termovalorizzatore_di_San_Vittore
+Q116697989,centrale idroelettrica di Casuzze,38.0735542,13.3601805,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Casuzze
+Q116762169,centrale idroelettrica di Tocco da Casauria,42.11587,13.52545,,,,1910-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Tocco_da_Casauria
+Q116763986,Centrale idroelettrica di Mese,46.304911,9.378257,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Mese
+Q116763987,Centrale idroelettrica di Prestone,46.389631,9.3519,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Prestone
+Q116763985,Centrale idroelettrica di Meduno,46.21751933,12.77519434,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Meduno
+Q116763988,Centrale idroelettrica di San Bernardo,46.345287,9.350167,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_San_Bernardo
+Q116763989,Centrale idroelettrica di San Foca,,,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_San_Foca
+Q116763992,Centrale idroelettrica di Villa Rinaldi,,,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Villa_Rinaldi
+Q120484028,centrale del Partidor,46.090815148,12.710143726,,,,1919-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_del_Partidor
+Q126938426,Diga di Barcis,46.187612564,12.596852301,,,,,https://it.wikipedia.org/wiki/Diga_di_Barcis
+Q129652141,Centrale idroelettrica di Rovesca,46.05723,8.126804,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Rovesca
+Q129653145,Centrale idroelettrica di Ponte,46.3804,8.424153,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Ponte
+Q140366986,Centrale idroelettrica di Les Perrères,45.907619025,7.616751719,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Les_Perr%C3%A8res
+Q140466912,Centrale idroelettrica di Viverone,45.43015871,8.040095697,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Viverone
+Q97371468,Centrale idroelettrica di Santa Massenza,46.065972222,10.980638888,377,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Santa_Massenza
+Q101244771,Centrale idroelettrica di Maën,45.868166666,7.614666666,,,Compagnia Valdostana delle Acque,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Ma%C3%ABn
+Q102358430,centrale idroelettrica Antonio Pitter,46.148075816,12.634863643,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Antonio_Pitter
+Q104394884,Parco eolico di Casoni di Romagna,44.256194444,11.422583333,,,,,https://it.wikipedia.org/wiki/Parco_eolico_di_Casoni_di_Romagna
+Q105781392,centrale idroelettrica di Pedesalto,46.02129,11.77848,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Pedesalto
+Q109376972,Centrale idroelettrica di Alanno,42.253333333,13.946111111,,,,,https://it.wikipedia.org/wiki/Diga_di_Alanno-Piano_d%27Orta
+Q111191459,termovalorizzatore di Bologna,44.523263,11.428508,,,,,https://it.wikipedia.org/wiki/Termovalorizzatore_di_Bologna
+Q56357987,centrale idroelettrica di Bargi,44.116745041,11.043073829,330,,,1975-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Bargi
+Q56358182,Centrale Anapo,37.116083333,15.139111111,500,,Enel Produzione,,https://it.wikipedia.org/wiki/Centrale_Anapo
+Q63390113,Centrale idroelettrica Sant'Antonio,46.5132,11.3563,90,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Sant%27Antonio
+Q69300630,Centrale idroelettrica di Cadarese,46.289781,8.355377,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Cadarese
+Q70327278,Centrale idroelettrica di Crevola Toce,46.159517,8.307285,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Crevola_Toce
+Q77806790,Centrale elettrica di Santa Radegonda,45.465195,9.192553,,,,,https://it.wikipedia.org/wiki/Centrale_Santa_Radegonda
+Q85860589,centrale idroelettrica di Rasin,46.489130555,10.305419444,,,A2A,1922-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Rasin
+Q615128,centrale elettronucleare Montalto di Castro,42.3588,11.5314,2018,,Enel,1982-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_elettronucleare_Montalto_di_Castro
+Q1145080,Centrale idroelettrica di Antolina,46.235109,8.33048,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Antolina
+Q1528979,reattore nucleare CIRENE,41.427222,12.808056,,,,,https://it.wikipedia.org/wiki/Reattore_nucleare_CIRENE
+Q1626301,Centrale elettronucleare Enrico Fermi,45.184166666,8.277555555,260,,SOGIN,,https://it.wikipedia.org/wiki/Centrale_nucleare_Enrico_Fermi
+Q1724901,centrale nucleare di Garigliano,41.25833333,13.83472222,150,,SOGIN,1964-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_nucleare_del_Garigliano
+Q1739370,centrale elettronucleare Caorso,45.07222222,9.87222222,860,,SOGIN,,https://it.wikipedia.org/wiki/Centrale_nucleare_di_Caorso
+Q1739429,centrale elettronucleare Latina,41.425277777,12.807,,,SOGIN,,https://it.wikipedia.org/wiki/Centrale_nucleare_di_Latina
+Q3434274,centrale idroelettrica Luigi Einaudi,44.22472222,7.38611111,1064,,,1982-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Luigi_Einaudi
+Q3664518,centrale Enel Federico II,40.56324,18.03182,,,,,https://it.wikipedia.org/wiki/Centrale_Enel_Federico_II
+Q3664523,centrale ad idrogeno di Fusina,45.430833333,12.245555555,16,,,,https://it.wikipedia.org/wiki/Centrale_a_idrogeno_di_Fusina
+Q3664533,centrale elettronucleare Trino 2,45.25166667,8.19388889,,,,,https://it.wikipedia.org/wiki/Centrale_elettronucleare_Trino_2
+Q3664538,centrale idroelettrica Esterle,45.653136,9.483537,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Esterle
+Q3664539,centrale idroelettrica Guida,38.49222,16.41667,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Guida
+Q3664536,Centrale idroelettrica Alpe Bacco,45.96726,8.395282,,,Enel,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Alpe_Bacco
+Q3664537,Centrale idroelettrica Angelo Bertini,45.665369,9.484806,,,,1898-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Bertini
+Q3664540,centrale idroelettrica Marmarico,38.497954,16.404163,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Marmarico
+Q19819534,parco eolico del monte Mesa,45.558297222,10.819294444,,,,,https://it.wikipedia.org/wiki/Parco_eolico_del_monte_Mesa
+Q20010149,centrale termoelettrica Bari,41.117272222,16.835136111,,,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_Bari
+Q21236623,centrale idroelettrica di Isola Serafini,45.093194444,9.904777777,82,,,1958-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Isola_Serafini
+Q24053015,centrale termoelettrica Regina Margherita,,,,,,,https://it.wikipedia.org/wiki/Centrale_termoelettrica_Regina_Margherita
+Q29389356,centrale idroelettrica Bonomi,46.086018,9.309819,,,,1924-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_Bonomi
+Q38588050,centrale idroelettrica di Porto della Torre,45.676037,8.670573,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Porto_della_Torre
+Q41528965,centrale idroelettrica di Rosone,45.435833333,7.418333333,185,,,1925-01-01T00:00:00Z,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Rosone
+Q41795029,centrale idroelettrica di Timpagrande,39.175777777,16.781138888,213.5,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Timpagrande
+Q48804071,centrale idroelettrica di Lana,46.6128,11.1392,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Lana
+Q48804131,asta idroelettrica di Valle Orco,45.440761,7.2079754,40,,,,https://it.wikipedia.org/wiki/Asta_idroelettrica_di_Valle_Orco
+Q48804137,Centrale idroelettrica di Bardonetto,45.408801131,7.487190617,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Bardonetto
+Q56325613,Centrale idroelettrica di Crespi d'Adda,45.59686,9.53284,,,,,https://it.wikipedia.org/wiki/Centrale_idroelettrica_di_Crespi_d%27Adda
+Q112140738,Centrale idroelettrica Pietro Rusca,45.532008,9.529546,,,,,
+Q112142135,Centralina Idroelettrica Enel,45.33455,9.34984,,,,,
+Q112142562,Centrale Enel (ex),45.573405,9.266598,,,,,
+Q112172609,Centrale ENEL,45.695279,9.402614,,,,,
+Q112318065,Centrale Elettrica dello Stabilimento Idrovoro della Travata,45.100857,10.887305,,,,,
+Q112319285,Centrale elettrica del Cotonificio Zopfi,45.727129,9.71873,,,,,
+Q118186149,ex centrale idroelettrica Guarnieri,45.857145677,11.660988915,,,,,
+Q118398051,mulino di Mendatica,44.07296,7.81244,,,,,
+Q120752859,Forze Idrauliche dell'Appennino Centrale,,,,,,,
+Q121283912,centrale idroelettrica di Nembia,46.10584,10.93819,,,,,
+Q121705032,centrale di Moline,46.067197297,11.762823762,,,,,
+Q125400809,Diga di Suviana,44.13456,11.04086,,,,,
+Q125487221,centrale idroelettrica di Suviana,44.13572,11.04049,,,,,
+Q126681215,Centrale di Pozzena,46.397730555,11.078830555,,,,,
+Q129652188,Centrale idroelettrica di Campliccioli,46.048149,8.073471,,,,,
+Q129652398,Ex centrale idroelettrica di Sottofrua,46.402862,8.418027,,,,,
+Q129653567,Ex centrale idroelettrica di Valdo,46.373627,8.42558,,,,,
+Q134577450,centrale idroelettrica di Nera Montoro,,,,,E.ON,1915-01-01T00:00:00Z,
+Q135412681,centrale idroelettrica Collicello,45.916619016,11.721200738,,,,,
+Q139601888,ex centrale idroelettrica del Colombarolo,45.415503409,11.022006869,,,,,
+Q140232274,centrale idroelettrica di Grigno,46.018192343,11.610191397,,,,,

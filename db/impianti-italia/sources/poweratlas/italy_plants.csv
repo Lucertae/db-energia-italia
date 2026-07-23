@@ -1,0 +1,105 @@
+id,name,fuel,capacity_mw,co2_tonnes_yr,co2_source,owner,commissioning_year,latitude,longitude
+WRI1002854,Brindisi Nord power station,Coal,640.0,3606400,Climate TRACE,Edipower SpA,1974,40.6432,17.9802
+WRI1002970,TORREVALDALIGA South,Gas,1140.0,3339651,EU ETS verified (EUTL 2023),Tirreno,2004,42.1241,11.7624
+CT-189,Enipower Mantova power station,Gas,780.0,2228600,Climate TRACE,Enipower Mantova SpA,2005,45.1503,10.8349
+GOGPT_ferreraerbognonerefine_italy,Ferrera Erbognone Refinery power station,Gas,1006.0,2206441,EU ETS verified (EUTL 2023),Eni SpA [100%],2004,45.09963,8.86632
+GOGPT_ravenna_italy,Ravenna power station,Gas,773.0,1802993,EU ETS verified (EUTL 2023),Enipower SpA [100%],2003,44.448517,12.2374747
+CT-190,S.E.F. Ferrara power station,Gas,762.0,1783500,Climate TRACE,Società Enipower Ferrara SRL,2006,44.8641,11.5944
+WRI1002910,MONCALIERI,Gas,780.0,1695240,Climate TRACE,Iren SpA,2005,44.993,7.6755
+WRI1002885,Andrea Palladio power station (FUSINA),Coal,976.0,1664829,EU ETS verified (EUTL 2023),Enel SpA,1971,45.4314,12.2468
+WRI1002876,E.ON C.TE LIVORNO FERRARIS,Gas,804.0,1493925,Climate TRACE,EP Produzione Centrale Livorno Ferraris SpA,,45.2372,8.1932
+WRI1002964,TERMINI IMERESE C.LE,Gas,1080.0,1299505,EU ETS verified (EUTL 2023),Enel SpA [100%],2004,37.9684,13.7512
+WRI1002971,TORVISCOSA,Gas,867.0,1268838,EU ETS verified (EUTL 2023),Edison,2006,45.817,13.2891
+WRI1002962,TAVAZZANO,Gas,1950.0,1252900,EU ETS verified (EUTL 2023),E. On,2005,45.3325,9.4364
+WRI1002959,Sulcis power station,Coal,590.0,1239365,EU ETS verified (EUTL 2023),Enel SpA,1997,39.1961,8.4002
+GOGPT_livornoferraris_italy,Livorno Ferraris power station,Gas,805.0,1226922,EU ETS verified (EUTL 2023),EP Produzione Centrale Livorno Ferraris SpA [100%],2008,45.281729,8.084918
+WRI1002865,CENTRALE DI SCANDALE,Gas,814.0,1089150,Climate TRACE,Ergosud,2010,39.1022,17.0325
+WRI1002949,SARMATO,Gas,180.0,1042494,EU ETS verified (EUTL 2023),EON,1998,45.0522,9.5072
+WRI1002958,SPARANISE,Gas,760.0,1024920,Climate TRACE,EGL Italia,2007,41.1783,14.1129
+WRI1002917,OSTIGLIA,Gas,1168.0,998588,EU ETS verified (EUTL 2023),E On,2013,45.0603,11.1374
+WRI1002894,ISAB ENERGY,Gas,576.0,997420,Climate TRACE,ISAB Energy SRL,1998,37.1399,15.2158
+WRI1002973,TURBIGO,Oil,1285.0,954808,EU ETS verified (EUTL 2023),Edipower,2008,45.5201,8.7422
+WRI1002935,RIZZICONI,Gas,768.0,876610,Climate TRACE,EGL Italia,2008,38.4453,15.99
+CT-197,Priolo-Melili power station,Gas,480.0,817080,Climate TRACE,Brown2Green Sicily SRL,2010,37.1794,15.1958
+WRI1002983,VOGHERA,Gas,400.0,748310,Climate TRACE,Engie Italia SpA,2005,45.0296,8.9723
+GOGPT_roselectra_italy,Roselectra power station,Gas,400.0,725498,EU ETS verified (EUTL 2023),ENGIE SA,2007,43.38134,10.44855
+WRI1002924,PORTO CORSINI,Gas,718.0,662848,Climate TRACE,ENEL,2002,44.4836,12.2652
+WRI1002976,VADO Ligure,Gas,1353.0,656495,Climate TRACE,Tirreno Power,2007,44.2755,8.4305
+GOGPT_torinonord_italy,Torino Nord power station,Gas,395.0,654812,EU ETS verified (EUTL 2023),Iren Energia SpA [100%],2011,45.10383,7.61308
+CT-201,Rosignano power station,Gas,536.0,609070,Climate TRACE,Cogeneration Rosignano SpA,1997,43.3813,10.4485
+WRI1002904,LEINI,Gas,379.5,582979,Climate TRACE,Engie Italia SpA,2007,45.163,7.7505
+WRI1002951,SERMIDE,Gas,1151.0,546275,EU ETS verified (EUTL 2023),Edipower,2004,45.0265,11.2522
+WRI1002871,CHIVASSO,Gas,1123.0,513299,EU ETS verified (EUTL 2023),A2A SpA [100%],2004,45.1856,7.9016
+WRI1002947,SAN FILIPPO DEL MELA,Oil,960.0,465908,Climate TRACE,Edipower,1999,38.2049,15.2818
+WRI1002880,ENIPOWER RAVENNA,Gas,972.0,463159,EU ETS verified (EUTL 2023),Enipower,2000,45.512,9.509
+WRI1002890,GISSI,Gas,840.0,451843,EU ETS verified (EUTL 2023),A2A,2004,42.0502,14.5639
+WRI1002916,NAPOLI L,Gas,400.0,410484,Climate TRACE,Tirreno,2009,40.8339,14.3006
+GOGPT_tenarisdalmine_italy,Tenaris Dalmine power station,Gas,122.0,402510,EU ETS verified (EUTL 2023),Dalmine SpA [100%],2007,45.63919,9.60481
+WRI1002918,PIACENZA,Gas,806.0,395927,EU ETS verified (EUTL 2023),Edipower,2006,45.0543,9.7086
+WRI1002909,MILAZZO,Gas,155.0,344103,EU ETS verified (EUTL 2023),Raffineria di Milazzo SCPA [100%],1999,38.2212,15.2383
+CT-206,Piombino Steel Plant power station,Gas,271.0,314580,Climate TRACE,,2001,42.9385,10.5444
+WRI1002866,CENTRALE DI TEVEROLA,Gas,404.0,308234,Climate TRACE,Repower AG,2007,41.0092,14.2281
+WRI1002911,Monfalcone power station,Coal,336.0,305627,EU ETS verified (EUTL 2023),A2A Spa,1968,45.7979,13.5455
+GOGPT_presenzanoedison_italy,Presenzano Edison power station,Gas,765.0,301093,EU ETS verified (EUTL 2023),Edison SpA [100%],2023,41.376619,14.07642
+WRI1002923,PORCARI,Gas,100.0,294337,EU ETS verified (EUTL 2023),Edison,1996,43.8235,10.6023
+CT-208,Discaria Malagrotta power station,Other,49.6,282180,Climate TRACE,Consorzio Laziale Rifiuti,,41.8522,12.333
+CT-209,PORTO MARGHERA ALSAR,Coal,160.0,271620,Climate TRACE,Enel SpA [100%],1952,45.4591,12.2318
+CT-210,Servola power station,Gas,230.0,218390,Climate TRACE,Finarvedi SpA [100%],2000,45.6195,13.783
+WRI1002906,LIVORNO MARZOCCO,Oil,310.0,212230,Climate TRACE,ENEL,1965,43.5673,10.31
+GOGPT_gelabiorefinery_italy,Gela Biorefinery power station,Oil,210.0,211194,EU ETS verified (EUTL 2023),Eni Rewind SpA [100%],1962,37.0546,14.2769
+GOGPT_ferrero_italy,Ferrero cogeneration power station,Gas,50.0,209288,EU ETS verified (EUTL 2023),Ferrero SpA [100%],2006,44.703,8.027
+CT-212,TORINO MIRAFORI,Gas,221.0,201110,Climate TRACE,,,45.0277,7.6259
+WRI1002982,VERZUOLO,Gas,140.0,180557,EU ETS verified (EUTL 2023),Smurfit Kappa Group PLC [100%],2002,44.5947,7.4858
+GOGPT_cassanospinola_italy,Cassano Spinola power station,Gas,50.0,175845,EU ETS verified (EUTL 2023),Roquette Italia SpA [100%],2003,44.76046,8.85529
+WRI1002878,ENERGIA MOLISE,Gas,769.0,174341,EU ETS verified (EUTL 2023),Metaenergia SpA [100%],2006,41.9369,15.0004
+GOGPT_altogarda_italy,Alto Garda power station,Gas,55.0,166831,EU ETS verified (EUTL 2023),Alto Garda Power [100%],2008,45.886876,10.853338
+CT-214,Falconara power station,Other,199.7,137660,Climate TRACE,Italiana Petroli SpA,2001,43.6411,13.3796
+CT-215,CEF (FERRARA),Gas,142.6,132950,Climate TRACE,,,44.8609,11.5871
+GOGPT_bolgiano_italy,Bolgiano power station,Gas,62.0,118706,EU ETS verified (EUTL 2023),Eni SpA [100%],2015,45.41634,9.28332
+CT-216,Sarroch power station,Gas,83.4,117822,Climate TRACE,Saras SpA [100%],1970,39.0963,9.0116
+CT-217,NuCe Sud power station,Gas,99.0,106823,Climate TRACE,ERG SpA,2005,37.1227,15.2181
+CT-218,Cassino power station,Gas,106.0,100811,Climate TRACE,Serene SpA,1997,41.4759,13.7516
+WRI1002952,SESTO SAN GIOVANNI,Gas,110.6,97343,EU ETS verified (EUTL 2023),Edison SpA [100%],1994,45.5417,9.2539
+CT-219,Porto Marghera Refinery power station,Oil,114.0,97217,Climate TRACE,Eni SpA [100%],1985,45.4618,12.2686
+WRI1021293,NOVEL,Gas,100.0,97107,Climate TRACE,Alpiq Energia Italia SpA,2004,45.457,8.6496
+CT-222,ALZANO LOMBARDO MILL,Other,95.5,95301,Climate TRACE,,,45.7335,9.7374
+CT-223,BOFFALORA MAGENTA,Gas,90.0,94511,Climate TRACE,,,45.4658,8.8465
+WRI1002873,CTE DEL MINCIO,Gas,400.0,91581,EU ETS verified (EUTL 2023),A2A,1983,45.3993,10.7142
+GOGPT_heracasalegno_italy,Hera Casalegno power station,Gas,86.0,91556,EU ETS verified (EUTL 2023),Hera SpA [100%],2009,44.36995,11.70129
+CT-224,Malpensa power station,Gas,80.0,90744,Climate TRACE,A2A Airport Energy SpA,2008,45.62833,8.7135
+GOGPT_sora_italy,Sora power station,Gas,42.0,86814,EU ETS verified (EUTL 2023),Burgo Group SpA [100%],2008,41.7,13.58373
+GOGPT_avezzanoburgo_italy,Avezzano Burgo power station,Gas,88.0,78181,EU ETS verified (EUTL 2023),Burgo Group SpA [100%],1999,41.99558,13.43856
+WRI1002862,CCGT APRILIA,Gas,800.0,65452,EU ETS verified (EUTL 2023),Sorgenia SpA [100%],2012,41.5616,12.6337
+GOGPT_mirafiori_italy,Mirafiori power station,Gas,146.0,63419,EU ETS verified (EUTL 2023),Edison Next SpA,1990,45.0267,7.6308
+CT-225,Valbasento power station,Gas,324.0,57115,Climate TRACE,Tecnoparco Valbasento SpA,1972,40.4245,16.5573
+GOGPT_melfichp_italy,Melfi CHP power station,Gas,74.0,55746,EU ETS verified (EUTL 2023),Metaenergia SpA [100%],2022,41.07615,15.68388
+CT-226,Taranto CHP power station,Gas,1023.0,52411,Climate TRACE,Taranto Energia SRL,1975,40.5099,17.216
+GEM_coa_brescia_italy,Brescia power station,Coal,75.0,51174,EU ETS verified (EUTL 2023),A2A SpA [100%],1988,45.516389,10.212222
+WRI1002966,TOR DI VALLE,Gas,223.0,50707,EU ETS verified (EUTL 2023),GDF Suez,,41.8117,12.4228
+CT-227,SERENE SULMONA,Gas,48.0,50406,Climate TRACE,,,42.0784,13.9035
+CT-229,MICHELIN RONCHI COGEN,Gas,48.3,48868,Climate TRACE,,,44.4403,7.5679
+CT-230,Piombino Elettra power staiton,Gas,60.0,48765,Climate TRACE,Elettra Produzione SRL,2003,42.9445,10.5452
+WRI1002849,AUGUSTA C.LE,Oil,210.0,47925,Climate TRACE,ENEL,1959,37.2083,15.1778
+CT-245,Biomass Crotone power station,Biomass,27.0,47466,EU ETS verified (EUTL 2023),EP New Energy Italia SRL,,39.1102,17.0978
+CT-232,ACTV power station,Gas,50.0,46171,Climate TRACE,Alpiq Energia Italia SpA,2004,45.297,8.41
+CT-233,Genova Sampierdarena power station,Gas,30.0,44106,Climate TRACE,Ansaldo Energia SpA,1990,44.4287,8.8847
+GOGPT_ravennaccs_italy,Ravenna CCS power plant,Gas,500.0,43614,EU ETS verified (EUTL 2023),Eni SpA,,44.5535,12.278
+CT-234,Termica Colleferro power station,Gas,44.0,41594,Climate TRACE,SECI Energia SpA,2012,41.7353,12.9707
+CT-235,Fiumicio Airport power station,Gas,24.6,37489,Climate TRACE,Fiumicino Energia SRL,2013,41.7995,12.2625
+WRI1002857,BUSSI,Gas,122.0,35587,EU ETS verified (EUTL 2023),Edison,1994,42.2002,13.8398
+CT-236,Borgo Trento power station,Gas,31.5,28300,Climate TRACE,Azienda Generale Servizi Municipali di Verona SpA,1994,45.4485,10.9807
+WRI1021298,TERNI,Gas,95.0,25753,EU ETS,Edison SpA [100%],2000,42.554,12.6176
+GOGPT_piombinochp_italy,Piombino CHP power station,Gas,58.0,24850,EU ETS verified (EUTL 2023),Metaenergia SpA [100%],2022,42.925562,10.521306
+WRI1002847,API ENERGIA IGCC,Gas,280.0,24288,EU ETS verified (EUTL 2023),Edipower,2001,37.2814,13.521
+WRI1002946,SAN QUIRICO,Gas,137.0,24024,EU ETS verified (EUTL 2023),Edison,1996,44.9167,10.25
+GOGPT_castellanzachp_italy,Castellanza CHP power station,Gas,73.6,21010,EU ETS verified (EUTL 2023),Metaenergia SpA [100%],2023,45.604911,8.892628
+CT-237,Larino power station,Oil,29.4,20129,Climate TRACE,Enel SpA [100%],1992,41.4663,12.9222
+GOGPT_sulmonachp_italy,Sulmona CHP power station,Gas,42.0,18669,EU ETS verified (EUTL 2023),Metaenergia SpA [100%],2023,42.04746,13.92676
+CT-238,Conselice Factory power station,Other,69.0,18657,Climate TRACE,Unigrà SRL,,44.5351,11.8608
+WRI1002864,CELANO,Gas,180.0,14335,EU ETS,Grupo Industriale Maccaferri,1998,42.0458,13.5475
+CT-239,Monopoli power station,Other,36.0,8329,Climate TRACE,,,40.9601,17.2628
+GEM_coa_enelgenova_italy,Enel Genova power station,Coal,295.0,8183,EU ETS verified (EUTL 2023),Enel SpA [100%],1952,44.402696,8.904247
+WRI1002939,ROSSANO TE,Oil,1200.0,2932,EU ETS verified (EUTL 2023),Enel SpA [100%],1995,39.6218,16.6084
+CT-240,BioPower Sardegna power station,Biomass,39.2,1527,Climate TRACE,BioPower Sardegna SRL,,40.2394,9.0197
+CT-242,Turin-Gerbido Waste-to-Energy power station,Biomass,65.0,239,EU ETS verified (EUTL 2023),Iren Group,,45.037,7.5868
+WRI1002896,JESI,Gas,140.0,1,EU ETS verified (EUTL 2023),Edison,2001,43.5537,13.285
