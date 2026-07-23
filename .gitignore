@@ -42,7 +42,9 @@ agent-transcripts/
 **/pgdata/
 **/*.sql.gz
 
-# --- GitHub hard limit 100 MB: exclude oversized local data ---
+# Release upload staging (large zips / split parts — not in git history)
+_release_bundles/
+
 # Regenerable via harvest scripts; keep METADATI/catalog/README in repo.
 **/*.osm.pbf
 **/*.pbf

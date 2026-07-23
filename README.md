@@ -10,6 +10,11 @@ Workspace con pacchetti dati sotto `db/` (consumi, mercati, ENTSO-E, meteo, soci
 
 ## Note sul repo
 
-I file molto grandi (PBF OSM, GPKG, ZIP ARERA, merge meteo orari, patenti MIT, …) sono in `.gitignore` (limite GitHub 100 MB / dimensione repo). Restano in locale; si ripopolano con gli script di harvest.
+I file molto grandi (PBF OSM, GPKG, ZIP ARERA, merge meteo orari, patenti MIT, …) **non** sono in git (limite 100 MB / dimensione repo).
 
-**Non commitare** `*.key` / `*.credentials`.
+**Dump completo** (zip / parti): Release privata  
+https://github.com/Lucertae/db-energia-italia/releases/tag/data-full-v1  
+
+Istruzioni restore: asset `README_RELEASE.md` nella release.
+
+**Non in repo né in release:** credenziali (`*.key`, `*.credentials`) e artefatti build Rust (`silice/target`).
