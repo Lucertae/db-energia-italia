@@ -1,8 +1,0 @@
-{
-  "built_at": "2026-07-15T22:39:40Z",
-  "desks_ok": 0,
-  "log": [
-    "PDE: no ID data \u2014 drop EPEX Continuous_Index-*.csv in cache/weather/epex_id/PDE/ (requires EPEX SFTP license)"
-  ],
-  "note": "ID1/ID3 from EPEX Continuous_Index CSV; fallback imb\u2212DA when empty"
-}

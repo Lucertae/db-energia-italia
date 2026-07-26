@@ -1,5 +1,0 @@
-# Energy stack — install after core bridge
-entsoe-py>=0.6
-pandas>=2.0
-gridstatus>=0.28
-epftoolbox>=1.0

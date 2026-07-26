@@ -1,6 +1,0 @@
-# FX stack — install when adding keys / live data
-findatapy>=0.1.39
-pandas>=2.0
-pandas-market-calendars>=4.0
-# databento>=0.30        # uncomment + DATABENTO_API_KEY
-# dukascopy-python       # uncomment for spot tick
