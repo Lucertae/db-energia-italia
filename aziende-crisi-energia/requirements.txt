@@ -1,9 +1,0 @@
-requests>=2.31.0
-httpx>=0.27.0
-beautifulsoup4>=4.12.0
-lxml>=5.0.0
-rapidfuzz>=3.6.0
-python-dotenv>=1.0.0
-loguru>=0.7.0
-# playwright opzionale — installare solo se un modulo lo richiede:
-# pip install playwright && playwright install chromium
