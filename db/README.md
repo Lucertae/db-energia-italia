@@ -46,12 +46,4 @@ Dettaglio refresh e buchi noti: `db/<pacchetto>/METADATI.txt` sezione 2 e 6.
 
 ---
 
-## Credenziali (non versionare)
 
-| File | Uso |
-|------|-----|
-| `entsoe-italia/entsoe.key` | ENTSO-E Transparency |
-| `consumi-italia/terna.credentials` | Terna Developer API |
-| `mercati-italia/gie.key` | GIE AGSI/ALSI |
-
-Se esposte in chat: **ruotare**.
